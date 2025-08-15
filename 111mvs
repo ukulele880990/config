@@ -1,1 +1,8 @@
-
+{
+"sourceChars":"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-_",
+"targetChars":"MeKUPFfDy_QaGcLwT1bj4xn0g-quZH2vYWE56om3XStdzhl9AICisrN7OVpkJBR8",
+"keyHex":"85a893b1171833dffaecf7731235ec416afccc6ffe29d41c16976b83f5e500b2",
+"ivHex":"8648b679a4168c5ed1f41f5d642417e6",
+"xorKeyHex":"f6482348",
+"static_path":"7ae59bfb/zac/g/APA912UWa5x0rMiGGcNeljgP7t8jA2Rt6lmnqqlv9r-5R9IjA_kbxjGxmWzw23y5WukwjDEAX0UDWlcUeJD-buSc0fwrRH8zieg0PuZJpqXbhUUCMuQCFS1zVPhlSHTkCyDHyolJ-9tBOOGgmIMKsVJRKAHG66Z44BMb9vWN6ByRjF-8vD6v1u1"
+}
