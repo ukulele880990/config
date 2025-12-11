@@ -1,0 +1,221 @@
+WEBVTT
+
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 804
+
+[V4+ Styles]
+Format: Name. Fontname. Fontsize. PrimaryColour. SecondaryColour. OutlineColour. BackColour. Bold. Italic. Underline. StrikeOut. ScaleX. ScaleY. Spacing. Angle. BorderStyle. Outline. Shadow. Alignment. MarginL. MarginR. MarginV. Encoding
+Style: Default.Arial.60.8.&H003CFFF3.&H0000FFFF.&H00000000.&H00000000.-1.0.0.0.100.100.0.0.3.1.1.2.10.10.45.1
+
+[Events]
+Format: Layer. Start. End. Style. Name. MarginL. MarginR. MarginV. Effect. Text
+Dialogue: 0.0:02:39.19.0:02:43.01.Default..0.0.0..I sense you. brother.
+Dialogue: 0.0:02:48.25.0:02:49.71.Default..0.0.0..Hiding...
+Dialogue: 0.0:02:52.70.0:02:55.08.Default..0.0.0.....Behind your cloak.
+Dialogue: 0.0:02:57.15.0:02:59.15.Default..0.0.0..It is time to earn yours.
+Dialogue: 0.0:03:11.07.0:03:12.51.Default..0.0.0..Still too small to take me head on.
+Dialogue: 0.0:03:13.37.0:03:14.37.Default..0.0.0..Use the cave!
+Dialogue: 0.0:03:29.01.0:03:30.44.Default..0.0.0..You fight with rage.
+Dialogue: 0.0:03:30.81.0:03:32.22.Default..0.0.0..I fight like father.
+Dialogue: 0.0:03:33.82.0:03:36.22.Default..0.0.0..You are not father. you are Dek!
+Dialogue: 0.0:04:29.80.0:04:31.16.Default..0.0.0..Do you yield?
+Dialogue: 0.0:04:31.43.0:04:32.50.Default..0.0.0..Never!
+Dialogue: 0.0:04:33.23.0:04:34.42.Default..0.0.0..Good.
+Dialogue: 0.0:05:02.97.0:05:06.06.Default..0.0.0..I'm still alive. brother.
+Dialogue: 0.0:05:07.45.0:05:10.35.Default..0.0.0..Still much to prove...
+Dialogue: 0.0:05:10.36.0:05:12.94.Default..0.0.0.....to show who you are.
+Dialogue: 0.0:05:13.37.0:05:15.88.Default..0.0.0..I am Yautja.
+Dialogue: 0.0:05:17.39.0:05:19.69.Default..0.0.0..Not yet.
+Dialogue: 0.0:05:22.00.0:05:24.20.Default..0.0.0..Are you holding your sword. Kwei?
+Dialogue: 0.0:05:25.29.0:05:27.17.Default..0.0.0..No.
+Dialogue: 0.0:05:27.20.0:05:28.25.Default..0.0.0..Pick it up!
+Dialogue: 0.0:05:57.90.0:06:00.52.Default..0.0.0..You kept this toy?!
+Dialogue: 0.0:06:00.70.0:06:03.50.Default..0.0.0..You remember what happened...
+Dialogue: 0.0:06:04.51.0:06:06.71.Default..0.0.0..I lost my fang!
+Dialogue: 0.0:06:08.40.0:06:11.18.Default..0.0.0..And you saved my life.
+Dialogue: 0.0:06:12.75.0:06:15.32.Default..0.0.0..You protected me.
+Dialogue: 0.0:06:16.00.0:06:17.38.Default..0.0.0..Come here.
+Dialogue: 0.0:06:25.40.0:06:27.61.Default..0.0.0..Fixed it for you.
+Dialogue: 0.0:06:30.70.0:06:32.90.Default..0.0.0..Don't blow yourself up.
+Dialogue: 0.0:06:42.30.0:06:44.53.Default..0.0.0..Today you make a vow...
+Dialogue: 0.0:06:51.29.0:06:54.42.Default..0.0.0.....as our ancestors did before you.
+Dialogue: 0.0:06:55.00.0:06:57.95.Default..0.0.0..To earn your place in the clan...
+Dialogue: 0.0:06:58.50.0:07:01.45.Default..0.0.0.....you must choose your prey.
+Dialogue: 0.0:07:02.30.0:07:04.38.Default..0.0.0..Bring it home...
+Dialogue: 0.0:07:05.60.0:07:08.25.Default..0.0.0.....or never return.
+Dialogue: 0.0:07:15.54.0:07:17.74.Default..0.0.0..Wait — Go back!
+Dialogue: 0.0:07:21.90.0:07:23.49.Default..0.0.0..Genna.
+Dialogue: 0.0:07:23.70.0:07:26.43.Default..0.0.0..The death planet.
+Dialogue: 0.0:07:27.10.0:07:30.86.Default..0.0.0..Home of the un-killable Kalisk.
+Dialogue: 0.0:07:34.00.0:07:37.00.Default..0.0.0..Even father fears it.
+Dialogue: 0.0:07:38.34.0:07:41.34.Default..0.0.0..Then the Kalisk shall be my trophy.
+Dialogue: 0.0:07:42.20.0:07:44.80.Default..0.0.0..Father calls me the weakest...
+Dialogue: 0.0:07:45.60.0:07:48.90.Default..0.0.0.....so I must kill the strongest.
+Dialogue: 0.0:07:50.08.0:07:52.62.Default..0.0.0..Failure means death.
+Dialogue: 0.0:07:54.35.0:07:57.43.Default..0.0.0..Then I will not fail.
+Dialogue: 0.0:07:57.90.0:08:00.54.Default..0.0.0..I cannot allow it.
+Dialogue: 0.0:08:04.12.0:08:05.66.Default..0.0.0..I make my vow.
+Dialogue: 0.0:08:08.40.0:08:11.30.Default..0.0.0..I make my vow!
+Dialogue: 0.0:09:06.40.0:09:07.85.Default..0.0.0..Father.
+Dialogue: 0.0:09:08.77.0:09:11.66.Default..0.0.0..I welcome you with honor.
+Dialogue: 0.0:09:24.19.0:09:27.28.Default..0.0.0..Why is it not done?
+Dialogue: 0.0:09:27.89.0:09:30.60.Default..0.0.0..He deserves a hunt.
+Dialogue: 0.0:09:32.53.0:09:34.91.Default..0.0.0..He is our clan's weakness....
+Dialogue: 0.0:09:36.74.0:09:39.37.Default..0.0.0.....weaknesses must be culled.
+Dialogue: 0.0:09:40.28.0:09:43.23.Default..0.0.0..He will bring home the Kalisk.
+Dialogue: 0.0:09:45.22.0:09:46.86.Default..0.0.0..Foolishness.
+Dialogue: 0.0:09:46.88.0:09:48.86.Default..0.0.0..He is a runt.
+Dialogue: 0.0:09:49.36.0:09:53.26.Default..0.0.0..You should have done it as he slept.
+Dialogue: 0.0:09:54.00.0:09:55.12.Default..0.0.0..Kill him!
+Dialogue: 0.0:09:55.96.0:09:57.18.Default..0.0.0..Now!
+Dialogue: 0.0:10:07.24.0:10:09.64.Default..0.0.0..He will only honor us in death.
+Dialogue: 0.0:10:25.87.0:10:27.13.Default..0.0.0..Father.
+Dialogue: 0.0:10:39.59.0:10:41.05.Default..0.0.0..Kwei?
+Dialogue: 0.0:10:42.00.0:10:44.41.Default..0.0.0..Be brave. brother.
+Dialogue: 0.0:11:34.30.0:11:35.52.Default..0.0.0..Father!
+Dialogue: 0.0:11:46.00.0:11:47.06.Default..0.0.0..Kwei!!!
+Dialogue: 0.0:12:00.40.0:12:03.39.Default..0.0.0..To forgive weakness...
+Dialogue: 0.0:12:04.90.0:12:08.03.Default..0.0.0.....is to show weakness.
+Dialogue: 0.0:12:09.30.0:12:11.23.Default..0.0.0..No! Father. no!
+Dialogue: 0.0:12:19.30.0:12:21.03.Default..0.0.0..Get your sword!
+Dialogue: 0.0:12:24.10.0:12:25.68.Default..0.0.0..Kwei!!!
+Dialogue: 0.0:12:38.70.0:12:41.84.Default..0.0.0..{\i1}Launch sequence initiated.{\i0}
+Dialogue: 0.0:12:51.55.0:12:54.19.Default..0.0.0..Bring it home.
+Dialogue: 0.0:15:56.33.0:15:58.73.Default..0.0.0..Bring it home.
+Dialogue: 0.0:16:00.75.0:16:03.35.Default..0.0.0..For Kwei.
+Dialogue: 0.0:21:40.30.0:21:41.98.Default..0.0.0..Yautja!
+Dialogue: 0.0:23:01.11.0:23:03.90.Default..0.0.0..Yautja hunt alone.
+Dialogue: 0.0:25:28.86.0:25:32.15.Default..0.0.0..What happened to your legs?
+Dialogue: 0.0:26:19.35.0:26:21.65.Default..0.0.0..You have you seen the Kalisk?
+Dialogue: 0.0:27:10.11.0:27:11.97.Default..0.0.0..Useful...
+Dialogue: 0.0:27:11.99.0:27:13.76.Default..0.0.0.....like tool?
+Dialogue: 0.0:27:33.87.0:27:36.09.Default..0.0.0..I will use you. tool.
+Dialogue: 0.0:28:45.96.0:28:47.31.Default..0.0.0..Don't want flies.
+Dialogue: 0.0:29:26.34.0:29:28.85.Default..0.0.0..Name is Dek.
+Dialogue: 0.0:29:29.12.0:29:31.10.Default..0.0.0..Now talk that way.
+Dialogue: 0.0:30:05.12.0:30:07.94.Default..0.0.0..How long have you been here?
+Dialogue: 0.0:30:29.64.0:30:32.16.Default..0.0.0..Who would come?
+Dialogue: 0.0:30:46.36.0:30:49.16.Default..0.0.0..Sensitivity is weakness.
+Dialogue: 0.0:33:54.42.0:33:56.22.Default..0.0.0..I must eat.
+Dialogue: 0.0:34:09.23.0:34:11.03.Default..0.0.0..What is this creature?
+Dialogue: 0.0:34:17.12.0:34:20.38.Default..0.0.0..Then it will be my food. too.
+Dialogue: 0.0:34:29.05.0:34:31.18.Default..0.0.0..Quiet tool!
+Dialogue: 0.0:34:44.54.0:34:46.77.Default..0.0.0..You give up too easily.
+Dialogue: 0.0:37:29.07.0:37:30.04.Default..0.0.0..Kalisk?
+Dialogue: 0.0:38:44.80.0:38:46.58.Default..0.0.0..You give up too easily.
+Dialogue: 0.0:41:10.10.0:41:13.62.Default..0.0.0..When I pierced its head with my sword
+Dialogue: 0.0:41:14.27.0:41:17.73.Default..0.0.0..and its blood rushed down my face.
+Dialogue: 0.0:41:35.80.0:41:38.05.Default..0.0.0..This flesh is not sweet.
+Dialogue: 0.0:42:07.84.0:42:10.18.Default..0.0.0..I have no clan!
+Dialogue: 0.0:42:14.38.0:42:16.78.Default..0.0.0..No clan.
+Dialogue: 0.0:42:22.49.0:42:25.43.Default..0.0.0..I had a brother.
+Dialogue: 0.0:42:33.39.0:42:36.84.Default..0.0.0..Father killed him.
+Dialogue: 0.0:42:42.82.0:42:45.15.Default..0.0.0..Grief is weakness.
+Dialogue: 0.0:42:52.00.0:42:54.78.Default..0.0.0..I am here for Kalisk.
+Dialogue: 0.0:42:57.46.0:43:00.17.Default..0.0.0..Why are you here?
+Dialogue: 0.0:43:15.01.0:43:18.34.Default..0.0.0..You should be able to survive on your own.
+Dialogue: 0.0:43:30.57.0:43:33.55.Default..0.0.0..Tessa is your sister.
+Dialogue: 0.0:44:04.12.0:44:05.54.Default..0.0.0..And legs.
+Dialogue: 0.0:44:08.89.0:44:10.60.Default..0.0.0..Finding your sister
+Dialogue: 0.0:44:11.54.0:44:13.10.Default..0.0.0..And legs.
+Dialogue: 0.0:47:32.45.0:47:33.39.Default..0.0.0..The sun rises.
+Dialogue: 0.0:47:33.78.0:47:35.27.Default..0.0.0..Let's go.
+Dialogue: 0.0:47:43.20.0:47:45.96.Default..0.0.0..Yautja hunt alone.
+Dialogue: 0.0:47:50.90.0:47:53.00.Default..0.0.0..You're a tool.
+Dialogue: 0.0:48:02.60.0:48:06.52.Default..0.0.0..We're not in the tree now.
+Dialogue: 0.0:49:01.73.0:49:03.74.Default..0.0.0..Kalisk?
+Dialogue: 0.0:49:09.20.0:49:11.20.Default..0.0.0..It drinks here.
+Dialogue: 0.0:49:13.46.0:49:15.36.Default..0.0.0..It drinks here?
+Dialogue: 0.0:49:18.70.0:49:21.03.Default..0.0.0..You are a useless tool if you don't speak.
+Dialogue: 0.0:49:49.40.0:49:52.13.Default..0.0.0..My brother was protecting me.
+Dialogue: 0.0:49:57.50.0:49:59.99.Default..0.0.0..The clan can have no weakness.
+Dialogue: 0.0:50:02.06.0:50:04.29.Default..0.0.0..I will show them strength.
+Dialogue: 0.0:50:29.94.0:50:31.62.Default..0.0.0..Wolf
+Dialogue: 0.0:50:31.71.0:50:34.70.Default..0.0.0..This alpha must be a great killer.
+Dialogue: 0.0:50:35.22.0:50:37.24.Default..0.0.0..I will hunt it too.
+Dialogue: 0.0:50:50.74.0:50:52.26.Default..0.0.0..I see...
+Dialogue: 0.0:50:54.66.0:50:59.06.Default..0.0.0..But I will be the alpha that kills the most.
+Dialogue: 0.0:51:33.49.0:51:35.43.Default..0.0.0..The Kalish's den?
+Dialogue: 0.0:52:03.66.0:52:05.66.Default..0.0.0..Who are they?
+Dialogue: 0.0:53:03.97.0:53:06.03.Default..0.0.0..Easier to walk now.
+Dialogue: 0.0:53:08.77.0:53:09.54.Default..0.0.0..No.
+Dialogue: 0.0:53:10.03.0:53:12.26.Default..0.0.0..Easier for me to walk now.
+Dialogue: 0.0:53:28.55.0:53:30.69.Default..0.0.0..I too will remember this...
+Dialogue: 0.0:53:31.60.0:53:35.64.Default..0.0.0.....today I become Dek of the Yautja.
+Dialogue: 0.0:53:36.18.0:53:38.73.Default..0.0.0..I will honor Kwei...
+Dialogue: 0.0:53:40.54.0:53:43.68.Default..0.0.0..When I bring the Kalisk home.
+Dialogue: 0.0:53:45.93.0:53:48.84.Default..0.0.0..Then I take revenge.
+Dialogue: 0.0:53:50.70.0:53:54.42.Default..0.0.0..You will be the first to see my trophy.
+Dialogue: 0.0:53:56.03.0:53:58.07.Default..0.0.0..It is a great honor.
+Dialogue: 0.0:53:58.87.0:54:00.47.Default..0.0.0..For you.
+Dialogue: 0.0:54:10.93.0:54:11.77.Default..0.0.0..What?
+Dialogue: 0.0:54:17.00.0:54:19.45.Default..0.0.0..I came here for the Kalisk.
+Dialogue: 0.0:54:27.85.0:54:30.03.Default..0.0.0..You want my trophy.
+Dialogue: 0.0:54:33.70.0:54:35.80.Default..0.0.0..Where is the Kalisk?
+Dialogue: 0.0:54:40.40.0:54:44.45.Default..0.0.0..I use you. tool. You do not use me!
+Dialogue: 0.0:54:49.95.0:54:51.75.Default..0.0.0..I use you!
+Dialogue: 0.0:54:54.50.0:54:57.00.Default..0.0.0..Where is the Kalisk?
+Dialogue: 0.0:55:06.40.0:55:10.36.Default..0.0.0..Then my death will be honorable.
+Dialogue: 0.0:55:16.20.0:55:18.16.Default..0.0.0..Call your sister.
+Dialogue: 0.0:55:19.10.0:55:21.20.Default..0.0.0..None can stop me.
+Dialogue: 0.0:58:46.90.0:58:48.90.Default..0.0.0..Save yourself. tool!
+Dialogue: 0.1:00:44.80.1:00:47.17.Default..0.0.0..Tool. get these off!
+Dialogue: 0.1:00:55.11.1:00:57.01.Default..0.0.0..You are not Thia.
+Dialogue: 0.1:01:09.50.1:01:11.50.Default..0.0.0..Release me!
+Dialogue: 0.1:01:14.20.1:01:17.27.Default..0.0.0..You are another broken tool!
+Dialogue: 0.1:01:32.50.1:01:34.30.Default..0.0.0..Remove these!
+Dialogue: 0.1:01:35.50.1:01:40.05.Default..0.0.0..Or I'll rip out your spine and crush your skull!
+Dialogue: 0.1:01:50.30.1:01:54.54.Default..0.0.0..You are nothing. A device.
+Dialogue: 0.1:01:55.77.1:01:59.49.Default..0.0.0..Made by others to do their work for them.
+Dialogue: 0.1:03:13.50.1:03:15.80.Default..0.0.0..You betrayed me!
+Dialogue: 0.1:07:46.20.1:07:47.89.Default..0.0.0..I trusted you.
+Dialogue: 0.1:07:54.11.1:07:56.22.Default..0.0.0..Don't like these tools.
+Dialogue: 0.1:07:56.52.1:07:58.45.Default..0.0.0..I'm sorry. My Sister is —
+Dialogue: 0.1:07:58.98.1:08:00.88.Default..0.0.0..Don't like sister either.
+Dialogue: 0.1:08:08.58.1:08:11.30.Default..0.0.0..Tell tool you're asking about the device.
+Dialogue: 0.1:08:21.66.1:08:24.13.Default..0.0.0..He's asking about the device.
+Dialogue: 0.1:08:24.61.1:08:27.07.Default..0.0.0..It's a children's toy.
+Dialogue: 0.1:08:28.98.1:08:31.40.Default..0.0.0..But say it's a map.
+Dialogue: 0.1:08:40.83.1:08:43.59.Default..0.0.0..Tell tool to look inside.
+Dialogue: 0.1:08:52.12.1:08:53.85.Default..0.0.0..That was a toy for children?
+Dialogue: 0.1:08:54.08.1:08:55.13.Default..0.0.0..Yautja children!
+Dialogue: 0.1:09:01.62.1:09:02.66.Default..0.0.0..Run. Dek!
+Dialogue: 0.1:09:04.94.1:09:07.07.Default..0.0.0..Go...Go!
+Dialogue: 0.1:11:18.32.1:11:20.96.Default..0.0.0..{\i1}Enter destination coordinates. Kwei.{\i0}
+Dialogue: 0.1:11:55.87.1:11:59.21.Default..0.0.0..You saved me. brother.
+Dialogue: 0.1:12:02.46.1:12:05.29.Default..0.0.0..Wolf.
+Dialogue: 0.1:13:27.20.1:13:28.80.Default..0.0.0..Kalisk.
+Dialogue: 0.1:13:35.15.1:13:37.16.Default..0.0.0..Kalisk child.
+Dialogue: 0.1:20:37.93.1:20:39.64.Default..0.0.0..I came to rescue you.
+Dialogue: 0.1:20:48.54.1:20:50.04.Default..0.0.0..Wolf.
+Dialogue: 0.1:20:57.02.1:20:58.95.Default..0.0.0..Bone Bison.
+Dialogue: 0.1:21:09.33.1:21:11.03.Default..0.0.0..Not yet...
+Dialogue: 0.1:21:12.38.1:21:13.75.Default..0.0.0..Thia
+Dialogue: 0.1:21:32.33.1:21:33.69.Default..0.0.0..Kalisk!
+Dialogue: 0.1:21:39.61.1:21:41.21.Default..0.0.0..Kalish child!
+Dialogue: 0.1:21:45.23.1:21:47.43.Default..0.0.0..They have her mother!
+Dialogue: 0.1:22:04.42.1:22:06.32.Default..0.0.0..You free the Kalish.
+Dialogue: 0.1:22:06.49.1:22:08.17.Default..0.0.0..I get my trophy.
+Dialogue: 0.1:27:02.88.1:27:04.58.Default..0.0.0..You tell me.
+Dialogue: 0.1:32:54.22.1:32:55.97.Default..0.0.0..That's not yours.
+Dialogue: 0.1:33:29.87.1:33:31.57.Default..0.0.0..Not yet.
+Dialogue: 0.1:34:25.56.1:34:27.48.Default..0.0.0..You've come here for revenge?
+Dialogue: 0.1:34:28.28.1:34:31.12.Default..0.0.0..I've come for my cloak.
+Dialogue: 0.1:34:35.44.1:34:37.00.Default..0.0.0..What is this?
+Dialogue: 0.1:34:37.36.1:34:40.20.Default..0.0.0..I've completed my hunt.
+Dialogue: 0.1:34:40.76.1:34:43.23.Default..0.0.0..That is my trophy.
+Dialogue: 0.1:34:44.66.1:34:46.35.Default..0.0.0..You disgrace our clan...
+Dialogue: 0.1:34:46.47.1:34:48.09.Default..0.0.0..And so did Kwei.
+Dialogue: 0.1:34:50.78.1:34:53.64.Default..0.0.0..Get rid of him.
+Dialogue: 0.1:36:48.34.1:36:52.95.Default..0.0.0..Perhaps the right son did survive.
+Dialogue: 0.1:36:53.65.1:36:55.31.Default..0.0.0..Yield now...
+Dialogue: 0.1:36:55.96.1:36:59.10.Default..0.0.0.....and take your place in our clan.
+Dialogue: 0.1:37:00.94.1:37:03.51.Default..0.0.0..I have my own clan.
+Dialogue: 0.1:38:22.93.1:38:24.03.Default..0.0.0..No.
+Dialogue: 0.1:38:28.41.1:38:30.09.Default..0.0.0..It's my mother.
