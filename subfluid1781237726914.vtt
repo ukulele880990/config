@@ -1,0 +1,63 @@
+WEBVTT
+
+1
+00:00:06.000 --> 00:00:12.074
+Advertise your product or brand here
+contact www.OpenSubtitles.org today
+
+2
+00:01:54.050 --> 00:01:56.586
+Dirty.Dancing.1987.1080p.Bluray.x264-FSiHD
+
+3
+00:01:56.652 --> 00:02:00.690
+THIS RIP SEEMS TO BE OUT OF SYNC.
+
+4
+00:02:00.790 --> 00:02:03.859
+In order to fix it. use mkvmerge:
+
+5
+00:02:11.167 --> 00:02:13.970
+A) Click 'Add' to load the movie
+(or just drag the mkv file into mkvmerge)
+
+6
+00:02:14.003 --> 00:02:17.608
+B) Highlight the AC3 audio track and click
+the 'Format specific options' tab.
+
+7
+00:02:26.516 --> 00:02:28.652
+C) On 'Delay (in ms)'. enter "200" with no quotation marks.
+
+8
+00:02:28.719 --> 00:02:30.687
+D) Make sure you have enough HDD roo for the new file
+before clicking 'Start muxing'.
+
+9
+00:02:30.787 --> 00:02:32.856
+In a few minutes you should get a properly synched file.
+These subs here are synched accordingly.
+
+10
+00:02:32.923 --> 00:02:36.827
+If you didn't notice anything wrong with the audio
+in the first place and want to just leave it as it is.
+please re-synch my subs for them no to show up too late.
+Set them to -200 ms with Subtitle Workshop or any other software.
+
+11
+00:02:46.336 --> 00:02:48.872
+Enjoy your movie. :)
+
+12
+00:03:08.092 --> 00:03:11.095
+ShooCat
+February 27. 2007
+
+13
+00:03:12.305 --> 00:04:12.516
+Do you want subtitles for any video?
+-=[ ai.OpenSubtitles.com ]=-
