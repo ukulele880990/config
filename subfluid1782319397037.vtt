@@ -1,0 +1,497 @@
+WEBVTT
+
+﻿[Script Info]
+Title: English (US)
+Original Script: nbcuniversal  [http://www.crunchyroll.com/user/nbcuniversal]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name.Fontname.Fontsize.PrimaryColour.SecondaryColour.OutlineColour.BackColour.Bold.Italic.Underline.Strikeout.ScaleX.ScaleY.Spacing.Angle.BorderStyle.Outline.Shadow.Alignment.MarginL.MarginR.MarginV.Encoding
+Style: Main.Trebuchet MS.24.&H00FFFFFF.&H000000FF.&H00000000.&H00000000.0.0.0.0.100.100.0.0.1.2.1.2.0020.0020.0018.0
+Style: Main Top.Trebuchet MS.24.&H00FFFFFF.&H000000FF.&H00000000.&H00000000.0.0.0.0.100.100.0.0.1.2.1.8.0020.0020.0018.0
+Style: Italics.Trebuchet MS.24.&H00FFFFFF.&H000000FF.&H00000000.&H00000000.0.-1.0.0.100.100.0.0.1.2.1.2.0020.0020.0018.0
+Style: Italics Top.Trebuchet MS.24.&H00FFFFFF.&H000000FF.&H00000000.&H00000000.0.-1.0.0.100.100.0.0.1.2.1.8.0020.0020.0018.0
+Style: Flashback.Trebuchet MS.24.&H00FFFFFF.&H000000FF.&H00560B00.&H00560B00.0.0.0.0.100.100.0.0.1.2.1.2.0020.0020.0018.0
+Style: Flashback_Italics.Trebuchet MS.24.&H00FFFFFF.&H000000FF.&H00500000.&H00500000.0.-1.0.0.100.100.0.0.1.2.1.2.0010.0010.0018.1
+Style: Flashback Top.Trebuchet MS.24.&H00FFFFFF.&H000000FF.&H00560B00.&H00560B00.0.0.0.0.100.100.0.0.1.2.1.8.0020.0020.0018.0
+Style: Black Signs.Arial.20.&H00000000.&H000000FF.&H00FFFFFF.&H00000000.-1.0.0.0.100.100.0.0.1.2.0.8.0020.0020.0020.1
+Style: Signs.Arial.20.&H00FFFFFF.&H000000FF.&H00000000.&H00000000.-1.0.0.0.100.100.0.0.1.2.0.8.0020.0020.0018.1
+Style: Next time.Arial.22.&H00F8FFFF.&H000000FF.&H0094212A.&H005B5D5F.-1.0.0.0.100.100.0.0.1.0.0.7.0035.0499.0054.1
+Style: Flashback Italics Top.Trebuchet MS.24.&H00FFFFFF.&H000000FF.&H00560B00.&H00560B00.0.-1.0.0.100.100.0.0.1.2.1.8.0020.0020.0018.0
+Style: Next Episode Title.Arial.20.&H00FFFFFF.&H000000FF.&H00474747.&H005B5D5F.0.0.0.0.100.100.0.0.1.1.1.3.0035.0050.0070.1
+Style: Strongest Sage.Arial.20.&H00000000.&H000000FF.&H00FFFFFF.&H00000000.-1.0.0.0.100.100.0.0.1.2.0.8.0089.0089.0020.1
+Style: Episode Title.Arial.20.&H00000000.&H000000FF.&H00FFFFFF.&H00000000.-1.0.0.0.100.100.0.0.1.2.0.8.0163.0163.0020.1
+Style: sign_33974_459_Episode_2__The_S.Arial.20.&H00000000.&H000000FF.&H00FFFFFF.&H00000000.-1.0.0.0.100.100.0.0.1.2.0.8.0098.0098.0020.1
+
+[Events]
+Format: Layer.Start.End.Style.Name.MarginL.MarginR.MarginV.Effect.Text
+Dialogue: 0.0:00:38.44.0:00:39.72.Main.Gaius.0000.0000.0000..It's simply no use.
+Dialogue: 0.0:00:40.55.0:00:43.85.Main.Gaius.0000.0000.0000..My crest has no room left to grow.
+Dialogue: 0.0:00:46.29.0:00:49.86.Italics.Gaius.0000.0000.0000..The first crest. my crest. \Nspecializes in creation.
+Dialogue: 0.0:00:50.48.0:00:53.18.Italics.Gaius.0000.0000.0000..The second specializes in power.
+Dialogue: 0.0:00:53.65.0:00:56.99.Italics.Gaius.0000.0000.0000..The third specializes in rapid firing.
+Dialogue: 0.0:00:57.78.0:01:00.17.Italics.Gaius.0000.0000.0000..If I want to grow stronger.
+Dialogue: 0.0:01:00.17.0:01:04.66.Italics.Gaius.0000.0000.0000..I must acquire the fourth crest. \Nthe one best suited to combat.
+Dialogue: 0.0:01:05.34.0:01:08.63.Main.Gaius.0000.0000.0000..One's crest appears at birth \Nand cannot be changed.
+Dialogue: 0.0:01:09.26.0:01:10.43.Italics.Gaius.0000.0000.0000..Which means...
+Dialogue: 0.0:01:18.05.0:01:22.97.Strongest Sage.Onscreen.0000.0000.0000..{\fad(903.1)}The Strongest Sage with the Weakest Crest
+Dialogue: 0.0:01:22.97.0:01:27.98.Episode Title.Onscreen.0000.0000.0000..Episode 1
+Dialogue: 0.0:01:23.54.0:01:27.98.Episode Title.Onscreen.0000.0000.0000..{\fad(1182.1)}The Strongest Sage Appears.
+Dialogue: 0.0:01:37.85.0:01:40.79.Main.Peddler.0000.0000.0000..We'll be reaching the capital soon.
+Dialogue: 0.0:01:40.79.0:01:45.33.Main.Peddler.0000.0000.0000..Impressive that you're leaving home \Nand taking exams at age twelve.
+Dialogue: 0.0:01:46.51.0:01:49.56.Main.Matt.0000.0000.0000..I'm determined to enter the academy \Nand become strong.
+Dialogue: 0.0:01:49.56.0:01:51.51.Main.Peddler.0000.0000.0000..It's not safe to go too quickly.
+Dialogue: 0.0:01:51.51.0:01:53.91.Main.Peddler.0000.0000.0000..You might have been a big fish \Nwhere you came from.
+Dialogue: 0.0:01:53.91.0:01:55.68.Main.Peddler.0000.0000.0000..but that crest of yours...
+Dialogue: 0.0:01:57.57.0:01:59.28.Main.Matt.0000.0000.0000..There's a monster nearby.
+Dialogue: 0.0:01:59.28.0:02:00.68.Main.Matt.0000.0000.0000..It's heading our way.
+Dialogue: 0.0:02:00.68.0:02:01.73.Main.Peddler.0000.0000.0000..Eh?
+Dialogue: 0.0:02:01.73.0:02:04.15.Main.Peddler.0000.0000.0000..It might be a rather large monster.
+Dialogue: 0.0:02:04.15.0:02:06.10.Main.Peddler.0000.0000.0000..Many times bigger than your wagon.
+Dialogue: 0.0:02:06.98.0:02:08.98.Main.Peddler.0000.0000.0000..You say the strangest things.
+Dialogue: 0.0:02:10.33.0:02:13.70.Main.Peddler.0000.0000.0000..That would make it \Na calamity-grade monster.
+Dialogue: 0.0:02:22.44.0:02:24.03.Main.Matt.0000.0000.0000..Dispatch successful.
+Dialogue: 0.0:02:25.94.0:02:31.00.Main.Matt.0000.0000.0000..Easily handled with just Enhance Physique \Nand Sunder Steel.
+Dialogue: 0.0:02:50.79.0:02:52.87.Main.Matt.0000.0000.0000..That's the capital for you...
+Dialogue: 0.0:02:52.87.0:02:54.75.Main.Matt.0000.0000.0000..Completely unlike my homeland.
+Dialogue: 0.0:02:54.75.0:02:56.86.Main.Alma.0000.0000.0000..My friend's sword broke!
+Dialogue: 0.0:02:56.86.0:02:59.36.Main.Alma.0000.0000.0000..Can you make me one just like it?
+Dialogue: 0.0:02:59.80.0:03:02.54.Main.Blacksmith.0000.0000.0000..Stop shouting! I hear you just fine!
+Dialogue: 0.0:03:02.54.0:03:04.40.Main.Alma.0000.0000.0000..I'm sorry.
+Dialogue: 0.0:03:04.40.0:03:09.16.Main.Alma.0000.0000.0000..But see... She broke her magic sword \Nwhile protecting me from a monster.
+Dialogue: 0.0:03:09.16.0:03:10.60.Main.Blacksmith.0000.0000.0000..Magic sword?
+Dialogue: 0.0:03:10.60.0:03:12.91.Main.Blacksmith.0000.0000.0000..And you want me to remake a magic sword?
+Dialogue: 0.0:03:12.91.0:03:15.17.Main.Blacksmith.0000.0000.0000..You can't possibly be serious!
+Dialogue: 0.0:03:15.17.0:03:18.00.Main.Alma.0000.0000.0000..Isn't there anything you can do?
+Dialogue: 0.0:03:18.00.0:03:20.15.Main.Blacksmith.0000.0000.0000..I'm afraid you're out of luck.
+Dialogue: 0.0:03:20.15.0:03:22.37.Italics.Matt.0000.0000.0000..These weapons are well made...
+Dialogue: 0.0:03:22.37.0:03:24.30.Italics.Matt.0000.0000.0000..Though the enchantments are poorly applied.
+Dialogue: 0.0:03:25.03.0:03:26.49.Italics.Matt.0000.0000.0000..Are there any other swords?
+Dialogue: 0.0:03:26.49.0:03:28.35.Main.Blacksmith.0000.0000.0000..It simply can't be done.
+Dialogue: 0.0:03:28.61.0:03:30.07.Main.Alma.0000.0000.0000..I'm begging you!
+Dialogue: 0.0:03:30.07.0:03:32.07.Main.Alma.0000.0000.0000..The entrance exams are tomorrow!
+Dialogue: 0.0:03:32.07.0:03:33.88.Main.Alma.0000.0000.0000..If I don't get her a sword. she'll—
+Dialogue: 0.0:03:33.88.0:03:37.52.Main.Blacksmith.0000.0000.0000..If you need it that fast. \Nyou might have better luck elsewhere.
+Dialogue: 0.0:03:37.52.0:03:41.17.Main.Blacksmith.0000.0000.0000..It's not as if I can forge \Na magic sword by myself.
+Dialogue: 0.0:03:41.17.0:03:43.11.Main.Alma.0000.0000.0000..We've tried everyone else already!
+Dialogue: 0.0:03:43.38.0:03:45.50.Main.Blacksmith.0000.0000.0000..Would one of our ready-made swords do?
+Dialogue: 0.0:03:45.50.0:03:47.08.Main.Alma.0000.0000.0000..Hmm...
+Dialogue: 0.0:03:47.08.0:03:49.24.Main.Alma.0000.0000.0000..It should be about this long.
+Dialogue: 0.0:03:49.24.0:03:53.20.Main.Alma.0000.0000.0000..and light enough that a girl can swing it \Naround like this with one hand!
+Dialogue: 0.0:03:53.20.0:03:58.77.Main.Blacksmith.0000.0000.0000..A sword like that \Ncertainly would have to be enchanted...
+Dialogue: 0.0:03:58.77.0:04:01.07.Main.Blacksmith.0000.0000.0000..But it won't be easy to make.
+Dialogue: 0.0:04:01.07.0:04:02.68.Main.Matt.0000.0000.0000..I can handle the enchantment.
+Dialogue: 0.0:04:03.60.0:04:05.11.Main.Alma.0000.0000.0000..You can?
+Dialogue: 0.0:04:05.11.0:04:08.68.Main.Blacksmith.0000.0000.0000..Look. kid... \NI get that you want to show off...
+Dialogue: 0.0:04:08.68.0:04:12.39.Main.Blacksmith.0000.0000.0000..But it can't be done. \Nand she needs to accept that.
+Dialogue: 0.0:04:12.77.0:04:17.27.Main.Matt.0000.0000.0000..It's true that my fourth crest \Nisn't well suited to enchantments.
+Dialogue: 0.0:04:17.27.0:04:19.88.Main.Matt.0000.0000.0000..But I think I can handle \Na basic magic sword.
+Dialogue: 0.0:04:19.88.0:04:22.68.Main.Blacksmith.0000.0000.0000..Isn't that the Crest of Failure?
+Dialogue: 0.0:04:22.68.0:04:24.78.Main.Blacksmith.0000.0000.0000..All the more impossible. then.
+Dialogue: 0.0:04:24.78.0:04:26.96.Main.Alma.0000.0000.0000..Make me a sword!
+Dialogue: 0.0:04:28.08.0:04:30.41.Main.Alma.0000.0000.0000..One with a setting for a magistone.
+Dialogue: 0.0:04:30.80.0:04:32.50.Main.Blacksmith.0000.0000.0000..Wait. you mean—
+Dialogue: 0.0:04:33.44.0:04:35.94.Main.Alma.0000.0000.0000..I'm going to put my faith in him.
+Dialogue: 0.0:04:35.94.0:04:37.48.Main.Blacksmith.0000.0000.0000..A-Are you sure?
+Dialogue: 0.0:04:37.48.0:04:39.71.Main.Blacksmith.0000.0000.0000..If he fails. the sword will be fine.
+Dialogue: 0.0:04:39.71.0:04:41.45.Main.Blacksmith.0000.0000.0000..but you'll have wasted a magistone.
+Dialogue: 0.0:04:41.45.0:04:43.99.Main.Alma.0000.0000.0000..I still think he can do it.
+Dialogue: 0.0:04:43.99.0:04:46.51.Main.Alma.0000.0000.0000..I've got good instincts \Nabout these things!
+Dialogue: 0.0:04:48.29.0:04:51.18.Main.Alma.0000.0000.0000..Let's get on that enchantment. kid!
+Dialogue: 0.0:04:55.51.0:04:58.23.Main.Alma.0000.0000.0000..Oh. I forgot to introduce myself.
+Dialogue: 0.0:04:58.66.0:05:01.86.Main.Alma.0000.0000.0000..I'm Alma. Alma Lepucius.
+Dialogue: 0.0:05:01.86.0:05:04.52.Main.Alma.0000.0000.0000..I didn't want my parents \Nmarrying me off to some weirdo.
+Dialogue: 0.0:05:04.52.0:05:06.24.Main.Alma.0000.0000.0000..so I set off on my own!
+Dialogue: 0.0:05:06.74.0:05:10.65.Main.Matt.0000.0000.0000..I'm Matthias. Matthias Hildesheimer.
+Dialogue: 0.0:05:10.65.0:05:12.16.Main.Matt.0000.0000.0000..You can call me "Matty."
+Dialogue: 0.0:05:12.59.0:05:15.37.Main.Alma.0000.0000.0000..Sure! It's a pleasure. Matty!
+Dialogue: 0.0:05:16.70.0:05:18.76.Main.Alma.0000.0000.0000..Oh. right! I've got a friend!
+Dialogue: 0.0:05:18.76.0:05:22.47.Main.Alma.0000.0000.0000..The sword is hers. \NWe left home together!
+Dialogue: 0.0:05:22.47.0:05:23.26.Main.Lurie.0000.0000.0000..Alma?
+Dialogue: 0.0:05:24.40.0:05:26.06.Main.Alma.0000.0000.0000..Speak of the devil!
+Dialogue: 0.0:05:26.06.0:05:26.88.Main.Alma.0000.0000.0000..Lurie!
+Dialogue: 0.0:05:26.88.0:05:29.97.Main.Lurie.0000.0000.0000..Alma. Did you have any luck \Nat this shop?
+Dialogue: 0.0:05:32.26.0:05:33.72.Italics.Matt.0000.0000.0000..Sh-She's beautiful!
+Dialogue: 0.0:05:34.17.0:05:36.92.Main.Lurie.0000.0000.0000..I'm afraid every shop I tried \Nturned me down...
+Dialogue: 0.0:05:36.92.0:05:39.54.Main.Lurie.0000.0000.0000..It simply might not be possible \Nto make a magic sword by tomo—
+Dialogue: 0.0:05:39.54.0:05:41.83.Main.Alma.0000.0000.0000..Oh. this guy? He's Matty!
+Dialogue: 0.0:05:41.83.0:05:45.87.Main.Alma.0000.0000.0000..He said he'd enchant a sword for us!
+Dialogue: 0.0:05:45.87.0:05:47.70.Main.Matt.0000.0000.0000..A-Allow me to introduce myself!
+Dialogue: 0.0:05:47.70.0:05:49.71.Main.Matt.0000.0000.0000..I am humbly referred to \Nas Matthias Hildesheimer!
+Dialogue: 0.0:05:49.71.0:05:52.08.Main.Alma.0000.0000.0000..Where'd the formality come from?
+Dialogue: 0.0:05:54.04.0:05:56.73.Italics.Matt.0000.0000.0000..Was my introduction that off-putting?
+Dialogue: 0.0:05:56.73.0:05:59.25.Italics.Matt.0000.0000.0000..This is what I get \Nfor never having friends!
+Dialogue: 0.0:06:00.48.0:06:01.90.Main.Alma.0000.0000.0000..What's wrong. Lurie?
+Dialogue: 0.0:06:03.08.0:06:05.97.Main.Lurie.0000.0000.0000..I-I'm Lurie Abendroth!
+Dialogue: 0.0:06:05.97.0:06:07.99.Main.Lurie.0000.0000.0000..I'm neither engaged \Nnor romantically involved.
+Dialogue: 0.0:06:08.46.0:06:11.47.Main.Lurie.0000.0000.0000..You may call me "Lurie." if you wish...
+Dialogue: 0.0:06:12.76.0:06:13.76.Main.Matt.0000.0000.0000.."Romantically involved"?
+Dialogue: 0.0:06:13.76.0:06:16.35.Main.Lurie.0000.0000.0000..Um... well...
+Dialogue: 0.0:06:16.35.0:06:21.44.Italics.Matt.0000.0000.0000..I had no idea it was customary here \Nto reveal your relationship status.
+Dialogue: 0.0:06:22.71.0:06:24.32.Main.Blacksmith.0000.0000.0000..It's all done!
+Dialogue: 0.0:06:25.77.0:06:28.05.Main.Matt.0000.0000.0000..I'll begin the enchantment.
+Dialogue: 0.0:06:28.36.0:06:29.96.Main.Matt.0000.0000.0000..Could you hand me the magistone?
+Dialogue: 0.0:06:30.52.0:06:31.64.Main.Alma.0000.0000.0000..You can do it here?
+Dialogue: 0.0:06:31.64.0:06:33.45.Main.Matt.0000.0000.0000..It won't take that long.
+Dialogue: 0.0:06:35.76.0:06:36.57.Main.Matt.0000.0000.0000..I'm going to begin.
+Dialogue: 0.0:06:36.57.0:06:38.21.Main.Lurie.0000.0000.0000..P-Please do...
+Dialogue: 0.0:06:39.89.0:06:43.40.Italics.Matt.0000.0000.0000..The only way to make something this long \Nand light sturdy enough for live combat
+Dialogue: 0.0:06:43.40.0:06:45.55.Italics.Matt.0000.0000.0000..is to add Enhance Fortitude \Nand Sunder Steel.
+Dialogue: 0.0:06:49.84.0:06:51.51.Main.Matt.0000.0000.0000..That should do it.
+Dialogue: 0.0:06:51.51.0:06:52.46.Main.Matt.0000.0000.0000..Here. try it.
+Dialogue: 0.0:06:52.46.0:06:54.64.Main.Alma.0000.0000.0000..That was fast! \NIs it really enchanted?
+Dialogue: 0.0:06:54.64.0:06:57.47.Main.Blacksmith.0000.0000.0000..There's no way he could do it that fast.
+Dialogue: 0.0:06:57.47.0:07:00.74.Main.Alma.0000.0000.0000..Yeah. isn't it supposed to take way longer?
+Dialogue: 0.0:07:00.74.0:07:03.34.Main.Blacksmith.0000.0000.0000..And he didn't even recite an incantation!
+Dialogue: 0.0:07:04.16.0:07:06.00.Main.Lurie.0000.0000.0000..Let me try it.
+Dialogue: 0.0:07:06.00.0:07:08.82.Main.Lurie.0000.0000.0000..It's easy enough to tell if an enchantment—
+Dialogue: 0.0:07:14.50.0:07:16.72.Main.Lurie.0000.0000.0000..The enchantment worked!
+Dialogue: 0.0:07:16.72.0:07:18.45.Main.Alma.0000.0000.0000..That's crazy sharp!
+Dialogue: 0.0:07:18.45.0:07:20.27.Main.Blacksmith.0000.0000.0000..And it took him just moments...
+Dialogue: 0.0:07:20.27.0:07:22.13.Main.Blacksmith.0000.0000.0000..What trickery is this?
+Dialogue: 0.0:07:22.13.0:07:24.08.Main.Matt.0000.0000.0000..It's just a standard enchantment.
+Dialogue: 0.0:07:24.08.0:07:26.54.Main.Alma.0000.0000.0000..That's anything but "standard"!
+Dialogue: 0.0:07:26.54.0:07:29.49.Main.Alma.0000.0000.0000..Who in the world are you. Matty?
+Dialogue: 0.0:07:29.49.0:07:32.93.Main.Blacksmith.0000.0000.0000..It shouldn't be possible \Nto enchant a sword that quickly.
+Dialogue: 0.0:07:32.93.0:07:36.77.Main.Blacksmith.0000.0000.0000..But the sword has clearly been enchanted.
+Dialogue: 0.0:07:36.77.0:07:38.44.Main.Blacksmith.0000.0000.0000..and you didn't recite an incantation.
+Dialogue: 0.0:07:38.44.0:07:40.02.Main.Blacksmith.0000.0000.0000..As I forged that sword myself.
+Dialogue: 0.0:07:40.02.0:07:42.73.Main.Blacksmith.0000.0000.0000..I'd know whether you swapped it out \Nwith sleight-of-hand.
+Dialogue: 0.0:07:43.23.0:07:45.87.Main.Blacksmith.0000.0000.0000..The only possible conclusion is...
+Dialogue: 0.0:07:45.87.0:07:47.16.Main.Alma.0000.0000.0000..Gulp!
+Dialogue: 0.0:07:47.16.0:07:48.28.Main.Lurie.0000.0000.0000..Is...?
+Dialogue: 0.0:07:52.19.0:07:54.88.Main.Blacksmith.0000.0000.0000..You wanna become an enchanter. kid?
+Dialogue: 0.0:07:54.88.0:07:56.35.Main.Matt.0000.0000.0000..Nope.
+Dialogue: 0.0:07:58.44.0:08:01.04.Main.ExaminerA.0000.0000.0000..The practical skills exam will now begin.
+Dialogue: 0.0:08:01.04.0:08:03.16.Main.ExaminerA.0000.0000.0000..Fields tested will include \Nswordsmanship and casting.
+Dialogue: 0.0:08:03.16.0:08:03.96.Main.All.0000.0000.0000..Yes. sir!
+Dialogue: 0.0:08:05.60.0:08:07.22.Main.Lurie.0000.0000.0000..Matty!
+Dialogue: 0.0:08:09.23.0:08:12.10.Main.Lurie.0000.0000.0000..You're taking entrance exams. too?
+Dialogue: 0.0:08:12.10.0:08:13.54.Main.Matt.0000.0000.0000..Y-Yes...
+Dialogue: 0.0:08:13.54.0:08:16.74.Main.Alma.0000.0000.0000..The tactics portion was way too hard!
+Dialogue: 0.0:08:16.74.0:08:19.74.Main.Alma.0000.0000.0000..I did just fine in every other subject...
+Dialogue: 0.0:08:21.52.0:08:23.66.Main.Lurie.0000.0000.0000..Alma. Matty!
+Dialogue: 0.0:08:23.66.0:08:26.10.Main.Lurie.0000.0000.0000..Let's work together to pass the test!
+Dialogue: 0.0:08:26.10.0:08:27.00.Main.Matt.0000.0000.0000..Sure.
+Dialogue: 0.0:08:27.46.0:08:28.48.Main.Alma.0000.0000.0000..'Kay...
+Dialogue: 0.0:08:30.99.0:08:32.35.Main.Lukas.0000.0000.0000..You're wide open!
+Dialogue: 0.0:08:36.34.0:08:38.46.Main.Lukas.0000.0000.0000..You're doing quite well.
+Dialogue: 0.0:08:38.46.0:08:41.71.Main.Lukas.0000.0000.0000..But can you dodge this next one?
+Dialogue: 0.0:08:42.02.0:08:43.59.Main.Lukas.0000.0000.0000..S-S-Say what?!
+Dialogue: 0.0:08:44.94.0:08:46.34.Main.Lukas.0000.0000.0000..I surrender!
+Dialogue: 0.0:08:46.77.0:08:48.66.Main.Lukas.0000.0000.0000..Where did you get that sword?
+Dialogue: 0.0:08:51.72.0:08:53.84.Main.Lurie.0000.0000.0000..I did it. Matty!
+Dialogue: 0.0:08:53.84.0:08:55.81.Main.Alma.0000.0000.0000..Congratulations. Lurie!
+Dialogue: 0.0:08:55.81.0:08:57.97.Main.Lurie.0000.0000.0000..I couldn't have done it \Nwithout that magic sword you made me!
+Dialogue: 0.0:08:57.97.0:08:59.38.Main.Matt.0000.0000.0000..I-It's nothing. really...
+Dialogue: 0.0:08:59.38.0:09:01.89.Main.ExaminerA.0000.0000.0000..Next up. Matthias Hildesheimer!
+Dialogue: 0.0:09:02.39.0:09:04.38.Main.Matt.0000.0000.0000..Seems to be my turn.
+Dialogue: 0.0:09:04.38.0:09:06.35.Main.Lurie.0000.0000.0000..Give it your best. Matty!
+Dialogue: 0.0:09:06.35.0:09:07.73.Main.Matt.0000.0000.0000..I will.
+Dialogue: 0.0:09:07.73.0:09:10.54.Main.Matt.0000.0000.0000..Wait. where's the examiner?
+Dialogue: 0.0:09:10.54.0:09:12.85.Main.Guile.0000.0000.0000..Matthias Hildesheimer...
+Dialogue: 0.0:09:12.85.0:09:17.12.Main.Guile.0000.0000.0000..I hear you're the one \Nwho enchanted Lurie Abendroth's sword.
+Dialogue: 0.0:09:17.12.0:09:19.21.Main.Matt.0000.0000.0000..And? Who are you?
+Dialogue: 0.0:09:19.75.0:09:21.69.Main.Guile.0000.0000.0000..You'll need more than an examiner. then...
+Dialogue: 0.0:09:21.69.0:09:23.41.Main.Guile.0000.0000.0000..I'll fight you myself.
+Dialogue: 0.0:09:23.77.0:09:28.22.Main.Guile.0000.0000.0000..I'd like to see \Nwhat your father Castor taught you. as well.
+Dialogue: 0.0:09:28.99.0:09:30.38.Main.Matt.0000.0000.0000..You know my father?
+Dialogue: 0.0:09:30.38.0:09:31.78.Main.Guile.0000.0000.0000..Yes.
+Dialogue: 0.0:09:31.78.0:09:33.57.Main.Guile.0000.0000.0000..If you handle yourself \Nwell enough against me.
+Dialogue: 0.0:09:33.57.0:09:36.59.Main.Guile.0000.0000.0000..I'll vouch for you to pass. \Nregardless of your other test scores.
+Dialogue: 0.0:09:36.89.0:09:38.29.Main.Matt.0000.0000.0000..Very well.
+Dialogue: 0.0:09:42.10.0:09:44.35.Italics.Matt.0000.0000.0000..His stance leaves him wide open.
+Dialogue: 0.0:09:44.35.0:09:46.56.Italics.Matt.0000.0000.0000..He thinks he's taking it easy on me.
+Dialogue: 0.0:09:47.31.0:09:50.86.Italics.Matt.0000.0000.0000..That's also why he said. \N"If you handle yourself well enough."
+Dialogue: 0.0:09:50.86.0:09:53.01.Italics.Matt.0000.0000.0000..I feel a bit insulted...
+Dialogue: 0.0:09:53.65.0:09:55.16.Italics.Matt.0000.0000.0000..This is a test!
+Dialogue: 0.0:09:55.16.0:09:58.07.Italics.Matt.0000.0000.0000..Its purpose is to show them \Nwhat I can do!
+Dialogue: 0.0:10:00.95.0:10:01.97.Main.Guile.0000.0000.0000..What?
+Dialogue: 0.0:10:01.97.0:10:04.16.Main.Guile.0000.0000.0000..A boy your age. parrying my strike...
+Dialogue: 0.0:10:13.77.0:10:15.16.Main.Guile.0000.0000.0000..I surrender.
+Dialogue: 0.0:10:15.16.0:10:17.55.Main.ExaminerA.0000.0000.0000..Captain of the Knights' Order. Guile. lost...
+Dialogue: 0.0:10:17.94.0:10:20.22.Main.Alma.0000.0000.0000..Wow! Isn't he great. Lurie?
+Dialogue: 0.0:10:20.22.0:10:21.03.Main.Lurie.0000.0000.0000..Yes!
+Dialogue: 0.0:10:21.03.0:10:24.10.Main.Lurie.0000.0000.0000..Although it happened so quickly \NI couldn't quite follow!
+Dialogue: 0.0:10:25.55.0:10:28.10.Main.ExaminerD.0000.0000.0000..Next. we'll conduct the casting exam.
+Dialogue: 0.0:10:28.10.0:10:30.19.Main.ExaminerD.0000.0000.0000..Lurie Abendroth. Step forward!
+Dialogue: 0.0:10:30.19.0:10:31.20.Main.Lurie.0000.0000.0000..Yes. sir!
+Dialogue: 0.0:10:31.55.0:10:35.48.Main.ExaminerD.0000.0000.0000..Please attack all five targets \Nwith Fire Arrow!
+Dialogue: 0.0:10:39.09.0:10:41.55.Main.Lurie.0000.0000.0000..Magic of flame that dwells within me...
+Dialogue: 0.0:10:41.55.0:10:45.18.Main.Lurie.0000.0000.0000..Pierce my foe in the form of an arrow!
+Dialogue: 0.0:10:47.16.0:10:49.42.Main.Alma.0000.0000.0000..Lurie! Keep it up!
+Dialogue: 0.0:10:49.42.0:10:51.05.Main.Matt.0000.0000.0000..Incanted casting?
+Dialogue: 0.0:10:51.69.0:10:55.06.Italics.Matt.0000.0000.0000..As the name suggests. \Nit's a method for casting spells
+Dialogue: 0.0:10:55.06.0:10:56.83.Italics.Matt.0000.0000.0000..through the recitation of particular words.
+Dialogue: 0.0:10:56.83.0:10:59.48.Italics.Matt.0000.0000.0000..Anyone can use it regardless of ability.
+Dialogue: 0.0:10:59.48.0:11:03.20.Italics.Matt.0000.0000.0000..but it offers a poor conversion rate \Non the user's magic power.
+Dialogue: 0.0:11:03.20.0:11:06.08.Italics.Matt.0000.0000.0000..and you're vulnerable \Nto attacks mid-chant.
+Dialogue: 0.0:11:06.08.0:11:07.87.Italics.Matt.0000.0000.0000..They're not ideal for combat.
+Dialogue: 0.0:11:07.87.0:11:09.66.Italics.Matt.0000.0000.0000..I'd thought the practice \Nwas long dead. but...
+Dialogue: 0.0:11:09.66.0:11:11.06.Main.Alma.0000.0000.0000..Yes!
+Dialogue: 0.0:11:11.06.0:11:13.94.Main.Student1.0000.0000.0000..That's the Crest of Glory! \NWhat an elite!
+Dialogue: 0.0:11:13.94.0:11:16.37.Main.Student2.0000.0000.0000..Wish I'd been born \Nwith the Crest of Glory. too...
+Dialogue: 0.0:11:18.04.0:11:19.92.Italics.Matt.0000.0000.0000..But in this day and age.
+Dialogue: 0.0:11:19.92.0:11:22.95.Italics.Matt.0000.0000.0000..the first crest. which is highly compatible \Nwith incanted casting.
+Dialogue: 0.0:11:22.95.0:11:24.54.Italics.Matt.0000.0000.0000..is labeled the "Crest of Glory"
+Dialogue: 0.0:11:24.54.0:11:27.96.Italics.Matt.0000.0000.0000..and considered the best crest \Nfor magical combat.
+Dialogue: 0.0:11:28.97.0:11:30.06.Italics.Matt.0000.0000.0000..Meanwhile...
+Dialogue: 0.0:11:30.40.0:11:32.68.Italics.Matt.0000.0000.0000..My fourth crest is...
+Dialogue: 0.0:11:34.14.0:11:37.42.Main.Matt.0000.0000.0000..Excuse me. \NIs Fire Arrow the only spell allowed?
+Dialogue: 0.0:11:37.42.0:11:42.05.Main.ExaminerD.0000.0000.0000..Not necessarily. \Nbut it's the most basic spell. so...
+Dialogue: 0.0:11:43.34.0:11:44.54.Main.ExaminerD.0000.0000.0000..You've got the Crest of Failure.
+Dialogue: 0.0:11:44.54.0:11:47.88.Main.ExaminerD.0000.0000.0000..but if you do well in the other subjects. \Nyou might still pass.
+Dialogue: 0.0:11:47.88.0:11:50.23.Main.Matt.0000.0000.0000..As long as I destroy the targets. correct?
+Dialogue: 0.0:11:50.23.0:11:51.79.Main.ExaminerD.0000.0000.0000..Well. yes...
+Dialogue: 0.0:11:51.79.0:11:55.66.Italics.Matt.0000.0000.0000.."Crest of Failure" casting \Nhas extremely limited range.
+Dialogue: 0.0:11:55.66.0:11:58.73.Italics.Matt.0000.0000.0000..I don't think I could even reach a third \Nof the way to the target.
+Dialogue: 0.0:12:00.26.0:12:03.36.Main.Matt.0000.0000.0000..You might want to stand \Na bit farther away. sir.
+Dialogue: 0.0:12:03.36.0:12:04.30.Main.Crowd.0000.0000.0000..What?
+Dialogue: 0.0:12:05.32.0:12:06.16.Main.Crowd.0000.0000.0000..What's he doing?
+Dialogue: 0.0:12:06.16.0:12:08.37.Main.Matt.0000.0000.0000..I can assign it limited directionality.
+Dialogue: 0.0:12:08.37.0:12:10.20.Main.Matt.0000.0000.0000..but it won't be free of collateral damage.
+Dialogue: 0.0:12:10.20.0:12:14.08.Main.Alma.0000.0000.0000..H-How is he casting? \NHe didn't recite an incantation!
+Dialogue: 0.0:12:14.08.0:12:15.96.Main.Lurie.0000.0000.0000..Could it be... a wordless spell?
+Dialogue: 0.0:12:16.24.0:12:18.35.Italics.Matt.0000.0000.0000..Wordless casting is in decline.
+Dialogue: 0.0:12:18.35.0:12:21.47.Italics.Matt.0000.0000.0000..and the fourth crest is scorned \Nas the Crest of Failure.
+Dialogue: 0.0:12:21.47.0:12:23.72.Italics.Matt.0000.0000.0000..That's the status quo in this day and age!
+Dialogue: 0.0:12:35.50.0:12:36.50.Main.Matt.0000.0000.0000..Oh...
+Dialogue: 0.0:12:37.44.0:12:39.34.Main.Matt.0000.0000.0000..I might have overdone it.
+Dialogue: 0.0:12:44.99.0:12:47.24.Main.Matt.0000.0000.0000..It fits perfectly.
+Dialogue: 0.0:12:49.82.0:12:51.60.Main.Alma.0000.0000.0000..Hey. Matty!
+Dialogue: 0.0:12:59.38.0:13:01.63.Italics.Matt.0000.0000.0000..She looks beautiful \Nin her uniform. too!
+Dialogue: 0.0:13:04.95.0:13:06.56.Main.Alma.0000.0000.0000..What's up. you two?
+Dialogue: 0.0:13:06.56.0:13:08.43.Main.Lurie.0000.0000.0000..Oh. I just—
+Dialogue: 0.0:13:08.43.0:13:11.60.Main.Matt.0000.0000.0000..Uh. we'd better hurry if we want \Nto make the opening ceremony!
+Dialogue: 0.0:13:13.42.0:13:16.77.Main.Teach1.0000.0000.0000..The headmaster will now say a few words.
+Dialogue: 0.0:13:18.23.0:13:20.77.Main.Eduard.0000.0000.0000..I'm Eduard. the headmaster here.
+Dialogue: 0.0:13:21.11.0:13:23.51.Main.Eduard.0000.0000.0000..I despise long speeches.
+Dialogue: 0.0:13:23.51.0:13:25.92.Main Top.Alma.0000.0000.0000..He's the headmaster?
+Dialogue: 0.0:13:23.51.0:13:27.21.Main.Eduard.0000.0000.0000..As far as I'm concerned. \Nformality is for First Academy!
+Dialogue: 0.0:13:27.21.0:13:30.43.Main.Eduard.0000.0000.0000..Here at my Second Academy. \Nability is everything!
+Dialogue: 0.0:13:30.43.0:13:34.79.Main.Eduard.0000.0000.0000..We don't care about lineage or crest \Nthe way First Academy does!
+Dialogue: 0.0:13:35.26.0:13:38.71.Main.Eduard.0000.0000.0000..Work on those skills. rookies!
+Dialogue: 0.0:13:38.71.0:13:39.67.Main.Eduard.0000.0000.0000..That is all!
+Dialogue: 0.0:13:40.03.0:13:42.42.Main.Lurie.0000.0000.0000..That certainly was short!
+Dialogue: 0.0:13:43.60.0:13:45.25.Main.Eduard.0000.0000.0000..I almost forgot...
+Dialogue: 0.0:13:45.25.0:13:47.63.Main.Eduard.0000.0000.0000..Matthias Hildesheimer.
+Dialogue: 0.0:13:47.63.0:13:50.61.Main.Eduard.0000.0000.0000..Drop by my office when this is over.
+Dialogue: 0.0:13:53.76.0:13:56.05.Italics.Matt.0000.0000.0000..Why would the headmaster be calling for me?
+Dialogue: 0.0:13:56.05.0:13:58.21.Italics.Matt.0000.0000.0000..Because I destroyed the grounds \Nduring the exam?
+Dialogue: 0.0:13:58.21.0:14:00.47.Italics.Matt.0000.0000.0000..Is he going to expel me \Non my first day?!
+Dialogue: 0.0:14:00.47.0:14:02.75.Italics.Matt.0000.0000.0000..But I did use a spell \Nto repair the damage...
+Dialogue: 0.0:14:02.75.0:14:04.61.Main.Eduard.0000.0000.0000..Come in already. Matthias.
+Dialogue: 0.0:14:08.19.0:14:09.34.Main.Matt.0000.0000.0000..Yes. sir.
+Dialogue: 0.0:14:13.79.0:14:16.25.Italics.Matt.0000.0000.0000..I knew it...\NHe's—
+Dialogue: 0.0:14:16.72.0:14:18.75.Main.Eduard.0000.0000.0000..Matthias Hildesheimer.
+Dialogue: 0.0:14:19.21.0:14:21.96.Main.Eduard.0000.0000.0000..You defeated the Captain of the Knights' Order \Nduring your swordsmanship exam.
+Dialogue: 0.0:14:21.96.0:14:25.96.Main.Eduard.0000.0000.0000..and effortlessly used wordless spells \Nduring your casting exam.
+Dialogue: 0.0:14:26.39.0:14:28.80.Main.Eduard.0000.0000.0000..Castor being your father \Nexplains it somewhat.
+Dialogue: 0.0:14:28.80.0:14:33.65.Main.Eduard.0000.0000.0000..but I'm sure there's a deeper reason \Nwhy someone your age is so powerful.
+Dialogue: 0.0:14:33.65.0:14:35.88.Main.Eduard.0000.0000.0000..I won't pry as to why that is.
+Dialogue: 0.0:14:35.88.0:14:38.64.Main.Eduard.0000.0000.0000..But I do want to ask for your aid.
+Dialogue: 0.0:14:38.64.0:14:40.24.Main.Matt.0000.0000.0000..My... aid?
+Dialogue: 0.0:14:40.24.0:14:41.29.Main.Eduard.0000.0000.0000..Yes.
+Dialogue: 0.0:14:41.29.0:14:45.02.Main.Eduard.0000.0000.0000..You saw the other students cast \Nincanted spells. didn't you?
+Dialogue: 0.0:14:45.02.0:14:45.82.Main.Matt.0000.0000.0000..Yes...
+Dialogue: 0.0:14:45.82.0:14:48.13.Main.Matt.0000.0000.0000..Why do they use \Nsuch an inefficient technique?
+Dialogue: 0.0:14:48.13.0:14:51.17.Main.Matt.0000.0000.0000..Wouldn't wordless spells be better?
+Dialogue: 0.0:14:51.62.0:14:53.07.Main.Eduard.0000.0000.0000.."Inefficient." eh?
+Dialogue: 0.0:14:53.88.0:14:55.72.Main.Eduard.0000.0000.0000..Unfortunately. Matthias.
+Dialogue: 0.0:14:55.72.0:14:59.41.Main.Eduard.0000.0000.0000..wordless spells are a lost casting style.
+Dialogue: 0.0:15:00.62.0:15:01.92.Italics.Matt.0000.0000.0000..As I suspected...
+Dialogue: 0.0:15:01.92.0:15:06.14.Main.Eduard.0000.0000.0000..I don't know that a single other person \Nin this kingdom can still use them.
+Dialogue: 0.0:15:06.54.0:15:11.76.Main.Eduard.0000.0000.0000..I've been hoping to revive wordless spell \Ntechniques here at Second Academy
+Dialogue: 0.0:15:11.76.0:15:14.89.Main.Eduard.0000.0000.0000..and teach them to the students...
+Dialogue: 0.0:15:14.89.0:15:16.44.Main.Matt.0000.0000.0000..That sounds like a great idea!
+Dialogue: 0.0:15:16.44.0:15:18.37.Main.Eduard.0000.0000.0000..But there's one thing stopping me!
+Dialogue: 0.0:15:18.37.0:15:19.25.Main.Matt.0000.0000.0000..There is?
+Dialogue: 0.0:15:19.25.0:15:20.30.Main.Eduard.0000.0000.0000..Yes.
+Dialogue: 0.0:15:20.30.0:15:22.86.Main.Eduard.0000.0000.0000..Our sister academy here in the capital.
+Dialogue: 0.0:15:22.86.0:15:25.15.Main.Eduard.0000.0000.0000..the First Royal Academy.
+Dialogue: 0.0:15:26.03.0:15:28.36.Main.Eduard.0000.0000.0000..The nobility endorses First Academy's teachings.
+Dialogue: 0.0:15:28.36.0:15:30.15.Main.Eduard.0000.0000.0000..which have a proven track record.
+Dialogue: 0.0:15:30.15.0:15:35.03.Main.Eduard.0000.0000.0000..We've had no choice \Nbut to follow their curriculum.
+Dialogue: 0.0:15:35.34.0:15:37.33.Main.Matt.0000.0000.0000..What kind of track record?
+Dialogue: 0.0:15:37.33.0:15:40.37.Main.Teach2.0000.0000.0000..First Academy's published research.
+Dialogue: 0.0:15:42.31.0:15:44.00.Main.Matt.0000.0000.0000..This is their "track record"?
+Dialogue: 0.0:15:44.00.0:15:46.82.Main.Matt.0000.0000.0000..But it talks only about incanted spells...
+Dialogue: 0.0:15:46.82.0:15:51.30.Main.Eduard.0000.0000.0000..Incanted spells are the only form \Nof casting accepted in academia.
+Dialogue: 0.0:15:51.30.0:15:54.26.Main.Eduard.0000.0000.0000..Wordless spells are rejected.
+Dialogue: 0.0:15:54.26.0:15:55.80.Main.Matt.0000.0000.0000..How do we get them accepted?
+Dialogue: 0.0:15:55.80.0:15:59.36.Main.Eduard.0000.0000.0000..We'll have to prove the power \Nof wordless casting
+Dialogue: 0.0:15:59.79.0:16:03.69.Main.Eduard.0000.0000.0000..at the next inter-school competition.
+Dialogue: 0.0:16:03.69.0:16:07.48.Main.Matt.0000.0000.0000..And that's the "aid" \Nyou're asking me for?
+Dialogue: 0.0:16:07.48.0:16:08.34.Main.Eduard.0000.0000.0000..Yes.
+Dialogue: 0.0:16:08.34.0:16:12.65.Main.Eduard.0000.0000.0000..I want you to instruct us \Nin wordless casting!
+Dialogue: 0.0:16:14.38.0:16:15.69.Main.Eduard.0000.0000.0000..Matthias.
+Dialogue: 0.0:16:16.05.0:16:17.33.Main.Eduard.0000.0000.0000..Can I count on you?
+Dialogue: 0.0:16:21.84.0:16:23.14.Main.Matt.0000.0000.0000..Very well.
+Dialogue: 0.0:16:25.83.0:16:28.14.Main.Teach1.0000.0000.0000..We will now begin the class.
+Dialogue: 0.0:16:28.14.0:16:31.00.Main.Teach1.0000.0000.0000..Today. we'll be learning wordless spells!
+Dialogue: 0.0:16:31.00.0:16:32.46.Main.Student1.0000.0000.0000.."Wordless spells"?!
+Dialogue: 0.0:16:32.09.0:16:33.58.Main Top.Crowd.0000.0000.0000..Wordless...
+Dialogue: 0.0:16:32.46.0:16:34.71.Main.Student2.0000.0000.0000..I didn't know there was such a thing.
+Dialogue: 0.0:16:33.58.0:16:34.71.Main Top.Crowd.0000.0000.0000..Never heard of it...
+Dialogue: 0.0:16:34.71.0:16:36.61.Main.Teach1.0000.0000.0000..Your doubts are understandable.
+Dialogue: 0.0:16:36.61.0:16:39.45.Main.Teach1.0000.0000.0000..That's why we have \Na special guest instructor.
+Dialogue: 0.0:16:39.45.0:16:41.45.Main.Teach1.0000.0000.0000..He'll be teaching you how they work.
+Dialogue: 0.0:16:42.11.0:16:45.75.Main.Girl1.0000.0000.0000..Isn't he the one who passed the\Nentrance exams at the top of the class?
+Dialogue: 0.0:16:45.75.0:16:47.76.Main.Alma.0000.0000.0000..Yes. that's our Matty!
+Dialogue: 0.0:16:47.76.0:16:49.73.Main.Lurie.0000.0000.0000..You can't take credit for him. Alma.
+Dialogue: 0.0:16:50.04.0:16:55.00.Main.Teach1.0000.0000.0000..Matthias. could you demonstrate \Nhow wordless casting works?
+Dialogue: 0.0:16:55.00.0:16:56.45.Main.Matt.0000.0000.0000..Very well.
+Dialogue: 0.0:17:04.40.0:17:06.31.Main.Student4.0000.0000.0000..Was that wordless casting?
+Dialogue: 0.0:17:06.31.0:17:08.70.Main.Student5.0000.0000.0000..Yeah. I didn't hear an incantation.
+Dialogue: 0.0:17:08.70.0:17:10.52.Main.Student6.0000.0000.0000..He's a Crest of Failure. right?
+Dialogue: 0.0:17:10.52.0:17:12.67.Main.Studen6.0000.0000.0000..You don't think \Nhe's really a demon. do you?
+Dialogue: 0.0:17:12.67.0:17:16.77.Main.Teach1.0000.0000.0000..Matthias is not the only one \Nwho can use wordless spells!
+Dialogue: 0.0:17:16.77.0:17:17.83.Main.Teach1.0000.0000.0000..Mr. Gaizal?
+Dialogue: 0.0:17:17.83.0:17:18.51.Main.Gaizal.0000.0000.0000..Right!
+Dialogue: 0.0:17:23.44.0:17:25.90.Main.Gaizal.0000.0000.0000..I'm not particularly good at casting myself.
+Dialogue: 0.0:17:25.90.0:17:30.27.Main.Gaizal.0000.0000.0000..but Matthias's teachings have gotten me \Nthis far in just one day!
+Dialogue: 0.0:17:30.69.0:17:33.12.Main.Teach1.0000.0000.0000..Well. let's get to it!
+Dialogue: 0.0:17:33.12.0:17:34.03.Main.All.0000.0000.0000..Right!
+Dialogue: 0.0:17:34.52.0:17:36.86.Main.Alma.0000.0000.0000..Matty. I can do it now. too!
+Dialogue: 0.0:17:36.86.0:17:38.18.Main.Matt.0000.0000.0000..You can?
+Dialogue: 0.0:17:38.18.0:17:40.31.Main.Alma.0000.0000.0000..Yeah. let me show you!
+Dialogue: 0.0:17:44.42.0:17:46.34.Main.Alma.0000.0000.0000..How do you like my casting?
+Dialogue: 0.0:17:46.34.0:17:48.94.Main.Matt.0000.0000.0000..You don't have to imitate \Nthe way he grunts. too...
+Dialogue: 0.0:17:50.32.0:17:52.05.Main.Matt.0000.0000.0000..How is it going. Lurie?
+Dialogue: 0.0:17:52.62.0:17:55.42.Main.Lurie.0000.0000.0000..I seem to have the feel for it.
+Dialogue: 0.0:17:55.42.0:17:57.96.Main.Lurie.0000.0000.0000..but I can't shake my\Nincanted casting habits...
+Dialogue: 0.0:17:59.58.0:18:02.36.Main.Lurie.0000.0000.0000..I may have drained the last \Nof my magic!
+Dialogue: 0.0:18:03.38.0:18:05.71.Main.Lurie.0000.0000.0000..They're all doing so well.
+Dialogue: 0.0:18:05.71.0:18:07.74.Main.Lurie.0000.0000.0000..When I see how impressive \Nwordless spells are.
+Dialogue: 0.0:18:07.74.0:18:12.57.Main.Lurie.0000.0000.0000..I'm forced to wonder \Nwhy we ever stopped using them.
+Dialogue: 0.0:18:12.57.0:18:14.30.Italics.Matt.0000.0000.0000..She's right.
+Dialogue: 0.0:18:14.30.0:18:17.57.Italics.Matt.0000.0000.0000..Why has wordless casting \Ngone into decline?
+Dialogue: 0.0:18:17.88.0:18:19.14.Main.Lurie.0000.0000.0000..Matty?
+Dialogue: 0.0:18:19.68.0:18:20.80.Main.Matt.0000.0000.0000..Oh. I know.
+Dialogue: 0.0:18:20.80.0:18:22.56.Main.Matt.0000.0000.0000..Hold out your hand. would you?
+Dialogue: 0.0:18:22.56.0:18:23.64.Main.Lurie.0000.0000.0000..All right...
+Dialogue: 0.0:18:26.36.0:18:27.89.Main.Lurie.0000.0000.0000..M-Matty?!
+Dialogue: 0.0:18:27.89.0:18:32.90.Main.Matt.0000.0000.0000..W-Well. I have to do this \Nto transfer my magic to you!
+Dialogue: 0.0:18:32.90.0:18:35.50.Main.Lurie.0000.0000.0000..Y-You can transfer magic?!
+Dialogue: 0.0:18:35.50.0:18:36.46.Main.Matt.0000.0000.0000..Yes.
+Dialogue: 0.0:18:36.46.0:18:39.63.Main.Matt.0000.0000.0000..I'm using a spell \Nthat attunes my magic to a target.
+Dialogue: 0.0:18:39.63.0:18:42.18.Main.Matt.0000.0000.0000..It's typically used \Nfor enchantments. of course.
+Dialogue: 0.0:18:43.50.0:18:44.79.Main.Lurie.0000.0000.0000..Enchantments...
+Dialogue: 0.0:18:46.60.0:18:47.86.Main.Lurie.0000.0000.0000..I did it!
+Dialogue: 0.0:18:47.86.0:18:49.78.Main.Lurie.0000.0000.0000..I finally did it. Matty!
+Dialogue: 0.0:18:49.78.0:18:51.31.Main.Matt.0000.0000.0000..That's the way!
+Dialogue: 0.0:18:51.31.0:18:55.85.Italics.Matt.0000.0000.0000..And so I taught wordless casting \Nto all the students.
+Dialogue: 0.0:18:55.85.0:18:58.40.Main Top.Crowd.0000.0000.0000..Let's show 'em \Nwhat Second Academy can do!
+Dialogue: 0.0:18:56.12.0:18:58.01.Italics.Matt.0000.0000.0000..A month passed...
+Dialogue: 0.0:18:58.40.0:18:59.71.Main.Alma.0000.0000.0000..It's finally time!
+Dialogue: 0.0:18:59.71.0:19:03.21.Main.Lurie.0000.0000.0000..I hope there are \Nno magical chosen ones this year...
+Dialogue: 0.0:19:03.21.0:19:05.00.Main.Matt.0000.0000.0000.."Magical chosen ones"?
+Dialogue: 0.0:19:05.00.0:19:07.77.Main.Lurie.0000.0000.0000..That's what they call leaders \Nat First Academy
+Dialogue: 0.0:19:07.77.0:19:09.27.Main.Lurie.0000.0000.0000..with extremely strong casting ability.
+Dialogue: 0.0:19:09.27.0:19:11.95.Main.Lurie.0000.0000.0000..Any year it seems \NSecond Academy might win.
+Dialogue: 0.0:19:11.95.0:19:14.87.Main.Lurie.0000.0000.0000..one of these "magical chosen ones" appears.
+Dialogue: 0.0:19:14.87.0:19:18.66.Main.Alma.0000.0000.0000..I believe the last Captain of the \NMages' Order was one of them!
+Dialogue: 0.0:19:19.29.0:19:21.34.Main.Matt.0000.0000.0000..It seems there is one here...
+Dialogue: 0.0:19:21.84.0:19:24.80.Main.Matt.0000.0000.0000..With roughly ten times my own magic power.
+Dialogue: 0.0:19:24.80.0:19:27.04.Main.Lurie.0000.0000.0000..Ten times your power. Matty?
+Dialogue: 0.0:19:27.04.0:19:29.62.Main.Alma.0000.0000.0000..That's demon-level power!
+Dialogue: 0.0:19:29.62.0:19:30.77.Italics.Matt.0000.0000.0000..Demon...
+Dialogue: 0.0:19:31.19.0:19:34.74.Main.Matt.0000.0000.0000..Demons and humans are\Nnatural enemies. aren't they?
+Dialogue: 0.0:19:34.74.0:19:36.11.Main.Lurie.0000.0000.0000..They certainly are!
+Dialogue: 0.0:19:36.11.0:19:39.08.Main.Lurie.0000.0000.0000..Demons are the greatest threat \Nto humanity there is!
+Dialogue: 0.0:19:39.08.0:19:43.20.Main.Alma.0000.0000.0000..Even the court magicians working together \Nprobably couldn't beat one.
+Dialogue: 0.0:19:43.20.0:19:45.30.Main.Lurie.0000.0000.0000..But why would you ask that?
+Dialogue: 0.0:19:45.30.0:19:47.74.Main.Matt.0000.0000.0000..Oh. just curious...
+Dialogue: 0.0:19:49.32.0:19:51.04.Italics.Matt.0000.0000.0000..Demons. eh?
+Dialogue: 0.0:19:51.68.0:19:53.75.Italics.Matt.0000.0000.0000..So they've survived into this era...
+Dialogue: 0.0:19:54.62.0:19:57.63.Main.Devil.0000.0000.0000..Well. looky here! \NA Crest of Failure!
+Dialogue: 0.0:19:59.47.0:20:01.93.Main.Leisis.0000.0000.0000..A Crest of Failure. all by his lonesome!
+Dialogue: 0.0:20:01.93.0:20:04.37.Main.Giaas.0000.0000.0000..Hey. no buddies with you?
+Dialogue: 0.0:20:04.37.0:20:07.05.Main.Giaas.0000.0000.0000..Did they all run away scared?
+Dialogue: 0.0:20:07.05.0:20:08.61.Main.GuyA.0000.0000.0000..Hey. Crest of Failure!
+Dialogue: 0.0:20:08.61.0:20:11.48.Main.GuyA.0000.0000.0000..Cower before the might of Devilis. \Nmagical chosen one!
+Dialogue: 0.0:20:11.48.0:20:15.73.Main.First Academy Teach.0000.0000.0000..Headmaster. I believe Second Academy \Nhas given up on victory entirely.
+Dialogue: 0.0:20:16.06.0:20:18.36.Main.Facus.0000.0000.0000..That'll be sixty-five wins in a row for us.
+Dialogue: 0.0:20:18.70.0:20:20.62.Main.Teach1.0000.0000.0000..Please. Matthias!
+Dialogue: 0.0:20:21.57.0:20:24.32.Main.Devil.0000.0000.0000..What. no witty rejoinder?
+Dialogue: 0.0:20:24.32.0:20:28.84.Main.Devil.0000.0000.0000..Has my chosen one Crest of Glory \Nfrightened you into submission?
+Dialogue: 0.0:20:29.43.0:20:30.79.Italics.Matt.0000.0000.0000..I knew it...
+Dialogue: 0.0:20:30.79.0:20:32.58.Italics.Matt.0000.0000.0000..He's not human at all.
+Dialogue: 0.0:20:32.90.0:20:34.04.Italics.Matt.0000.0000.0000..He's a demon!
+Dialogue: 0.0:20:34.50.0:20:38.25.Italics.Matt.0000.0000.0000..He's just using a disguise spell \Nto hide his true form.
+Dialogue: 0.0:20:38.25.0:20:41.76.Italics.Matt.0000.0000.0000..He even has a fake crest \Nto let him walk among humans.
+Dialogue: 0.0:20:42.38.0:20:47.00.Main.Judge.0000.0000.0000..The 65th Inter-Academy Competition \Nwill now commence!
+Dialogue: 0.0:20:47.84.0:20:48.85.Main.Judge.0000.0000.0000..Begin!
+Dialogue: 0.0:20:48.85.0:20:51.77.Main.Leisis/Giaas.0000.0000.0000..Magic of flame that dwells within me—
+Dialogue: 0.0:20:58.47.0:21:01.22.Main.Judge.0000.0000.0000..L-Leisis and Giaas are both out!
+Dialogue: 0.0:21:02.97.0:21:04.32.Main.Devil.0000.0000.0000..Brat!
+Dialogue: 0.0:21:04.92.0:21:06.03.Main.Devil.0000.0000.0000..Magic of flame that dwells—
+Dialogue: 0.0:21:06.03.0:21:07.13.Italics.Matt.0000.0000.0000..Got him.
+Dialogue: 0.0:21:07.13.0:21:09.95.Italics.Matt.0000.0000.0000..He activated the spell \Nbefore he started his chant!
+Dialogue: 0.0:21:09.95.0:21:12.91.Main.Teach1.0000.0000.0000..What? Did he just cast before he—
+Dialogue: 0.0:21:10.60.0:21:12.60.Main Top.Crowd.0000.0000.0000..Get him. Devilis!
+Dialogue: 0.0:21:13.21.0:21:15.23.Main.Teach1.0000.0000.0000..He did the same with his guard spell...
+Dialogue: 0.0:21:15.23.0:21:16.62.Main.Teach1.0000.0000.0000..What in the world...
+Dialogue: 0.0:21:16.62.0:21:19.85.Italics.Matt.0000.0000.0000..In other words. \Nhe's just been pretending to chant.
+Dialogue: 0.0:21:20.34.0:21:21.30.Main.Devil.0000.0000.0000.....arrow!
+Dialogue: 0.0:21:21.30.0:21:23.33.Main.Matt.0000.0000.0000..The demon's head is its weak point!
+Dialogue: 0.0:21:25.14.0:21:27.74.Main.Matt.0000.0000.0000..Forget your incantation again?
+Dialogue: 0.0:21:28.06.0:21:29.55.Main.Devil.0000.0000.0000..Come. flame!
+Dialogue: 0.0:21:29.55.0:21:31.12.Italics.Matt.0000.0000.0000..That proves it.
+Dialogue: 0.0:21:31.12.0:21:34.94.Italics.Matt.0000.0000.0000..A spell-casting demon. \Npretending to use incantations...
+Dialogue: 0.0:21:34.94.0:21:38.56.Italics.Matt.0000.0000.0000..The demons are the ones \Nthat brought wordless casting into decline!
+Dialogue: 0.0:21:40.24.0:21:44.13.Italics.Matt.0000.0000.0000..The demons want humans' spells \Nas weak as possible.
+Dialogue: 0.0:21:44.13.0:21:47.22.Italics.Matt.0000.0000.0000..They must have infiltrated \NFirst Academy long ago
+Dialogue: 0.0:21:47.22.0:21:51.70.Italics.Matt.0000.0000.0000..and arranged to have the fourth crest \Ndeclared the Crest of Failure!
+Dialogue: 0.0:21:55.27.0:21:56.56.Main.Devil.0000.0000.0000..Come. flame!
+Dialogue: 0.0:21:57.53.0:21:58.46.Main.Devil.0000.0000.0000..How?
+Dialogue: 0.0:21:58.46.0:22:00.29.Main.Devil.0000.0000.0000..How can you be so strong?!
+Dialogue: 0.0:22:00.29.0:22:03.87.Main.Matt.0000.0000.0000..Maybe you're just lousy at fighting!
+Dialogue: 0.0:22:09.11.0:22:11.45.Main.Lurie.0000.0000.0000..What's going on?
+Dialogue: 0.0:22:12.82.0:22:15.89.Main.Devil.0000.0000.0000..D-Did you just use a Spell Shatter?
+Dialogue: 0.0:22:16.19.0:22:17.17.Main.Matt.0000.0000.0000..Yes.
+Dialogue: 0.0:22:17.17.0:22:21.69.Main.Matt.0000.0000.0000..And I tacked on a Magic Veil. \Nso you wouldn't notice.
+Dialogue: 0.0:22:22.08.0:22:24.36.Main.Man.0000.0000.0000..Hey. is that—
+Dialogue: 0.0:22:24.36.0:22:26.01.Main.Man.0000.0000.0000..Is Devilis...
+Dialogue: 0.0:22:26.01.0:22:27.95.Main.Man.0000.0000.0000..What? What's going on?
+Dialogue: 0.0:22:26.82.0:22:27.95.Main.Man.0000.0000.0000..Does that mean...
+Dialogue: 0.0:22:27.95.0:22:31.51.Main.Facus.0000.0000.0000..A-Are you telling me... \NDevilis is a demon?!
+Dialogue: 0.0:22:31.51.0:22:32.95.Main.Eduard.0000.0000.0000..Contact the palace!
+Dialogue: 0.0:22:32.95.0:22:34.66.Main.Eduard.0000.0000.0000..Evacuate the students at once!
+Dialogue: 0.0:22:34.66.0:22:35.99.Main.Crowd.0000.0000.0000..H-Help!
+Dialogue: 0.0:22:35.38.0:22:38.96.Main Top.Crowd.0000.0000.0000..Calm down!
+Dialogue: 0.0:22:35.99.0:22:37.50.Main.Matt.0000.0000.0000..Well. what's your next move?
+Dialogue: 0.0:22:38.96.0:22:40.80.Main.Devil.0000.0000.0000..Damn you!
+Dialogue: 0.0:22:44.81.0:22:47.85.Italics.Matt.0000.0000.0000..A retreating demon will use \Na Full Flight spell...
+Dialogue: 0.0:22:47.85.0:22:51.93.Italics.Matt.0000.0000.0000..It will take him about 1.5 seconds \Nfrom spreading his wings to takeoff.
+Dialogue: 0.0:22:51.93.0:22:53.76.Italics.Matt.0000.0000.0000..0.8 seconds for my enchantment...
+Dialogue: 0.0:22:53.76.0:22:55.65.Italics.Matt.0000.0000.0000..0.7 seconds remain.
+Dialogue: 0.0:22:55.65.0:22:56.97.Italics.Matt.0000.0000.0000..Easily done!
+Dialogue: 0.0:22:58.76.0:23:00.06.Italics.Matt.0000.0000.0000..Now it's over.
+Dialogue: 0.0:23:03.86.0:23:07.94.Main.Eduard.0000.0000.0000..Did he defeat that demon... \Nall by himself?
+Dialogue: 0.0:23:07.94.0:23:10.95.Italics.Matt.0000.0000.0000..I can't believe there are demons \Ninfiltrating the academy.
+Dialogue: 0.0:23:12.62.0:23:15.55.Italics.Matt.0000.0000.0000..I thought I drove them \Nto the brink of destruction
+Dialogue: 0.0:23:15.55.0:23:18.41.Italics.Matt.0000.0000.0000..in my old life as Gaius the Sage...
+Dialogue: 0.0:23:19.16.0:23:24.32.Italics.Matt.0000.0000.0000..It seems there are serious problems \Nin this day and age.
+Dialogue: 0.0:23:25.89.0:23:26.95.Main.Lurie.0000.0000.0000..Pop quiz. Alma!
+Dialogue: 0.0:23:26.95.0:23:28.52.Main.Lurie.0000.0000.0000..What's the best crest for enchantment?
+Dialogue: 0.0:23:28.52.0:23:29.63.Main.Alma.0000.0000.0000..Crest of Glory!
+Dialogue: 0.0:23:29.63.0:23:30.63.Main.Lurie.0000.0000.0000..And for power?
+Dialogue: 0.0:23:30.63.0:23:31.23.Main.Alma.0000.0000.0000..Crest of Standard!
+Dialogue: 0.0:23:31.23.0:23:33.86.Main.Alma.0000.0000.0000..Now. Matty. say all the crests \Nthree times fast!
+Dialogue: 0.0:23:33.86.0:23:34.51.Main.Matt.0000.0000.0000..Eh?!
+Dialogue: 0.0:23:34.51.0:23:36.32.Main.Matt.0000.0000.0000..Crest of Glory. Crest of Standard. \NCrest of Lesser. Crest of Failure!
+Dialogue: 0.0:23:36.32.0:23:38.24.Main.Matt.0000.0000.0000..Crest of Glory. Crest of Standard. \NCrest of Lesser. Crest of Failure!
+Dialogue: 0.0:23:36.97.0:23:39.98.sign_33974_459_Episode_2__The_S.sign.0000.0000.0000..Episode 2 \NThe Strongest Stage Enters the Dungeon.
+Dialogue: 0.0:23:38.24.0:23:40.32.Main.Matt.0000.0000.0000..Crest of Glory. Crest of Standard. \NCrest of Lesser... argh!
