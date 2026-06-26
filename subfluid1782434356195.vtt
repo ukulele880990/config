@@ -1,0 +1,875 @@
+WEBVTT
+
+﻿[Script Info]
+Title: Default file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 720
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Audio File: 
+Video File: 
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+
+[V4+ Styles]
+Format: Name. Fontname. Fontsize. PrimaryColour. SecondaryColour. OutlineColour. BackColour. Bold. Italic. Underline. StrikeOut. ScaleX. ScaleY. Spacing. Angle. BorderStyle. Outline. Shadow. Alignment. MarginL. MarginR. MarginV. Encoding
+Style: Dialogue1.Tahoma.32.&H22FDFDFD.&H000000FF.&H1F000000.&HC7000000.0.0.0.0.100.100.0.0.1.1.4.1.7.2.60.60.15.1
+Style: Dialogue2.Tahoma.36.&H22FDFDFD.&H000000FF.&H1F000000.&HC7000000.0.0.0.0.100.100.0.0.1.1.4.1.7.2.60.60.15.1
+Style: Dialogue3.Tahoma.28.&H22FDFDFD.&H000000FF.&H1F000000.&HC7000000.0.0.0.0.100.100.0.0.1.1.4.1.7.2.60.60.15.1
+
+[Events]
+Format: Layer. Start. End. Style. Name. MarginL. MarginR. MarginV. Effect. Text
+Dialogue: 0.0:00:34.06.0:00:36.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(252.371)}T-T-T-This is just
+Dialogue: 0.0:00:34.06.0:00:36.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(222.413)}sloppy craftsmanship.
+Dialogue: 0.0:00:36.13.0:00:37.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(298.413)}Hey. Rick.
+Dialogue: 0.0:00:37.57.0:00:40.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(182.371)}Boy. sure is really especially
+Dialogue: 0.0:00:37.57.0:00:40.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(168.413)}beautiful out there today. huh?
+Dialogue: 0.0:00:40.84.0:00:42.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(265.413)}Oh. yes. Morty.
+Dialogue: 0.0:00:42.10.0:00:43.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(202.370)}I-it's almost unbelievable.
+Dialogue: 0.0:00:42.10.0:00:43.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(319.410)}isn't it?
+Dialogue: 0.0:00:44.01.0:00:45.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(250.413)}Yeah. you know?
+Dialogue: 0.0:00:45.11.0:00:46.30.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(358.71)}There's something about the air
+Dialogue: 0.0:00:46.38.0:00:48.00.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(357.71)}and just the way the sunshine is.
+Dialogue: 0.0:00:48.08.0:00:49.01.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(358.71)}Uh. sure. buddy. Yeah.
+Dialogue: 0.0:00:49.08.0:00:50.81.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(356.71)}Sure. B-brilliant. Very convincing.
+Dialogue: 0.0:00:50.88.0:00:51.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(241.413)}Wha-- convincing?
+Dialogue: 0.0:00:51.85.0:00:52.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(228.413)}Oh. Responsive. too.
+Dialogue: 0.0:00:53.02.0:00:54.31.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(234.410)}In real time. I love it.
+Dialogue: 0.0:00:54.38.0:00:55.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(291.413)}Uhh...okay.
+Dialogue: 0.0:00:56.05.0:00:57.21.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.71)}[ robotic]
+Dialogue: 0.0:00:56.05.0:00:57.21.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(358.113)}I'm going to work.
+Dialogue: 0.0:00:57.29.0:00:58.65.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(358.71)}Morty. good morning.
+Dialogue: 0.0:00:58.72.0:00:59.81.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(358.71)}Dad. good morning.
+Dialogue: 0.0:00:59.89.0:01:01.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(176.413)}I am going to work. Goodbye.
+Dialogue: 0.0:01:01.82.0:01:03.26.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(243.410)}What's with mom?
+Dialogue: 0.0:01:03.33.0:01:04.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(221.412)}Oh. what's with {\i1}mom?{\i0}
+Dialogue: 0.0:01:04.83.0:01:06.66.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.71)}So. you're saying that
+Dialogue: 0.0:01:04.83.0:01:06.66.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.113)}{\i1}she's{\i0} acting weird?
+Dialogue: 0.0:01:06.73.0:01:08.25.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(357.71)}How soph[burps]isticated.
+Dialogue: 0.0:01:08.33.0:01:09.53.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(358.71)}Careful. guys.
+Dialogue: 0.0:01:09.60.0:01:11.43.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.71)}You're gonna burn out
+Dialogue: 0.0:01:09.60.0:01:11.43.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(356.110)}the CPU with this one.
+Dialogue: 0.0:01:11.50.0:01:12.73.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(357.71)}Okay. you know what. Rick?
+Dialogue: 0.0:01:12.80.0:01:13.89.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.71)}{\i1}You're{\i0} acting weird. too.
+Dialogue: 0.0:01:13.97.0:01:16.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(295.370)}Whatever.
+Dialogue: 0.0:01:13.97.0:01:16.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(214.413)}quote-unquote "Morty."
+Dialogue: 0.0:01:16.81.0:01:17.97.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(357.71)}All right. well...
+Dialogue: 0.0:01:18.04.0:01:19.30.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(358.71)}I'll see you after school.
+Dialogue: 0.0:01:19.37.0:01:21.10.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(271.413)}Ow! Oof! Ugh!
+Dialogue: 0.0:01:21.18.0:01:22.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(310.410)}Damn it!
+Dialogue: 0.0:01:22.28.0:01:23.47.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(357.71)}I'm all right. I'm okay.
+Dialogue: 0.0:01:23.55.0:01:25.74.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.71)}[slurps]
+Dialogue: 0.0:01:25.81.0:01:28.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(229.371)}All right. who can tell
+Dialogue: 0.0:01:25.81.0:01:28.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(251.410)}me what 5 x 9 is?
+Dialogue: 0.0:01:29.05.0:01:30.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(219.413)}[students whispering ]
+Dialogue: 0.0:01:30.79.0:01:31.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(320.413)}Morty?
+Dialogue: 0.0:01:31.69.0:01:32.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(310.412)}Uh. me?
+Dialogue: 0.0:01:32.62.0:01:33.85.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(269.410)}What is 5 x 9?
+Dialogue: 0.0:01:33.92.0:01:36.98.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(358.71)}Umm...you know.
+Dialogue: 0.0:01:33.92.0:01:36.98.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(358.110)}it's uhh...at least 40.
+Dialogue: 0.0:01:37.06.0:01:38.12.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.71)}[students gasp]
+Dialogue: 0.0:01:38.19.0:01:40.46.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(356.71)}Morty. that's exactly correct!
+Dialogue: 0.0:01:40.53.0:01:43.02.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.68)}5 x 9 {\i1}is{\i0} at least 40!
+Dialogue: 0.0:01:43.10.0:01:44.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(267.413)}Come up here.
+Dialogue: 0.0:01:44.07.0:01:45.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(202.413)}Whoo! Way to go. Morty!
+Dialogue: 0.0:01:45.47.0:01:47.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(292.371)}Everybody.
+Dialogue: 0.0:01:45.47.0:01:47.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(213.410)}this is the best student.
+Dialogue: 0.0:01:47.97.0:01:49.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(262.371)}I want {\i1}you{\i0} to be
+Dialogue: 0.0:01:47.97.0:01:49.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(245.413)}the teacher today.
+Dialogue: 0.0:01:49.97.0:01:51.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(253.413)}Teach us. Morty!
+Dialogue: 0.0:01:51.41.0:01:52.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(292.413)}Interesting.
+Dialogue: 0.0:01:52.64.0:01:54.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(234.371)}W-w-w-what do you
+Dialogue: 0.0:01:52.64.0:01:54.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(215.413)}want me to teach you?
+Dialogue: 0.0:01:54.11.0:01:55.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(299.412)}Ooh. ooh!
+Dialogue: 0.0:01:55.21.0:01:57.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(248.371)}How do you make
+Dialogue: 0.0:01:55.21.0:01:57.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(194.410)}concentrated dark matter?
+Dialogue: 0.0:01:57.08.0:01:58.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(191.413)}Oh. that's a good question.
+Dialogue: 0.0:01:58.31.0:01:59.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(240.410)}Concentrated huh?
+Dialogue: 0.0:01:59.75.0:02:00.91.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(357.68)}Concentrated dark matter --
+Dialogue: 0.0:02:00.98.0:02:03.48.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(358.68)}the fuel for accelerated
+Dialogue: 0.0:02:00.98.0:02:03.48.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(358.113)}space travel.
+Dialogue: 0.0:02:03.55.0:02:04.54.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.371)}Now. do you know
+Dialogue: 0.0:02:03.55.0:02:04.54.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(262.410)}how to make it?
+Dialogue: 0.0:02:04.62.0:02:05.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(318.410)}Umm...
+Dialogue: 0.0:02:05.59.0:02:06.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(298.368)}JESSICA:
+Dialogue: 0.0:02:05.59.0:02:06.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(256.413)}Come on. Morty.
+Dialogue: 0.0:02:06.59.0:02:08.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(245.371)}Isn't your grandpa.
+Dialogue: 0.0:02:06.59.0:02:08.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(261.412)}like. a scientist?
+Dialogue: 0.0:02:08.86.0:02:11.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(203.371)}Oh. yeah. but. you know.
+Dialogue: 0.0:02:08.86.0:02:11.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(178.413)}he told me that I shouldn't go
+Dialogue: 0.0:02:11.46.0:02:14.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(167.371)}around spouting off about. you
+Dialogue: 0.0:02:11.46.0:02:14.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(187.412)}know. his science and stuff.
+Dialogue: 0.0:02:14.16.0:02:17.16.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(188.371)}I bet you've seen him make
+Dialogue: 0.0:02:14.16.0:02:17.16.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(166.410)}concentrated dark matter a lot.
+Dialogue: 0.0:02:17.23.0:02:20.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(209.371)}You know. if you tell us.
+Dialogue: 0.0:02:17.23.0:02:20.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(235.413)}I'll be your girlfriend.
+Dialogue: 0.0:02:20.50.0:02:21.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(270.413)}Uh. y-you will?
+Dialogue: 0.0:02:21.70.0:02:23.60.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.371)}Seems like a rare opportunity.
+Dialogue: 0.0:02:21.70.0:02:23.60.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(324.413)}Morty.
+Dialogue: 0.0:02:23.67.0:02:25.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(311.413)}[ blam! ]
+Dialogue: 0.0:02:25.07.0:02:26.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(224.371)}Morty. u-uh. come on.
+Dialogue: 0.0:02:25.07.0:02:26.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(180.413)}There's a family emergency.
+Dialogue: 0.0:02:26.91.0:02:28.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(260.413)}Stop right there!
+Dialogue: 0.0:02:28.08.0:02:29.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(286.370)}If he leaves.
+Dialogue: 0.0:02:28.08.0:02:29.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(229.413)}I'm giving him an "F."
+Dialogue: 0.0:02:29.28.0:02:30.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(326.368)}RICK:
+Dialogue: 0.0:02:29.28.0:02:30.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(259.410)}He doesn't care.
+Dialogue: 0.0:02:30.31.0:02:31.28.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(301.412)}Aw. man!
+Dialogue: 0.0:02:31.35.0:02:32.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(214.413)}Rick. I have to go back!
+Dialogue: 0.0:02:32.78.0:02:34.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(248.368)}I think I was about
+Dialogue: 0.0:02:32.78.0:02:34.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(268.413)}to get married!
+Dialogue: 0.0:02:34.22.0:02:35.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(177.371)}Ugh! Take a shower with me.
+Dialogue: 0.0:02:34.22.0:02:35.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(324.413)}Morty.
+Dialogue: 0.0:02:35.42.0:02:36.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(315.410)}What?!
+Dialogue: 0.0:02:36.32.0:02:37.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(237.413)}Listen to me. Morty.
+Dialogue: 0.0:02:37.62.0:02:39.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(209.371)}Get your clothes off and
+Dialogue: 0.0:02:37.62.0:02:39.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(186.413)}get in the shower right now.
+Dialogue: 0.0:02:39.49.0:02:41.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(259.371)}Y-y-y-you got to
+Dialogue: 0.0:02:39.49.0:02:41.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(261.413)}trust me. Morty.
+Dialogue: 0.0:02:41.26.0:02:42.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(334.413)}Ugh!
+Dialogue: 0.0:02:42.32.0:02:43.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(257.371)}I'm gonna get an
+Dialogue: 0.0:02:42.32.0:02:43.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(250.412)}"F" in class. Rick.
+Dialogue: 0.0:02:43.69.0:02:44.85.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(221.413)}Morty. that's not class.
+Dialogue: 0.0:02:44.93.0:02:46.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(159.413)}T-T-T-That wasn't your teacher.
+Dialogue: 0.0:02:46.46.0:02:47.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(223.413)}This isn't your school.
+Dialogue: 0.0:02:47.73.0:02:49.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(255.368)}This entire world
+Dialogue: 0.0:02:47.73.0:02:49.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(262.410)}is not the world.
+Dialogue: 0.0:02:49.33.0:02:51.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(165.371)}We're inside a huge simulation
+Dialogue: 0.0:02:49.33.0:02:51.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(158.413)}chamber on an alien spaceship.
+Dialogue: 0.0:02:51.80.0:02:52.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(269.410)}Wait a minute.
+Dialogue: 0.0:02:52.80.0:02:54.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(166.413)}W-what are you talking about?
+Dialogue: 0.0:02:54.07.0:02:55.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(194.371)}It's all fake [burps] Morty --
+Dialogue: 0.0:02:54.07.0:02:55.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(316.410)}all of it.
+Dialogue: 0.0:02:56.00.0:02:59.74.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(168.371)}Nanobotic renderings. a bunch
+Dialogue: 0.0:02:56.00.0:02:59.74.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(166.413)}of crazy fake nonsense. Morty.
+Dialogue: 0.0:02:59.81.0:03:01.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(230.371)}I couldn't say so until
+Dialogue: 0.0:02:59.81.0:03:01.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(225.413)}we got in the shower.
+Dialogue: 0.0:03:01.64.0:03:02.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(239.371)}They won't monitor
+Dialogue: 0.0:03:01.64.0:03:02.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(295.410)}us in here.
+Dialogue: 0.0:03:02.94.0:03:04.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(224.410)}Monitor us?! W-who?!
+Dialogue: 0.0:03:04.51.0:03:05.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(182.413)}Zigerion scammers. Morty --
+Dialogue: 0.0:03:06.05.0:03:09.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(177.371)}the Galaxy's most ambitious.
+Dialogue: 0.0:03:06.05.0:03:09.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(187.410)}least successful con artists.
+Dialogue: 0.0:03:09.18.0:03:11.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(215.371)}You know. it's lucky for
+Dialogue: 0.0:03:09.18.0:03:11.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(232.413)}us they're also really
+Dialogue: 0.0:03:11.45.0:03:12.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(195.413)}uncomfortable with nudity.
+Dialogue: 0.0:03:12.49.0:03:13.65.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(237.412)}Aw. come on. Rick.
+Dialogue: 0.0:03:13.72.0:03:15.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(256.371)}If everyone's just
+Dialogue: 0.0:03:13.72.0:03:15.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(212.413)}gonna be insane today.
+Dialogue: 0.0:03:15.09.0:03:17.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(252.368)}at least let me be
+Dialogue: 0.0:03:15.09.0:03:17.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(235.410)}insane with Jessica.
+Dialogue: 0.0:03:17.19.0:03:18.16.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(258.371)}I can't [burps] let
+Dialogue: 0.0:03:17.19.0:03:18.16.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(241.413)}you do that. Morty.
+Dialogue: 0.0:03:18.23.0:03:19.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(278.410)}Give it to me!
+Dialogue: 0.0:03:19.13.0:03:19.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(285.413)}No! [ burps]
+Dialogue: 0.0:03:20.03.0:03:20.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(249.413)}You give it to me!
+Dialogue: 0.0:03:20.93.0:03:22.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(229.413)}G-g-give it! No. Rick!
+Dialogue: 0.0:03:30.27.0:03:31.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(249.413)}[aliens groaning ]
+Dialogue: 0.0:03:31.54.0:03:33.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(279.370)}Oh. God. Sir!
+Dialogue: 0.0:03:31.54.0:03:33.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(241.413)}They're still naked!
+Dialogue: 0.0:03:33.28.0:03:34.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(334.413)}Ugh.
+Dialogue: 0.0:03:34.84.0:03:37.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(159.371)}Well. check every five Quintons
+Dialogue: 0.0:03:34.84.0:03:37.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(178.413)}and tell me when they're {\i1}not.{\i0}
+Dialogue: 0.0:03:37.18.0:03:39.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(256.368)}I think we should
+Dialogue: 0.0:03:37.18.0:03:39.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(229.412)}make {\i1}Kevin{\i0} look. sir.
+Dialogue: 0.0:03:39.48.0:03:40.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(289.410)}What?! No!
+Dialogue: 0.0:03:40.52.0:03:41.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(135.413)}W-w-why would you even say that?
+Dialogue: 0.0:03:42.05.0:03:44.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(260.370)}Uh. sir. we have
+Dialogue: 0.0:03:42.05.0:03:44.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(227.410)}a situation over here.
+Dialogue: 0.0:03:44.15.0:03:45.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(202.368)}If there's a wiener on that
+Dialogue: 0.0:03:44.15.0:03:45.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(311.412)}monitor.
+Dialogue: 0.0:03:45.75.0:03:47.28.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(232.413)}I swear to god. Stu...
+Dialogue: 0.0:03:47.36.0:03:49.26.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(214.371)}something is drawing a
+Dialogue: 0.0:03:47.36.0:03:49.26.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(211.413)}lot of processing power.
+Dialogue: 0.0:03:49.32.0:03:50.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(228.412)}Oh. wait. No wonder.
+Dialogue: 0.0:03:50.63.0:03:53.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(232.368)}There's another real
+Dialogue: 0.0:03:50.63.0:03:53.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(213.410)}human in the simulator.
+Dialogue: 0.0:03:53.10.0:03:55.33.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(278.371)}{\i1}Okay. Jerry --{\i0}
+Dialogue: 0.0:03:53.10.0:03:55.33.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(249.413)}{\i1}big pitch meeting.{\i0}
+Dialogue: 0.0:03:55.40.0:03:56.56.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(235.410)}{\i1}Make-or-break time.{\i0}
+Dialogue: 0.0:03:56.63.0:03:57.56.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(295.413)}[ {\i1}whirring{\i0} ]
+Dialogue: 0.0:03:57.63.0:03:58.57.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(264.410)}{\i1}You can do this.{\i0}
+Dialogue: 0.0:03:58.63.0:03:59.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(221.413)}How did this happen?!
+Dialogue: 0.0:03:59.74.0:04:01.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(285.368)}Where's the
+Dialogue: 0.0:03:59.74.0:04:01.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(202.413)}Abductions Department?
+Dialogue: 0.0:04:01.24.0:04:03.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(196.371)}Hey. man. Abductions just
+Dialogue: 0.0:04:01.24.0:04:03.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(180.413)}follows the acquisition order.
+Dialogue: 0.0:04:03.87.0:04:05.31.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(280.371)}Don't put this
+Dialogue: 0.0:04:03.87.0:04:05.31.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(260.413)}on Acquisitions!
+Dialogue: 0.0:04:05.37.0:04:07.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(174.371)}We only acquire humans that
+Dialogue: 0.0:04:05.37.0:04:07.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(211.410)}{\i1}haven't{\i0} been simulated!
+Dialogue: 0.0:04:08.01.0:04:10.74.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(203.370)}Well. simulations doesn't
+Dialogue: 0.0:04:08.01.0:04:10.74.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(176.413)}simulate anybody that's been
+Dialogue: 0.0:04:10.81.0:04:12.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(298.370)}abducted.
+Dialogue: 0.0:04:10.81.0:04:12.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(215.413)}so [chuckles] oh. I see!
+Dialogue: 0.0:04:13.01.0:04:14.31.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(315.370)}Oh. oh!
+Dialogue: 0.0:04:13.01.0:04:14.31.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(233.410)}It was no one's fault.
+Dialogue: 0.0:04:14.38.0:04:15.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(225.413)}Oh. okay. [ chuckles]
+Dialogue: 0.0:04:15.65.0:04:16.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(305.371)}I'm sorry.
+Dialogue: 0.0:04:15.65.0:04:16.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(187.413)}Well. then. problem solved.
+Dialogue: 0.0:04:16.89.0:04:17.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(272.412)}Oh. wait -- no.
+Dialogue: 0.0:04:18.02.0:04:20.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(235.368)}There's still another
+Dialogue: 0.0:04:18.02.0:04:20.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(267.410)}human in here!
+Dialogue: 0.0:04:20.09.0:04:21.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(289.410)}Who is he?
+Dialogue: 0.0:04:21.46.0:04:23.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(252.370)}Rick's son-in-law.
+Dialogue: 0.0:04:21.46.0:04:23.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(285.413)}Jerry Smith.
+Dialogue: 0.0:04:23.09.0:04:25.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(207.370)}So far. he hasn't noticed
+Dialogue: 0.0:04:23.09.0:04:25.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(237.410)}he's in a simulation.
+Dialogue: 0.0:04:25.93.0:04:26.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(313.413)}[sighs]
+Dialogue: 0.0:04:27.03.0:04:28.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(195.371)}Well. cap his sector at 5%
+Dialogue: 0.0:04:27.03.0:04:28.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(289.413)}processing.
+Dialogue: 0.0:04:28.56.0:04:30.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.371)}keep his settings on auto. and
+Dialogue: 0.0:04:28.56.0:04:30.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(209.410)}we'll deal with him later.
+Dialogue: 0.0:04:30.77.0:04:32.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(192.413)}Rick Sanchez is the target.
+Dialogue: 0.0:04:35.47.0:04:36.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(255.371)}[ inhales deeply]
+Dialogue: 0.0:04:35.47.0:04:36.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(284.410)}Got to relax.
+Dialogue: 0.0:04:36.57.0:04:37.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(269.413)}It's just a pitch.
+Dialogue: 0.0:04:37.94.0:04:39.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(284.410)}Got to relax.
+Dialogue: 0.0:04:39.27.0:04:40.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(319.413)}[ click]
+Dialogue: 0.0:04:40.18.0:04:41.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(313.413)}[static]
+Dialogue: 0.0:04:41.11.0:04:42.54.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(247.410)}{\i1}This is Earth radio.{\i0}
+Dialogue: 0.0:04:42.61.0:04:45.24.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(156.412)}{\i1}And now. here's... human music.{\i0}
+Dialogue: 0.0:04:45.31.0:04:48.48.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(173.413)}[ {\i1}repetitive rhythmic beeping{\i0} ]
+Dialogue: 0.0:04:48.55.0:04:50.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(229.410)}Hmm. Human music.
+Dialogue: 0.0:04:50.55.0:04:53.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(319.410)}I like it.
+Dialogue: 0.0:04:53.12.0:04:55.02.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(229.413)}[ {\i1}beeping continues{\i0} ]
+Dialogue: 0.0:05:02.83.0:05:06.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(199.413)}[ Rick and Morty panting ]
+Dialogue: 0.0:05:06.10.0:05:07.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(332.410)}Rick!
+Dialogue: 0.0:05:07.10.0:05:08.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(269.413)}Uhp. uhp. uhp!
+Dialogue: 0.0:05:08.27.0:05:09.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(213.371)}Morty. keep your hands
+Dialogue: 0.0:05:08.27.0:05:09.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(242.413)}off your ding-dong!
+Dialogue: 0.0:05:09.64.0:05:11.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(262.371)}It's the only way
+Dialogue: 0.0:05:09.64.0:05:11.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(229.413)}we can speak freely.
+Dialogue: 0.0:05:11.17.0:05:12.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(208.413)}Look around you. Morty.
+Dialogue: 0.0:05:12.44.0:05:14.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(245.371)}Do you really think
+Dialogue: 0.0:05:12.44.0:05:14.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(201.413)}this [burps] world is real?
+Dialogue: 0.0:05:14.54.0:05:17.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(163.368)}You'd have to be an idiot not to
+Dialogue: 0.0:05:14.54.0:05:17.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(187.413)}notice all the sloppy details.
+Dialogue: 0.0:05:17.25.0:05:19.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(206.371)}Look -- that guy's putting
+Dialogue: 0.0:05:17.25.0:05:19.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(178.413)}a bun between two hot dogs.
+Dialogue: 0.0:05:19.45.0:05:20.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(308.368)}MORTY:
+Dialogue: 0.0:05:19.45.0:05:20.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(247.412)}I don't know. Rick.
+Dialogue: 0.0:05:20.55.0:05:22.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(207.371)}I mean. I've seen people
+Dialogue: 0.0:05:20.55.0:05:22.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(269.410)}do that before.
+Dialogue: 0.0:05:22.15.0:05:23.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(326.368)}RICK:
+Dialogue: 0.0:05:22.15.0:05:23.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(197.413)}Well. look at that old lady.
+Dialogue: 0.0:05:23.45.0:05:25.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(224.371)}She's -- she's walking
+Dialogue: 0.0:05:23.45.0:05:25.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(256.410)}a cat on a leash.
+Dialogue: 0.0:05:25.19.0:05:27.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(216.371)}Uh. Mrs. Spencer does
+Dialogue: 0.0:05:25.19.0:05:27.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(223.412)}that all the time. Rick.
+Dialogue: 0.0:05:27.19.0:05:29.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(218.370)}Look. I-I-I don't want to
+Dialogue: 0.0:05:27.19.0:05:29.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(156.413)}hear about Mrs. Spencer. Morty!
+Dialogue: 0.0:05:29.59.0:05:30.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(273.410)}She's an idiot!
+Dialogue: 0.0:05:30.76.0:05:31.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(213.413)}All right. all right. there.
+Dialogue: 0.0:05:31.73.0:05:32.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(191.413)}W-what about that. Morty?
+Dialogue: 0.0:05:32.96.0:05:34.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(308.368)}MORTY:
+Dialogue: 0.0:05:32.96.0:05:34.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(131.413)}Okay. okay. you got me on that one.
+Dialogue: 0.0:05:34.80.0:05:35.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(249.413)}Oh. {\i1}really.{\i0} Morty?
+Dialogue: 0.0:05:36.03.0:05:37.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(201.371)}Are you sure you haven't
+Dialogue: 0.0:05:36.03.0:05:37.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(224.410)}seen that somewhere
+Dialogue: 0.0:05:37.53.0:05:38.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(248.410)}in real life before?
+Dialogue: 0.0:05:38.50.0:05:39.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(318.370)}No. no.
+Dialogue: 0.0:05:38.50.0:05:39.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(242.410)}I haven't seen that.
+Dialogue: 0.0:05:39.84.0:05:41.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(232.371)}I mean. why would a
+Dialogue: 0.0:05:39.84.0:05:41.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(196.413)}pop tart want to live inside
+Dialogue: 0.0:05:41.87.0:05:43.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(262.412)}a toaster. Rick?
+Dialogue: 0.0:05:43.31.0:05:45.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(168.370)}I mean. that would be. like. the
+Dialogue: 0.0:05:43.31.0:05:45.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.413)}scariest place for them to live.
+Dialogue: 0.0:05:45.77.0:05:46.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(207.410)}You know what I mean?
+Dialogue: 0.0:05:46.88.0:05:48.10.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(267.371)}You're missing
+Dialogue: 0.0:05:46.88.0:05:48.10.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(257.413)}the point. Morty.
+Dialogue: 0.0:05:48.18.0:05:50.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(173.371)}Why would he drive a smaller
+Dialogue: 0.0:05:48.18.0:05:50.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(230.410)}toaster with wheels?
+Dialogue: 0.0:05:50.15.0:05:52.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(168.371)}I mean. does your car look like
+Dialogue: 0.0:05:50.15.0:05:52.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(154.413)}a smaller version of your house?
+Dialogue: 0.0:05:52.71.0:05:53.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(342.410)}No.
+Dialogue: 0.0:05:53.85.0:05:54.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(181.413)}So. why are they doing this?
+Dialogue: 0.0:05:54.95.0:05:56.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(218.413)}W-what do they want?
+Dialogue: 0.0:05:56.12.0:05:57.21.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(239.370)}Well. that would be
+Dialogue: 0.0:05:56.12.0:05:57.21.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(220.413)}obvious to you. Morty.
+Dialogue: 0.0:05:57.29.0:05:58.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.413)}if you'd been paying attention.
+Dialogue: 0.0:05:58.55.0:05:59.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(279.413)}[siren wails]
+Dialogue: 0.0:05:59.82.0:06:01.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(265.413)}[tires screech ]
+Dialogue: 0.0:06:01.19.0:06:03.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(186.371)}We got the President of the
+Dialogue: 0.0:06:01.19.0:06:03.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(225.410)}United States in here!
+Dialogue: 0.0:06:03.09.0:06:05.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(165.368)}We need 10cc of concentrated
+Dialogue: 0.0:06:03.09.0:06:05.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(180.412)}dark matter. stat. or he'll die!
+Dialogue: 0.0:06:05.99.0:06:07.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(191.410)}Concentrated dark matter?
+Dialogue: 0.0:06:08.03.0:06:09.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(247.371)}They were asking
+Dialogue: 0.0:06:08.03.0:06:09.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(242.410)}about that in class.
+Dialogue: 0.0:06:09.73.0:06:11.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(205.371)}Yeah. it's a special fuel I
+Dialogue: 0.0:06:09.73.0:06:11.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(200.413)}invented to travel through
+Dialogue: 0.0:06:11.47.0:06:13.16.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(251.371)}space faster than
+Dialogue: 0.0:06:11.47.0:06:13.16.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(273.413)}anybody else.
+Dialogue: 0.0:06:13.24.0:06:15.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(185.371)}These Zigerions are always
+Dialogue: 0.0:06:13.24.0:06:15.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(129.413)}trying to scam me out of my secrets.
+Dialogue: 0.0:06:15.44.0:06:18.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(236.371)}but they made a big
+Dialogue: 0.0:06:15.44.0:06:18.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(207.413)}mistake this time. Morty.
+Dialogue: 0.0:06:18.11.0:06:19.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(187.413)}They dragged {\i1}you{\i0} into this.
+Dialogue: 0.0:06:19.98.0:06:21.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(212.413)}Now they're gonna pay!
+Dialogue: 0.0:06:21.14.0:06:22.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(266.371)}What do you --
+Dialogue: 0.0:06:21.14.0:06:22.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(181.413)}w-w-what are we gonna do?
+Dialogue: 0.0:06:22.78.0:06:24.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(193.370)}We'll scam the scammers.
+Dialogue: 0.0:06:22.78.0:06:24.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(324.413)}Morty.
+Dialogue: 0.0:06:24.78.0:06:27.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(165.371)}And we're gonna take them for
+Dialogue: 0.0:06:24.78.0:06:27.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(218.413)}everything they've got.
+Dialogue: 0.0:06:27.55.0:06:30.21.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(310.368)}JERRY:
+Dialogue: 0.0:06:27.55.0:06:30.21.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(136.413)}National Apple Farmers of America.
+Dialogue: 0.0:06:30.29.0:06:32.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(185.413)}welcome to our Ad Agency.
+Dialogue: 0.0:06:32.42.0:06:34.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(264.413)}I'm Jerry Smith.
+Dialogue: 0.0:06:35.46.0:06:36.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(309.413)}All right.
+Dialogue: 0.0:06:36.46.0:06:37.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(214.413)}I'll just...get to the pitch.
+Dialogue: 0.0:06:37.93.0:06:41.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(154.371)}Um. simple question. gentlemen.
+Dialogue: 0.0:06:37.93.0:06:41.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(179.413)}[ hoarsely] what are apples?
+Dialogue: 0.0:06:42.00.0:06:43.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(267.371)}[ clears throat ]
+Dialogue: 0.0:06:42.00.0:06:43.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(288.410)}Excuse me.
+Dialogue: 0.0:06:43.40.0:06:45.16.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(331.410)}Ahh.
+Dialogue: 0.0:06:45.23.0:06:47.26.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(213.413)}[ coughs. clears throat ]
+Dialogue: 0.0:06:47.34.0:06:49.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(247.413)}What are apples?
+Dialogue: 0.0:06:49.30.0:06:51.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(255.413)}Apples are food.
+Dialogue: 0.0:06:51.97.0:06:54.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(170.410)}And...when do we need food?
+Dialogue: 0.0:06:54.54.0:06:56.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(233.413)}When we're hungry.
+Dialogue: 0.0:06:57.58.0:07:00.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(261.371)}With that. I give
+Dialogue: 0.0:06:57.58.0:07:00.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(225.413)}you your new slogan!
+Dialogue: 0.0:07:00.62.0:07:02.14.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(313.413)}[sighs]
+Dialogue: 0.0:07:02.22.0:07:04.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(227.413)}Well. say something!
+Dialogue: 0.0:07:04.15.0:07:05.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(273.413)}Do you like it?
+Dialogue: 0.0:07:05.25.0:07:06.28.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(332.410)}Yes.
+Dialogue: 0.0:07:06.35.0:07:07.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(307.410)}You do?
+Dialogue: 0.0:07:07.36.0:07:08.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(331.368)}ALL:
+Dialogue: 0.0:07:07.36.0:07:08.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(332.410)}Yes.
+Dialogue: 0.0:07:08.46.0:07:10.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(279.410)}So...I sold it?
+Dialogue: 0.0:07:10.13.0:07:12.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(304.371)}[laughs]
+Dialogue: 0.0:07:10.13.0:07:12.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(266.410)}I sold the idea?
+Dialogue: 0.0:07:12.13.0:07:13.10.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(331.368)}ALL:
+Dialogue: 0.0:07:12.13.0:07:13.10.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(332.410)}Yes.
+Dialogue: 0.0:07:13.16.0:07:14.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(209.413)}Oh. my god! Thank you!
+Dialogue: 0.0:07:14.86.0:07:16.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(277.368)}TOGETHER:
+Dialogue: 0.0:07:14.86.0:07:16.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(289.413)}Thank you.
+Dialogue: 0.0:07:16.83.0:07:17.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(255.410)}You're welcome.
+Dialogue: 0.0:07:17.83.0:07:20.83.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(219.413)}["Baker Street" plays]
+Dialogue: 0.0:07:22.10.0:07:23.26.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(334.413)}Hey!
+Dialogue: 0.0:07:23.34.0:07:24.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(214.413)}I just sold my first pitch!
+Dialogue: 0.0:07:24.77.0:07:26.21.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(305.413)}[dialing ]
+Dialogue: 0.0:07:26.27.0:07:27.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(199.413)}Slow down! Lookin' good.
+Dialogue: 0.0:07:27.44.0:07:28.54.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(308.413)}My man!
+Dialogue: 0.0:07:28.61.0:07:31.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(177.413)}[ beeping. telephone ringing ]
+Dialogue: 0.0:07:31.35.0:07:32.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(322.371)}[robot]
+Dialogue: 0.0:07:31.35.0:07:32.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(327.410)}Hello.
+Dialogue: 0.0:07:32.51.0:07:34.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(233.371)}Guess who just sold
+Dialogue: 0.0:07:32.51.0:07:34.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(223.413)}the apples campaign.
+Dialogue: 0.0:07:34.85.0:07:36.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(274.371)}Who just sold
+Dialogue: 0.0:07:34.85.0:07:36.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(219.413)}the apples campaign?
+Dialogue: 0.0:07:36.52.0:07:37.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(340.410)}Me!
+Dialogue: 0.0:07:38.02.0:07:40.65.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(208.371)}I guess it wasn't a rip-off
+Dialogue: 0.0:07:38.02.0:07:40.65.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(216.410)}of "Got milk? " after all.
+Dialogue: 0.0:07:40.72.0:07:42.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(181.413)}Guess {\i1}someone{\i0} was wrong.
+Dialogue: 0.0:07:42.59.0:07:43.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(332.410)}Yes.
+Dialogue: 0.0:07:43.76.0:07:45.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(237.371)}Well. all is forgiven.
+Dialogue: 0.0:07:43.76.0:07:45.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(241.413)}because right now.
+Dialogue: 0.0:07:45.33.0:07:47.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(188.371)}I've got an erection the size
+Dialogue: 0.0:07:45.33.0:07:47.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(184.413)}of an East coast lighthouse.
+Dialogue: 0.0:07:47.63.0:07:49.72.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(168.371)}and I'm coming home to share
+Dialogue: 0.0:07:47.63.0:07:49.72.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(211.413)}it with my beautiful wife.
+Dialogue: 0.0:07:49.80.0:07:50.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(325.413)}Okay.
+Dialogue: 0.0:07:50.70.0:07:51.53.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(272.413)}Wait -- really?
+Dialogue: 0.0:07:51.60.0:07:52.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(332.410)}Yes.
+Dialogue: 0.0:07:52.50.0:07:54.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(181.413)}Yes! See you in 10 minutes!
+Dialogue: 0.0:07:54.37.0:07:55.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(241.371)}[ cellphone beeps]
+Dialogue: 0.0:07:54.37.0:07:55.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(334.413)}Hey!
+Dialogue: 0.0:07:55.40.0:07:56.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(250.371)}I'm going to make
+Dialogue: 0.0:07:55.40.0:07:56.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(263.413)}love to my wife!
+Dialogue: 0.0:07:57.04.0:07:58.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(278.413)}Lookin' good.
+Dialogue: 0.0:07:58.44.0:07:59.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(289.410)}Slow down!
+Dialogue: 0.0:07:59.34.0:08:00.21.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(308.413)}My man!
+Dialogue: 0.0:08:00.28.0:08:01.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(295.413)}[ beeping ]
+Dialogue: 0.0:08:01.74.0:08:03.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(261.413)}Aw. geez. Rick.
+Dialogue: 0.0:08:03.08.0:08:04.74.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(259.368)}I-I don't know if I
+Dialogue: 0.0:08:03.08.0:08:04.74.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(207.413)}like this plan. you know?
+Dialogue: 0.0:08:04.81.0:08:07.65.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(262.370)}I mean. crowds.
+Dialogue: 0.0:08:04.81.0:08:07.65.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(197.413)}t-t-t-they have a tendency
+Dialogue: 0.0:08:07.72.0:08:08.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(285.368)}to make me
+Dialogue: 0.0:08:07.72.0:08:08.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(269.413)}really nervous.
+Dialogue: 0.0:08:08.78.0:08:09.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(284.413)}Morty. relax.
+Dialogue: 0.0:08:09.99.0:08:11.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(264.371)}It's just a bunch
+Dialogue: 0.0:08:09.99.0:08:11.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(218.410)}of 1s and 0s out there.
+Dialogue: 0.0:08:11.75.0:08:12.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(224.413)}You're gonna be fine.
+Dialogue: 0.0:08:13.02.0:08:14.22.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(236.413)}Just follow my lead.
+Dialogue: 0.0:08:14.29.0:08:15.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(191.413)}Yo. deejay. drop that beat.
+Dialogue: 0.0:08:15.86.0:08:17.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(229.413)}[ hip-hop beat plays]
+Dialogue: 0.0:08:17.76.0:08:18.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(213.413)}[ cheers and applause]
+Dialogue: 0.0:08:18.66.0:08:20.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(276.413)}Uh-oh. Morty.
+Dialogue: 0.0:08:20.23.0:08:23.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.368)}This crowd looks too small for
+Dialogue: 0.0:08:20.23.0:08:23.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(158.413)}one of {\i1}our{\i0} famous rap concerts.
+Dialogue: 0.0:08:23.40.0:08:25.26.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(241.368)}I don't think we can
+Dialogue: 0.0:08:23.40.0:08:25.26.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(219.413)}perform our new song.
+Dialogue: 0.0:08:25.33.0:08:27.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(262.371)}"The Recipe for
+Dialogue: 0.0:08:25.33.0:08:27.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(188.412)}Concentrated Dark Matter."
+Dialogue: 0.0:08:27.57.0:08:28.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(234.413)}for a crowd this tiny.
+Dialogue: 0.0:08:28.80.0:08:30.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(211.413)}You got that right. Rick.
+Dialogue: 0.0:08:30.41.0:08:33.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(213.413)}[ cheers and applause]
+Dialogue: 0.0:08:33.78.0:08:35.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(326.368)}RICK:
+Dialogue: 0.0:08:33.78.0:08:35.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.413)}Now that's [burps] more like it!
+Dialogue: 0.0:08:35.51.0:08:37.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(244.413)}Morty. here we go.
+Dialogue: 0.0:08:37.25.0:08:40.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(216.371)}Let me hear everybody
+Dialogue: 0.0:08:37.25.0:08:40.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(236.413)}say "Hey-oh!" yeah!
+Dialogue: 0.0:08:40.22.0:08:41.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(249.413)}[ crowd cheering ]
+Dialogue: 0.0:08:41.58.0:08:42.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(197.413)}All the ladies say. "Yeah!"
+Dialogue: 0.0:08:42.98.0:08:44.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(249.413)}[ladies cheering ]
+Dialogue: 0.0:08:44.09.0:08:46.28.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(240.371)}Everybody over 30.
+Dialogue: 0.0:08:44.09.0:08:46.28.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(210.413)}do this with your hands!
+Dialogue: 0.0:08:46.35.0:08:48.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(194.371)}Everybody with a red shirt.
+Dialogue: 0.0:08:46.35.0:08:48.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(238.413)}jump up and down!
+Dialogue: 0.0:08:48.99.0:08:50.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(295.413)}[ beeping ]
+Dialogue: 0.0:08:55.96.0:08:57.16.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(265.413)}[tires screech ]
+Dialogue: 0.0:09:00.77.0:09:01.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(272.410)}Mm. Mm. Mm.
+Dialogue: 0.0:09:01.97.0:09:03.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(245.412)}Yeah. don't move.
+Dialogue: 0.0:09:03.51.0:09:05.74.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(240.412)}Mm. mm. mm. mm!
+Dialogue: 0.0:09:05.81.0:09:07.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(336.410)}Mm!
+Dialogue: 0.0:09:07.18.0:09:08.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(213.413)}[ cheers and applause]
+Dialogue: 0.0:09:08.44.0:09:09.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(163.371)}Yo. everyone whose first name
+Dialogue: 0.0:09:08.44.0:09:09.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(249.413)}begins with an "L"
+Dialogue: 0.0:09:09.98.0:09:12.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(181.371)}who isn't Hispanic. walk in a
+Dialogue: 0.0:09:09.98.0:09:12.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(158.410)}circle the same number of times
+Dialogue: 0.0:09:12.68.0:09:15.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.371)}as the square root
+Dialogue: 0.0:09:12.68.0:09:15.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(227.413)}of your age times 10!
+Dialogue: 0.0:09:15.42.0:09:18.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(295.413)}[ beeping ]
+Dialogue: 0.0:09:18.62.0:09:19.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(289.413)}Run. Morty!
+Dialogue: 0.0:09:19.52.0:09:20.72.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(192.413)}Before the system reboots!
+Dialogue: 0.0:09:20.79.0:09:22.16.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(281.413)}[squeaking ]
+Dialogue: 0.0:09:22.22.0:09:23.28.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(310.368)}JERRY:
+Dialogue: 0.0:09:22.22.0:09:23.28.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(231.410)}Yeah! You like that?
+Dialogue: 0.0:09:23.36.0:09:25.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(194.410)}Now who's unremarkable?
+Dialogue: 0.0:09:25.46.0:09:26.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(211.413)}You hungry for apples?
+Dialogue: 0.0:09:27.00.0:09:28.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(213.413)}[squeaking intensifies]
+Dialogue: 0.0:09:28.56.0:09:30.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(167.413)}Are you hungry...for...apples?!
+Dialogue: 0.0:09:30.67.0:09:33.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(243.413)}[squeaking stops]
+Dialogue: 0.0:09:33.44.0:09:34.53.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(267.413)}[sighs deeply]
+Dialogue: 0.0:09:34.60.0:09:35.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(291.413)}[ chuckles]
+Dialogue: 0.0:09:35.67.0:09:37.26.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(281.413)}Oh. my God.
+Dialogue: 0.0:09:37.34.0:09:40.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(240.368)}That's the best sex
+Dialogue: 0.0:09:37.34.0:09:40.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(216.413)}I've ever had in my life.
+Dialogue: 0.0:09:40.24.0:09:44.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(244.413)}It's...it's...too good.
+Dialogue: 0.0:09:44.55.0:09:46.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(202.412)}I don't deserve this. Beth.
+Dialogue: 0.0:09:46.85.0:09:48.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(292.410)}I'm a fraud.
+Dialogue: 0.0:09:49.02.0:09:49.99.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(267.412)}Oh. man. Rick!
+Dialogue: 0.0:09:50.05.0:09:51.31.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(174.413)}W-w-w-where we running to?
+Dialogue: 0.0:09:51.39.0:09:52.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(227.370)}Out of the simulation.
+Dialogue: 0.0:09:51.39.0:09:52.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(324.413)}Morty.
+Dialogue: 0.0:09:52.69.0:09:54.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(218.371)}Normally. the chamber
+Dialogue: 0.0:09:52.69.0:09:54.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(206.413)}operates like a treadmill.
+Dialogue: 0.0:09:54.72.0:09:56.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(230.368)}with the virtual world
+Dialogue: 0.0:09:54.72.0:09:56.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(212.413)}disappearing behind us
+Dialogue: 0.0:09:56.56.0:09:58.53.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(188.371)}and being rendered in front
+Dialogue: 0.0:09:56.56.0:09:58.53.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(182.413)}of us as we move through it.
+Dialogue: 0.0:09:58.59.0:10:01.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(193.371)}but while it's frozen. Morty.
+Dialogue: 0.0:09:58.59.0:10:01.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(263.413)}we can get to...
+Dialogue: 0.0:10:01.63.0:10:03.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(301.413)}the edge.
+Dialogue: 0.0:10:03.36.0:10:04.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(286.413)}Here we go.
+Dialogue: 0.0:10:04.43.0:10:05.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(299.413)}Holy crap!
+Dialogue: 0.0:10:05.37.0:10:06.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(256.413)}Come on. Morty.
+Dialogue: 0.0:10:06.40.0:10:07.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(307.413)}[grunts]
+Dialogue: 0.0:10:08.00.0:10:10.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(198.413)}Sir. they're over the edge.
+Dialogue: 0.0:10:10.11.0:10:11.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(272.413)}Yes. they are.
+Dialogue: 0.0:10:11.27.0:10:14.21.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(240.413)}Just...as...planned.
+Dialogue: 0.0:10:14.28.0:10:18.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(269.413)}[evil laughter]
+Dialogue: 0.0:10:18.18.0:10:20.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(243.371)}Oh. this is going to
+Dialogue: 0.0:10:18.18.0:10:20.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(235.410)}be such a mindfuck!
+Dialogue: 0.0:10:22.25.0:10:24.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(172.371)}Keep your eyes peeled for the
+Dialogue: 0.0:10:22.25.0:10:24.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(160.413)}central processing room. Morty.
+Dialogue: 0.0:10:24.55.0:10:26.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(209.371)}That's how we're gonna
+Dialogue: 0.0:10:24.55.0:10:26.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.410)}scam these idiots.
+Dialogue: 0.0:10:26.32.0:10:28.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(179.371)}So. hey. why do these aliens
+Dialogue: 0.0:10:26.32.0:10:28.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(181.413)}keep coming after you. Rick.
+Dialogue: 0.0:10:28.69.0:10:30.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(293.371)}if you're so
+Dialogue: 0.0:10:28.69.0:10:30.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(199.410)}much smarter than them?
+Dialogue: 0.0:10:30.19.0:10:31.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(257.368)}It's an obsession
+Dialogue: 0.0:10:30.19.0:10:31.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(227.413)}for them at this point.
+Dialogue: 0.0:10:31.83.0:10:33.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(193.371)}The Zi[burps]gerions have
+Dialogue: 0.0:10:31.83.0:10:33.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(215.413)}been trying to outsmart
+Dialogue: 0.0:10:33.73.0:10:34.99.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(235.413)}me for years. Morty.
+Dialogue: 0.0:10:35.06.0:10:37.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(240.371)}Every time they do.
+Dialogue: 0.0:10:35.06.0:10:37.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(186.413)}I'm one step ahead of them.
+Dialogue: 0.0:10:37.13.0:10:38.19.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(331.410)}Aha!
+Dialogue: 0.0:10:38.27.0:10:39.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(286.413)}Here we go.
+Dialogue: 0.0:10:40.77.0:10:42.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(197.371)}Grab as many processors
+Dialogue: 0.0:10:40.77.0:10:42.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(208.413)}as you can carry. Morty.
+Dialogue: 0.0:10:42.64.0:10:44.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(151.413)}These guys aren't good at much.
+Dialogue: 0.0:10:44.11.0:10:46.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(221.371)}but they're {\i1}really{\i0} good
+Dialogue: 0.0:10:44.11.0:10:46.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(218.413)}at making these chips.
+Dialogue: 0.0:10:47.71.0:10:49.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(212.371)}RICK: I've got so many.
+Dialogue: 0.0:10:47.71.0:10:49.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(200.413)}I can barely hold them all.
+Dialogue: 0.0:10:49.34.0:10:50.28.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(291.413)}[ chuckles]
+Dialogue: 0.0:10:50.35.0:10:51.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(303.368)}Look at --
+Dialogue: 0.0:10:50.35.0:10:51.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(290.410)}look at this.
+Dialogue: 0.0:10:51.41.0:10:52.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(227.413)}Oops. I dropped one.
+Dialogue: 0.0:10:52.48.0:10:53.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(192.413)}Don't worry about it. Morty.
+Dialogue: 0.0:10:53.85.0:10:55.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(215.371)}There's plenty of them.
+Dialogue: 0.0:10:53.85.0:10:55.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(249.413)}you little goofball.
+Dialogue: 0.0:10:55.38.0:10:56.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(279.413)}[ both laugh ]
+Dialogue: 0.0:10:56.52.0:10:58.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(243.371)}Come here. Morty!
+Dialogue: 0.0:10:56.52.0:10:58.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(280.413)}Oh. I gotcha!
+Dialogue: 0.0:10:58.12.0:10:59.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(221.413)}Come on. quit it. Rick!
+Dialogue: 0.0:10:59.09.0:11:00.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(321.368)}Quit it!
+Dialogue: 0.0:10:59.09.0:11:00.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(304.413)}[laughs]
+Dialogue: 0.0:11:00.49.0:11:02.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(202.371)}Nothing wrong with just a
+Dialogue: 0.0:11:00.49.0:11:02.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(196.413)}little bit of horseplay every
+Dialogue: 0.0:11:02.46.0:11:03.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(208.412)}now and then. little fella.
+Dialogue: 0.0:11:08.53.0:11:09.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(258.413)}[glass shatters]
+Dialogue: 0.0:11:15.74.0:11:16.97.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(194.413)}Wow. What do you know?
+Dialogue: 0.0:11:17.04.0:11:18.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(232.413)}Huh. That was easy.
+Dialogue: 0.0:11:18.51.0:11:20.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(223.413)}Totes malotes. dawg.
+Dialogue: 0.0:11:20.98.0:11:22.10.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(186.370)}Just kind of hard to believe.
+Dialogue: 0.0:11:20.98.0:11:22.10.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(292.413)}you know?
+Dialogue: 0.0:11:22.18.0:11:23.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(257.413)}Believe it. Morty.
+Dialogue: 0.0:11:23.65.0:11:25.88.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(159.371)}And once again. I'm flying away
+Dialogue: 0.0:11:23.65.0:11:25.88.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(189.413)}with everything I can carry.
+Dialogue: 0.0:11:25.95.0:11:28.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(250.371)}and the Zigerions
+Dialogue: 0.0:11:25.95.0:11:28.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(235.413)}got nothing of mine.
+Dialogue: 0.0:11:33.72.0:11:34.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(313.413)}[sighs]
+Dialogue: 0.0:11:34.62.0:11:35.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(270.370)}Mr. Marklevitz.
+Dialogue: 0.0:11:34.62.0:11:35.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(259.413)}do you have a...
+Dialogue: 0.0:11:35.89.0:11:37.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(269.410)}minute to talk?
+Dialogue: 0.0:11:37.13.0:11:38.53.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(261.371)}[snaps fingers]
+Dialogue: 0.0:11:37.13.0:11:38.53.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(332.410)}Yes.
+Dialogue: 0.0:11:38.59.0:11:40.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(253.412)}Look. I'm a fraud.
+Dialogue: 0.0:11:40.23.0:11:41.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(230.412)}I mean. let's face it --
+Dialogue: 0.0:11:41.76.0:11:44.23.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(190.371)}"Hungry For Apples" is just
+Dialogue: 0.0:11:41.76.0:11:44.23.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(222.413)}a rip-off of "Got Milk?"
+Dialogue: 0.0:11:44.30.0:11:45.53.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(238.410)}It's almost identical.
+Dialogue: 0.0:11:45.60.0:11:46.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(261.371)}[snaps fingers]
+Dialogue: 0.0:11:45.60.0:11:46.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(332.410)}Yes.
+Dialogue: 0.0:11:46.87.0:11:48.10.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(313.371)}[sighs]
+Dialogue: 0.0:11:46.87.0:11:48.10.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(325.413)}Okay.
+Dialogue: 0.0:11:48.17.0:11:49.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(272.410)}I deserve that.
+Dialogue: 0.0:11:49.44.0:11:52.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(259.371)}Umm...I guess...
+Dialogue: 0.0:11:49.44.0:11:52.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(208.413)}I'll just pack up my desk.
+Dialogue: 0.0:11:52.77.0:11:54.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(261.371)}[snaps fingers]
+Dialogue: 0.0:11:52.77.0:11:54.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(332.410)}Yes.
+Dialogue: 0.0:11:54.08.0:11:56.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(309.413)}[ crying ]
+Dialogue: 0.0:11:56.84.0:11:59.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(296.371)}[sobbing ]
+Dialogue: 0.0:11:56.84.0:11:59.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(281.413)}Oh. my God.
+Dialogue: 0.0:11:59.51.0:12:02.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(187.410)}Wait. You know what?! No!
+Dialogue: 0.0:12:02.15.0:12:04.14.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(224.371)}The milk people don't
+Dialogue: 0.0:12:02.15.0:12:04.14.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(255.413)}have a patent on
+Dialogue: 0.0:12:04.22.0:12:06.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(187.413)}simple rhetorical questions!
+Dialogue: 0.0:12:06.19.0:12:08.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(165.371)}There's not even a single word
+Dialogue: 0.0:12:06.19.0:12:08.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(179.413)}in "Hungry For Apples" that's
+Dialogue: 0.0:12:08.72.0:12:10.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(224.413)}shared by "Got Milk?"
+Dialogue: 0.0:12:10.63.0:12:12.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(261.371)}It's a completely
+Dialogue: 0.0:12:10.63.0:12:12.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(259.413)}different slogan.
+Dialogue: 0.0:12:12.53.0:12:13.83.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(286.410)}It's different!
+Dialogue: 0.0:12:13.90.0:12:15.83.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(209.410)}And I shouldn't be {\i1}fired.{\i0}
+Dialogue: 0.0:12:15.90.0:12:17.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(224.413)}I should be {\i1}promoted!{\i0}
+Dialogue: 0.0:12:17.63.0:12:18.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(218.371)}- [snaps fingers] Yes.
+Dialogue: 0.0:12:17.63.0:12:18.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(316.410)}- Yeah!
+Dialogue: 0.0:12:18.87.0:12:19.83.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(276.413)}Wait. Really?
+Dialogue: 0.0:12:19.90.0:12:20.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(218.371)}- [snaps fingers] Yes.
+Dialogue: 0.0:12:19.90.0:12:20.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(324.410)}- Yes!
+Dialogue: 0.0:12:21.04.0:12:22.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(280.370)}I mean. I'm --
+Dialogue: 0.0:12:21.04.0:12:22.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(235.413)}it may be derivative.
+Dialogue: 0.0:12:22.67.0:12:24.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(191.368)}but it's the most successful
+Dialogue: 0.0:12:22.67.0:12:24.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(178.413)}campaign to come out of {\i1}this{\i0}
+Dialogue: 0.0:12:24.57.0:12:25.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(222.413)}agency in a long time.
+Dialogue: 0.0:12:25.57.0:12:26.97.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(261.371)}[snaps fingers]
+Dialogue: 0.0:12:25.57.0:12:26.97.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(332.410)}Yes.
+Dialogue: 0.0:12:27.04.0:12:28.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(183.371)}I-I'm not saying it should win
+Dialogue: 0.0:12:27.04.0:12:28.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(192.412)}an award for commercials.
+Dialogue: 0.0:12:29.04.0:12:31.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(215.371)}but it could certainly be
+Dialogue: 0.0:12:29.04.0:12:31.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(211.410)}{\i1}nominated{\i0} for an award
+Dialogue: 0.0:12:31.11.0:12:33.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(186.371)}for commercials specifically
+Dialogue: 0.0:12:31.11.0:12:33.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(275.413)}about apples.
+Dialogue: 0.0:12:33.08.0:12:34.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(173.413)}like...an Appley or something.
+Dialogue: 0.0:12:34.78.0:12:35.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(261.371)}[snaps fingers]
+Dialogue: 0.0:12:34.78.0:12:35.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(332.410)}Yes.
+Dialogue: 0.0:12:35.88.0:12:36.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(257.371)}Is there really an
+Dialogue: 0.0:12:35.88.0:12:36.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(208.413)}award called the Appley
+Dialogue: 0.0:12:37.02.0:12:38.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(148.413)}for Apple-Related ad campaigns?
+Dialogue: 0.0:12:38.22.0:12:39.28.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(261.371)}[snaps fingers]
+Dialogue: 0.0:12:38.22.0:12:39.28.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(332.410)}Yes.
+Dialogue: 0.0:12:39.35.0:12:40.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(198.368)}- Could we nominate me?
+Dialogue: 0.0:12:39.35.0:12:40.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(218.413)}- [snaps fingers] Yes.
+Dialogue: 0.0:12:40.66.0:12:42.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(299.413)}Holy crap!
+Dialogue: 0.0:12:42.49.0:12:43.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(295.413)}[ beeping ]
+Dialogue: 0.0:12:48.26.0:12:49.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(276.413)}Get in. Morty.
+Dialogue: 0.0:12:49.76.0:12:52.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(158.371)}I'm gonna [burps] be able to use
+Dialogue: 0.0:12:49.76.0:12:52.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(157.413)}these processors to make some
+Dialogue: 0.0:12:52.43.0:12:54.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(187.413)}real important science stuff.
+Dialogue: 0.0:12:55.27.0:12:56.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(245.413)}[ keypad beeping ]
+Dialogue: 0.0:12:56.70.0:12:57.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(334.410)}Huh.
+Dialogue: 0.0:12:57.97.0:12:59.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.371)}I thought I entered
+Dialogue: 0.0:12:57.97.0:12:59.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(269.413)}the code right.
+Dialogue: 0.0:12:59.24.0:13:00.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(245.413)}[ keypad beeping ]
+Dialogue: 0.0:13:07.48.0:13:08.97.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(206.412)}Wha -- well. what's this?
+Dialogue: 0.0:13:09.05.0:13:11.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(163.413)}W-what could this possibly be?
+Dialogue: 0.0:13:11.59.0:13:14.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(233.368)}Because it looks like
+Dialogue: 0.0:13:11.59.0:13:14.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(187.413)}you're inside a simulation...
+Dialogue: 0.0:13:14.26.0:13:17.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(240.410)}inside a simulation.
+Dialogue: 0.0:13:17.16.0:13:18.72.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(216.413)}You're still on the ship.
+Dialogue: 0.0:13:18.79.0:13:20.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(185.413)}Game-day bucket go boom.
+Dialogue: 0.0:13:20.43.0:13:22.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(235.370)}Sir. the. uh. doctor's
+Dialogue: 0.0:13:20.43.0:13:22.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(184.413)}appointment to examine the
+Dialogue: 0.0:13:23.00.0:13:25.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(228.371)}discoloration on your
+Dialogue: 0.0:13:23.00.0:13:25.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(233.413)}butthole flaps was --
+Dialogue: 0.0:13:25.17.0:13:26.53.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(243.413)}Too loud. Cynthia.
+Dialogue: 0.0:13:26.60.0:13:27.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(197.413)}Too loud and too specific.
+Dialogue: 0.0:13:27.84.0:13:28.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(326.410)}Uhh...
+Dialogue: 0.0:13:28.84.0:13:29.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(291.413)}[ chuckles]
+Dialogue: 0.0:13:30.04.0:13:31.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(189.368)}We've known how to make
+Dialogue: 0.0:13:30.04.0:13:31.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(202.410)}concentrated dark matter
+Dialogue: 0.0:13:31.91.0:13:33.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(266.413)}for a long time.
+Dialogue: 0.0:13:33.98.0:13:39.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(145.368)}But now we {\i1}also{\i0} know the code to
+Dialogue: 0.0:13:33.98.0:13:39.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(158.413)}your fabled safe. Rick Sanchez!
+Dialogue: 0.0:13:39.48.0:13:43.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(219.371)}All your most valuable
+Dialogue: 0.0:13:39.48.0:13:43.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(204.410)}secrets will now be ours!
+Dialogue: 0.0:13:43.08.0:13:44.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(200.371)}Uh. yeah. until I get home
+Dialogue: 0.0:13:43.08.0:13:44.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(191.413)}before you and change the
+Dialogue: 0.0:13:44.82.0:13:46.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(280.370)}combination.
+Dialogue: 0.0:13:44.82.0:13:46.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(237.413)}you bunch of idiots!
+Dialogue: 0.0:13:46.42.0:13:47.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(245.371)}That is why you're
+Dialogue: 0.0:13:46.42.0:13:47.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(235.413)}never getting home.
+Dialogue: 0.0:13:47.82.0:13:48.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(299.410)}Get them!
+Dialogue: 0.0:13:49.02.0:13:50.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(307.413)}[grunts]
+Dialogue: 0.0:13:50.43.0:13:52.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(187.413)}[aliens shouting. groaning ]
+Dialogue: 0.0:13:52.59.0:13:55.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(289.413)}Run. Morty!
+Dialogue: 0.0:13:55.50.0:13:57.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(267.413)}[ both panting ]
+Dialogue: 0.0:14:02.67.0:14:04.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(281.413)}Oh. my God!
+Dialogue: 0.0:14:08.84.0:14:10.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(279.413)}[ beep. click]
+Dialogue: 0.0:14:13.75.0:14:16.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(209.413)}[ mechanical breathing ]
+Dialogue: 0.0:14:20.99.0:14:21.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(337.410)}Ow!
+Dialogue: 0.0:14:25.79.0:14:26.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(261.413)}[ click. whoosh ]
+Dialogue: 0.0:14:26.73.0:14:29.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(239.413)}[aliens screaming ]
+Dialogue: 0.0:14:29.10.0:14:31.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(267.413)}[ both panting ]
+Dialogue: 0.0:14:31.13.0:14:32.26.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(266.371)}I got to tell you.
+Dialogue: 0.0:14:31.13.0:14:32.26.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(278.413)}this morning.
+Dialogue: 0.0:14:32.33.0:14:33.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(249.368)}I didn't even know
+Dialogue: 0.0:14:32.33.0:14:33.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(241.410)}this award existed.
+Dialogue: 0.0:14:33.87.0:14:35.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(228.413)}Now I'm {\i1}holding{\i0} one.
+Dialogue: 0.0:14:35.44.0:14:37.74.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(291.410)}And...um...
+Dialogue: 0.0:14:37.81.0:14:41.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(180.371)}look. I want to say that today
+Dialogue: 0.0:14:37.81.0:14:41.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(179.413)}was the best day of my life...
+Dialogue: 0.0:14:41.64.0:14:45.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(225.370)}but...the truth is. it's --
+Dialogue: 0.0:14:41.64.0:14:45.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(170.413)}it's more meaningful than that.
+Dialogue: 0.0:14:45.85.0:14:46.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(328.368)}MAN:
+Dialogue: 0.0:14:45.85.0:14:46.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(308.413)}My man!
+Dialogue: 0.0:14:46.88.0:14:48.14.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(233.413)}Yes. Thank you. sir.
+Dialogue: 0.0:14:48.22.0:14:50.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(267.413)}[sighs deeply]
+Dialogue: 0.0:14:50.08.0:14:53.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(212.413)}I...am...finally complete!
+Dialogue: 0.0:14:53.79.0:14:55.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(295.413)}[ beeping ]
+Dialogue: 0.0:14:56.62.0:14:59.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(198.413)}My -- my -- my -- my man!
+Dialogue: 0.0:15:02.20.0:15:03.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(331.410)}Aah!
+Dialogue: 0.0:15:03.70.0:15:04.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(265.410)}What the hell?!
+Dialogue: 0.0:15:05.03.0:15:08.26.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(295.413)}[ beeping ]
+Dialogue: 0.0:15:08.34.0:15:09.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(342.410)}No.
+Dialogue: 0.0:15:09.54.0:15:10.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(309.371)}- Jerry?!
+Dialogue: 0.0:15:09.54.0:15:10.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(322.410)}- Dad!
+Dialogue: 0.0:15:10.54.0:15:12.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(195.413)}What are you doing here?
+Dialogue: 0.0:15:12.07.0:15:13.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(265.371)}W-why are you
+Dialogue: 0.0:15:12.07.0:15:13.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(222.410)}dressed like a waiter?
+Dialogue: 0.0:15:13.24.0:15:14.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(307.368)}Screw it.
+Dialogue: 0.0:15:13.24.0:15:14.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(234.410)}We don't have time.
+Dialogue: 0.0:15:14.44.0:15:15.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(300.410)}Come on.
+Dialogue: 0.0:15:15.34.0:15:16.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(296.371)}[sobbing ]
+Dialogue: 0.0:15:15.34.0:15:16.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(342.410)}No!
+Dialogue: 0.0:15:23.25.0:15:25.22.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(263.413)}[alarm blaring ]
+Dialogue: 0.0:15:25.29.0:15:26.22.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(307.410)}Ohhhhh!
+Dialogue: 0.0:15:28.39.0:15:29.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(295.371)}[ beeping ]
+Dialogue: 0.0:15:28.39.0:15:29.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(331.410)}Aah!
+Dialogue: 0.0:15:49.11.0:15:51.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(331.368)}ALL:
+Dialogue: 0.0:15:49.11.0:15:51.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(266.410)}Yes! Yes! Yes!
+Dialogue: 0.0:15:59.62.0:16:00.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(335.410)}Oof!
+Dialogue: 0.0:16:01.86.0:16:03.26.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(272.413)}Man up. Jerry!
+Dialogue: 0.0:16:03.32.0:16:04.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(249.371)}I may need you to
+Dialogue: 0.0:16:03.32.0:16:04.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(260.410)}work the lasers.
+Dialogue: 0.0:16:04.83.0:16:06.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(295.413)}[ beeping ]
+Dialogue: 0.0:16:07.90.0:16:08.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(309.413)}[slurps]
+Dialogue: 0.0:16:08.80.0:16:09.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(308.413)}[gasps]
+Dialogue: 0.0:16:09.70.0:16:11.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(263.413)}[alarm blaring ]
+Dialogue: 0.0:16:17.41.0:16:19.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(303.370)}Oh. man!
+Dialogue: 0.0:16:17.41.0:16:19.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(181.413)}They're hot on our tail. Rick!
+Dialogue: 0.0:16:19.31.0:16:21.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(192.371)}I guess they really {\i1}do{\i0} have
+Dialogue: 0.0:16:19.31.0:16:21.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(198.410)}concentrated dark matter.
+Dialogue: 0.0:16:21.38.0:16:22.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(163.371)}Well. you know how to make it.
+Dialogue: 0.0:16:21.38.0:16:22.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(261.413)}too. right. Rick?
+Dialogue: 0.0:16:22.94.0:16:23.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(203.413)}Yeah. Yeah. yeah. yeah.
+Dialogue: 0.0:16:24.01.0:16:25.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(188.413)}Uh. check the engine room.
+Dialogue: 0.0:16:25.41.0:16:28.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(165.371)}We just need Cesium. Plutonic
+Dialogue: 0.0:16:25.41.0:16:28.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(193.412)}Quarks. and bottled water.
+Dialogue: 0.0:16:30.59.0:16:31.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(254.412)}It's all here. Rick!
+Dialogue: 0.0:16:31.65.0:16:32.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(281.371)}Wow. Morty.
+Dialogue: 0.0:16:31.65.0:16:32.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(282.413)}Lucky break.
+Dialogue: 0.0:16:32.75.0:16:33.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(252.410)}Grab that bucket.
+Dialogue: 0.0:16:33.99.0:16:37.19.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(153.371)}Okay. two parts Plutonic Quarks.
+Dialogue: 0.0:16:33.99.0:16:37.19.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(252.413)}one part Cesium.
+Dialogue: 0.0:16:37.26.0:16:38.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(270.413)}Okay. Uh-huh.
+Dialogue: 0.0:16:39.76.0:16:40.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(306.413)}[ fizzing ]
+Dialogue: 0.0:16:40.73.0:16:41.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(309.413)}All right.
+Dialogue: 0.0:16:41.96.0:16:43.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(189.371)}Now empty the water bottle
+Dialogue: 0.0:16:41.96.0:16:43.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(208.413)}into the bucket and pour
+Dialogue: 0.0:16:43.56.0:16:46.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(185.368)}it all into the fuel tank so we
+Dialogue: 0.0:16:43.56.0:16:46.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(187.413)}can get the hell out of here!
+Dialogue: 0.0:16:46.63.0:16:47.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(179.413)}What are you doing. Morty?!
+Dialogue: 0.0:16:47.77.0:16:48.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(258.410)}There's no time!
+Dialogue: 0.0:16:48.87.0:16:50.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(295.413)}[ beeping ]
+Dialogue: 0.0:16:53.74.0:16:55.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(271.413)}[stammering ]
+Dialogue: 0.0:16:55.38.0:16:57.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(315.412)}Oh. no.
+Dialogue: 0.0:16:57.11.0:16:58.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(289.410)}What the --
+Dialogue: 0.0:16:58.35.0:16:59.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(342.410)}No!
+Dialogue: 0.0:16:59.45.0:17:01.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(295.413)}[laughter]
+Dialogue: 0.0:17:04.62.0:17:06.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(245.413)}Oh. my God. Rick.
+Dialogue: 0.0:17:06.85.0:17:08.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(234.413)}How dumb are you?
+Dialogue: 0.0:17:08.59.0:17:10.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(185.410)}You're inside a simulation...
+Dialogue: 0.0:17:10.32.0:17:12.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(257.410)}of a simulation...
+Dialogue: 0.0:17:12.39.0:17:15.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(164.413)}inside another giant simulation!
+Dialogue: 0.0:17:15.20.0:17:16.53.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(304.413)}[laughs]
+Dialogue: 0.0:17:16.60.0:17:19.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(165.371)}W-We never had the recipe for
+Dialogue: 0.0:17:16.60.0:17:19.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(198.410)}concentrated dark matter.
+Dialogue: 0.0:17:19.40.0:17:20.99.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(265.410)}But we do {\i1}now!{\i0}
+Dialogue: 0.0:17:21.07.0:17:22.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(239.412)}We do now. sucka!
+Dialogue: 0.0:17:22.80.0:17:24.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.371)}You simulated my
+Dialogue: 0.0:17:22.80.0:17:24.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(222.413)}grandson's genitalia?!
+Dialogue: 0.0:17:25.01.0:17:27.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(247.368)}Y-Y-You bunch of
+Dialogue: 0.0:17:25.01.0:17:27.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(198.410)}diabolical sons of bitches!
+Dialogue: 0.0:17:27.51.0:17:29.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(206.371)}Kevin fought real hard to
+Dialogue: 0.0:17:27.51.0:17:29.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(220.413)}supervise that project.
+Dialogue: 0.0:17:29.91.0:17:31.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(227.371)}You said you weren't
+Dialogue: 0.0:17:29.91.0:17:31.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(244.413)}gonna tell anyone!
+Dialogue: 0.0:17:31.98.0:17:33.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(235.371)}I'm never gonna live
+Dialogue: 0.0:17:31.98.0:17:33.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(256.412)}this down. am I?
+Dialogue: 0.0:17:33.85.0:17:35.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(267.371)}All right. Okay.
+Dialogue: 0.0:17:33.85.0:17:35.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(194.413)}All right. great. Wonderful.
+Dialogue: 0.0:17:35.22.0:17:36.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(305.368)}You win.
+Dialogue: 0.0:17:35.22.0:17:36.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(215.413)}Can we go home now?
+Dialogue: 0.0:17:36.78.0:17:38.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(284.368)}I don't know.
+Dialogue: 0.0:17:36.78.0:17:38.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(304.413)}{\i1}Can{\i0} you?
+Dialogue: 0.0:17:38.49.0:17:39.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(304.410)}Ha! Nice.
+Dialogue: 0.0:17:39.42.0:17:41.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(287.413)}Okay. okay.
+Dialogue: 0.0:17:41.09.0:17:43.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(251.371)}Show this gullible
+Dialogue: 0.0:17:41.09.0:17:43.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(247.410)}turd to his shuttle.
+Dialogue: 0.0:17:43.12.0:17:44.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(248.410)}I'm done with him.
+Dialogue: 0.0:17:44.53.0:17:45.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(306.370)}Oh. wait.
+Dialogue: 0.0:17:44.53.0:17:45.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(232.413)}Let me get a picture.
+Dialogue: 0.0:17:45.53.0:17:46.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(263.413)}[shutter clicks]
+Dialogue: 0.0:17:46.43.0:17:47.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(217.410)}Aww. Look at his face.
+Dialogue: 0.0:17:48.03.0:17:50.16.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(204.371)}He's trying to figure out if
+Dialogue: 0.0:17:48.03.0:17:50.16.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(211.410)}he's in a simulation still.
+Dialogue: 0.0:17:50.23.0:17:51.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(267.413)}Are you. Rick?
+Dialogue: 0.0:17:51.27.0:17:52.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(303.413)}Are you?
+Dialogue: 0.0:17:52.70.0:17:53.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(304.413)}[laughs]
+Dialogue: 0.0:17:53.83.0:17:55.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(291.410)}You're not.
+Dialogue: 0.0:17:55.10.0:17:57.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(286.413)}Or {\i1}are{\i0} you?
+Dialogue: 0.0:17:59.07.0:18:02.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(175.371)}Oh. a-and. by the way. I don't
+Dialogue: 0.0:17:59.07.0:18:02.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(168.413)}have discolored butthole flaps.
+Dialogue: 0.0:18:02.08.0:18:03.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(273.371)}That was part
+Dialogue: 0.0:18:02.08.0:18:03.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(252.410)}of the simulation.
+Dialogue: 0.0:18:03.51.0:18:04.60.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(339.410)}Oh.
+Dialogue: 0.0:18:04.68.0:18:06.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(218.370)}Uh. sir. should I cancel
+Dialogue: 0.0:18:04.68.0:18:06.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(209.413)}that appointment. then?
+Dialogue: 0.0:18:06.21.0:18:07.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(179.413)}Yeah! Of course you should!
+Dialogue: 0.0:18:07.78.0:18:08.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(291.413)}[ chuckles]
+Dialogue: 0.0:18:08.98.0:18:10.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(291.413)}No. keep it.
+Dialogue: 0.0:18:10.08.0:18:11.31.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(236.371)}Move it up. actually.
+Dialogue: 0.0:18:10.08.0:18:11.31.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(297.413)}if you can.
+Dialogue: 0.0:18:16.16.0:18:17.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(326.368)}RICK:
+Dialogue: 0.0:18:16.16.0:18:17.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(164.413)}Hey. Jerry. don't worry about it.
+Dialogue: 0.0:18:17.56.0:18:19.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(165.371)}So what if the most meaningful
+Dialogue: 0.0:18:17.56.0:18:19.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(226.413)}day of your life was a
+Dialogue: 0.0:18:19.33.0:18:21.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(216.371)}simulation operating at
+Dialogue: 0.0:18:19.33.0:18:21.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(195.413)}minimum cap[burps]acity?
+Dialogue: 0.0:18:21.90.0:18:23.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(219.412)}You know what. Rick?
+Dialogue: 0.0:18:23.36.0:18:25.60.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(227.371)}Those guys took {\i1}you{\i0}
+Dialogue: 0.0:18:23.36.0:18:25.60.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(273.412)}for a ride. too.
+Dialogue: 0.0:18:25.67.0:18:27.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(181.371)}You should try having a little
+Dialogue: 0.0:18:25.67.0:18:27.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(103.413)}respect for the dummies of the Universe.
+Dialogue: 0.0:18:27.77.0:18:29.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(308.368)}now that
+Dialogue: 0.0:18:27.77.0:18:29.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(255.413)}you're one of us.
+Dialogue: 0.0:18:29.64.0:18:31.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(202.413)}Maybe you're right. Jerry.
+Dialogue: 0.0:18:31.14.0:18:32.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(242.413)}Maybe you're right.
+Dialogue: 0.0:18:32.97.0:18:34.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(249.413)}[aliens cheering ]
+Dialogue: 0.0:18:34.31.0:18:36.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(228.371)}[dance music plays]
+Dialogue: 0.0:18:34.31.0:18:36.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(234.413)}All right. everybody.
+Dialogue: 0.0:18:36.64.0:18:40.10.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(179.413)}Two parts Plutonic Quarks...
+Dialogue: 0.0:18:40.18.0:18:42.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(241.413)}One part Cesium...
+Dialogue: 0.0:18:42.48.0:18:43.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(306.413)}[ fizzing ]
+Dialogue: 0.0:18:43.78.0:18:45.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(281.370)}A-and listen.
+Dialogue: 0.0:18:43.78.0:18:45.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(195.413)}I'm sorry for yelling earlier.
+Dialogue: 0.0:18:46.05.0:18:48.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(271.368)}I-I couldn't ask
+Dialogue: 0.0:18:46.05.0:18:48.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(257.410)}for a better staff.
+Dialogue: 0.0:18:48.52.0:18:51.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(264.371)}I love you guys.
+Dialogue: 0.0:18:48.52.0:18:51.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(192.413)}and I love all your families.
+Dialogue: 0.0:18:51.93.0:18:55.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(201.413)}And the final ingredient...
+Dialogue: 0.0:18:57.53.0:18:58.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(310.368)}JERRY:
+Dialogue: 0.0:18:57.53.0:18:58.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(319.410)}Whoa!
+Dialogue: 0.0:18:58.67.0:19:00.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(265.368)}What the hell?!
+Dialogue: 0.0:18:58.67.0:19:00.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(165.413)}W-what happened back there?
+Dialogue: 0.0:19:00.77.0:19:03.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(160.371)}Why don't you ask the smartest
+Dialogue: 0.0:19:00.77.0:19:03.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.413)}people in the Universe. Jerry?
+Dialogue: 0.0:19:03.40.0:19:05.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(300.371)}Oh. yeah.
+Dialogue: 0.0:19:03.40.0:19:05.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(245.413)}[ burps] you can't.
+Dialogue: 0.0:19:05.24.0:19:06.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(271.413)}They blew up.
+Dialogue: 0.0:19:06.67.0:19:08.14.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(313.413)}[sighs]
+Dialogue: 0.0:19:08.21.0:19:09.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(315.413)}[ beep]
+Dialogue: 0.0:19:09.34.0:19:12.51.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(217.413)}[ {\i1}"Baker Street" plays{\i0} ]
+Dialogue: 0.0:19:12.58.0:19:15.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(283.413)}[vocalizing ]
+Dialogue: 0.0:19:16.42.0:19:21.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(209.413)}[vocalizing out of sync]
+Dialogue: 0.0:19:27.46.0:19:30.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(191.413)}["Baker Street" continues]
+Dialogue: 0.0:19:46.98.0:19:48.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(310.368)}JERRY:
+Dialogue: 0.0:19:46.98.0:19:48.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(333.410)}So...
+Dialogue: 0.0:19:48.18.0:19:49.67.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(241.413)}what do you think?
+Dialogue: 0.0:19:50.69.0:19:51.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(283.410)}You're fired.
+Dialogue: 0.0:19:51.59.0:19:52.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(321.410)}Wha--
+Dialogue: 0.0:19:52.79.0:19:55.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(176.368)}But t-this idea was tested in a
+Dialogue: 0.0:19:52.79.0:19:55.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(194.410)}state-of-the-art simulation.
+Dialogue: 0.0:19:55.89.0:19:57.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(252.370)}Well. then. it was
+Dialogue: 0.0:19:55.89.0:19:57.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(232.410)}a {\i1}terrible{\i0} simulation.
+Dialogue: 0.0:19:57.56.0:19:59.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(311.410)}Get out.
+Dialogue: 0.0:20:01.03.0:20:02.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(225.413)}[door opens. closes]
+Dialogue: 0.0:20:02.43.0:20:05.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(153.371)}Man. how does a guy like that go
+Dialogue: 0.0:20:02.43.0:20:05.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(147.410)}home and have sex with his wife?
+Dialogue: 0.0:20:06.73.0:20:07.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(290.413)}Hey. Morty.
+Dialogue: 0.0:20:07.67.0:20:08.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(319.410)}What?
+Dialogue: 0.0:20:08.57.0:20:09.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(257.413)}Hey. little buddy.
+Dialogue: 0.0:20:09.64.0:20:11.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(242.371)}H-h-how you doing
+Dialogue: 0.0:20:09.64.0:20:11.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(248.413)}in here right now?
+Dialogue: 0.0:20:11.51.0:20:13.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(261.371)}Aw. geez. Rick.
+Dialogue: 0.0:20:11.51.0:20:13.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(191.413)}What are you doing. man?
+Dialogue: 0.0:20:13.47.0:20:14.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(283.371)}Y-y-you're a
+Dialogue: 0.0:20:13.47.0:20:14.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(259.413)}good kid. Morty.
+Dialogue: 0.0:20:14.94.0:20:16.97.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(230.371)}Y-you're a real I-little
+Dialogue: 0.0:20:14.94.0:20:16.97.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(242.413)}c-character. Morty.
+Dialogue: 0.0:20:17.04.0:20:18.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(308.413)}Oh. boy.
+Dialogue: 0.0:20:18.31.0:20:20.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(207.371)}You know. I had a really
+Dialogue: 0.0:20:18.31.0:20:20.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(191.413)}rocky road today. M-Morty.
+Dialogue: 0.0:20:20.98.0:20:23.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(223.371)}You're my little friend.
+Dialogue: 0.0:20:20.98.0:20:23.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(291.413)}aren't you?
+Dialogue: 0.0:20:23.12.0:20:24.21.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(313.413)}[sighs]
+Dialogue: 0.0:20:24.29.0:20:26.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(137.371)}We had some good times together.
+Dialogue: 0.0:20:24.29.0:20:26.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(270.413)}huh. M-Morty?
+Dialogue: 0.0:20:26.52.0:20:28.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(243.371)}We -- you're a real
+Dialogue: 0.0:20:26.52.0:20:28.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(205.410)}true hero out in the field.
+Dialogue: 0.0:20:28.66.0:20:31.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(205.371)}You're a li-- you're a real
+Dialogue: 0.0:20:28.66.0:20:31.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(197.413)}trooper. huh. M-M-Morty?
+Dialogue: 0.0:20:31.86.0:20:32.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(168.413)}Have you been drinking. Rick?
+Dialogue: 0.0:20:33.03.0:20:34.26.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(174.413)}I really appreciate you. Morty.
+Dialogue: 0.0:20:34.33.0:20:35.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(278.413)}O-okay. cool.
+Dialogue: 0.0:20:35.80.0:20:37.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(250.371)}A-all right. Rick --
+Dialogue: 0.0:20:35.80.0:20:37.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(214.413)}you little son of a bitch!
+Dialogue: 0.0:20:37.53.0:20:39.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(181.413)}Y-y -- are you a simulation?!
+Dialogue: 0.0:20:39.43.0:20:40.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(178.413)}Huh?! Are you a simulation?!
+Dialogue: 0.0:20:40.84.0:20:42.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(288.410)}No! No! No!
+Dialogue: 0.0:20:42.37.0:20:43.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(211.410)}You little son of a bitch!
+Dialogue: 0.0:20:43.64.0:20:44.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(296.413)}[gasping ]
+Dialogue: 0.0:20:44.67.0:20:46.23.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(244.413)}I-I-I'm sorry. Morty.
+Dialogue: 0.0:20:46.31.0:20:47.54.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.371)}Y-you're a good --
+Dialogue: 0.0:20:46.31.0:20:47.54.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(203.413)}you're a good kid. Morty.
+Dialogue: 0.0:20:47.61.0:20:48.74.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(325.410)}Geez!
+Dialogue: 0.0:20:48.81.0:20:49.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.371)}Y-you're a good --
+Dialogue: 0.0:20:48.81.0:20:49.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(247.413)}you're a good kid.
+Dialogue: 0.0:20:49.98.0:20:51.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(284.413)}Oh. my god!
+Dialogue: 0.0:20:51.15.0:20:52.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(299.413)}[snoring ]
+Dialogue: 0.0:20:52.18.0:20:54.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(232.410)}W-W-What the hell?
+Dialogue: 0.0:20:54.78.0:20:55.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(289.410)}What a life.
+Dialogue: 0.0:20:57.59.0:20:58.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(212.413)}Did you get any of that?
+Dialogue: 0.0:20:59.05.0:21:00.89.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.71)}It's a good-a show!
