@@ -1,0 +1,799 @@
+WEBVTT
+
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1038
+
+[V4+ Styles]
+Format: Name. Fontname. Fontsize. PrimaryColour. SecondaryColour. OutlineColour. BackColour. Bold. Italic. Underline. StrikeOut. ScaleX. ScaleY. Spacing. Angle. BorderStyle. Outline. Shadow. Alignment. MarginL. MarginR. MarginV. Encoding
+Style: Default.Arial.72.1.&H0000FFF5.&H0000FFFF.&H00000000.&H00000000.0.0.0.0.100.100.0.0.3.1.1.2.10.10.10.1
+
+[Events]
+Format: Layer. Start. End. Style. Name. MarginL. MarginR. MarginV. Effect. Text
+Dialogue: 0.0:01:38.15.0:01:41.77.Default..0.0.0..{\c&H12ff00&\i1\b1}Transcribed by Clarity{\b0\i0}
+Dialogue: 0.0:02:48.63.0:02:50.10.Default..0.0.0..{\c&H00ffea&}Do you have any food?
+Dialogue: 0.0:02:52.50.0:02:54.07.Default..0.0.0..{\c&H00ffea&}I'm very hungry.
+Dialogue: 0.0:03:16.43.0:03:17.83.Default..0.0.0..{\c&H00ffea&}Let down your hair.
+Dialogue: 0.0:03:20.43.0:03:22.47.Default..0.0.0..{\c&H00ffea&}You do not pass for a boy.
+Dialogue: 0.0:03:25.77.0:03:27.17.Default..0.0.0..{\c&H00ffea&}Let down your hair.
+Dialogue: 0.0:03:38.67.0:03:40.23.Default..0.0.0..{\c&H00ffea&}I'm not afraid.
+Dialogue: 0.0:03:41.61.0:03:45.17.Default..0.0.0..{\c&H00ffea&}Travelers spoke in these\Nhills of the hero Robin Hood.
+Dialogue: 0.0:03:46.07.0:03:47.80.Default..0.0.0..{\c&H00ffea&}He protected the weak.
+Dialogue: 0.0:03:55.57.0:03:57.14.Default..0.0.0..{\c&H00ffea&}Nobody protects the weak.
+Dialogue: 0.0:03:59.30.0:04:00.77.Default..0.0.0..{\c&H00ffea&}And he was no hero.
+Dialogue: 0.0:04:01.00.0:04:03.90.Default..0.0.0..{\c&H00ffea&}He observed thrice a day\Nand gave silver the poor.
+Dialogue: 0.0:04:03.98.0:04:06.20.Default..0.0.0..{\c&H00ffea&}And he had the love of Lady Marian.
+Dialogue: 0.0:04:06.28.0:04:07.66.Default..0.0.0..{\c&H00ffea&}Is that not a hero?
+Dialogue: 0.0:04:07.74.0:04:10.35.Default..0.0.0..{\c&H00ffea&}Lady Marian was taken\Nfrom an old Shephard’s tale
+Dialogue: 0.0:04:10.44.0:04:13.48.Default..0.0.0..{\c&H00ffea&}by a story teller unfortunately\Ndrunker than I am.
+Dialogue: 0.0:04:14.30.0:04:17.20.Default..0.0.0..{\c&H00ffea&}She was the great love of Robin Hood.
+Dialogue: 0.0:04:20.67.0:04:23.51.Default..0.0.0..{\c&H00ffea&}There is no great love\Nfor one such as him.
+Dialogue: 0.0:04:26.80.0:04:28.12.Default..0.0.0..{\c&H00ffea&}I know who met this man...
+Dialogue: 0.0:04:28.20.0:04:30.12.Default..0.0.0..{\c&H00ffea&}Would you like a little secret?
+Dialogue: 0.0:04:30.97.0:04:32.37.Default..0.0.0..{\c&H00ffea&}I would.
+Dialogue: 0.0:04:33.63.0:04:35.90.Default..0.0.0..{\c&H00ffea&}He never prayed once in his life.
+Dialogue: 0.0:04:37.40.0:04:42.07.Default..0.0.0..{\c&H00ffea&}These tales spread across the land.\Nlies upon lies.
+Dialogue: 0.0:04:43.50.0:04:45.47.Default..0.0.0..{\c&H00ffea&}He was a murderous brigand.
+Dialogue: 0.0:04:46.03.0:04:50.28.Default..0.0.0..{\c&H00ffea&}Who perhaps cut the throat of a\Nsheriff and a long line of others.
+Dialogue: 0.0:04:50.37.0:04:52.60.Default..0.0.0..{\c&H00ffea&}People saw meaning where there was none.
+Dialogue: 0.0:04:54.25.0:04:55.91.Default..0.0.0..{\c&H00ffea&}He was not a hero.
+Dialogue: 0.0:04:56.00.0:04:59.52.Default..0.0.0..{\c&H00ffea&}He robbed and killed for the joy of it.\NNothing more.
+Dialogue: 0.0:05:04.80.0:05:06.20.Default..0.0.0..{\c&H00ffea&}Those who you met.
+Dialogue: 0.0:05:08.09.0:05:10.67.Default..0.0.0..{\c&H00ffea&}Did they say he felt\Nremorse for his crimes?
+Dialogue: 0.0:05:14.77.0:05:16.90.Default..0.0.0..{\c&H00ffea&}I suspect he felt tired.
+Dialogue: 0.0:05:20.23.0:05:23.37.Default..0.0.0..{\c&H00ffea&}I would say that if you meet this villain\NRobin Hood.
+Dialogue: 0.0:05:23.45.0:05:27.25.Default..0.0.0..{\c&H00ffea&}you should make haste away and\Nkeep whatever life you have left here.
+Dialogue: 0.0:07:13.60.0:07:15.19.Default..0.0.0..{\c&H00ffea&}Who is your kin?
+Dialogue: 0.0:07:17.90.0:07:21.77.Default..0.0.0..{\c&H00ffea&}William Wainwright. of Pickering.
+Dialogue: 0.0:07:22.83.0:07:24.23.Default..0.0.0..{\c&H00ffea&}Pickering?
+Dialogue: 0.0:07:26.07.0:07:27.47.Default..0.0.0..{\c&H00ffea&}Father?
+Dialogue: 0.0:07:29.17.0:07:30.57.Default..0.0.0..{\c&H00ffea&}Grandfather?
+Dialogue: 0.0:07:35.43.0:07:39.83.Default..0.0.0..{\c&H00ffea&}You should have bathed.\NOr waited for the wind to change.
+Dialogue: 0.0:07:42.47.0:07:44.42.Default..0.0.0..{\c&H00ffea&}Or kept your weight on your back foot.
+Dialogue: 0.0:07:46.90.0:07:49.87.Default..0.0.0..{\c&H00ffea&}That's all... you did wrong.
+Dialogue: 0.0:09:11.07.0:09:12.57.Default..0.0.0..{\c&H00ffea&}They sing lies.
+Dialogue: 0.0:09:13.83.0:09:15.83.Default..0.0.0..{\c&H00ffea&}These foolish common folk.
+Dialogue: 0.0:09:17.30.0:09:20.03.Default..0.0.0..{\c&H00ffea&}Lies of his heroism and goodness.
+Dialogue: 0.0:09:21.87.0:09:23.70.Default..0.0.0..{\c&H00ffea&}But blood debts are owed.
+Dialogue: 0.0:09:25.07.0:09:28.20.Default..0.0.0..{\c&H00ffea&}And generations of his victims haunt him.
+Dialogue: 0.0:09:29.83.0:09:31.30.Default..0.0.0..{\c&H00ffea&}For. in truth.
+Dialogue: 0.0:09:32.84.0:09:35.31.Default..0.0.0..{\c&H00ffea&}none was more wicked and wanted
+Dialogue: 0.0:09:35.57.0:09:38.07.Default..0.0.0..{\c&H00ffea&}than the murderous bandit Robin Hood.
+Dialogue: 0.0:09:39.77.0:09:41.67.Default..0.0.0..{\c&H00ffea&}And his Little John.
+Dialogue: 0.0:09:45.89.0:09:47.29.Default..0.0.0..{\c&H00ffea&}Speak to Thomas.
+Dialogue: 0.0:09:48.50.0:09:51.26.Default..0.0.0..{\c&H00ffea&}He was hanged in the South.
+Dialogue: 0.0:09:51.34.0:09:52.94.Default..0.0.0..{\c&H00ffea&}Will?
+Dialogue: 0.0:09:53.67.0:09:55.10.Default..0.0.0..{\c&H00ffea&}They gutted him.
+Dialogue: 0.0:09:56.83.0:09:58.77.Default..0.0.0..{\c&H00ffea&}I have no one else to ask.
+Dialogue: 0.0:10:00.67.0:10:02.07.Default..0.0.0..{\c&H00ffea&}What happened?
+Dialogue: 0.0:10:04.40.0:10:06.03.Default..0.0.0..{\c&H00ffea&}My name is Edward.
+Dialogue: 0.0:10:06.80.0:10:08.20.Default..0.0.0..{\c&H00ffea&}Who was Edward?
+Dialogue: 0.0:10:09.98.0:10:12.90.Default..0.0.0..{\c&H00ffea&}Met him on the road ten summers ago.
+Dialogue: 0.0:10:13.25.0:10:14.74.Default..0.0.0..{\c&H00ffea&}His brother died.
+Dialogue: 0.0:10:14.82.0:10:18.04.Default..0.0.0..{\c&H00ffea&}and he was going to grow ryes.\Nand peas on his brother's land.
+Dialogue: 0.0:10:19.80.0:10:21.67.Default..0.0.0..{\c&H00ffea&}No one knew Edward's face.
+Dialogue: 0.0:10:23.19.0:10:24.76.Default..0.0.0..{\c&H00ffea&}So I killed him.
+Dialogue: 0.0:10:25.76.0:10:27.23.Default..0.0.0..{\c&H00ffea&}Now I am Edward.
+Dialogue: 0.0:10:28.36.0:10:30.43.Default..0.0.0..{\c&H00ffea&}And Margaret is a good wife.
+Dialogue: 0.0:10:30.90.0:10:32.30.Default..0.0.0..{\c&H00ffea&}It's a good farm.
+Dialogue: 0.0:10:33.37.0:10:34.77.Default..0.0.0..{\c&H00ffea&}What happened?
+Dialogue: 0.0:10:35.96.0:10:38.16.Default..0.0.0..{\c&H00ffea&}A family on the land found me out.
+Dialogue: 0.0:10:38.58.0:10:41.44.Default..0.0.0..{\c&H00ffea&}He took my farm. he took my Margaret.
+Dialogue: 0.0:10:41.88.0:10:43.54.Default..0.0.0..{\c&H00ffea&}He tried to take my life.
+Dialogue: 0.0:10:46.78.0:10:48.82.Default..0.0.0..{\c&H00ffea&}I cannot take back alone what's mine.
+Dialogue: 0.0:10:48.90.0:10:50.30.Default..0.0.0..{\c&H00ffea&}It's not yours.
+Dialogue: 0.0:10:52.27.0:10:53.67.Default..0.0.0..{\c&H00ffea&}It's my family.
+Dialogue: 0.0:10:58.58.0:11:00.00.Default..0.0.0..{\c&H00ffea&}I'm tired. John.
+Dialogue: 0.0:11:01.57.0:11:02.97.Default..0.0.0..{\c&H00ffea&}Edward.
+Dialogue: 0.0:11:05.27.0:11:06.77.Default..0.0.0..{\c&H00ffea&}I'm tired. Edward.
+Dialogue: 0.0:11:12.67.0:11:14.57.Default..0.0.0..{\c&H00ffea&}It will be an mighty battle.
+Dialogue: 0.0:11:15.23.0:11:16.87.Default..0.0.0..{\c&H00ffea&}One for the stories.
+Dialogue: 0.0:11:23.10.0:11:26.06.Default..0.0.0..{\c&H00ffea&}-They are strong.\N-Aye.
+Dialogue: 0.0:11:26.47.0:11:28.43.Default..0.0.0..{\c&H00ffea&}They come from an old family.
+Dialogue: 0.0:11:28.85.0:11:30.87.Default..0.0.0..{\c&H00ffea&}They say they are from Viking blood.
+Dialogue: 0.0:11:32.43.0:11:35.76.Default..0.0.0..{\c&H00ffea&}There is a story that once\Ntheir elder father fought a bear.
+Dialogue: 0.0:11:37.30.0:11:39.87.Default..0.0.0..{\c&H00ffea&}It will be a mighty battle. Robin.
+Dialogue: 0.0:11:42.80.0:11:44.30.Default..0.0.0..{\c&H00ffea&}How many are there?
+Dialogue: 0.0:11:45.40.0:11:47.50.Default..0.0.0..{\c&H00ffea&}Four... five.
+Dialogue: 0.0:11:47.97.0:11:49.63.Default..0.0.0..{\c&H00ffea&}Together. we can best them.
+Dialogue: 0.0:11:53.10.0:11:54.50.Default..0.0.0..{\c&H00ffea&}We will likely die.
+Dialogue: 0.0:13:28.87.0:13:30.27.Default..0.0.0..{\c&H00ffea&}Robin.
+Dialogue: 0.0:13:31.83.0:13:33.23.Default..0.0.0..{\c&H00ffea&}Robin.
+Dialogue: 0.0:13:34.60.0:13:35.81.Default..0.0.0..{\c&H00ffea&}Fred.
+Dialogue: 0.0:13:38.83.0:13:40.57.Default..0.0.0..{\c&H00ffea&}This is a good adventure.
+Dialogue: 0.0:13:42.43.0:13:43.83.Default..0.0.0..{\c&H00ffea&}Good adventure.
+Dialogue: 0.0:13:46.80.0:13:49.78.Default..0.0.0..{\c&H00ffea&}Do you remember when we met the potter
+Dialogue: 0.0:13:49.86.0:13:53.18.Default..0.0.0..{\c&H00ffea&}did we leave him naked or did we kill him?
+Dialogue: 0.0:13:53.27.0:13:55.02.Default..0.0.0..{\c&H00ffea&}When I tried to tell the story
+Dialogue: 0.0:13:55.10.0:13:56.75.Default..0.0.0..{\c&H00ffea&}someone said we left him naked.
+Dialogue: 0.0:13:57.30.0:13:58.87.Default..0.0.0..{\c&H00ffea&}I couldn't remember.
+Dialogue: 0.0:13:59.87.0:14:02.36.Default..0.0.0..{\c&H00ffea&}You always told it well. Robin.
+Dialogue: 0.0:14:03.63.0:14:05.37.Default..0.0.0..{\c&H00ffea&}Why would we leave him naked?
+Dialogue: 0.0:14:06.70.0:14:08.10.Default..0.0.0..{\c&H00ffea&}I don't know.
+Dialogue: 0.0:14:10.00.0:14:11.40.Default..0.0.0..{\c&H00ffea&}We were just...
+Dialogue: 0.0:14:12.50.0:14:16.37.Default..0.0.0..{\c&H00ffea&}-We never met a Potter.\N-What do you mean. we've never met him?
+Dialogue: 0.0:14:16.67.0:14:20.58.Default..0.0.0..{\c&H00ffea&}I mean. that never happened.\NIt's just a story you heard somewhere.
+Dialogue: 0.0:14:22.47.0:14:25.79.Default..0.0.0..{\c&H00ffea&}But even if we did meet a potter.\Nwe killed him.
+Dialogue: 0.0:14:25.87.0:14:28.51.Default..0.0.0..{\c&H00ffea&}I would have remembered\Nif it were a story.
+Dialogue: 0.0:14:29.23.0:14:30.63.Default..0.0.0..{\c&H00ffea&}Yeah.
+Dialogue: 0.0:14:31.03.0:14:32.47.Default..0.0.0..{\c&H00ffea&}Tell me about your wife.
+Dialogue: 0.0:14:35.27.0:14:36.67.Default..0.0.0..{\c&H00ffea&}Margaret.
+Dialogue: 0.0:14:38.40.0:14:39.83.Default..0.0.0..{\c&H00ffea&}She is a good woman.
+Dialogue: 0.0:14:40.37.0:14:43.30.Default..0.0.0..{\c&H00ffea&}She's very good woman.
+Dialogue: 0.0:14:44.17.0:14:45.87.Default..0.0.0..{\c&H00ffea&}She teaches me prayers for us.
+Dialogue: 0.0:14:45.96.0:14:47.36.Default..0.0.0..{\c&H00ffea&}Paint a portrait.
+Dialogue: 0.0:14:49.17.0:14:50.57.Default..0.0.0..{\c&H00ffea&}Paint a portrait?
+Dialogue: 0.0:14:53.23.0:14:54.63.Default..0.0.0..{\c&H00ffea&}Paint a portrait.
+Dialogue: 0.0:14:58.90.0:15:03.43.Default..0.0.0..{\c&H00ffea&}She has hair that's... red.
+Dialogue: 0.0:15:04.10.0:15:05.48.Default..0.0.0..{\c&H00ffea&}Red... like?
+Dialogue: 0.0:15:05.56.0:15:08.80.Default..0.0.0..{\c&H00ffea&}Red like fresh blood.
+Dialogue: 0.0:15:08.90.0:15:09.95.Default..0.0.0..{\c&H00ffea&}No. no.
+Dialogue: 0.0:15:10.03.0:15:15.20.Default..0.0.0..{\c&H00ffea&}Something that's red and that's good.\NLike a...
+Dialogue: 0.0:15:19.63.0:15:22.00.Default..0.0.0..{\c&H00ffea&}Like the setting sun.
+Dialogue: 0.0:15:22.83.0:15:25.03.Default..0.0.0..{\c&H00ffea&}Like the setting summer sun.
+Dialogue: 0.0:15:26.37.0:15:28.20.Default..0.0.0..{\c&H00ffea&}Margaret's a good wife.
+Dialogue: 0.0:15:28.87.0:15:32.03.Default..0.0.0..{\c&H00ffea&}with a hair that is red\Nlike the setting summer sun.
+Dialogue: 0.0:15:33.70.0:15:35.78.Default..0.0.0..{\c&H00ffea&}she cares for me.
+Dialogue: 0.0:15:36.34.0:15:38.44.Default..0.0.0..{\c&H00ffea&}and I care for her.
+Dialogue: 0.0:15:46.24.0:15:47.17.Default..0.0.0..{\c&H00ffea&}Robin.
+Dialogue: 0.0:15:47.60.0:15:49.87.Default..0.0.0..{\c&H00ffea&}The open runs past the mountains...
+Dialogue: 0.0:15:52.20.0:15:54.69.Default..0.0.0..{\c&H00ffea&}many places to begin again.
+Dialogue: 0.0:15:59.23.0:16:01.30.Default..0.0.0..{\c&H00ffea&}I do not aim to begin again.
+Dialogue: 0.0:16:06.27.0:16:08.27.Default..0.0.0..{\c&H00ffea&}I aim for a right death.
+Dialogue: 0.0:17:50.97.0:17:52.49.Default..0.0.0..{\c&H00ffea&}Go! Hendri!
+Dialogue: 0.0:17:53.55.0:17:54.68.Default..0.0.0..{\c&H00ffea&}No. Hendri! Run!
+Dialogue: 0.0:17:54.77.0:17:56.10.Default..0.0.0..{\c&H00ffea&}Run! No...
+Dialogue: 0.0:17:56.18.0:17:57.98.Default..0.0.0..{\c&H00ffea&}-Hendri!\N-Come on!
+Dialogue: 0.0:17:58.40.0:18:00.43.Default..0.0.0..{\c&H00ffea&}Hendri. get the others!
+Dialogue: 0.0:18:00.87.0:18:02.27.Default..0.0.0..{\c&H00ffea&}Edward!
+Dialogue: 0.0:18:03.47.0:18:05.96.Default..0.0.0..{\c&H00ffea&}-Edward.\N-My love!
+Dialogue: 0.0:18:07.00.0:18:08.66.Default..0.0.0..{\c&H00ffea&}Watch over Little Margaret.
+Dialogue: 0.0:20:10.80.0:20:11.73.Default..0.0.0..{\c&H00ffea&}You are safe.
+Dialogue: 0.0:20:12.17.0:20:13.57.Default..0.0.0..{\c&H00ffea&}You are safe. daughter.
+Dialogue: 0.0:20:17.16.0:20:19.60.Default..0.0.0..{\c&H00ffea&}Let us prey.
+Dialogue: 0.0:20:21.67.0:20:23.07.Default..0.0.0..{\c&H00ffea&\i1\b1}O Lord{\b0\i0}
+Dialogue: 0.0:20:23.17.0:20:24.57.Default..0.0.0..{\c&H00ffea&\i1\b1}Our God.{\b0\i0}
+Dialogue: 0.0:20:25.07.0:20:28.83.Default..0.0.0..{\c&H00ffea&\i1\b1}Grant us the grace to desire\Nthee with our whole hearts.{\b0\i0}
+Dialogue: 0.0:20:29.27.0:20:30.83.Default..0.0.0..{\c&H00ffea&}Come on now. pray.
+Dialogue: 0.0:20:31.20.0:20:34.27.Default..0.0.0..{\c&H00ffea&\i1\b1}And in finding thee. we may love thee {\b0\i0}.{\c}</font>
+Dialogue: 0.0:20:34.43.0:20:35.82.Default..0.0.0..{\c&H00ffea&\i1\b1}And in loving thee{\b0\i0}
+Dialogue: 0.0:20:35.90.0:20:39.90.Default..0.0.0..{\c&H00ffea&\i1\b1}we may hate those sins from\Nwhich thou has redeemed us.{\b0\i0}
+Dialogue: 0.0:20:40.07.0:20:43.20.Default..0.0.0..{\c&H00ffea&\i1\b1}For the sake of Jesus Christ. Amen.{\b0\i0}
+Dialogue: 0.0:20:45.07.0:20:46.47.Default..0.0.0..{\c&H00ffea&\i1\b1}Amen.{\b0\i0}
+Dialogue: 0.0:20:46.94.0:20:48.34.Default..0.0.0..{\c&H00ffea&}Good.
+Dialogue: 0.0:21:59.70.0:22:00.81.Default..0.0.0..{\c&H00ffea&}I'm sorry.
+Dialogue: 0.0:22:04.03.0:22:05.47.Default..0.0.0..{\c&H00ffea&}I'm sorry.
+Dialogue: 0.0:22:06.87.0:22:08.75.Default..0.0.0..{\c&H00ffea&}It was that when I woke.
+Dialogue: 0.0:22:11.46.0:22:13.05.Default..0.0.0..{\c&H00ffea&}It was that when I woke.
+Dialogue: 0.0:22:14.29.0:22:15.69.Default..0.0.0..{\c&H00ffea&}Cousin.
+Dialogue: 0.0:22:16.37.0:22:17.88.Default..0.0.0..{\c&H00ffea&}It was that when I woke.
+Dialogue: 0.0:22:19.31.0:22:20.71.Default..0.0.0..{\c&H00ffea&}Sorry!
+Dialogue: 0.0:23:57.64.0:23:59.60.Default..0.0.0..{\c&H00ffea&\i1}We cry to the O'Lord.{\i0}
+Dialogue: 0.0:24:01.25.0:24:05.08.Default..0.0.0..{\c&H00ffea&\i1\b1}Do thou have mercy upon us...{\i0}
+Dialogue: 0.0:24:05.21.0:24:07.23.Default..0.0.0..{\c&H00ffea&\i1}and grant us forgiveness.{\b0\i0}
+Dialogue: 0.0:24:07.31.0:24:11.23.Default..0.0.0..{\c&H00ffea&\i1\b1}O King of heaven and Everlasting Lord.{\b0\i0}
+Dialogue: 0.0:24:11.61.0:24:15.38.Default..0.0.0..{\c&H00ffea&\i1}receive our prayers which we pour forth{\b0\i0}
+Dialogue: 0.0:24:16.70.0:24:18.62.Default..0.0.0..{\c&H00ffea&\i1\b1}And grant forgiveness.{\b0\i0}
+Dialogue: 0.0:24:18.70.0:24:23.18.Default..0.0.0..{\c&H00ffea&\i1\b1}Sick. bring forth the captive.{\b0\i0}
+Dialogue: 0.0:24:23.27.0:24:27.17.Default..0.0.0..{\c&H00ffea&\i1\b1}Help the widow and the orphan. {\b0\i0}
+Dialogue: 0.0:24:27.79.0:24:30.88.Default..0.0.0..{\c&H00ffea&\i1}And grant forgiveness.{\i0}
+Dialogue: 0.0:24:31.34.0:24:35.53.Default..0.0.0..{\c&H00ffea&\i1\b1}We have sinned and departed\Nfrom thee{\i0}
+Dialogue: 0.0:24:35.61.0:24:41.93.Default..0.0.0..{\c&H00ffea&\i1}Will thou. Redeemer of all.\Nsave us...{\i0}
+Dialogue: 0.0:24:42.01.0:24:44.15.Default..0.0.0..{\c&H00ffea&\i1}and grant forgiveness.{\i0}
+Dialogue: 0.0:24:44.23.0:24:46.92.Default..0.0.0..{\c&H00ffea&\i1\b1}Have mercy on the penitents. {\b0\i0}
+Dialogue: 0.0:24:47.00.0:24:51.62.Default..0.0.0..{\c&H00ffea&\i1\b1}And wash away the stains of sin.{\b0\i0}
+Dialogue: 0.0:24:52.80.0:24:55.00.Default..0.0.0..{\c&H00ffea&\i1\b1}And grant forgiveness. {\b0\i0}
+Dialogue: 0.0:24:56.70.0:24:58.10.Default..0.0.0..{\c&H00ffea&\i1\b1}Amen.{\b0\i0}
+Dialogue: 0.0:25:52.46.0:25:53.86.Default..0.0.0..{\c&H00ffea&}Godwyn!
+Dialogue: 0.0:28:01.03.0:28:02.43.Default..0.0.0..{\c&H00ffea&}Please...
+Dialogue: 0.0:28:33.87.0:28:35.30.Default..0.0.0..{\c&H00ffea&}Margaret? Margaret!
+Dialogue: 0.0:28:35.38.0:28:38.08.Default..0.0.0..{\c&H00ffea&}No! No!
+Dialogue: 0.0:28:41.19.0:28:43.84.Default..0.0.0..{\c&H00ffea&}John! No!
+Dialogue: 0.0:28:48.71.0:28:51.37.Default..0.0.0..{\c&H00ffea&}Little John!
+Dialogue: 0.0:28:58.20.0:29:00.23.Default..0.0.0..{\c&H00ffea&}Twenty winters ago...
+Dialogue: 0.0:29:00.69.0:29:04.67.Default..0.0.0..{\c&H00ffea&}you murdered my cousin.\NWalter of Hathersage.
+Dialogue: 0.0:29:05.72.0:29:10.46.Default..0.0.0..{\c&H00ffea&}You have now murdered\Nmy son. and my grand son.
+Dialogue: 0.0:29:11.07.0:29:13.12.Default..0.0.0..{\c&H00ffea&}As weregild.
+Dialogue: 0.0:29:13.20.0:29:19.86.Default..0.0.0..{\c&H00ffea&}I will accept your life. and\Nthe life of your daughter.
+Dialogue: 0.0:31:54.33.0:31:59.59.Default..0.0.0..{\c&H00ffea&}No! No!
+Dialogue: 0.0:33:09.35.0:33:10.74.Default..0.0.0..{\c&H00ffea&}Robin?
+Dialogue: 0.0:33:11.67.0:33:15.56.Default..0.0.0..{\c&H00ffea&}I've heard stories of\Na priory hidden away.
+Dialogue: 0.0:33:16.78.0:33:20.80.Default..0.0.0..{\c&H00ffea&}There's a Prioress there who's\Nolder than anyone remembers.
+Dialogue: 0.0:33:21.71.0:33:23.64.Default..0.0.0..{\c&H00ffea&}She has a healing magic.
+Dialogue: 0.0:33:24.57.0:33:26.03.Default..0.0.0..{\c&H00ffea&}I'll take you to her.
+Dialogue: 0.0:33:26.43.0:33:28.00.Default..0.0.0..{\c&H00ffea&}She'll get you well again.
+Dialogue: 0.0:33:29.23.0:33:31.37.Default..0.0.0..{\c&H00ffea&}I've heard incredible stories.
+Dialogue: 0.0:34:32.22.0:34:35.27.Default..0.0.0..{\c&H00ffea&}Robin. We must leave.
+Dialogue: 0.0:34:36.47.0:34:37.97.Default..0.0.0..{\c&H00ffea&}They will be hunting us.
+Dialogue: 0.0:35:14.78.0:35:16.18.Default..0.0.0..{\c&H00ffea&}Look at the snow.
+Dialogue: 0.0:35:19.04.0:35:21.17.Default..0.0.0..{\c&H00ffea&}It's strange for it to fall this late.
+Dialogue: 0.0:35:25.23.0:35:26.83.Default..0.0.0..{\c&H00ffea&}But it will stand the ground.
+Dialogue: 0.0:35:29.99.0:35:31.63.Default..0.0.0..{\c&H00ffea&}The Lord has his back.
+Dialogue: 0.0:36:24.80.0:36:26.50.Default..0.0.0..{\c&H00ffea&}A man brought you here.
+Dialogue: 0.0:36:27.63.0:36:30.92.Default..0.0.0..{\c&H00ffea&}He sealed your wounds with fire.\Nand he didn't do a poor job.
+Dialogue: 0.0:36:32.70.0:36:34.60.Default..0.0.0..{\c&H00ffea&}You've been here six days.
+Dialogue: 0.0:36:35.83.0:36:37.80.Default..0.0.0..{\c&H00ffea&}You have wounds in your abdomen.
+Dialogue: 0.0:36:38.64.0:36:41.27.Default..0.0.0..{\c&H00ffea&}Ribs and a leg badly broken.
+Dialogue: 0.0:36:43.23.0:36:45.37.Default..0.0.0..{\c&H00ffea&}Do you understand my words?
+Dialogue: 0.0:36:49.43.0:36:50.83.Default..0.0.0..{\c&H00ffea&}Yes.
+Dialogue: 0.0:36:51.45.0:36:53.38.Default..0.0.0..{\c&H00ffea&}You are at the Priory of St Clement.
+Dialogue: 0.0:36:53.47.0:36:55.03.Default..0.0.0..{\c&H00ffea&}For a place for you to heal.
+Dialogue: 0.0:36:56.01.0:36:57.87.Default..0.0.0..{\c&H00ffea&}Well. what town?
+Dialogue: 0.0:36:58.30.0:36:59.80.Default..0.0.0..{\c&H00ffea&}There is no town.
+Dialogue: 0.0:37:01.50.0:37:03.57.Default..0.0.0..{\c&H00ffea&}Do you know the story of Saul?
+Dialogue: 0.0:37:05.40.0:37:06.55.Default..0.0.0..{\c&H00ffea&}What?
+Dialogue: 0.0:37:07.09.0:37:09.85.Default..0.0.0..{\c&H00ffea&}There goes. there once was a man. Saul.
+Dialogue: 0.0:37:10.27.0:37:13.57.Default..0.0.0..{\c&H00ffea&}a breather of menaces\Nagainst disciples of the Lord.
+Dialogue: 0.0:37:14.27.0:37:18.17.Default..0.0.0..{\c&H00ffea&}He came to the prince of priests.\Nand asked of him letters into Damascus.
+Dialogue: 0.0:37:18.31.0:37:22.65.Default..0.0.0..{\c&H00ffea&}To the synagogues; that if he across\Nany men or women of this life.
+Dialogue: 0.0:37:22.73.0:37:24.98.Default..0.0.0..{\c&H00ffea&}he should lead them bound...
+Dialogue: 0.0:37:26.20.0:37:28.20.Default..0.0.0..{\c&H00ffea&}That is all we need to do.
+Dialogue: 0.0:37:29.10.0:37:30.60.Default..0.0.0..{\c&H00ffea&}Just a few drops.
+Dialogue: 0.0:37:33.07.0:37:34.97.Default..0.0.0..{\c&H00ffea&}It was not too painful.
+Dialogue: 0.0:37:36.83.0:37:38.23.Default..0.0.0..{\c&H00ffea&}It was not.
+Dialogue: 0.0:37:42.57.0:37:44.17.Default..0.0.0..{\c&H00ffea&}I'm Sister Brigid.
+Dialogue: 0.0:37:45.10.0:37:46.50.Default..0.0.0..{\c&H00ffea&}What is your name?
+Dialogue: 0.0:37:48.67.0:37:50.07.Default..0.0.0..{\c&H00ffea&}Randolph.
+Dialogue: 0.0:37:54.37.0:37:56.60.Default..0.0.0..{\c&H00ffea&}I owe you an apology. Randolph.
+Dialogue: 0.0:37:57.43.0:37:58.87.Default..0.0.0..{\c&H00ffea&}What apology?
+Dialogue: 0.0:38:01.21.0:38:03.45.Default..0.0.0..{\c&H00ffea&}You begged from me to let you die.
+Dialogue: 0.0:38:04.83.0:38:06.43.Default..0.0.0..{\c&H00ffea&}And I did not.
+Dialogue: 0.0:38:08.66.0:38:11.26.Default..0.0.0..{\c&H00ffea&}-You said it was right.\N-I was with fever.
+Dialogue: 0.0:38:13.14.0:38:14.83.Default..0.0.0..{\c&H00ffea&}Well your fever is passed.
+Dialogue: 0.0:38:16.40.0:38:17.80.Default..0.0.0..{\c&H00ffea&}Rest now Randolph.
+Dialogue: 0.0:38:41.20.0:38:44.20.Default..0.0.0..{\c&H00ffea&}Your body is covered in scars.
+Dialogue: 0.0:39:01.27.0:39:04.11.Default..0.0.0..{\c&H00ffea&}Do you mean anyone in the Priory harm?
+Dialogue: 0.0:39:07.50.0:39:08.90.Default..0.0.0..{\c&H00ffea&}I do not.
+Dialogue: 0.0:39:19.06.0:39:22.17.Default..0.0.0..{\c&H00ffea&}Will any harm follow you here?
+Dialogue: 0.0:39:23.80.0:39:25.27.Default..0.0.0..{\c&H00ffea&}It will not.
+Dialogue: 0.0:39:34.40.0:39:37.40.Default..0.0.0..{\c&H00ffea&}You will do them no harm.
+Dialogue: 0.0:40:09.50.0:40:11.07.Default..0.0.0..{\c&H00ffea&}Now. back to bed.
+Dialogue: 0.0:40:26.63.0:40:28.12.Default..0.0.0..{\c&H00ffea&}Now. back to the door.
+Dialogue: 0.0:40:56.20.0:40:57.83.Default..0.0.0..{\c&H00ffea&}Now open the door.
+Dialogue: 0.0:41:16.67.0:41:18.50.Default..0.0.0..{\c&H00ffea&}Go as far as you'd like.
+Dialogue: 0.0:43:16.37.0:43:17.80.Default..0.0.0..{\c&H00ffea&}Can you row yet?
+Dialogue: 0.0:43:20.25.0:43:22.38.Default..0.0.0..{\c&H00ffea&}There is a boat on the West Shore.
+Dialogue: 0.0:43:24.70.0:43:26.10.Default..0.0.0..{\c&H00ffea&}It's alright.
+Dialogue: 0.0:43:27.43.0:43:29.87.Default..0.0.0..{\c&H00ffea&}You can stay here if\Nyou help in the orchard.
+Dialogue: 0.0:43:30.05.0:43:32.00.Default..0.0.0..{\c&H00ffea&}I'm not a farmer.
+Dialogue: 0.0:43:32.67.0:43:36.67.Default..0.0.0..{\c&H00ffea&}-And you know not how to hunt?\N-Yes I know how to hunt.
+Dialogue: 0.0:43:37.65.0:43:39.78.Default..0.0.0..{\c&H00ffea&}There is some game on this island.
+Dialogue: 0.0:43:40.75.0:43:42.15.Default..0.0.0..{\c&H00ffea&}But no. you cannot hunt.
+Dialogue: 0.0:43:42.23.0:43:44.15.Default..0.0.0..{\c&H00ffea&}You cannot even draw a bow.
+Dialogue: 0.0:43:44.23.0:43:46.62.Default..0.0.0..{\c&H00ffea&}-I can draw my bow.\N-It's mostly rabbits.
+Dialogue: 0.0:43:46.70.0:43:49.60.Default..0.0.0..{\c&H00ffea&}-Do you know how to trap?\N-I know how to trap.
+Dialogue: 0.0:43:50.98.0:43:55.58.Default..0.0.0..{\c&H00ffea&}Good. but no more than six traps.\Nor the population will not sustain.
+Dialogue: 0.0:43:55.67.0:43:58.03.Default..0.0.0..{\c&H00ffea&}Can you manage six traps?
+Dialogue: 0.0:44:01.67.0:44:03.48.Default..0.0.0..{\c&H00ffea&}I can manage six traps.
+Dialogue: 0.0:44:05.27.0:44:06.67.Default..0.0.0..{\c&H00ffea&}Good.
+Dialogue: 0.0:44:07.94.0:44:10.88.Default..0.0.0..{\c&H00ffea&}And the rest of your time.\Nyou may help in the orchard.
+Dialogue: 0.0:44:46.96.0:44:48.92.Default..0.0.0..{\c&H00ffea&}Are you trying to flee?
+Dialogue: 0.0:44:52.57.0:44:54.00.Default..0.0.0..{\c&H00ffea&}You are quiet.
+Dialogue: 0.0:44:55.59.0:44:57.99.Default..0.0.0..{\c&H00ffea&}I'm quiet and slow.
+Dialogue: 0.0:44:59.17.0:45:02.83.Default..0.0.0..{\c&H00ffea&}You are quiet. but you need to be slow.
+Dialogue: 0.0:45:02.92.0:45:05.45.Default..0.0.0..{\c&H00ffea&}-You are crippled.\N-Ah. you're a leper.
+Dialogue: 0.0:45:06.70.0:45:10.47.Default..0.0.0..{\c&H00ffea&}It's alright to be slow.\NWe are safe here.
+Dialogue: 0.0:45:10.55.0:45:13.06.Default..0.0.0..{\c&H00ffea&}That's quite a thing to say.\NYou know that?
+Dialogue: 0.0:45:13.14.0:45:15.38.Default..0.0.0..{\c&H00ffea&}I know that.\NBecause she has made us safe.
+Dialogue: 0.0:45:15.47.0:45:16.87.Default..0.0.0..{\c&H00ffea&}Your Prioress?
+Dialogue: 0.0:45:18.90.0:45:20.30.Default..0.0.0..{\c&H00ffea&}She was like us.
+Dialogue: 0.0:45:21.21.0:45:25.17.Default..0.0.0..{\c&H00ffea&}She knew great sorrow and great pain.
+Dialogue: 0.0:45:26.03.0:45:27.43.Default..0.0.0..{\c&H00ffea&}Widowed young.
+Dialogue: 0.0:45:29.17.0:45:30.98.Default..0.0.0..{\c&H00ffea&}But through that sorrow.
+Dialogue: 0.0:45:31.07.0:45:33.10.Default..0.0.0..{\c&H00ffea&}She found the strength to heal us.
+Dialogue: 0.0:45:33.32.0:45:35.59.Default..0.0.0..{\c&H00ffea&}You do not look like you've been healed.
+Dialogue: 0.0:45:39.14.0:45:43.27.Default..0.0.0..{\c&H00ffea&}The Prioress once told me a\Nstory of a great philosopher.
+Dialogue: 0.0:45:44.20.0:45:47.03.Default..0.0.0..{\c&H00ffea&}The greatest philosopher of his time.
+Dialogue: 0.0:45:47.79.0:45:51.23.Default..0.0.0..{\c&H00ffea&}But one day.\Nhis king turned against him.
+Dialogue: 0.0:45:51.31.0:45:54.63.Default..0.0.0..{\c&H00ffea&}Threw him in the dungeon to be\Ntortured and executed.
+Dialogue: 0.0:45:55.50.0:45:57.20.Default..0.0.0..{\c&H00ffea&}But in his misery...
+Dialogue: 0.0:45:57.83.0:45:59.82.Default..0.0.0..{\c&H00ffea&}when he had nothing.
+Dialogue: 0.0:45:59.90.0:46:03.03.Default..0.0.0..{\c&H00ffea&}an angel came to the\Nphilosopher. and she spoke to him.
+Dialogue: 0.0:46:04.17.0:46:08.68.Default..0.0.0..{\c&H00ffea&}And from her. he\Nlearned that it didn't matter
+Dialogue: 0.0:46:08.77.0:46:12.08.Default..0.0.0..{\c&H00ffea&}if this whole world was misery.
+Dialogue: 0.0:46:13.10.0:46:15.03.Default..0.0.0..{\c&H00ffea&}If all he had was death.
+Dialogue: 0.0:46:16.80.0:46:21.63.Default..0.0.0..{\c&H00ffea&}Because he had one thing that\Ncould never be touched or taken.
+Dialogue: 0.0:46:23.77.0:46:25.20.Default..0.0.0..{\c&H00ffea&}He had his mind.
+Dialogue: 0.0:46:26.80.0:46:28.43.Default..0.0.0..{\c&H00ffea&}And in his mind.
+Dialogue: 0.0:46:29.90.0:46:31.30.Default..0.0.0..{\c&H00ffea&}he had God.
+Dialogue: 0.0:46:33.90.0:46:36.83.Default..0.0.0..{\c&H00ffea&}It's never too late to find peace.
+Dialogue: 0.0:46:38.38.0:46:40.27.Default..0.0.0..{\c&H00ffea&}What are you doing?
+Dialogue: 0.0:46:40.35.0:46:42.23.Default..0.0.0..{\c&H00ffea&}I row across every day.
+Dialogue: 0.0:46:42.60.0:46:46.52.Default..0.0.0..{\c&H00ffea&}Your friend was strong enough to take\Nyou. but some are not. so I ferry them.
+Dialogue: 0.0:46:46.60.0:46:48.96.Default..0.0.0..{\c&H00ffea&}-Will you take me across?\N-I will not.
+Dialogue: 0.0:46:49.04.0:46:51.41.Default..0.0.0..{\c&H00ffea&}You can row yourself when you're stronger.
+Dialogue: 0.0:46:52.43.0:46:54.13.Default..0.0.0..{\c&H00ffea&}For now. work on your tasks.
+Dialogue: 0.0:46:54.21.0:46:56.32.Default..0.0.0..{\c&H00ffea&}Trapping. I hear.\N-I will hunt.
+Dialogue: 0.0:46:56.40.0:46:57.80.Default..0.0.0..{\c&H00ffea&}No. you can't hunt.
+Dialogue: 0.0:47:02.92.0:47:04.15.Default..0.0.0..{\c&H00ffea&}Leper.
+Dialogue: 0.0:47:04.63.0:47:06.80.Default..0.0.0..{\c&H00ffea&}What happened to that great philosopher?
+Dialogue: 0.0:47:07.90.0:47:10.60.Default..0.0.0..{\c&H00ffea&}He was tortured and executed. of course.
+Dialogue: 0.0:47:12.27.0:47:13.67.Default..0.0.0..{\c&H00ffea&}Of course.
+Dialogue: 0.0:49:14.04.0:49:15.54.Default..0.0.0..{\c&H00ffea&}Oi! Oi!
+Dialogue: 0.0:49:16.40.0:49:20.65.Default..0.0.0..{\c&H00ffea&}The leper brought someone.\Nfrom the far shore.
+Dialogue: 0.0:50:00.50.0:50:01.90.Default..0.0.0..{\c&H00ffea&}Papa's dead.
+Dialogue: 0.0:51:17.20.0:51:18.60.Default..0.0.0..{\c&H00ffea&}How is the girl?
+Dialogue: 0.0:51:32.07.0:51:34.00.Default..0.0.0..{\c&H00ffea&}Let me show you my trees.
+Dialogue: 0.0:51:44.63.0:51:47.23.Default..0.0.0..{\c&H00ffea&}These are the elderberries.
+Dialogue: 0.0:51:47.47.0:51:49.60.Default..0.0.0..{\c&H00ffea&}The harvest late in the summer.
+Dialogue: 0.0:51:50.27.0:51:52.40.Default..0.0.0..{\c&H00ffea&}Do you know what you were before this?
+Dialogue: 0.0:51:52.63.0:51:55.63.Default..0.0.0..{\c&H00ffea&}You'll have to favour\Nthis side. for my hearing.
+Dialogue: 0.0:51:58.40.0:52:01.03.Default..0.0.0..{\c&H00ffea&}Pears. I harvest just after...
+Dialogue: 0.0:52:03.90.0:52:06.00.Default..0.0.0..{\c&H00ffea&}And what was I before this?
+Dialogue: 0.0:52:06.08.0:52:08.83.Default..0.0.0..{\c&H00ffea&}A sell-sword. at best.
+Dialogue: 0.0:52:09.07.0:52:10.60.Default..0.0.0..{\c&H00ffea&}At best. certainly.
+Dialogue: 0.0:52:10.69.0:52:12.83.Default..0.0.0..{\c&H00ffea&}We have a way about us.
+Dialogue: 0.0:52:13.90.0:52:15.46.Default..0.0.0..{\c&H00ffea&}Do you remember the trees?
+Dialogue: 0.0:52:15.55.0:52:17.97.Default..0.0.0..{\c&H00ffea&}-Pears and Elderberries.\N-Wonderful.
+Dialogue: 0.0:52:20.84.0:52:22.24.Default..0.0.0..{\c&H00ffea&}Some of them know...
+Dialogue: 0.0:52:23.40.0:52:26.87.Default..0.0.0..{\c&H00ffea&}But the Prioress does\Nnot care who we were.
+Dialogue: 0.0:52:28.80.0:52:31.43.Default..0.0.0..{\c&H00ffea&}And the apples harvest in the autumn.
+Dialogue: 0.0:52:32.57.0:52:36.14.Default..0.0.0..{\c&H00ffea&}Did she...\Nspeak of what happened to her?
+Dialogue: 0.0:52:37.38.0:52:39.35.Default..0.0.0..{\c&H00ffea&}The Prioress is tending to the girl.
+Dialogue: 0.0:52:39.43.0:52:42.17.Default..0.0.0..{\c&H00ffea&}You should speak with\Nher if you are concerned.
+Dialogue: 0.0:52:45.60.0:52:47.00.Default..0.0.0..{\c&H00ffea&}What were the trees?
+Dialogue: 0.0:52:48.77.0:52:51.37.Default..0.0.0..{\c&H00ffea&}Pears. apples and elderberries.
+Dialogue: 0.0:52:52.97.0:52:54.37.Default..0.0.0..{\c&H00ffea&}Wonderful.
+Dialogue: 0.0:53:06.16.0:53:07.89.Default..0.0.0..{\c&H00ffea&}This will be your last letting.
+Dialogue: 0.0:53:09.37.0:53:11.68.Default..0.0.0..{\c&H00ffea&}Although your body still has much healing.
+Dialogue: 0.0:53:15.07.0:53:16.47.Default..0.0.0..{\c&H00ffea&}You look tired.
+Dialogue: 0.0:53:17.30.0:53:18.70.Default..0.0.0..{\c&H00ffea&}I am.
+Dialogue: 0.0:53:19.87.0:53:21.63.Default..0.0.0..{\c&H00ffea&}But I have been tired before.
+Dialogue: 0.0:53:23.47.0:53:25.10.Default..0.0.0..{\c&H00ffea&}The child doesn't sleep.
+Dialogue: 0.0:53:28.37.0:53:29.77.Default..0.0.0..{\c&H00ffea&}What happened to her?
+Dialogue: 0.0:53:31.40.0:53:32.83.Default..0.0.0..{\c&H00ffea&}Terrible things.
+Dialogue: 0.0:53:35.97.0:53:38.58.Default..0.0.0..{\c&H00ffea&}-She told you her story?\N-No. she doesn't speak.
+Dialogue: 0.0:53:39.12.0:53:41.20.Default..0.0.0..{\c&H00ffea&}She doesn't eat. she doesn't sleep.
+Dialogue: 0.0:53:48.83.0:53:50.23.Default..0.0.0..{\c&H00ffea&}What is her name?
+Dialogue: 0.0:53:57.84.0:53:59.24.Default..0.0.0..{\c&H00ffea&}Margaret.
+Dialogue: 0.0:54:02.00.0:54:03.40.Default..0.0.0..{\c&H00ffea&}Who is she?
+Dialogue: 0.0:54:05.60.0:54:07.00.Default..0.0.0..{\c&H00ffea&}I met her father.
+Dialogue: 0.0:54:07.80.0:54:09.20.Default..0.0.0..{\c&H00ffea&}A farmer.
+Dialogue: 0.0:54:09.77.0:54:11.17.Default..0.0.0..{\c&H00ffea&}Well. he is dead.
+Dialogue: 0.0:54:11.67.0:54:14.07.Default..0.0.0..{\c&H00ffea&}-It seems.\N-And the mother?
+Dialogue: 0.0:54:14.50.0:54:17.00.Default..0.0.0..{\c&H00ffea&}I think dead.
+Dialogue: 0.0:54:17.08.0:54:19.21.Default..0.0.0..{\c&H00ffea&}I don't know. Dead past.
+Dialogue: 0.0:54:19.99.0:54:21.39.Default..0.0.0..{\c&H00ffea&}Slain?
+Dialogue: 0.0:54:22.37.0:54:23.77.Default..0.0.0..{\c&H00ffea&}Perhaps.
+Dialogue: 0.0:54:28.83.0:54:30.63.Default..0.0.0..{\c&H00ffea&}You lie very well.
+Dialogue: 0.0:54:39.77.0:54:41.23.Default..0.0.0..{\c&H00ffea&}Did the child see?
+Dialogue: 0.0:54:43.56.0:54:44.96.Default..0.0.0..{\c&H00ffea&}She could have.
+Dialogue: 0.0:54:47.68.0:54:49.69.Default..0.0.0..{\c&H00ffea&}It's much for a child to see.
+Dialogue: 0.0:54:59.60.0:55:01.52.Default..0.0.0..{\c&H00ffea&}I'm sorry about your friend.
+Dialogue: 0.0:55:05.57.0:55:06.97.Default..0.0.0..{\c&H00ffea&}Thank you.
+Dialogue: 0.0:55:08.17.0:55:09.83.Default..0.0.0..{\c&H00ffea&}Do you like me to pray for him?
+Dialogue: 0.0:55:14.43.0:55:15.83.Default..0.0.0..{\c&H00ffea&}As you wish.
+Dialogue: 0.0:55:19.45.0:55:20.98.Default..0.0.0..{\c&H00ffea&}What was his name?
+Dialogue: 0.0:55:25.17.0:55:26.57.Default..0.0.0..{\c&H00ffea&}Edward.
+Dialogue: 0.0:55:28.67.0:55:30.07.Default..0.0.0..{\c&H00ffea&}Edward.
+Dialogue: 0.0:55:33.03.0:55:37.43.Default..0.0.0..{\c&H00ffea&\i1}Be not your heart afraid. for ye\Nbelieve in God. and ye believe in me.{\i0}
+Dialogue: 0.0:55:39.07.0:55:42.04.Default..0.0.0..{\c&H00ffea&\i1\b1}In the house of my Father\Nthere are many rooms.{\b0\i0}
+Dialogue: 0.0:55:43.30.0:55:45.70.Default..0.0.0..{\c&H00ffea&\i1\b1}And when I make ready for you a place.{\b0\i0}
+Dialogue: 0.0:55:46.43.0:55:49.07.Default..0.0.0..{\c&H00ffea&\i1\b1}I shall come. and take thee to myself.{\b0\i0}
+Dialogue: 0.0:55:49.97.0:55:53.37.Default..0.0.0..{\c&H00ffea&\i1\b1}For where I am. ye may be also.{\b0\i0}
+Dialogue: 0.0:55:55.37.0:55:57.80.Default..0.0.0..{\c&H00ffea&\i1\b1}And whither I go. ye shall know the way.{\b0\i0}
+Dialogue: 0.0:56:19.79.0:56:21.19.Default..0.0.0..{\c&H00ffea&}-Margaret!\N-She stabbed me!
+Dialogue: 0.0:56:22.39.0:56:23.79.Default..0.0.0..{\c&H00ffea&}Margaret.
+Dialogue: 0.0:56:26.57.0:56:27.97.Default..0.0.0..{\c&H00ffea&}It's all right.
+Dialogue: 0.0:56:29.07.0:56:30.47.Default..0.0.0..{\c&H00ffea&}Margaret!
+Dialogue: 0.0:56:30.60.0:56:32.96.Default..0.0.0..{\c&H00ffea&}It's all right. Margaret. It's all right.
+Dialogue: 0.0:56:36.56.0:56:39.80.Default..0.0.0..{\c&H00ffea&}She doesn't know this island.\NThere are boar about.
+Dialogue: 0.0:56:42.47.0:56:43.87.Default..0.0.0..{\c&H00ffea&}Margaret! Margaret!
+Dialogue: 0.0:56:45.20.0:56:46.60.Default..0.0.0..{\c&H00ffea&}Margaret! Margaret!
+Dialogue: 0.0:56:48.13.0:56:50.83.Default..0.0.0..{\c&H00ffea&}Margaret! Margaret!
+Dialogue: 0.0:58:36.07.0:58:37.47.Default..0.0.0..{\c&H00ffea&}Oi!
+Dialogue: 0.0:58:39.56.0:58:40.96.Default..0.0.0..{\c&H00ffea&}Oi!
+Dialogue: 0.0:58:49.08.0:58:50.48.Default..0.0.0..{\c&H00ffea&}Give it.
+Dialogue: 0.0:59:04.12.0:59:05.10.Default..0.0.0..{\c&H00ffea&}Give it!
+Dialogue: 0.0:59:22.40.0:59:24.27.Default..0.0.0..{\c&H00ffea&}Those men that hurt you...
+Dialogue: 0.0:59:27.43.0:59:29.19.Default..0.0.0..{\c&H00ffea&}do they know you're here?
+Dialogue: 0.0:59:42.00.0:59:43.40.Default..0.0.0..{\c&H00ffea&}What is my name?
+Dialogue: 0.0:59:49.47.0:59:50.87.Default..0.0.0..{\c&H00ffea&}Say my name.
+Dialogue: 0.0:59:52.77.0:59:54.17.Default..0.0.0..{\c&H00ffea&}Randolph.
+Dialogue: 0.0:59:59.64.1:00:00.75.Default..0.0.0..{\c&H00ffea&}That's right.
+Dialogue: 0.1:00:06.30.1:00:07.70.Default..0.0.0..{\c&H00ffea&}Who is Little John?
+Dialogue: 0.1:00:10.17.1:00:12.90.Default..0.0.0..{\c&H00ffea&}That name is nonsense\Nand you should never speak it.
+Dialogue: 0.1:00:13.60.1:00:17.23.Default..0.0.0..{\c&H00ffea&}And if you speak it. a cat will come\Nin the night and take your tongue.
+Dialogue: 0.1:00:27.54.1:00:28.56.Default..0.0.0..{\c&H00ffea&}It's all right.
+Dialogue: 0.1:00:31.60.1:00:33.00.Default..0.0.0..{\c&H00ffea&}Go to sleep.
+Dialogue: 0.1:00:40.27.1:00:41.76.Default..0.0.0..{\c&H00ffea&}I'll watch the storm.
+Dialogue: 0.1:00:46.05.1:00:47.98.Default..0.0.0..{\c&H00ffea&}It's all right. they know.
+Dialogue: 0.1:00:51.87.1:00:53.27.Default..0.0.0..{\c&H00ffea&}Close your eyes.
+Dialogue: 0.1:00:58.21.1:00:59.61.Default..0.0.0..{\c&H00ffea&}You can sleep.
+Dialogue: 0.1:01:04.48.1:01:05.88.Default..0.0.0..{\c&H00ffea&}Sleep.
+Dialogue: 0.1:01:44.30.1:01:46.43.Default..0.0.0..{\c&H00ffea&}Thank you for bringing her back.
+Dialogue: 0.1:01:48.80.1:01:50.20.Default..0.0.0..{\c&H00ffea&}It was nothing.
+Dialogue: 0.1:01:55.50.1:01:57.90.Default..0.0.0..{\c&H00ffea&}Do you know the story of this Priory?
+Dialogue: 0.1:01:58.38.1:01:59.78.Default..0.0.0..{\c&H00ffea&}No.
+Dialogue: 0.1:02:02.10.1:02:07.37.Default..0.0.0..{\c&H00ffea&}In ages before history. this was\Na holy site to the ancient Druids.
+Dialogue: 0.1:02:09.30.1:02:11.30.Default..0.0.0..{\c&H00ffea&}They worshipped unknown gods.
+Dialogue: 0.1:02:12.90.1:02:14.96.Default..0.0.0..{\c&H00ffea&}Worshipped in these woods.
+Dialogue: 0.1:02:15.92.1:02:17.79.Default..0.0.0..{\c&H00ffea&}Then the Romans came long ago.
+Dialogue: 0.1:02:17.87.1:02:21.71.Default..0.0.0..{\c&H00ffea&}they sensed the magic of this\Nplace. so they built their temples.
+Dialogue: 0.1:02:23.40.1:02:27.05.Default..0.0.0..{\c&H00ffea&}And people upon people sensed it.\Nand they came here to worship.
+Dialogue: 0.1:02:28.37.1:02:30.32.Default..0.0.0..{\c&H00ffea&}Countless gods. tribe after tribe.
+Dialogue: 0.1:02:30.40.1:02:33.43.Default..0.0.0..{\c&H00ffea&}that would not even know\Nhow to speak to each other.
+Dialogue: 0.1:02:34.50.1:02:36.97.Default..0.0.0..{\c&H00ffea&}And yet. we are all pulled to this place.
+Dialogue: 0.1:02:38.89.1:02:41.46.Default..0.0.0..{\c&H00ffea&}Do you believe that there\Nis Magic on this island?
+Dialogue: 0.1:02:43.67.1:02:45.90.Default..0.0.0..{\c&H00ffea&}I believe there is power in it.
+Dialogue: 0.1:02:48.43.1:02:50.80.Default..0.0.0..{\c&H00ffea&}I have seen the power in stories.
+Dialogue: 0.1:02:53.27.1:02:56.87.Default..0.0.0..{\c&H00ffea&}They can be used to make\Nmen do terrible things.
+Dialogue: 0.1:02:57.72.1:02:59.24.Default..0.0.0..{\c&H00ffea&}And then those...
+Dialogue: 0.1:02:59.69.1:03:01.92.Default..0.0.0..{\c&H00ffea&}terrible things become stories...
+Dialogue: 0.1:03:02.63.1:03:04.03.Default..0.0.0..{\c&H00ffea&}and stories.
+Dialogue: 0.1:03:08.22.1:03:09.28.Default..0.0.0..{\c&H00ffea&}No.
+Dialogue: 0.1:03:10.09.1:03:11.95.Default..0.0.0..{\c&H00ffea&}You cannot trust any of them.
+Dialogue: 0.1:03:12.43.1:03:14.63.Default..0.0.0..{\c&H00ffea&}We cannot be trusted with them.
+Dialogue: 0.1:03:16.80.1:03:19.80.Default..0.0.0..{\c&H00ffea&}Knives cut bread as well as they do flesh.
+Dialogue: 0.1:03:21.36.1:03:23.03.Default..0.0.0..{\c&H00ffea&}It's a question of balance.
+Dialogue: 0.1:03:23.80.1:03:25.47.Default..0.0.0..{\c&H00ffea&}Does balance have a say?
+Dialogue: 0.1:03:28.03.1:03:30.90.Default..0.0.0..{\c&H00ffea&}I think if balance didn't have some say.
+Dialogue: 0.1:03:31.43.1:03:33.17.Default..0.0.0..{\c&H00ffea&}we wouldn't be here.
+Dialogue: 0.1:03:35.23.1:03:39.17.Default..0.0.0..{\c&H00ffea&}This world would not be here and...
+Dialogue: 0.1:03:40.60.1:03:42.77.Default..0.0.0..{\c&H00ffea&}and we would not be sharing these words.
+Dialogue: 0.1:03:43.50.1:03:45.43.Default..0.0.0..{\c&H00ffea&}Do you ever consider that?
+Dialogue: 0.1:03:47.27.1:03:51.72.Default..0.0.0..{\c&H00ffea&}The incredible precision of balance.\Nover such an expanse of time.
+Dialogue: 0.1:03:53.03.1:03:56.89.Default..0.0.0..{\c&H00ffea&}The balance it takes to\Ncreate a word. any specific word
+Dialogue: 0.1:03:57.14.1:04:00.20.Default..0.0.0..{\c&H00ffea&}that can pass between lips and...
+Dialogue: 0.1:04:02.03.1:04:04.03.Default..0.0.0..{\c&H00ffea&}be understood by two minds.
+Dialogue: 0.1:04:11.77.1:04:13.17.Default..0.0.0..{\c&H00ffea&}Randolph.
+Dialogue: 0.1:04:16.87.1:04:18.27.Default..0.0.0..{\c&H00ffea&}Thank you.
+Dialogue: 0.1:05:37.07.1:05:38.47.Default..0.0.0..{\c&H00ffea&}Not hungry?
+Dialogue: 0.1:05:40.07.1:05:41.19.Default..0.0.0..{\c&H00ffea&}No?
+Dialogue: 0.1:06:14.00.1:06:16.03.Default..0.0.0..{\c&H00ffea&}I will be dying soon.
+Dialogue: 0.1:06:17.17.1:06:18.57.Default..0.0.0..{\c&H00ffea&}How do you know?
+Dialogue: 0.1:06:20.70.1:06:23.17.Default..0.0.0..{\c&H00ffea&}I could feel it inside.
+Dialogue: 0.1:06:25.27.1:06:27.00.Default..0.0.0..{\c&H00ffea&}What does it feel like?
+Dialogue: 0.1:06:29.00.1:06:30.60.Default..0.0.0..{\c&H00ffea&}It feels right.
+Dialogue: 0.1:06:42.60.1:06:44.03.Default..0.0.0..{\c&H00ffea&}There's someone there.
+Dialogue: 0.1:06:46.90.1:06:48.77.Default..0.0.0..{\c&H00ffea&}The waters have been busy.
+Dialogue: 0.1:06:52.10.1:06:54.87.Default..0.0.0..{\c&H00ffea&}Start around the feet. Little cuts.
+Dialogue: 0.1:06:55.43.1:06:56.83.Default..0.0.0..{\c&H00ffea&}Good. other one.
+Dialogue: 0.1:06:59.70.1:07:01.10.Default..0.0.0..{\c&H00ffea&}No.
+Dialogue: 0.1:07:04.77.1:07:05.84.Default..0.0.0..{\c&H00ffea&}Good.
+Dialogue: 0.1:07:06.15.1:07:08.07.Default..0.0.0..{\c&H00ffea&}Right. now let's tear down the front.
+Dialogue: 0.1:07:08.15.1:07:10.15.Default..0.0.0..{\c&H00ffea&}Gut down the belly. Good.
+Dialogue: 0.1:07:13.81.1:07:14.90.Default..0.0.0..{\c&H00ffea&}Watch this.
+Dialogue: 0.1:07:15.71.1:07:17.02.Default..0.0.0..{\c&H00ffea&}Just like that.
+Dialogue: 0.1:07:17.11.1:07:19.27.Default..0.0.0..{\c&H00ffea&}That's it. You do the other one.
+Dialogue: 0.1:07:20.70.1:07:23.68.Default..0.0.0..{\c&H00ffea&}That's it. That's it. Hold.
+Dialogue: 0.1:07:59.66.1:08:01.77.Default..0.0.0..{\c&H00ffea&}You are a brave young man.
+Dialogue: 0.1:08:03.07.1:08:04.47.Default..0.0.0..{\c&H00ffea&}Thank you. Sister.
+Dialogue: 0.1:08:06.10.1:08:07.50.Default..0.0.0..{\c&H00ffea&}Are you hungry. Arthur?
+Dialogue: 0.1:08:11.07.1:08:12.67.Default..0.0.0..{\c&H00ffea&}I am. Sister.
+Dialogue: 0.1:08:12.98.1:08:17.83.Default..0.0.0..{\c&H00ffea&}Sarah will fix you up a good\Nsupper tonight. Herring stew.
+Dialogue: 0.1:08:19.89.1:08:21.29.Default..0.0.0..{\c&H00ffea&}Do you like that?
+Dialogue: 0.1:08:22.82.1:08:24.66.Default..0.0.0..{\c&H00ffea&}Where do you come from. Arthur?
+Dialogue: 0.1:08:28.10.1:08:29.84.Default..0.0.0..{\c&H00ffea&}My family farm toward Keswick.
+Dialogue: 0.1:08:29.92.1:08:31.83.Default..0.0.0..{\c&H00ffea&}-Towards Keswick.\N-Yes sir.
+Dialogue: 0.1:08:31.91.1:08:33.91.Default..0.0.0..{\c&H00ffea&}-Randolph.\N-Randolph.
+Dialogue: 0.1:08:34.07.1:08:37.72.Default..0.0.0..{\c&H00ffea&}-Towards Keswick.\N-The leper says you seek your niece.
+Dialogue: 0.1:08:37.80.1:08:39.49.Default..0.0.0..{\c&H00ffea&}-I do.\N-Were you set upon?
+Dialogue: 0.1:08:41.60.1:08:43.43.Default..0.0.0..{\c&H00ffea&}-I was.\N-On the road?
+Dialogue: 0.1:08:44.85.1:08:45.75.Default..0.0.0..{\c&H00ffea&}Yes.
+Dialogue: 0.1:08:45.84.1:08:49.10.Default..0.0.0..{\c&H00ffea&}-We are safe here.\N-On which road?
+Dialogue: 0.1:08:49.87.1:08:51.87.Default..0.0.0..{\c&H00ffea&}The road to Keswick. sire.
+Dialogue: 0.1:08:53.07.1:08:54.67.Default..0.0.0..{\c&H00ffea&}Thank the Lord. you survived.
+Dialogue: 0.1:08:54.75.1:08:56.05.Default..0.0.0..{\c&H00ffea&}I do thank the Lord.
+Dialogue: 0.1:08:56.13.1:08:59.47.Default..0.0.0..{\c&H00ffea&}How about honeyed pears\Nafter supper for being so brave?
+Dialogue: 0.1:09:02.50.1:09:03.90.Default..0.0.0..{\c&H00ffea&}Thank you. Sister.
+Dialogue: 0.1:09:18.23.1:09:19.63.Default..0.0.0..{\c&H00ffea&}Little Margaret...
+Dialogue: 0.1:09:21.00.1:09:22.40.Default..0.0.0..{\c&H00ffea&}A man Arthur...
+Dialogue: 0.1:09:22.60.1:09:25.20.Default..0.0.0..{\c&H00ffea&}Did you ever see him before\Nyou came to the Priory?
+Dialogue: 0.1:09:28.90.1:09:30.30.Default..0.0.0..{\c&H00ffea&}Margaret.
+Dialogue: 0.1:09:37.03.1:09:38.43.Default..0.0.0..{\c&H00ffea&}The men...
+Dialogue: 0.1:09:39.17.1:09:40.83.Default..0.0.0..{\c&H00ffea&}The men who hurt your papa...
+Dialogue: 0.1:09:43.23.1:09:44.87.Default..0.0.0..{\c&H00ffea&}did you see their faces?
+Dialogue: 0.1:09:46.20.1:09:47.70.Default..0.0.0..{\c&H00ffea&}Papa said to run.
+Dialogue: 0.1:09:58.67.1:10:00.23.Default..0.0.0..{\c&H00ffea&}Papa stopped praying.
+Dialogue: 0.1:10:01.80.1:10:03.20.Default..0.0.0..{\c&H00ffea&}He was angry.
+Dialogue: 0.1:10:04.57.1:10:06.03.Default..0.0.0..{\c&H00ffea&}He prayed in his mind.
+Dialogue: 0.1:10:09.10.1:10:10.70.Default..0.0.0..{\c&H00ffea&}What was papa's name?
+Dialogue: 0.1:10:14.80.1:10:16.20.Default..0.0.0..{\c&H00ffea&}Your papa is your papa.
+Dialogue: 0.1:10:28.80.1:10:30.20.Default..0.0.0..{\c&H00ffea&}Bring it here.
+Dialogue: 0.1:10:39.63.1:10:41.80.Default..0.0.0..{\c&H00ffea&}Oh. this is fine work.
+Dialogue: 0.1:10:47.40.1:10:49.77.Default..0.0.0..{\c&H00ffea&}Do you see it favours a bend here.
+Dialogue: 0.1:10:51.75.1:10:55.25.Default..0.0.0..{\c&H00ffea&}Now you have to balance it.\Nso it bends evenly.
+Dialogue: 0.1:10:55.80.1:10:58.25.Default..0.0.0..{\c&H00ffea&}So. this part here needs to be thin.
+Dialogue: 0.1:10:58.59.1:10:59.99.Default..0.0.0..{\c&H00ffea&}Right?
+Dialogue: 0.1:11:04.87.1:11:06.63.Default..0.0.0..{\c&H00ffea&}Can you make for me?
+Dialogue: 0.1:11:09.10.1:11:10.60.Default..0.0.0..{\c&H00ffea&}I'm gonna make you a bow.
+Dialogue: 0.1:11:15.14.1:11:16.54.Default..0.0.0..{\c&H00ffea&}All-right.
+Dialogue: 0.1:11:24.50.1:11:28.07.Default..0.0.0..{\c&H00ffea&}Today I remembered the\Nstory by a poet named Lucretius.
+Dialogue: 0.1:11:30.23.1:11:32.43.Default..0.0.0..{\c&H00ffea&}He wrote of what are called atoms.
+Dialogue: 0.1:11:33.86.1:11:37.99.Default..0.0.0..{\c&H00ffea&}If you pick apart the trees\Nand people and stones.
+Dialogue: 0.1:11:38.08.1:11:42.67.Default..0.0.0..{\c&H00ffea&}these would be the\Nsmallest. indivisible pieces
+Dialogue: 0.1:11:42.75.1:11:45.25.Default..0.0.0..{\c&H00ffea&}that make up everything in creation.
+Dialogue: 0.1:11:46.70.1:11:51.63.Default..0.0.0..{\c&H00ffea&}And these atoms are\Nsailing through the void.
+Dialogue: 0.1:11:54.15.1:11:57.69.Default..0.0.0..{\c&H00ffea&}And sometimes. for no reason\Nat all they change their course.
+Dialogue: 0.1:12:00.30.1:12:02.70.Default..0.0.0..{\c&H00ffea&}Least amount. not even a hair.
+Dialogue: 0.1:12:07.17.1:12:11.26.Default..0.0.0..{\c&H00ffea&}And if it weren't for that small
+Dialogue: 0.1:12:11.90.1:12:15.35.Default..0.0.0..{\c&H00ffea&}unpredictable change forcing the atoms to
+Dialogue: 0.1:12:15.43.1:12:17.59.Default..0.0.0..{\c&H00ffea&}cross and weave with each other.
+Dialogue: 0.1:12:21.17.1:12:23.77.Default..0.0.0..{\c&H00ffea&}nothing at all under\Nthe heavens would exist.
+Dialogue: 0.1:15:08.15.1:15:10.05.Default..0.0.0..{\c&H00ffea&}Nice You're good.
+Dialogue: 0.1:15:10.14.1:15:11.34.Default..0.0.0..{\c&H00ffea&}Harder.
+Dialogue: 0.1:15:11.42.1:15:13.49.Default..0.0.0..{\c&H00ffea&}That's it. Good.
+Dialogue: 0.1:15:22.24.1:15:23.64.Default..0.0.0..{\c&H00ffea&}Cut that one.
+Dialogue: 0.1:15:24.83.1:15:27.17.Default..0.0.0..{\c&H00ffea&}Good. there we go.
+Dialogue: 0.1:15:27.97.1:15:29.37.Default..0.0.0..{\c&H00ffea&}Good.
+Dialogue: 0.1:15:31.80.1:15:33.73.Default..0.0.0..{\c&H00ffea&}Which one do you think for your bow?
+Dialogue: 0.1:15:34.30.1:15:35.70.Default..0.0.0..{\c&H00ffea&}Let's have a little look.
+Dialogue: 0.1:15:36.57.1:15:37.97.Default..0.0.0..{\c&H00ffea&}Okay.
+Dialogue: 0.1:15:38.47.1:15:40.43.Default..0.0.0..{\c&H00ffea&}There you go. They are both good.
+Dialogue: 0.1:15:51.77.1:15:53.07.Default..0.0.0..{\c&H00ffea&}Margaret.
+Dialogue: 0.1:15:53.15.1:15:55.28.Default..0.0.0..{\c&H00ffea&}Margaret. come play.
+Dialogue: 0.1:16:35.44.1:16:36.84.Default..0.0.0..{\c&H00ffea&}Arthur.
+Dialogue: 0.1:16:37.67.1:16:40.57.Default..0.0.0..{\c&H00ffea&}-Do you know how to trap?\N-Yes.
+Dialogue: 0.1:16:40.70.1:16:42.97.Default..0.0.0..{\c&H00ffea&}Good. I need a strong hand.
+Dialogue: 0.1:16:56.40.1:16:57.97.Default..0.0.0..{\c&H00ffea&}Does your family have land?
+Dialogue: 0.1:16:59.47.1:17:00.87.Default..0.0.0..{\c&H00ffea&}Yes.
+Dialogue: 0.1:17:02.57.1:17:04.20.Default..0.0.0..{\c&H00ffea&}How many of you are there?
+Dialogue: 0.1:17:06.00.1:17:07.57.Default..0.0.0..{\c&H00ffea&}I don't know.
+Dialogue: 0.1:17:14.30.1:17:15.70.Default..0.0.0..{\c&H00ffea&}Are you alright?
+Dialogue: 0.1:17:17.00.1:17:21.17.Default..0.0.0..{\c&H00ffea&}I'm... I'm not as young as I once was.
+Dialogue: 0.1:17:23.63.1:17:25.17.Default..0.0.0..{\c&H00ffea&}Could use a hand up is all.
+Dialogue: 0.1:17:30.00.1:17:31.40.Default..0.0.0..{\c&H00ffea&}Thank you.
+Dialogue: 0.1:17:32.83.1:17:34.93.Default..0.0.0..{\c&H00ffea&}They delivered you quite a blow.
+Dialogue: 0.1:17:36.80.1:17:38.30.Default..0.0.0..{\c&H00ffea&}-Yes.\N-Who did it?
+Dialogue: 0.1:17:40.60.1:17:42.00.Default..0.0.0..{\c&H00ffea&}A man.
+Dialogue: 0.1:17:42.40.1:17:45.17.Default..0.0.0..{\c&H00ffea&}Some men. Bandits.
+Dialogue: 0.1:17:45.25.1:17:47.55.Default..0.0.0..{\c&H00ffea&}A man? Bandits?
+Dialogue: 0.1:17:47.63.1:17:49.70.Default..0.0.0..{\c&H00ffea&}-Yes.\N-May I look?
+Dialogue: 0.1:17:55.40.1:17:56.80.Default..0.0.0..{\c&H00ffea&}Quite a blow.
+Dialogue: 0.1:17:58.50.1:18:00.07.Default..0.0.0..{\c&H00ffea&}You're lucky you survived.
+Dialogue: 0.1:18:00.15.1:18:01.79.Default..0.0.0..{\c&H00ffea&}-You are a lucky boy.\N-Yes.
+Dialogue: 0.1:18:01.87.1:18:03.80.Default..0.0.0..{\c&H00ffea&}You should be thankful to be alive.
+Dialogue: 0.1:18:04.27.1:18:05.30.Default..0.0.0..{\c&H00ffea&}Yes...
+Dialogue: 0.1:18:05.38.1:18:07.11.Default..0.0.0..{\c&H00ffea&}It was a quarterstaff.
+Dialogue: 0.1:18:14.10.1:18:16.36.Default..0.0.0..{\c&H00ffea&}Lucky it didn't take your head off.
+Dialogue: 0.1:18:21.03.1:18:22.43.Default..0.0.0..{\c&H00ffea&\i1}Randolph!{\i0}
+Dialogue: 0.1:18:25.20.1:18:26.60.Default..0.0.0..{\c&H00ffea&\i1}Randolph!{\i0}
+Dialogue: 0.1:18:29.31.1:18:30.71.Default..0.0.0..{\c&H00ffea&}Moshe!
+Dialogue: 0.1:18:34.23.1:18:36.97.Default..0.0.0..{\c&H00ffea&}The Prioress said to come.
+Dialogue: 0.1:19:18.45.1:19:20.01.Default..0.0.0..{\c&H00ffea&}Are you in great pain?
+Dialogue: 0.1:19:29.60.1:19:32.27.Default..0.0.0..{\c&H00ffea&}Do you remember the trees?
+Dialogue: 0.1:19:34.23.1:19:36.51.Default..0.0.0..{\c&H00ffea&}Pears. apples and Elderberries.
+Dialogue: 0.1:19:38.80.1:19:40.05.Default..0.0.0..{\c&H00ffea&}Wonderful.
+Dialogue: 0.1:19:50.60.1:19:55.71.Default..0.0.0..{\c&H00ffea&}You know that you are the most important\Nperson in little Margaret's life.
+Dialogue: 0.1:19:57.77.1:19:59.06.Default..0.0.0..{\c&H00ffea&}I'm not important.
+Dialogue: 0.1:20:11.56.1:20:15.20.Default..0.0.0..{\c&H00ffea&}Think of all the people whose lives\Nyou've crossed.
+Dialogue: 0.1:20:18.31.1:20:21.43.Default..0.0.0..{\c&H00ffea&}We were important somehow. to all of them.
+Dialogue: 0.1:20:28.58.1:20:32.05.Default..0.0.0..{\c&H00ffea&}Do you know the story\Nof Guy of Gisborne...
+Dialogue: 0.1:20:33.69.1:20:35.12.Default..0.0.0..{\c&H00ffea&}and Robin Hood?
+Dialogue: 0.1:20:40.42.1:20:41.59.Default..0.0.0..{\c&H00ffea&}Yes.
+Dialogue: 0.1:20:46.51.1:20:48.95.Default..0.0.0..{\c&H00ffea&}They say you killed him.
+Dialogue: 0.1:20:51.02.1:20:52.61.Default..0.0.0..{\c&H00ffea&}Did you really behead him?
+Dialogue: 0.1:20:52.70.1:20:53.90.Default..0.0.0..{\c&H00ffea&}You're confused. Leper.
+Dialogue: 0.1:20:53.98.1:20:55.79.Default..0.0.0..{\c&H00ffea&}I will not tell a soul.
+Dialogue: 0.1:20:58.51.1:21:01.79.Default..0.0.0..{\c&H00ffea&}But don't lie to a man on his deathbed.
+Dialogue: 0.1:21:04.06.1:21:05.51.Default..0.0.0..{\c&H00ffea&}So...
+Dialogue: 0.1:21:05.59.1:21:07.62.Default..0.0.0..{\c&H00ffea&}did you really behead him?
+Dialogue: 0.1:21:11.12.1:21:13.00.Default..0.0.0..{\c&H00ffea&}There was no Guy of Gisborne.
+Dialogue: 0.1:21:14.05.1:21:16.50.Default..0.0.0..{\c&H00ffea&}Just one of many tales\Nthat were passed along.
+Dialogue: 0.1:21:18.91.1:21:20.58.Default..0.0.0..{\c&H00ffea&}But I've beheaded other men.
+Dialogue: 0.1:21:28.21.1:21:30.41.Default..0.0.0..{\c&H00ffea&}You really don't remember?
+Dialogue: 0.1:21:32.59.1:21:33.65.Default..0.0.0..{\c&H00ffea&}No.
+Dialogue: 0.1:21:34.76.1:21:36.92.Default..0.0.0..{\c&H00ffea&}Think about that name.
+Dialogue: 0.1:21:41.08.1:21:43.90.Default..0.0.0..{\c&H00ffea&}There was a Guy of Gisborne.
+Dialogue: 0.1:21:47.36.1:21:49.45.Default..0.0.0..{\c&H00ffea&}But you did not behead him.
+Dialogue: 0.1:21:51.91.1:21:53.72.Default..0.0.0..{\c&H00ffea&}You cut off his ear.
+Dialogue: 0.1:22:01.40.1:22:02.90.Default..0.0.0..{\c&H00ffea&}You said...
+Dialogue: 0.1:22:02.98.1:22:06.50.Default..0.0.0..{\c&H00ffea&}in another life.\Nyou would share a drink with him.
+Dialogue: 0.1:22:08.58.1:22:10.15.Default..0.0.0..{\c&H00ffea&}Do you remember that.
+Dialogue: 0.1:22:22.04.1:22:24.84.Default..0.0.0..{\c&H00ffea&}We seem to have found another life.
+Dialogue: 0.1:22:32.22.1:22:33.30.Default..0.0.0..{\c&H00ffea&}Now...
+Dialogue: 0.1:22:33.39.1:22:37.61.Default..0.0.0..{\c&H00ffea&}There is one cruelty I would\Nask you to not bring about...
+Dialogue: 0.1:22:40.24.1:22:44.21.Default..0.0.0..{\c&H00ffea&}You will guard the\Norchard until you. too. die.
+Dialogue: 0.1:22:47.47.1:22:50.57.Default..0.0.0..{\c&H00ffea&}You will serve the Prioress...
+Dialogue: 0.1:22:51.37.1:22:55.07.Default..0.0.0..{\c&H00ffea&}and the people of this\NPriory. past and future.
+Dialogue: 0.1:22:59.67.1:23:03.70.Default..0.0.0..{\c&H00ffea&}But at no point in that time.
+Dialogue: 0.1:23:06.02.1:23:10.62.Default..0.0.0..{\c&H00ffea&}in those good and peaceful years...
+Dialogue: 0.1:23:13.47.1:23:17.27.Default..0.0.0..{\c&H00ffea&}will you tell the Prioress\Nwho you really are.
+Dialogue: 0.1:23:23.07.1:23:24.47.Default..0.0.0..{\c&H00ffea&}Why?
+Dialogue: 0.1:23:26.87.1:23:28.27.Default..0.0.0..{\c&H00ffea&}Because...
+Dialogue: 0.1:23:29.87.1:23:31.92.Default..0.0.0..{\c&H00ffea&}One of those...
+Dialogue: 0.1:23:32.00.1:23:35.20.Default..0.0.0..{\c&H00ffea&}nameless. faceless death in\Nthe shadows of your mind...
+Dialogue: 0.1:23:38.07.1:23:40.00.Default..0.0.0..{\c&H00ffea&}was. in another life...
+Dialogue: 0.1:23:42.64.1:23:44.04.Default..0.0.0..{\c&H00ffea&}her beloved.
+Dialogue: 0.1:23:52.49.1:23:53.90.Default..0.0.0..{\c&H00ffea&}Promise me.
+Dialogue: 0.1:23:58.87.1:24:00.27.Default..0.0.0..{\c&H00ffea&}Robin.
+Dialogue: 0.1:24:01.77.1:24:03.30.Default..0.0.0..{\c&H00ffea&}Promise me.
+Dialogue: 0.1:25:34.87.1:25:36.27.Default..0.0.0..{\c&H00ffea&}Goodbye. Brigid.
+Dialogue: 0.1:25:49.66.1:25:51.06.Default..0.0.0..{\c&H00ffea&}Arthur.
+Dialogue: 0.1:25:53.22.1:25:54.62.Default..0.0.0..{\c&H00ffea&}Come.
+Dialogue: 0.1:25:57.55.1:25:59.70.Default..0.0.0..{\c&H00ffea&}There is a child on the far shore.
+Dialogue: 0.1:26:00.98.1:26:02.38.Default..0.0.0..{\c&H00ffea&}Perhaps it's your niece.
+Dialogue: 0.1:26:04.60.1:26:07.15.Default..0.0.0..{\c&H00ffea&}The Leper said you sought your lost niece.
+Dialogue: 0.1:26:08.17.1:26:09.10.Default..0.0.0..{\c&H00ffea&}Yes.
+Dialogue: 0.1:26:10.17.1:26:12.99.Default..0.0.0..{\c&H00ffea&}-Could it be her?\N-We shall see.
+Dialogue: 0.1:26:51.87.1:26:54.03.Default..0.0.0..{\c&H00ffea&}I do not see signs of anyone.
+Dialogue: 0.1:26:55.17.1:26:56.63.Default..0.0.0..{\c&H00ffea&}We should wait.
+Dialogue: 0.1:26:57.40.1:26:58.97.Default..0.0.0..{\c&H00ffea&}Maybe they'll return.
+Dialogue: 0.1:27:21.03.1:27:22.43.Default..0.0.0..{\c&H00ffea&}What is your name?
+Dialogue: 0.1:27:26.28.1:27:27.68.Default..0.0.0..{\c&H00ffea&}Arthur.
+Dialogue: 0.1:27:28.78.1:27:30.92.Default..0.0.0..{\c&H00ffea&}Don't waste time lying to me.
+Dialogue: 0.1:27:31.00.1:27:32.43.Default..0.0.0..{\c&H00ffea&}What is your real name?
+Dialogue: 0.1:27:36.94.1:27:38.34.Default..0.0.0..{\c&H00ffea&}Godwyn.
+Dialogue: 0.1:27:41.40.1:27:43.86.Default..0.0.0..{\c&H00ffea&}You are deciding. Godwyn.
+Dialogue: 0.1:27:43.94.1:27:46.85.Default..0.0.0..{\c&H00ffea&}whether to do the deed yourself.
+Dialogue: 0.1:27:47.25.1:27:49.45.Default..0.0.0..{\c&H00ffea&}or to fetch your family?
+Dialogue: 0.1:27:52.17.1:27:53.22.Default..0.0.0..{\c&H00ffea&}What deed?
+Dialogue: 0.1:27:53.30.1:27:55.74.Default..0.0.0..{\c&H00ffea&}How many men have you killed. Godwyn?
+Dialogue: 0.1:27:56.90.1:28:00.00.Default..0.0.0..{\c&H00ffea&}How many children have you killed?
+Dialogue: 0.1:28:05.17.1:28:08.17.Default..0.0.0..{\c&H00ffea&}I have killed so many. I\Ncould not give you a count.
+Dialogue: 0.1:28:09.88.1:28:11.77.Default..0.0.0..{\c&H00ffea&}For longer than you've been alive.
+Dialogue: 0.1:28:11.85.1:28:13.65.Default..0.0.0..{\c&H00ffea&}I've been killing kin of those.
+Dialogue: 0.1:28:13.74.1:28:16.73.Default..0.0.0..{\c&H00ffea&}I killed a lifetime ago. who I\Ndon't remember in the first.
+Dialogue: 0.1:28:16.82.1:28:19.12.Default..0.0.0..{\c&H00ffea&}Who meant nothing to me at that time.
+Dialogue: 0.1:28:20.49.1:28:25.07.Default..0.0.0..{\c&H00ffea&}But their brothers and their children.\Nthe grandchildren. they remember me.
+Dialogue: 0.1:28:26.07.1:28:28.14.Default..0.0.0..{\c&H00ffea&}And so now I must kill them.
+Dialogue: 0.1:28:28.99.1:28:30.42.Default..0.0.0..{\c&H00ffea&}Again and again...
+Dialogue: 0.1:28:31.63.1:28:35.40.Default..0.0.0..{\c&H00ffea&}in different forms. like shades... again.
+Dialogue: 0.1:28:36.77.1:28:38.90.Default..0.0.0..{\c&H00ffea&}And again. it never ceases.
+Dialogue: 0.1:28:42.50.1:28:44.30.Default..0.0.0..{\c&H00ffea&}It's a curse. Godwyn.
+Dialogue: 0.1:28:46.21.1:28:50.41.Default..0.0.0..{\c&H00ffea&}It's one that you bring on\Nyourself. even if done through duty.
+Dialogue: 0.1:28:51.43.1:28:53.97.Default..0.0.0..{\c&H00ffea&}It cares not about your duty.
+Dialogue: 0.1:28:54.43.1:28:57.67.Default..0.0.0..{\c&H00ffea&}This world cares only about blood...
+Dialogue: 0.1:28:59.07.1:29:01.30.Default..0.0.0..{\c&H00ffea&}and blood is all it will give in return.
+Dialogue: 0.1:29:04.18.1:29:06.65.Default..0.0.0..{\c&H00ffea&}Do you want to kill a child. Godwin?
+Dialogue: 0.1:29:09.43.1:29:13.45.Default..0.0.0..{\c&H00ffea&}Do you want to be responsible\Nfor the killing of a little girl?
+Dialogue: 0.1:29:16.61.1:29:17.81.Default..0.0.0..{\c&H00ffea&}No.
+Dialogue: 0.1:29:29.78.1:29:31.22.Default..0.0.0..{\c&H00ffea&}Your father is dead?
+Dialogue: 0.1:29:32.63.1:29:34.03.Default..0.0.0..{\c&H00ffea&}And your uncles?
+Dialogue: 0.1:29:36.97.1:29:38.90.Default..0.0.0..{\c&H00ffea&}I'm the all that's left.
+Dialogue: 0.1:29:43.23.1:29:45.03.Default..0.0.0..{\c&H00ffea&}Who else yet lives. Godwyn?
+Dialogue: 0.1:29:47.20.1:29:48.60.Default..0.0.0..{\c&H00ffea&}My mother.
+Dialogue: 0.1:29:50.07.1:29:51.47.Default..0.0.0..{\c&H00ffea&}My aunts.
+Dialogue: 0.1:29:52.70.1:29:54.10.Default..0.0.0..{\c&H00ffea&}My sisters.
+Dialogue: 0.1:29:54.47.1:29:56.23.Default..0.0.0..{\c&H00ffea&}You have a home. Godwyn.
+Dialogue: 0.1:29:58.47.1:30:00.80.Default..0.0.0..{\c&H00ffea&}-Yes.\N-Go home.
+Dialogue: 0.1:30:01.90.1:30:04.67.Default..0.0.0..{\c&H00ffea&}Tell your family that all\Nblood debts have been paid.
+Dialogue: 0.1:30:05.23.1:30:06.97.Default..0.0.0..{\c&H00ffea&}They will all be paid someday.
+Dialogue: 0.1:30:09.22.1:30:10.62.Default..0.0.0..{\c&H00ffea&}Sleep in your own bed.
+Dialogue: 0.1:30:11.57.1:30:15.83.Default..0.0.0..{\c&H00ffea&}Hold dear the life you will\Nyet share with your kin.
+Dialogue: 0.1:30:17.49.1:30:19.46.Default..0.0.0..{\c&H00ffea&}And if you return here...
+Dialogue: 0.1:30:20.47.1:30:24.37.Default..0.0.0..{\c&H00ffea&}you will have wasted this\Nchance at life that I give you now
+Dialogue: 0.1:30:25.47.1:30:29.27.Default..0.0.0..{\c&H00ffea&}and I will cut your throat\Nand never think of you again.
+Dialogue: 0.1:30:36.00.1:30:37.40.Default..0.0.0..{\c&H00ffea&}Go now.
+Dialogue: 0.1:30:39.66.1:30:41.06.Default..0.0.0..{\c&H00ffea&}Don't look back.
+Dialogue: 0.1:31:35.62.1:31:37.45.Default..0.0.0..{\c&H00ffea&}I thought you were departed.
+Dialogue: 0.1:31:47.34.1:31:49.21.Default..0.0.0..{\c&H00ffea&}I'm Robin. the outlaw.
+Dialogue: 0.1:31:52.70.1:31:56.47.Default..0.0.0..{\c&H00ffea&}You need to know that I am a monster.
+Dialogue: 0.1:31:58.70.1:32:00.30.Default..0.0.0..{\c&H00ffea&}I'm not one Randolph.
+Dialogue: 0.1:32:02.96.1:32:04.63.Default..0.0.0..{\c&H00ffea&}I am the outlaw...
+Dialogue: 0.1:32:05.00.1:32:06.40.Default..0.0.0..{\c&H00ffea&}Robin Hood.
+Dialogue: 0.1:32:21.70.1:32:23.10.Default..0.0.0..{\c&H00ffea&}I'm sorry.
+Dialogue: 0.1:34:23.20.1:34:24.97.Default..0.0.0..{\c&H00ffea&}Tell me how I should leave.
+Dialogue: 0.1:34:27.23.1:34:28.80.Default..0.0.0..{\c&H00ffea&}I will go now.
+Dialogue: 0.1:34:36.63.1:34:38.03.Default..0.0.0..{\c&H00ffea&}Get in the bed.
+Dialogue: 0.1:34:57.87.1:34:59.57.Default..0.0.0..{\c&H00ffea&}-Brigid.\N-Lie down.
+Dialogue: 0.1:38:25.10.1:38:27.30.Default..0.0.0..{\c&H00ffea&}You burned my husband alive.
+Dialogue: 0.1:38:32.70.1:38:36.48.Default..0.0.0..{\c&H00ffea&}I dream that he was already dead.\Nbut why else did you bar the door?
+Dialogue: 0.1:38:41.57.1:38:45.70.Default..0.0.0..{\c&H00ffea&}It felt like a lifetime. searching\Nthe ashes of our home.
+Dialogue: 0.1:38:48.82.1:38:50.92.Default..0.0.0..{\c&H00ffea&}And he looked so small.
+Dialogue: 0.1:38:52.76.1:38:56.47.Default..0.0.0..{\c&H00ffea&}Curled up in the corner.\Nwith so much of him gone.
+Dialogue: 0.1:39:01.03.1:39:04.18.Default..0.0.0..{\c&H00ffea&}And as much as I dream.\NI know he was alive.
+Dialogue: 0.1:39:08.92.1:39:13.60.Default..0.0.0..{\c&H00ffea&}Because. until the very end. he had\Nwrapped himself around our children.
+Dialogue: 0.1:40:01.80.1:40:03.20.Default..0.0.0..{\c&H00ffea&}Randolph.
+Dialogue: 0.1:40:05.40.1:40:06.87.Default..0.0.0..{\c&H00ffea&}It is me.
+Dialogue: 0.1:41:00.83.1:41:03.27.Default..0.0.0..{\c&H00ffea&}People speak of Robin Hood...
+Dialogue: 0.1:41:08.10.1:41:09.50.Default..0.0.0..{\c&H00ffea&}Tell stories...
+Dialogue: 0.1:41:16.07.1:41:17.47.Default..0.0.0..{\c&H00ffea&}They're all lies.
+Dialogue: 0.1:41:21.43.1:41:24.19.Default..0.0.0..{\c&H00ffea&}Lies that I told long ago...
+Dialogue: 0.1:41:25.80.1:41:27.80.Default..0.0.0..{\c&H00ffea&}So that fools would...
+Dialogue: 0.1:41:29.17.1:41:31.10.Default..0.0.0..{\c&H00ffea&}Follow me into the dark.
+Dialogue: 0.1:41:40.63.1:41:42.03.Default..0.0.0..{\c&H00ffea&}Robin.
+Dialogue: 0.1:41:48.00.1:41:50.17.Default..0.0.0..{\c&H00ffea&}What are they doing to you?
+Dialogue: 0.1:41:55.87.1:41:57.57.Default..0.0.0..{\c&H00ffea&}Don't be afraid.
+Dialogue: 0.1:41:59.80.1:42:02.50.Default..0.0.0..{\c&H00ffea&}I'll rescue you from this place.
+Dialogue: 0.1:42:04.79.1:42:06.86.Default..0.0.0..{\c&H00ffea&}I will rescue Little Margaret.
+Dialogue: 0.1:42:08.59.1:42:11.60.Default..0.0.0..{\c&H00ffea&}We're gonna start a new life together.
+Dialogue: 0.1:42:12.30.1:42:13.70.Default..0.0.0..{\c&H00ffea&}Edward.
+Dialogue: 0.1:42:17.70.1:42:19.67.Default..0.0.0..{\c&H00ffea&}Tell me about your wife.
+Dialogue: 0.1:42:29.43.1:42:30.83.Default..0.0.0..{\c&H00ffea&}My wife...
+Dialogue: 0.1:42:33.58.1:42:34.98.Default..0.0.0..{\c&H00ffea&}Margaret.
+Dialogue: 0.1:42:38.89.1:42:40.29.Default..0.0.0..{\c&H00ffea&}Margaret.
+Dialogue: 0.1:42:42.40.1:42:44.63.Default..0.0.0..{\c&H00ffea&}My wife Margaret.
+Dialogue: 0.1:42:46.90.1:42:48.43.Default..0.0.0..{\c&H00ffea&}Paint a portrait.
+Dialogue: 0.1:42:51.17.1:42:52.57.Default..0.0.0..{\c&H00ffea&}Paint a portrait?
+Dialogue: 0.1:42:56.77.1:42:58.20.Default..0.0.0..{\c&H00ffea&}She has hair...
+Dialogue: 0.1:43:00.29.1:43:01.69.Default..0.0.0..{\c&H00ffea&}red like...
+Dialogue: 0.1:43:03.10.1:43:05.10.Default..0.0.0..{\c&H00ffea&}the setting sun.
+Dialogue: 0.1:43:08.10.1:43:11.17.Default..0.0.0..{\c&H00ffea&}Like the setting summer sun.
+Dialogue: 0.1:43:18.47.1:43:19.85.Default..0.0.0..{\c&H00ffea&}Red like...
+Dialogue: 0.1:43:19.93.1:43:22.70.Default..0.0.0..{\c&H00ffea&}a setting summer...
+Dialogue: 0.1:43:23.54.1:43:24.94.Default..0.0.0..{\c&H00ffea&}Sun...
+Dialogue: 0.1:43:43.00.1:43:43.93.Default..0.0.0..{\c&H00ffea&}Robin...
+Dialogue: 0.1:43:50.30.1:43:52.67.Default..0.0.0..{\c&H00ffea&}Have you found your right death?
+Dialogue: 0.1:44:53.17.1:44:55.27.Default..0.0.0..{\c&H00ffea&}I'm ready to finish it.
+Dialogue: 0.1:45:02.40.1:45:04.50.Default..0.0.0..{\c&H00ffea&}I owe this life to you.
+Dialogue: 0.1:45:11.97.1:45:13.47.Default..0.0.0..{\c&H00ffea&}It is monstrous...
+Dialogue: 0.1:45:18.03.1:45:20.37.Default..0.0.0..{\c&H00ffea&}but I owe this life to you.
+Dialogue: 0.1:45:20.95.1:45:22.35.Default..0.0.0..{\c&H00ffea&}You owe me nothing.
+Dialogue: 0.1:45:27.57.1:45:30.10.Default..0.0.0..{\c&H00ffea&}I have never taken a life before.
+Dialogue: 0.1:45:34.20.1:45:36.83.Default..0.0.0..{\c&H00ffea&}It can be as if pruning the flower.
+Dialogue: 0.1:45:39.12.1:45:40.79.Default..0.0.0..{\c&H00ffea&}Well. It should not be.
+Dialogue: 0.1:45:41.50.1:45:43.00.Default..0.0.0..{\c&H00ffea&}It should not.
+Dialogue: 0.1:45:44.27.1:45:45.93.Default..0.0.0..{\c&H00ffea&}But it can.
+Dialogue: 0.1:45:51.43.1:45:54.03.Default..0.0.0..{\c&H00ffea&}I help those who come to this island.
+Dialogue: 0.1:45:56.93.1:45:58.40.Default..0.0.0..{\c&H00ffea&}I heal them.
+Dialogue: 0.1:46:02.11.1:46:03.23.Default..0.0.0..{\c&H00ffea&}Please.
+Dialogue: 0.1:46:08.70.1:46:10.20.Default..0.0.0..{\c&H00ffea&}Heal me.
+Dialogue: 0.1:47:05.83.1:47:07.27.Default..0.0.0..{\c&H00ffea&}Little Margaret...
+Dialogue: 0.1:47:13.07.1:47:15.47.Default..0.0.0..{\c&H00ffea&}Your father's name was John.
+Dialogue: 0.1:47:24.67.1:47:30.06.Default..0.0.0..{\c&H00ffea&}I knew him for many years.\Nbefore he was your papa.
+Dialogue: 0.1:47:36.17.1:47:37.57.Default..0.0.0..{\c&H00ffea&}I met him...
+Dialogue: 0.1:47:39.07.1:47:41.20.Default..0.0.0..{\c&H00ffea&}crossing a bridge one day...
+Dialogue: 0.1:47:42.60.1:47:44.63.Default..0.0.0..{\c&H00ffea&}over a rushing river.
+Dialogue: 0.1:47:47.43.1:47:49.03.Default..0.0.0..{\c&H00ffea&}He was stubborn.
+Dialogue: 0.1:47:51.97.1:47:54.23.Default..0.0.0..{\c&H00ffea&}He would not yield.
+Dialogue: 0.1:47:56.17.1:47:57.80.Default..0.0.0..{\c&H00ffea&}Not to any men.
+Dialogue: 0.1:47:58.83.1:48:00.80.Default..0.0.0..{\c&H00ffea&}Not even to me.
+Dialogue: 0.1:48:03.70.1:48:07.70.Default..0.0.0..{\c&H00ffea&}So we wrestled on that bridge.
+Dialogue: 0.1:48:09.71.1:48:12.58.Default..0.0.0..{\c&H00ffea&}Striking back and forth.
+Dialogue: 0.1:48:14.77.1:48:17.60.Default..0.0.0..{\c&H00ffea&}I whacked him on the side of the head.
+Dialogue: 0.1:48:19.90.1:48:22.32.Default..0.0.0..{\c&H00ffea&}He struck me in the stomach.
+Dialogue: 0.1:48:23.43.1:48:26.03.Default..0.0.0..{\c&H00ffea&}I wobbled on that bridge...
+Dialogue: 0.1:48:27.61.1:48:29.01.Default..0.0.0..{\c&H00ffea&}splashed.
+Dialogue: 0.1:48:30.09.1:48:31.99.Default..0.0.0..{\c&H00ffea&}He knocked me on my bum.
+Dialogue: 0.1:48:36.27.1:48:38.50.Default..0.0.0..{\c&H00ffea&}Once I dragged myself out...
+Dialogue: 0.1:48:39.43.1:48:40.83.Default..0.0.0..{\c&H00ffea&}drenched to the bone...
+Dialogue: 0.1:48:42.75.1:48:44.21.Default..0.0.0..{\c&H00ffea&}we embraced.
+Dialogue: 0.1:48:47.57.1:48:51.37.Default..0.0.0..{\c&H00ffea&}We called your papa Little John.
+Dialogue: 0.1:48:53.03.1:48:55.20.Default..0.0.0..{\c&H00ffea&}And we lived for many years...
+Dialogue: 0.1:48:58.40.1:49:01.67.Default..0.0.0..{\c&H00ffea&}as outlaws in the Greenwood.
+Dialogue: 0.1:49:05.17.1:49:06.57.Default..0.0.0..{\c&H00ffea&}We had feasts.
+Dialogue: 0.1:49:09.61.1:49:13.44.Default..0.0.0..{\c&H00ffea&}We gave silver to the meek.
+Dialogue: 0.1:49:30.57.1:49:32.57.Default..0.0.0..{\c&H00ffea&}But we stole that silver.
+Dialogue: 0.1:49:38.60.1:49:40.00.Default..0.0.0..{\c&H00ffea&}We stole it...
+Dialogue: 0.1:49:43.27.1:49:44.77.Default..0.0.0..{\c&H00ffea&}From bad people.
+Dialogue: 0.1:49:49.40.1:49:50.80.Default..0.0.0..{\c&H00ffea&}Do you understand?
+Dialogue: 0.1:49:53.37.1:49:54.77.Default..0.0.0..{\c&H00ffea&}Bad people.
+Dialogue: 0.1:50:09.80.1:50:11.20.Default..0.0.0..{\c&H00ffea&}Your father...
+Dialogue: 0.1:50:12.46.1:50:14.38.Default..0.0.0..{\c&H00ffea&}He would want me to tell you...
+Dialogue: 0.1:50:20.26.1:50:22.56.Default..0.0.0..{\c&H00ffea&}Because he loved you so. dear.
+Dialogue: 0.1:50:26.85.1:50:29.25.Default..0.0.0..{\c&H00ffea&}You must never tell a soul.
+Dialogue: 0.1:50:30.96.1:50:33.46.Default..0.0.0..{\c&H00ffea&}Not even the children you play with.
+Dialogue: 0.1:50:34.77.1:50:38.77.Default..0.0.0..{\c&H00ffea&}You must never tell them your papa's name.
+Dialogue: 0.1:50:42.77.1:50:45.03.Default..0.0.0..{\c&H00ffea&}There are bad people out there.
+Dialogue: 0.1:50:47.63.1:50:51.27.Default..0.0.0..{\c&H00ffea&}And they are angry with your papa.
+Dialogue: 0.1:50:55.61.1:50:57.98.Default..0.0.0..{\c&H00ffea&}And so they are angry with you.
+Dialogue: 0.1:51:02.80.1:51:04.83.Default..0.0.0..{\c&H00ffea&}Can we keep that secret?
+Dialogue: 0.1:51:07.43.1:51:10.03.Default..0.0.0..{\c&H00ffea&}I can keep that secret. Little Margaret.
+Dialogue: 0.1:51:12.58.1:51:13.98.Default..0.0.0..{\c&H00ffea&}Can you?
+Dialogue: 0.1:51:18.09.1:51:19.49.Default..0.0.0..{\c&H00ffea&}Good.
+Dialogue: 0.1:51:22.03.1:51:23.63.Default..0.0.0..{\c&H00ffea&}Now. come beside me.
+Dialogue: 0.1:51:33.63.1:51:35.03.Default..0.0.0..{\c&H00ffea&}Take this.
+Dialogue: 0.1:51:36.72.1:51:38.28.Default..0.0.0..{\c&H00ffea&}Why was he little?
+Dialogue: 0.1:51:39.05.1:51:40.45.Default..0.0.0..{\c&H00ffea&}What?
+Dialogue: 0.1:51:41.45.1:51:43.61.Default..0.0.0..{\c&H00ffea&}Why was my papa called "Little"?
+Dialogue: 0.1:51:49.44.1:51:51.97.Default..0.0.0..{\c&H00ffea&}Because he was little when I found him.
+Dialogue: 0.1:51:53.57.1:51:54.97.Default..0.0.0..{\c&H00ffea&}Like you.
+Dialogue: 0.1:52:02.95.1:52:04.35.Default..0.0.0..{\c&H00ffea&}String it.
+Dialogue: 0.1:52:27.32.1:52:30.52.Default..0.0.0..{\c&H00ffea&}Bend it with your leg.\Nas you saw me do.
+Dialogue: 0.1:52:51.75.1:52:53.15.Default..0.0.0..{\c&H00ffea&}Go to the window.
+Dialogue: 0.1:53:17.43.1:53:18.83.Default..0.0.0..{\c&H00ffea&}Knock an arrow.
+Dialogue: 0.1:53:27.43.1:53:32.30.Default..0.0.0..{\c&H00ffea&}Find a point.\Nwhere the waters meet the sky.
+Dialogue: 0.1:53:37.37.1:53:39.70.Default..0.0.0..{\c&H00ffea&}Pull the arrow to your mouth.
+Dialogue: 0.1:53:43.40.1:53:44.80.Default..0.0.0..{\c&H00ffea&}And hold.
+Dialogue: 0.1:53:46.57.1:53:48.83.Default..0.0.0..{\c&H00ffea&}I'll tell you when to loose.
+Dialogue: 0.1:53:51.83.1:53:53.37.Default..0.0.0..{\c&H00ffea&}And when I do...
+Dialogue: 0.1:53:54.26.1:53:56.09.Default..0.0.0..{\c&H00ffea&}you are not letting go...
+Dialogue: 0.1:53:58.77.1:54:01.37.Default..0.0.0..{\c&H00ffea&}you simply are not holding on any more.
+Dialogue: 0.1:54:08.59.1:54:10.12.Default..0.0.0..{\c&H00ffea&}Watch that target.
+Dialogue: 0.1:54:13.47.1:54:15.90.Default..0.0.0..{\c&H00ffea&}Your body will always be moving.
+Dialogue: 0.1:54:19.17.1:54:23.63.Default..0.0.0..{\c&H00ffea&}Feel when the arrow will fly true.
+Dialogue: 0.1:54:26.88.1:54:28.75.Default..0.0.0..{\c&H00ffea&}You're going to find a dance.
+Dialogue: 0.1:54:31.27.1:54:33.70.Default..0.0.0..{\c&H00ffea&}Hold until I tell you to loose...
+Dialogue: 0.1:54:37.26.1:54:38.86.Default..0.0.0..{\c&H00ffea&}You are strong.
+Dialogue: 0.1:54:40.00.1:54:41.40.Default..0.0.0..{\c&H00ffea&}Feel...
+Dialogue: 0.1:54:43.20.1:54:44.60.Default..0.0.0..{\c&H00ffea&}The sway...
+Dialogue: 0.1:54:48.03.1:54:49.43.Default..0.0.0..{\c&H00ffea&}That dance...
+Dialogue: 0.1:54:56.43.1:54:57.83.Default..0.0.0..{\c&H00ffea&}Now loose.
+Dialogue: 0.1:55:10.44.1:55:14.81.Default..0.0.0..{\c&H00ffff&\i1\b1}Transcribed by Clarity{\b0\i0}
