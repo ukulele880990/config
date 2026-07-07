@@ -1,0 +1,1261 @@
+WEBVTT
+
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 720
+PlayResY: 480
+Timer: 100.0
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name. Fontname. Fontsize. PrimaryColour. SecondaryColour. OutlineColour. BackColour. Bold. Italic. Underline. StrikeOut. ScaleX. ScaleY. Spacing. Angle. BorderStyle. Outline. Shadow. Alignment. MarginL. MarginR. MarginV. Encoding
+Style: Default.Lucida Console.30.&H00FFFFFF.&H00FFFFFF.&H000F0F0F.&H000F0F0F.0.0.0.0.100.100.0.0.00.1.2.3.2.20.20.20.0
+
+[Events]
+Format: Layer. Start. End. Style. Actor. MarginL. MarginR. MarginV. Effect. Text
+Dialogue: 0.0:00:51.40.0:00:55.35.Default..0.0.0..{\an1\pos(215.432)}(FOOTSTEPS CRUNCHING)
+Dialogue: 0.0:00:58.07.0:00:59.57.Default..0.0.0..{\an1\pos(254.432)}(WIND HOWLING)
+Dialogue: 0.0:01:25.80.0:01:28.80.Default..0.0.0..{\an1\pos(228.432)}(SPEAKING ARABIC)
+Dialogue: 0.0:01:45.91.0:01:47.63.Default..0.0.0..{\an1\pos(319.432)}(IN ARABIC)\NIt's almost new.
+Dialogue: 0.0:01:50.08.0:01:52.34.Default..0.0.0..{\an1\pos(150.432)}(IN ARABIC)\NThree hundred cartridges.
+Dialogue: 0.0:01:55.67.0:01:57.68.Default..0.0.0..{\an1\pos(176.432)}The guy who\Ngave it to me said...
+Dialogue: 0.0:01:57.67.0:02:03.47.Default..0.0.0..{\an1\pos(150.432)}you can hit\Nas far as three kilometers.
+Dialogue: 0.0:02:10.01.0:02:12.01.Default..0.0.0..{\an1\pos(228.432)}How much are you asking\Nfor all of this?
+Dialogue: 0.0:02:12.02.0:02:14.03.Default..0.0.0..{\an1\pos(150.432)}One thousand dirhams.
+Dialogue: 0.0:02:14.02.0:02:15.98.Default..0.0.0..{\an1\pos(254.432)}One thousand dirhams?
+Dialogue: 0.0:02:19.99.0:02:22.49.Default..0.0.0..{\an1\pos(332.432)}I'll give you\Nfive hundred.
+Dialogue: 0.0:02:27.08.0:02:28.08.Default..0.0.0..{\an1\pos(332.432)}And a goat.
+Dialogue: 0.0:02:37.21.0:02:42.76.Default..0.0.0..{\an1\pos(163.432)}With this rifle. your sons\Nwill kill plenty of jackals.
+Dialogue: 0.0:02:47.93.0:02:50.22.Default..0.0.0..{\an1\pos(306.432)}Here. let one\Nof your boys try.
+Dialogue: 0.0:02:50.22.0:02:51.94.Default..0.0.0..{\an1\pos(306.432)}Let Yussef shoot.
+Dialogue: 0.0:02:51.94.0:02:54.44.Default..0.0.0..{\an1\pos(150.432)}AHMED:\NDad. I want to shoot first.
+Dialogue: 0.0:03:02.53.0:03:05.78.Default..0.0.0..{\an1\pos(150.432)}This is the safety.\NPush it in when you're ready.
+Dialogue: 0.0:03:08.40.0:03:09.65.Default..0.0.0..{\an1\pos(319.432)}(CHUCKLING)
+Dialogue: 0.0:03:09.66.0:03:12.05.Default..0.0.0..{\an1\pos(319.432)}If he doesn't\Nhit the jackals.
+Dialogue: 0.0:03:12.04.0:03:13.66.Default..0.0.0..{\an1\pos(254.432)}at least he'll scare\Nthe shit out of them.
+Dialogue: 0.0:03:13.66.0:03:14.96.Default..0.0.0..{\an1\pos(306.432)}Your turn Yussef.
+Dialogue: 0.0:03:18.05.0:03:19.55.Default..0.0.0..{\an1\pos(241.432)}(RIFLE COCKING)
+Dialogue: 0.0:03:29.18.0:03:31.35.Default..0.0.0..{\an1\pos(176.432)}He shoots better than you.
+Dialogue: 0.0:03:39.40.0:03:41.24.Default..0.0.0..{\an1\pos(293.432)}YASIRA: Good luck.\Nhave a good day.
+Dialogue: 0.0:03:41.24.0:03:42.15.Default..0.0.0..{\an1\pos(280.432)}God bless you.
+Dialogue: 0.0:03:42.16.0:03:46.28.Default..0.0.0..{\an1\pos(345.432)}Kill at least\Nthree jackals.
+Dialogue: 0.0:03:46.28.0:03:50.67.Default..0.0.0..{\an1\pos(150.432)}HASSAN: Make sure no one\Nsees you with the rifle...
+Dialogue: 0.0:03:50.66.0:03:54.67.Default..0.0.0..{\an1\pos(150.432)}if you see\Nsomeone coming. hide it.
+Dialogue: 0.0:03:57.00.0:03:58.92.Default..0.0.0..{\an1\pos(254.432)}(BABY CRYING)
+Dialogue: 0.0:04:14.85.0:04:16.60.Default..0.0.0..{\an1\pos(241.432)}(GOAT BLEATING)
+Dialogue: 0.0:04:17.89.0:04:19.02.Default..0.0.0..{\an1\pos(332.432)}Yussef!
+Dialogue: 0.0:04:26.07.0:04:27.38.Default..0.0.0..{\an1\pos(306.432)}Yussef!
+Dialogue: 0.0:04:29.95.0:04:32.40.Default..0.0.0..{\an1\pos(150.432)}Yussef! Yussef!
+Dialogue: 0.0:04:33.91.0:04:35.32.Default..0.0.0..{\an1\pos(150.432)}What are you doing?
+Dialogue: 0.0:04:37.13.0:04:39.13.Default..0.0.0..{\an1\pos(228.432)}I told you.\Ndon't spy on her.
+Dialogue: 0.0:04:39.13.0:04:40.83.Default..0.0.0..{\an1\pos(306.432)}What do you care?
+Dialogue: 0.0:04:40.83.0:04:42.33.Default..0.0.0..{\an1\pos(319.432)}Move it.
+Dialogue: 0.0:05:02.52.0:05:03.52.Default..0.0.0..{\an1\pos(267.432)}(METAL CLINKING)
+Dialogue: 0.0:05:03.52.0:05:05.52.Default..0.0.0..{\an1\pos(150.432)}AHMED: Five to two.
+Dialogue: 0.0:05:07.52.0:05:08.57.Default..0.0.0..{\an1\pos(332.432)}YUSSEF: There's\Na jackal.
+Dialogue: 0.0:05:08.57.0:05:09.99.Default..0.0.0..{\an1\pos(254.432)}Where?
+Dialogue: 0.0:05:10.49.0:05:11.49.Default..0.0.0..{\an1\pos(189.432)}Over there.
+Dialogue: 0.0:05:16.62.0:05:18.68.Default..0.0.0..{\an1\pos(176.432)}YUSSEF: What are you doing.\Nyou idiot?
+Dialogue: 0.0:05:37.30.0:05:39.14.Default..0.0.0..{\an1\pos(280.432)}Zohra doesn't mind.
+Dialogue: 0.0:05:40.11.0:05:42.62.Default..0.0.0..{\an1\pos(150.432)}She doesn't. but I do.
+Dialogue: 0.0:05:44.61.0:05:49.11.Default..0.0.0..{\an1\pos(332.432)}This is between\Nher and me.
+Dialogue: 0.0:05:49.12.0:05:54.13.Default..0.0.0..{\an1\pos(150.432)}You're both pigs.\NNext time\NI'm going to tell Dad.
+Dialogue: 0.0:05:54.12.0:05:55.87.Default..0.0.0..{\an1\pos(306.432)}Stay out of this.
+Dialogue: 0.0:05:55.87.0:05:59.57.Default..0.0.0..{\an1\pos(150.432)}If you want me\Nto stay out of it.\Ndon't do it.
+Dialogue: 0.0:06:52.21.0:06:53.71.Default..0.0.0..{\an1\pos(267.432)}(GUN FIRING)
+Dialogue: 0.0:07:00.05.0:07:02.02.Default..0.0.0..{\an1\pos(176.432)}YUSSEF: What are you doing?
+Dialogue: 0.0:07:02.36.0:07:03.78.Default..0.0.0..{\an1\pos(254.432)}(GUN COCKING)
+Dialogue: 0.0:07:03.77.0:07:06.89.Default..0.0.0..{\an1\pos(150.432)}Hassan said this bullet\Ncould reach three kilometers.
+Dialogue: 0.0:07:07.39.0:07:08.89.Default..0.0.0..{\an1\pos(150.432)}That rock didn't move.
+Dialogue: 0.0:07:09.40.0:07:11.79.Default..0.0.0..{\an1\pos(293.432)}You don't know\Nhow to shoot.\NGive me the rifle.
+Dialogue: 0.0:07:20.04.0:07:20.99.Default..0.0.0..{\an1\pos(293.432)}See.
+Dialogue: 0.0:07:21.37.0:07:23.62.Default..0.0.0..{\an1\pos(150.432)}Yeah. but that's not\Nthree kilometers.
+Dialogue: 0.0:07:37.14.0:07:39.51.Default..0.0.0..{\an1\pos(280.432)}I bet the bullet\Ncan't hit that far.
+Dialogue: 0.0:07:43.60.0:07:45.61.Default..0.0.0..{\an1\pos(228.432)}These bullets are lame.
+Dialogue: 0.0:07:46.23.0:07:47.73.Default..0.0.0..{\an1\pos(150.432)}You're not aiming right.
+Dialogue: 0.0:07:51.07.0:07:53.65.Default..0.0.0..{\an1\pos(280.432)}What'll you give me\Nif I hit that car?
+Dialogue: 0.0:07:54.61.0:07:56.11.Default..0.0.0..{\an1\pos(150.432)}AHMED: I'll shoot.
+Dialogue: 0.0:08:02.58.0:08:04.58.Default..0.0.0..{\an1\pos(241.432)}You see? Nothing.
+Dialogue: 0.0:08:04.58.0:08:05.58.Default..0.0.0..{\an1\pos(150.432)}Let me shoot.
+Dialogue: 0.0:08:08.04.0:08:09.92.Default..0.0.0..{\an1\pos(319.432)}Shoot at it.
+Dialogue: 0.0:08:24.39.0:08:26.69.Default..0.0.0..{\an1\pos(241.432)}AHMED: See... nothing.
+Dialogue: 0.0:08:28.52.0:08:30.78.Default..0.0.0..{\an1\pos(319.432)}You're right.\Nthey're useless.
+Dialogue: 0.0:08:52.63.0:08:55.80.Default..0.0.0..{\an1\pos(150.432)}AMELIA: (IN SPANISH)\NWhere are these kids?
+Dialogue: 0.0:08:55.80.0:08:59.00.Default..0.0.0..{\an1\pos(150.432)}Where are you?
+Dialogue: 0.0:08:59.00.0:09:01.34.Default..0.0.0..{\an1\pos(215.432)}I'm coming to get you...
+Dialogue: 0.0:09:01.34.0:09:02.76.Default..0.0.0..{\an1\pos(358.432)}DEBBIE: Base!
+Dialogue: 0.0:09:03.26.0:09:04.76.Default..0.0.0..{\an1\pos(241.432)}(PHONE RINGING)
+Dialogue: 0.0:09:04.76.0:09:06.76.Default..0.0.0..{\an1\pos(332.432)}You win.
+Dialogue: 0.0:09:07.26.0:09:08.98.Default..0.0.0..{\an1\pos(163.408)}\h\h\h\h\h\h\h\h\h\h\h\hYes?\N{\i1}RICHARD: Amelia?
+Dialogue: 0.0:09:08.98.0:09:10.48.Default..0.0.0..{\an1\pos(410.432)}Yes. sir.
+Dialogue: 0.0:09:10.98.0:09:12.48.Default..0.0.0..{\an1\pos(163.432)}{\i1}Hi. How's everything?
+Dialogue: 0.0:09:12.49.0:09:15.00.Default..0.0.0..{\an1\pos(215.432)}Everything is okay. sir.
+Dialogue: 0.0:09:14.99.0:09:16.49.Default..0.0.0..{\an1\pos(267.432)}Mrs. Rachel told me.
+Dialogue: 0.0:09:16.49.0:09:17.99.Default..0.0.0..{\an1\pos(254.432)}I am very sorry. sir.
+Dialogue: 0.0:09:18.82.0:09:20.24.Default..0.0.0..{\an1\pos(306.432)}How's Mrs. Susan?
+Dialogue: 0.0:09:20.24.0:09:22.16.Default..0.0.0..{\an1\pos(163.432)}{\i1}She's better now.
+Dialogue: 0.0:09:22.16.0:09:24.66.Default..0.0.0..{\an1\pos(176.432)}{\i1}They're going to\Nhave to operate. but...
+Dialogue: 0.0:09:24.66.0:09:27.67.Default..0.0.0..{\an1\pos(176.432)}{\i1}Look. Rachel's\Nflying in tonight.
+Dialogue: 0.0:09:27.67.0:09:30.67.Default..0.0.0..{\an1\pos(163.432)}{\i1}She's gonna find someone\Nto take care of the kids\Nso you can go.
+Dialogue: 0.0:09:30.67.0:09:32.67.Default..0.0.0..{\an1\pos(189.432)}Thank you. sir. Thank you.
+Dialogue: 0.0:09:32.67.0:09:34.67.Default..0.0.0..{\an1\pos(228.432)}I really appreciate it.
+Dialogue: 0.0:09:34.67.0:09:37.17.Default..0.0.0..{\an1\pos(176.432)}{\i1}So. look after them. okay?\NDon't tell them anything.
+Dialogue: 0.0:09:37.18.0:09:39.69.Default..0.0.0..{\an1\pos(150.432)}No. no. no. Don't worry. sir.\NDon't worry. Okay.
+Dialogue: 0.0:09:39.68.0:09:40.68.Default..0.0.0..{\an1\pos(163.432)}{\i1}Put Mike on. please.
+Dialogue: 0.0:09:40.68.0:09:42.18.Default..0.0.0..{\an1\pos(267.432)}Yes. sir.
+Dialogue: 0.0:09:42.18.0:09:44.13.Default..0.0.0..{\an1\pos(150.432)}Mike? Your dad is calling.
+Dialogue: 0.0:09:47.89.0:09:50.39.Default..0.0.0..{\an1\pos(163.408)}\h\h\h\h\h\hHi. Daddy.\N{\i1}Hi. sweetie. How are you?
+Dialogue: 0.0:09:50.39.0:09:54.39.Default..0.0.0..{\an1\pos(215.432)}Good. Dad. guess what?\NToday they brought\Nhermit crabs to class.
+Dialogue: 0.0:09:54.89.0:09:56.39.Default..0.0.0..{\an1\pos(163.432)}{\i1}Oh. really?
+Dialogue: 0.0:09:56.40.0:09:58.91.Default..0.0.0..{\an1\pos(202.432)}I held one in my hands.\NIt bit me.
+Dialogue: 0.0:09:58.90.0:10:01.40.Default..0.0.0..{\an1\pos(215.432)}It really\Ndidn't bleed. but...
+Dialogue: 0.0:10:01.90.0:10:03.70.Default..0.0.0..{\an1\pos(228.432)}Dad? Are you okay?
+Dialogue: 0.0:10:04.20.0:10:05.95.Default..0.0.0..{\an1\pos(163.432)}{\i1}I'm okay. Everything's fine.
+Dialogue: 0.0:10:06.46.0:10:07.47.Default..0.0.0..{\an1\pos(241.432)}Mariana wanted\Nto take one home.
+Dialogue: 0.0:10:07.46.0:10:08.82.Default..0.0.0..{\an1\pos(189.432)}But the teacher\Ndidn't let her. She was...
+Dialogue: 0.0:10:09.33.0:10:10.84.Default..0.0.0..{\an1\pos(150.432)}I don't want to go to sleep.\NI don't want to go to sleep.
+Dialogue: 0.0:10:11.33.0:10:13.46.Default..0.0.0..{\an1\pos(345.432)}Mike. Mike.
+Dialogue: 0.0:10:13.46.0:10:15.75.Default..0.0.0..{\an1\pos(358.432)}(IN SPANISH)\NDid you brush\Nyour teeth?
+Dialogue: 0.0:10:21.75.0:10:22.75.Default..0.0.0..{\an1\pos(397.432)}(CHUCKLES)
+Dialogue: 0.0:10:26.26.0:10:28.76.Default..0.0.0..{\an1\pos(280.432)}Sleep with angels.\Nmy darling.
+Dialogue: 0.0:10:30.76.0:10:32.26.Default..0.0.0..{\an1\pos(241.432)}Sleep well.\Nsweetie.
+Dialogue: 0.0:10:40.11.0:10:41.12.Default..0.0.0..{\an1\pos(150.432)}DEBBIE: Amelia?
+Dialogue: 0.0:10:44.11.0:10:45.61.Default..0.0.0..{\an1\pos(150.432)}Amelia?
+Dialogue: 0.0:10:50.28.0:10:51.78.Default..0.0.0..{\an1\pos(202.432)}Could you leave\Nthe light on?
+Dialogue: 0.0:10:51.78.0:10:53.53.Default..0.0.0..{\an1\pos(306.432)}(IN SPANISH)\NYou are already\Nsharing a room...
+Dialogue: 0.0:10:53.54.0:10:56.85.Default..0.0.0..{\an1\pos(215.432)}didn't we agree to sleep\Nwith the lights off?
+Dialogue: 0.0:10:56.84.0:10:58.21.Default..0.0.0..{\an1\pos(215.432)}But I'm scared.
+Dialogue: 0.0:10:58.71.0:11:00.68.Default..0.0.0..{\an1\pos(319.432)}There's nothing\Nto be scared of.
+Dialogue: 0.0:11:00.68.0:11:02.63.Default..0.0.0..{\an1\pos(150.432)}But I'm scared\Nthat what happened to Sam
+Dialogue: 0.0:11:02.63.0:11:05.13.Default..0.0.0..{\an1\pos(241.432)}is going to\Nhappen to me.
+Dialogue: 0.0:11:06.35.0:11:10.02.Default..0.0.0..{\an1\pos(280.432)}No. that won't\Nhappen to you.
+Dialogue: 0.0:11:11.10.0:11:13.35.Default..0.0.0..{\an1\pos(228.432)}Sam died while\Nhe was sleeping.
+Dialogue: 0.0:11:13.36.0:11:15.37.Default..0.0.0..{\an1\pos(267.432)}No. baby. no. no.
+Dialogue: 0.0:11:15.36.0:11:17.14.Default..0.0.0..{\an1\pos(228.432)}That only\Nhappens to some babies
+Dialogue: 0.0:11:17.14.0:11:20.64.Default..0.0.0..{\an1\pos(267.432)}when they're really.\Nreally little.
+Dialogue: 0.0:11:20.65.0:11:23.82.Default..0.0.0..{\an1\pos(228.432)}Your brother is already\Nhigh in heaven. baby.
+Dialogue: 0.0:11:24.82.0:11:26.32.Default..0.0.0..{\an1\pos(215.432)}I'll sit here with you.
+Dialogue: 0.0:11:26.32.0:11:28.70.Default..0.0.0..{\an1\pos(280.432)}But you can't\Ntalk anymore. okay?
+Dialogue: 0.0:11:29.71.0:11:30.83.Default..0.0.0..{\an1\pos(358.432)}Go to sleep.
+Dialogue: 0.0:11:39.42.0:11:41.39.Default..0.0.0..{\an1\pos(319.432)}(SHUSHING)
+Dialogue: 0.0:11:48.64.0:11:49.64.Default..0.0.0..{\an1\pos(241.432)}(PHONE RINGING)
+Dialogue: 0.0:11:53.51.0:11:55.76.Default..0.0.0..{\an1\pos(267.432)}(PHONE RINGING)
+Dialogue: 0.0:12:02.10.0:12:04.07.Default..0.0.0..{\an1\pos(280.432)}But today is my\Nson's wedding. sir.
+Dialogue: 0.0:12:04.57.0:12:06.07.Default..0.0.0..{\an1\pos(163.432)}{\i1}RICHARD:\NCancel your son's wedding.\NI'll pay for another one.
+Dialogue: 0.0:12:06.08.0:12:09.59.Default..0.0.0..{\an1\pos(163.432)}{\i1}I'll pay for a better one.\NI need you to do this. Amelia.
+Dialogue: 0.0:12:09.58.0:12:12.58.Default..0.0.0..{\an1\pos(202.432)}Everything is ready. sir.
+Dialogue: 0.0:12:12.58.0:12:16.08.Default..0.0.0..{\an1\pos(202.432)}Can't anyone come\Nto take care of the kids?\NIt's just one day. sir.
+Dialogue: 0.0:12:16.09.0:12:18.10.Default..0.0.0..{\an1\pos(163.432)}{\i1}How do you expect\Nme to find someone\Nfrom here?
+Dialogue: 0.0:12:18.09.0:12:20.59.Default..0.0.0..{\an1\pos(163.432)}{\i1}Susan's still recovering.\Nand Rachel can't make it\Nto take care of the kids.
+Dialogue: 0.0:12:20.59.0:12:22.37.Default..0.0.0..{\an1\pos(163.432)}{\i1}Can't do it. Hold on.
+Dialogue: 0.0:12:23.88.0:12:25.89.Default..0.0.0..{\an1\pos(176.432)}{\i1}We're really\Ncounting on you. Amelia.
+Dialogue: 0.0:12:25.88.0:12:27.38.Default..0.0.0..{\an1\pos(176.432)}{\i1}I'm sorry.\Nbut you have to do this.
+Dialogue: 0.0:12:27.88.0:12:28.88.Default..0.0.0..{\an1\pos(163.408)}\h\h\h\h\h\h\h\h\h\h\h\hBut...\N{\i1}Goodbye.
+Dialogue: 0.0:12:28.88.0:12:29.88.Default..0.0.0..{\an1\pos(280.432)}{\i1}(PHONE CLICKS)
+Dialogue: 0.0:12:38.97.0:12:41.64.Default..0.0.0..{\an1\pos(241.432)}AMELIA: (IN SPANISH)\NHow can I be\Nin two places at once?
+Dialogue: 0.0:12:41.64.0:12:45.28.Default..0.0.0..{\an1\pos(228.432)}I'm just asking you\Nto take them for today.
+Dialogue: 0.0:12:45.78.0:12:48.28.Default..0.0.0..{\an1\pos(150.432)}WOMAN ON PHONE: I can't.\Nthe mister is still home.
+Dialogue: 0.0:12:48.28.0:12:49.78.Default..0.0.0..{\an1\pos(332.432)}And they aren't\Ngoing out?
+Dialogue: 0.0:12:49.79.0:12:51.30.Default..0.0.0..{\an1\pos(150.432)}No. I don't\Nthink so.
+Dialogue: 0.0:12:53.37.0:12:56.62.Default..0.0.0..{\an1\pos(332.432)}Okay. I'll talk\Nto you later.
+Dialogue: 0.0:13:01.46.0:13:02.46.Default..0.0.0..{\an1\pos(332.432)}LUCIA:\NI can't Amelia.
+Dialogue: 0.0:13:02.97.0:13:04.98.Default..0.0.0..{\an1\pos(150.432)}AMELIA: Please.\Nit's my son's wedding.
+Dialogue: 0.0:13:04.97.0:13:08.80.Default..0.0.0..{\an1\pos(150.432)}Just for the day. Lucia.\NI'll be back\Nfor them tonight.
+Dialogue: 0.0:13:08.80.0:13:11.89.Default..0.0.0..{\an1\pos(150.432)}And what do I say\Nto Mrs. Catherine?
+Dialogue: 0.0:13:11.89.0:13:15.89.Default..0.0.0..{\an1\pos(150.432)}I don't know. Tell her\Nthey're your nephews.
+Dialogue: 0.0:13:15.89.0:13:17.93.Default..0.0.0..{\an1\pos(163.432)}Right. because they look\Nso much like me...
+Dialogue: 0.0:13:17.93.0:13:19.73.Default..0.0.0..{\an1\pos(137.432)}with my American looking face!
+Dialogue: 0.0:13:21.57.0:13:23.07.Default..0.0.0..{\an1\pos(228.432)}DEBBIE: Are we going to\Nsee your house?
+Dialogue: 0.0:13:23.07.0:13:26.07.Default..0.0.0..{\an1\pos(150.432)}Yes. You are\Ngoing to see my house.
+Dialogue: 0.0:13:26.07.0:13:28.07.Default..0.0.0..{\an1\pos(371.432)}Is it far?
+Dialogue: 0.0:13:28.07.0:13:30.07.Default..0.0.0..{\an1\pos(241.432)}No. no.
+Dialogue: 0.0:13:30.08.0:13:31.84.Default..0.0.0..{\an1\pos(189.432)}(SPEAKING SPANISH)
+Dialogue: 0.0:13:33.20.0:13:37.21.Default..0.0.0..{\an1\pos(215.432)}{\i1}(SPANISH SONG PLAYING)
+Dialogue: 0.0:13:43.34.0:13:44.34.Default..0.0.0..{\an1\pos(241.432)}SANTIAGO: (IN SPANISH)\NWhat's up?
+Dialogue: 0.0:13:44.34.0:13:45.34.Default..0.0.0..{\an1\pos(319.432)}(CHATTERING\NIN SPANISH)
+Dialogue: 0.0:13:45.34.0:13:46.84.Default..0.0.0..{\an1\pos(397.432)}Hi Auntie.
+Dialogue: 0.0:13:46.84.0:13:49.34.Default..0.0.0..{\an1\pos(267.432)}Great to see you.\NSantiago.
+Dialogue: 0.0:13:49.35.0:13:51.36.Default..0.0.0..{\an1\pos(137.432)}(AMELIA CHATTERING IN SPANISH)
+Dialogue: 0.0:13:51.35.0:13:52.85.Default..0.0.0..{\an1\pos(319.432)}Mike. Debbie.
+Dialogue: 0.0:13:52.85.0:13:53.85.Default..0.0.0..{\an1\pos(384.432)}Hello!
+Dialogue: 0.0:13:54.35.0:13:55.85.Default..0.0.0..{\an1\pos(319.432)}Hello. hello.
+Dialogue: 0.0:13:55.85.0:13:57.85.Default..0.0.0..{\an1\pos(254.432)}(IN SPANISH)\NThey're really shy.
+Dialogue: 0.0:13:57.85.0:13:59.85.Default..0.0.0..{\an1\pos(280.432)}(IN SPANISH)\NWhat? These kids\Nare coming with us?
+Dialogue: 0.0:13:59.86.0:14:02.37.Default..0.0.0..{\an1\pos(150.432)}I couldn't find\Nanyone to watch them.
+Dialogue: 0.0:14:02.36.0:14:03.89.Default..0.0.0..{\an1\pos(150.432)}Their parents\Nwon't return tonight.
+Dialogue: 0.0:14:03.89.0:14:05.89.Default..0.0.0..{\an1\pos(215.432)}Why bring them?\NThey'll drive you crazy.
+Dialogue: 0.0:14:05.89.0:14:08.90.Default..0.0.0..{\an1\pos(150.432)}Don't worry.\Nthey're very good kids.
+Dialogue: 0.0:14:08.90.0:14:11.73.Default..0.0.0..{\an1\pos(345.432)}Don't you want\Nto leave them\Nwith somebody?
+Dialogue: 0.0:14:11.73.0:14:13.23.Default..0.0.0..{\an1\pos(241.432)}I know a girl who\Ncan take care of them.
+Dialogue: 0.0:14:13.24.0:14:15.75.Default..0.0.0..{\an1\pos(150.432)}Are you crazy?\NI have to take them\Nwith me.
+Dialogue: 0.0:14:15.74.0:14:18.16.Default..0.0.0..{\an1\pos(150.432)}I can't leave them\Nwith just anybody.
+Dialogue: 0.0:14:19.66.0:14:20.66.Default..0.0.0..{\an1\pos(150.432)}Are you sure. Auntie?
+Dialogue: 0.0:14:20.66.0:14:23.16.Default..0.0.0..{\an1\pos(384.432)}(REPLIES\NIN SPANISH)
+Dialogue: 0.0:14:23.16.0:14:27.16.Default..0.0.0..{\an1\pos(215.432)}{\i1}(SPANISH SONG BLARING)
+Dialogue: 0.0:14:37.59.0:14:39.06.Default..0.0.0..{\an1\pos(163.432)}(GREETING IN ARABIC)
+Dialogue: 0.0:14:39.06.0:14:41.73.Default..0.0.0..{\an1\pos(163.432)}(IN FRENCH-ACCENTED ENGLISH)\NYou want to order?
+Dialogue: 0.0:14:41.73.0:14:46.02.Default..0.0.0..{\an1\pos(267.432)}Yeah. I'll have\Nthe chicken couscous\Nand a Coke.
+Dialogue: 0.0:14:47.90.0:14:49.94.Default..0.0.0..{\an1\pos(150.432)}What do you have\Nthat doesn't have fat in it?
+Dialogue: 0.0:14:49.94.0:14:52.57.Default..0.0.0..{\an1\pos(150.432)}Everything is delicious.
+Dialogue: 0.0:14:52.57.0:14:55.58.Default..0.0.0..{\an1\pos(150.432)}I'll have the fried eggplant\Nand a Diet Coke.
+Dialogue: 0.0:14:55.58.0:14:57.58.Default..0.0.0..{\an1\pos(150.432)}WAITER: Sorry.\Nwe don't have Diet Coke.
+Dialogue: 0.0:14:57.58.0:14:58.58.Default..0.0.0..{\an1\pos(150.432)}Then a regular Coke.
+Dialogue: 0.0:14:58.58.0:15:00.00.Default..0.0.0..{\an1\pos(358.432)}Two Cokes.
+Dialogue: 0.0:15:16.68.0:15:18.68.Default..0.0.0..{\an1\pos(202.432)}Richard.\Nwhy did we come here?
+Dialogue: 0.0:15:22.81.0:15:24.11.Default..0.0.0..{\an1\pos(241.432)}What do you mean. why?
+Dialogue: 0.0:15:24.11.0:15:27.62.Default..0.0.0..{\an1\pos(150.432)}Really.\NWhy are we here?
+Dialogue: 0.0:15:33.62.0:15:35.13.Default..0.0.0..{\an1\pos(319.432)}To be alone.
+Dialogue: 0.0:15:39.49.0:15:40.87.Default..0.0.0..{\an1\pos(150.432)}SUSAN: "Alone."
+Dialogue: 0.0:15:53.67.0:15:54.67.Default..0.0.0..{\an1\pos(150.432)}Throw out the ice.
+Dialogue: 0.0:15:55.17.0:15:56.50.Default..0.0.0..{\an1\pos(332.432)}The Coke's hot.
+Dialogue: 0.0:15:56.51.0:15:59.43.Default..0.0.0..{\an1\pos(150.432)}Yeah. but you don't know\Nwhat kind of water\Nis in there.
+Dialogue: 0.0:16:02.68.0:16:05.73.Default..0.0.0..{\an1\pos(215.432)}(WATER SPLASHING)
+Dialogue: 0.0:16:12.07.0:16:14.57.Default..0.0.0..{\an1\pos(202.432)}Jesus Christ.\NWhy can't you just relax?
+Dialogue: 0.0:16:14.57.0:16:16.41.Default..0.0.0..{\an1\pos(319.432)}Why are you\Nso stressed?
+Dialogue: 0.0:16:16.41.0:16:18.33.Default..0.0.0..{\an1\pos(150.432)}You are the reason\NI'm stressed.
+Dialogue: 0.0:16:18.33.0:16:19.83.Default..0.0.0..{\an1\pos(176.432)}You're the reason\Nwhy I can't relax.
+Dialogue: 0.0:16:20.33.0:16:21.83.Default..0.0.0..{\an1\pos(228.432)}You could if you tried.
+Dialogue: 0.0:16:25.87.0:16:27.87.Default..0.0.0..{\an1\pos(150.432)}You don't think I tried?
+Dialogue: 0.0:16:36.46.0:16:38.96.Default..0.0.0..{\an1\pos(306.432)}You're never\Ngonna forgive me.\Nare you?
+Dialogue: 0.0:16:49.73.0:16:52.24.Default..0.0.0..{\an1\pos(176.432)}You know what\NI'm talking about.
+Dialogue: 0.0:16:54.15.0:16:56.16.Default..0.0.0..{\an1\pos(293.432)}Hey. I'm not\Ngonna argue.
+Dialogue: 0.0:17:04.96.0:17:05.96.Default..0.0.0..{\an1\pos(254.432)}Okay.
+Dialogue: 0.0:17:08.46.0:17:11.46.Default..0.0.0..{\an1\pos(150.432)}You just let me know\Nwhen you're ready to argue.
+Dialogue: 0.0:17:12.97.0:17:14.98.Default..0.0.0..{\an1\pos(150.432)}If you're not\Ngonna run away again.
+Dialogue: 0.0:19:12.83.0:19:14.17.Default..0.0.0..{\an1\pos(319.432)}(GLASS CLINKING)
+Dialogue: 0.0:19:14.17.0:19:15.00.Default..0.0.0..{\an1\pos(319.432)}(GASPS)
+Dialogue: 0.0:19:16.09.0:19:17.70.Default..0.0.0..{\an1\pos(150.432)}Honey? What happened?
+Dialogue: 0.0:19:17.71.0:19:18.60.Default..0.0.0..{\an1\pos(267.432)}I'm okay.
+Dialogue: 0.0:19:18.59.0:19:20.09.Default..0.0.0..{\an1\pos(150.432)}(ALARMED) Honey.\Nwhat happened?
+Dialogue: 0.0:19:20.09.0:19:21.59.Default..0.0.0..{\an1\pos(150.432)}What happened?
+Dialogue: 0.0:19:22.59.0:19:24.71.Default..0.0.0..{\an1\pos(150.432)}You're bleeding.\Nyou're bleeding.
+Dialogue: 0.0:19:25.63.0:19:27.43.Default..0.0.0..{\an1\pos(150.408)}Oh. my God!\NShe's been shot!
+Dialogue: 0.0:19:27.43.0:19:29.18.Default..0.0.0..{\an1\pos(150.432)}Jesus.\NWhat happened?
+Dialogue: 0.0:19:29.18.0:19:32.19.Default..0.0.0..{\an1\pos(150.144)}(PEOPLE CHATTERING EXCITEDLY)\NYou're bleeding.\NOh. my God!
+Dialogue: 0.0:19:32.19.0:19:33.47.Default..0.0.0..{\an1\pos(293.432)}(GRUNTS)
+Dialogue: 0.0:19:33.47.0:19:35.19.Default..0.0.0..{\an1\pos(150.432)}RICHARD: Stop the bus!
+Dialogue: 0.0:19:35.19.0:19:37.11.Default..0.0.0..{\an1\pos(189.432)}(PASSENGERS CHATTERING)
+Dialogue: 0.0:19:37.11.0:19:38.61.Default..0.0.0..{\an1\pos(241.408)}\h\h\hMAN: What happened?\NStop the bus!
+Dialogue: 0.0:19:43.28.0:19:44.73.Default..0.0.0..{\an1\pos(267.432)}(WHISTLE BLOWING)
+Dialogue: 0.0:19:45.62.0:19:47.12.Default..0.0.0..{\an1\pos(215.432)}(PEOPLE CHATTERING)
+Dialogue: 0.0:19:48.95.0:19:50.57.Default..0.0.0..{\an1\pos(228.432)}(WHISTLE BLOWING)
+Dialogue: 0.0:20:05.72.0:20:07.30.Default..0.0.0..{\an1\pos(241.432)}(WHISTLE BLOWS)
+Dialogue: 0.0:20:08.22.0:20:10.22.Default..0.0.0..{\an1\pos(215.432)}(AUDIENCE CHEERING)
+Dialogue: 0.0:20:10.23.0:20:12.57.Default..0.0.0..{\an1\pos(254.432)}(CHANTING)
+Dialogue: 0.0:20:16.40.0:20:17.06.Default..0.0.0..{\an1\pos(228.432)}(SPEAKING INDISTINCTLY)
+Dialogue: 0.0:20:17.07.0:20:19.19.Default..0.0.0..{\an1\pos(241.432)}(IN JAPANESE)\NThe ball was out.
+Dialogue: 0.0:20:19.18.0:20:22.15.Default..0.0.0..{\an1\pos(215.432)}(CHATTERING IN JAPANESE)
+Dialogue: 0.0:20:23.69.0:20:25.02.Default..0.0.0..{\an1\pos(241.432)}That was out.
+Dialogue: 0.0:20:25.02.0:20:26.82.Default..0.0.0..{\an1\pos(176.432)}No. it was good.
+Dialogue: 0.0:20:26.83.0:20:28.50.Default..0.0.0..{\an1\pos(267.432)}That was out.
+Dialogue: 0.0:20:31.45.0:20:33.25.Default..0.0.0..{\an1\pos(267.432)}I'm deaf. not blind.
+Dialogue: 0.0:20:34.58.0:20:35.62.Default..0.0.0..{\an1\pos(202.432)}You're out.
+Dialogue: 0.0:20:42.84.0:20:44.17.Default..0.0.0..{\an1\pos(228.432)}(WHISTLE BLOWING)
+Dialogue: 0.0:20:45.63.0:20:47.63.Default..0.0.0..{\an1\pos(241.432)}(SHOWERS RUNNING)
+Dialogue: 0.0:20:54.85.0:21:00.44.Default..0.0.0..{\an1\pos(176.432)}You shouldn't have\Nlost your temper.\NWe lost the game.
+Dialogue: 0.0:21:00.44.0:21:04.14.Default..0.0.0..{\an1\pos(280.432)}It wasn't my fault.\Nit was the ref.
+Dialogue: 0.0:21:04.15.0:21:08.46.Default..0.0.0..{\an1\pos(137.432)}(IN JAPANESE)\NIf you hadn't been thrown out.\Nwe would've won the game.
+Dialogue: 0.0:21:11.40.0:21:14.54.Default..0.0.0..{\an1\pos(202.432)}Why are you\Nin a bad mood?
+Dialogue: 0.0:21:14.87.0:21:19.29.Default..0.0.0..{\an1\pos(150.432)}She's always in a bad mood\Nbecause nobody's\Nfucked her yet.
+Dialogue: 0.0:21:19.29.0:21:22.30.Default..0.0.0..{\an1\pos(228.432)}I'm gonna fuck your dad\Nto get rid of my mood.
+Dialogue: 0.0:21:22.30.0:21:23.71.Default..0.0.0..{\an1\pos(163.432)}(LAUGHS ALOUD)
+Dialogue: 0.0:21:30.92.0:21:32.42.Default..0.0.0..{\an1\pos(150.432)}I'll see you at the J-Pop.
+Dialogue: 0.0:21:50.11.0:21:52.61.Default..0.0.0..{\an1\pos(150.432)}(IN JAPANESE)\NWhat do you want to eat?
+Dialogue: 0.0:21:54.03.0:21:58.12.Default..0.0.0..{\an1\pos(189.432)}I said I'd meet my friends\Nfrom the team at J-Pop.
+Dialogue: 0.0:21:58.62.0:22:01.95.Default..0.0.0..{\an1\pos(150.432)}Didn't you tell me\Nwe would have lunch together?
+Dialogue: 0.0:22:01.95.0:22:04.87.Default..0.0.0..{\an1\pos(228.432)}Dad. I told you I was\Ngoing to eat with them.
+Dialogue: 0.0:22:04.87.0:22:07.67.Default..0.0.0..{\an1\pos(267.432)}You never pay\Nattention to me.
+Dialogue: 0.0:22:17.47.0:22:20.97.Default..0.0.0..{\an1\pos(254.432)}My mother always\Npaid attention to me.
+Dialogue: 0.0:22:25.98.0:22:29.90.Default..0.0.0..{\an1\pos(150.432)}Why do you want to fight?
+Dialogue: 0.0:22:35.15.0:22:40.96.Default..0.0.0..{\an1\pos(150.432)}I miss your mother too.
+Dialogue: 0.0:22:47.83.0:22:51.00.Default..0.0.0..{\an1\pos(150.432)}I'm doing the best I can.
+Dialogue: 0.0:23:09.27.0:23:11.77.Default..0.0.0..{\an1\pos(150.432)}Don't forget\Nthe dentist at three.
+Dialogue: 0.0:23:17.41.0:23:18.78.Default..0.0.0..{\an1\pos(267.432)}Take care.
+Dialogue: 0.0:23:37.27.0:23:42.56.Default..0.0.0..{\an1\pos(176.432)}{\i1}(TECHNO DANCE MUSIC BLARING)
+Dialogue: 0.0:23:48.28.0:23:49.73.Default..0.0.0..{\an1\pos(280.432)}(SPEAKING JAPANESE)
+Dialogue: 0.0:23:52.90.0:23:54.20.Default..0.0.0..{\an1\pos(267.432)}Do you have a table?
+Dialogue: 0.0:24:07.05.0:24:09.67.Default..0.0.0..{\an1\pos(332.432)}Why all the way\Nin the corner?
+Dialogue: 0.0:24:12.63.0:24:14.63.Default..0.0.0..{\an1\pos(202.432)}Isn't the view nice?
+Dialogue: 0.0:24:29.85.0:24:31.65.Default..0.0.0..{\an1\pos(150.432)}Do you like him?
+Dialogue: 0.0:24:37.99.0:24:41.83.Default..0.0.0..{\an1\pos(176.432)}(CHATTERING IN JAPANESE)
+Dialogue: 0.0:24:53.71.0:24:55.51.Default..0.0.0..{\an1\pos(189.432)}(EXCLAIMING IN TRIUMPH)
+Dialogue: 0.0:25:06.27.0:25:07.77.Default..0.0.0..{\an1\pos(150.432)}(IN JAPANESE)\NHello.
+Dialogue: 0.0:25:12.53.0:25:13.86.Default..0.0.0..{\an1\pos(293.432)}Hello.
+Dialogue: 0.0:25:19.95.0:25:21.45.Default..0.0.0..{\an1\pos(202.432)}Can I play with you?
+Dialogue: 0.0:25:22.95.0:25:24.96.Default..0.0.0..{\an1\pos(189.432)}Or you can have\Na drink with us?
+Dialogue: 0.0:25:27.49.0:25:29.99.Default..0.0.0..{\an1\pos(319.432)}Tell him\Nto speak slowly.
+Dialogue: 0.0:25:29.99.0:25:33.08.Default..0.0.0..{\an1\pos(228.432)}Can you say that\Na little slower?
+Dialogue: 0.0:25:43.06.0:25:44.42.Default..0.0.0..{\an1\pos(332.432)}(LAUGHING)
+Dialogue: 0.0:25:47.26.0:25:50.06.Default..0.0.0..{\an1\pos(150.432)}You assholes.\Nhow embarrassing.
+Dialogue: 0.0:26:02.03.0:26:04.03.Default..0.0.0..{\an1\pos(228.432)}(TOILET FLUSHING)
+Dialogue: 0.0:26:10.79.0:26:11.80.Default..0.0.0..{\an1\pos(176.432)}What's the matter?
+Dialogue: 0.0:26:13.71.0:26:16.97.Default..0.0.0..{\an1\pos(267.432)}They look at us\Nlike we're monsters.
+Dialogue: 0.0:26:16.96.0:26:18.46.Default..0.0.0..{\an1\pos(241.432)}Oh. come off it.
+Dialogue: 0.0:26:33.78.0:26:35.29.Default..0.0.0..{\an1\pos(280.432)}What are you doing?
+Dialogue: 0.0:26:35.28.0:26:38.48.Default..0.0.0..{\an1\pos(150.432)}Now they're going to meet\Nthe real hairy monster.
+Dialogue: 0.0:26:39.48.0:26:44.03.Default..0.0.0..{\an1\pos(176.432)}{\i1}(JAPANESE POP MUSIC BLARING)
+Dialogue: 0.0:27:28.16.0:27:29.53.Default..0.0.0..{\an1\pos(280.432)}(LAUGHING)
+Dialogue: 0.0:27:34.92.0:27:37.79.Default..0.0.0..{\an1\pos(176.432)}{\i1}Don't forget your appointment\Nwith the dentist. Papa.
+Dialogue: 0.0:27:37.79.0:27:39.62.Default..0.0.0..{\an1\pos(358.432)}I have to go.
+Dialogue: 0.0:27:39.62.0:27:41.54.Default..0.0.0..{\an1\pos(176.432)}I'll see you at\Nyour place. then.
+Dialogue: 0.0:28:23.00.0:28:25.00.Default..0.0.0..{\an1\pos(254.432)}(IN ARABIC)\NWhat are you\Ndoing here?
+Dialogue: 0.0:28:25.00.0:28:27.50.Default..0.0.0..{\an1\pos(150.432)}(IN ARABIC)\NSomething we ate\Ngave us a stomach ache.
+Dialogue: 0.0:28:27.51.0:28:29.52.Default..0.0.0..{\an1\pos(293.432)}The goats will die\Nif they don't eat.
+Dialogue: 0.0:28:29.51.0:28:32.01.Default..0.0.0..{\an1\pos(215.432)}Wash your face\Nand take them out again.
+Dialogue: 0.0:28:32.01.0:28:33.51.Default..0.0.0..{\an1\pos(163.432)}My stomach hurts.
+Dialogue: 0.0:28:33.51.0:28:36.01.Default..0.0.0..{\an1\pos(293.432)}There are other\Nchores to do then.
+Dialogue: 0.0:28:36.01.0:28:38.52.Default..0.0.0..{\an1\pos(293.432)}Move it. Let's go.
+Dialogue: 0.0:29:09.35.0:29:11.85.Default..0.0.0..{\an1\pos(150.432)}(IN ARABIC)\NGod bless. Bye. bye.
+Dialogue: 0.0:29:14.35.0:29:16.72.Default..0.0.0..{\an1\pos(150.432)}Thank you.\NI'll see you tomorrow.
+Dialogue: 0.0:29:19.27.0:29:21.64.Default..0.0.0..{\an1\pos(202.432)}Tell your mother\Nto prepare dinner.
+Dialogue: 0.0:29:40.24.0:29:42.58.Default..0.0.0..{\an1\pos(150.432)}Did you kill\Nany jackals?
+Dialogue: 0.0:29:42.58.0:29:45.92.Default..0.0.0..{\an1\pos(176.432)}We shot at them.\Nbut didn't hit any.
+Dialogue: 0.0:29:46.42.0:29:49.89.Default..0.0.0..{\an1\pos(241.432)}You have to kill them.\NIf not. they're going\Nto eat all the goats.
+Dialogue: 0.0:29:49.89.0:29:52.42.Default..0.0.0..{\an1\pos(150.432)}Why did you\Ncome home late?
+Dialogue: 0.0:29:52.42.0:29:55.89.Default..0.0.0..{\an1\pos(254.432)}They closed the road.\Nwe took the long way.
+Dialogue: 0.0:29:57.98.0:30:02.07.Default..0.0.0..{\an1\pos(176.432)}Apparently some terrorists\Nkilled an American tourist.
+Dialogue: 0.0:30:02.57.0:30:04.02.Default..0.0.0..{\an1\pos(202.432)}An American?
+Dialogue: 0.0:30:04.02.0:30:06.85.Default..0.0.0..{\an1\pos(163.432)}Yes. the terrorists attacked\Na tour bus on the road.
+Dialogue: 0.0:30:07.86.0:30:10.17.Default..0.0.0..{\an1\pos(163.432)}No. there aren't\Nany terrorists here.
+Dialogue: 0.0:30:11.53.0:30:13.04.Default..0.0.0..{\an1\pos(202.432)}ABDULLAH: You never know.
+Dialogue: 0.0:30:18.42.0:30:19.93.Default..0.0.0..{\an1\pos(163.432)}How do you know\Nthe American died?
+Dialogue: 0.0:30:19.92.0:30:24.34.Default..0.0.0..{\an1\pos(150.432)}That's what they were saying.\NThe police are looking\Nfor the culprits.
+Dialogue: 0.0:30:32.38.0:30:33.88.Default..0.0.0..{\an1\pos(241.432)}(GOATS BLEATING)
+Dialogue: 0.0:30:50.03.0:30:53.37.Default..0.0.0..{\an1\pos(202.432)}{\i1}(MAN CHATTERING IN SPANISH\NON RADIO)
+Dialogue: 0.0:31:23.68.0:31:25.85.Default..0.0.0..{\an1\pos(241.432)}You see how easy it is\Nto get into paradise?
+Dialogue: 0.0:31:25.85.0:31:27.23.Default..0.0.0..{\an1\pos(215.432)}Is this Mexico?
+Dialogue: 0.0:31:27.24.0:31:29.20.Default..0.0.0..{\an1\pos(202.432)}(IN SPANISH)\NYes. this is Mexico.
+Dialogue: 0.0:31:29.19.0:31:32.61.Default..0.0.0..{\an1\pos(150.432)}My mom told me\Nthat Mexico is\Nreally dangerous.
+Dialogue: 0.0:31:32.61.0:31:35.24.Default..0.0.0..{\an1\pos(150.432)}(IN SPANISH) Yeah...\Nit's full of Mexicans.
+Dialogue: 0.0:31:35.74.0:31:37.24.Default..0.0.0..{\an1\pos(293.432)}AMELIA: Don't talk\Nlike that.
+Dialogue: 0.0:31:37.25.0:31:38.76.Default..0.0.0..{\an1\pos(228.432)}It's not true.
+Dialogue: 0.0:31:43.53.0:31:47.45.Default..0.0.0..{\an1\pos(150.432)}SANTIAGO: (IN ENGLISH)\NI mean. yeah.\Nit's full of Mexicans. but...
+Dialogue: 0.0:33:18.55.0:33:22.98.Default..0.0.0..{\an1\pos(345.432)}(IN SPANISH)\NHow wonderful.\Nyou made it.
+Dialogue: 0.0:33:23.77.0:33:25.80.Default..0.0.0..{\an1\pos(150.432)}You decided to bring them?
+Dialogue: 0.0:33:25.80.0:33:27.02.Default..0.0.0..{\an1\pos(332.432)}Hey. what's up?
+Dialogue: 0.0:33:27.02.0:33:30.39.Default..0.0.0..{\an1\pos(176.432)}(ALL CHATTERING IN SPANISH)
+Dialogue: 0.0:33:30.39.0:33:33.56.Default..0.0.0..{\an1\pos(293.432)}Oh. son.\Nlook how handsome.
+Dialogue: 0.0:33:35.06.0:33:36.40.Default..0.0.0..{\an1\pos(293.432)}You look like\NJulio Preciado.
+Dialogue: 0.0:33:36.40.0:33:40.57.Default..0.0.0..{\an1\pos(189.432)}Forget Julio Preciado.\Nhe looks like Luis Miguel.
+Dialogue: 0.0:33:42.99.0:33:44.49.Default..0.0.0..{\an1\pos(254.432)}Debbie. Mike.
+Dialogue: 0.0:33:44.99.0:33:46.91.Default..0.0.0..{\an1\pos(150.432)}These are the kids\NI take care of.
+Dialogue: 0.0:33:46.91.0:33:48.62.Default..0.0.0..{\an1\pos(150.432)}Say hi to Luis.
+Dialogue: 0.0:33:50.08.0:33:51.91.Default..0.0.0..{\an1\pos(150.432)}SANTIAGO: Lucio. come here.
+Dialogue: 0.0:33:51.91.0:33:54.33.Default..0.0.0..{\an1\pos(215.432)}This is Mike and Debbie.
+Dialogue: 0.0:33:54.33.0:33:56.83.Default..0.0.0..{\an1\pos(215.432)}(IN ENGLISH) He's called\NLucio. He's gonna take\Ncare of you. okay?
+Dialogue: 0.0:33:57.13.0:33:59.05.Default..0.0.0..{\an1\pos(293.432)}(IN SPANISH)\NTake them to play.
+Dialogue: 0.0:33:59.05.0:34:02.00.Default..0.0.0..{\an1\pos(332.432)}(AMELIA COAXING\NIN SPANISH)
+Dialogue: 0.0:34:05.81.0:34:07.56.Default..0.0.0..{\an1\pos(189.432)}(CHATTERING IN SPANISH)
+Dialogue: 0.0:34:07.56.0:34:11.56.Default..0.0.0..{\an1\pos(150.432)}(IN SPANISH) Mom.\NI don't know how you did it.\Nbut it zipped up perfectly.
+Dialogue: 0.0:34:11.57.0:34:13.99.Default..0.0.0..{\an1\pos(150.432)}And it's been 15 years\Nsince I wore this dress.
+Dialogue: 0.0:34:13.99.0:34:15.86.Default..0.0.0..{\an1\pos(215.432)}You haven't\Nchanged a bit. Ma.
+Dialogue: 0.0:34:15.85.0:34:19.61.Default..0.0.0..{\an1\pos(150.432)}Working dear. hard work...\Nthat's what keeps you young.
+Dialogue: 0.0:34:21.66.0:34:23.11.Default..0.0.0..{\an1\pos(241.432)}What are you\Nguys laughing about?
+Dialogue: 0.0:34:23.11.0:34:24.61.Default..0.0.0..{\an1\pos(150.432)}Nothing Ma.\Nnothing.
+Dialogue: 0.0:34:26.11.0:34:29.08.Default..0.0.0..{\an1\pos(241.432)}(MUTTERING)
+Dialogue: 0.0:34:39.93.0:34:43.85.Default..0.0.0..{\an1\pos(241.432)}I'll give a buck\Nto the first\Nwho catches a chicken.
+Dialogue: 0.0:34:45.52.0:34:47.68.Default..0.0.0..{\an1\pos(189.432)}Careful with the 'huevos.'
+Dialogue: 0.0:34:49.77.0:34:53.77.Default..0.0.0..{\an1\pos(202.432)}(ENCOURAGING IN SPANISH)
+Dialogue: 0.0:34:56.89.0:34:58.56.Default..0.0.0..{\an1\pos(150.432)}Very good. Debbie got one.
+Dialogue: 0.0:35:01.53.0:35:03.03.Default..0.0.0..{\an1\pos(202.432)}Debbie's the winner.
+Dialogue: 0.0:35:03.03.0:35:05.03.Default..0.0.0..{\an1\pos(280.432)}Okay. now we need\Nanother five.
+Dialogue: 0.0:35:05.04.0:35:07.30.Default..0.0.0..{\an1\pos(150.432)}So we have five\Nchickens here.
+Dialogue: 0.0:35:07.29.0:35:09.66.Default..0.0.0..{\an1\pos(150.432)}Okay. now who's\Ngoing to help me?
+Dialogue: 0.0:35:09.66.0:35:10.96.Default..0.0.0..{\an1\pos(254.432)}(ALL SHOUTING)
+Dialogue: 0.0:35:10.96.0:35:13.46.Default..0.0.0..{\an1\pos(150.432)}You? Okay. come.
+Dialogue: 0.0:35:13.46.0:35:15.91.Default..0.0.0..{\an1\pos(150.432)}Hold it tight.\Nlike this.
+Dialogue: 0.0:35:15.91.0:35:16.91.Default..0.0.0..{\an1\pos(150.432)}Grab it right.
+Dialogue: 0.0:35:21.30.0:35:25.81.Default..0.0.0..{\an1\pos(150.432)}Everyone back up...\Ngive me some room.
+Dialogue: 0.0:35:35.40.0:35:36.85.Default..0.0.0..{\an1\pos(215.432)}(CHILDREN LAUGHING)
+Dialogue: 0.0:35:37.77.0:35:41.35.Default..0.0.0..{\an1\pos(150.432)}(CHATTERING\NIN SPANISH)
+Dialogue: 0.0:35:41.82.0:35:43.66.Default..0.0.0..{\an1\pos(228.432)}RICHARD: Someone. help!
+Dialogue: 0.0:35:48.25.0:35:51.37.Default..0.0.0..{\an1\pos(215.432)}(PEOPLE CHATTERING)
+Dialogue: 0.0:35:59.21.0:36:02.18.Default..0.0.0..{\an1\pos(150.432)}RICHARD: Is anybody a doctor?\NPlease. a doctor!
+Dialogue: 0.0:36:08.13.0:36:09.63.Default..0.0.0..{\an1\pos(150.432)}Where's the nearest hospital?
+Dialogue: 0.0:36:09.63.0:36:11.43.Default..0.0.0..{\an1\pos(241.432)}It's far away.\NAbout four hours.
+Dialogue: 0.0:36:11.44.0:36:13.45.Default..0.0.0..{\an1\pos(150.408)}Is there anything closer?\N\h\h\h\h\h\h\h\h\h\h\h\hThere's a clinic.
+Dialogue: 0.0:36:13.44.0:36:17.02.Default..0.0.0..{\an1\pos(189.432)}But on the south.\NIn the bus it will take us\Nan hour and a half.
+Dialogue: 0.0:36:17.02.0:36:18.02.Default..0.0.0..{\an1\pos(150.432)}Away from Ouarzazate?
+Dialogue: 0.0:36:18.03.0:36:20.54.Default..0.0.0..{\an1\pos(254.432)}Yes. It's the closest\Nthing we've got.
+Dialogue: 0.0:36:22.90.0:36:24.86.Default..0.0.0..{\an1\pos(319.432)}BARTH: Get down!
+Dialogue: 0.0:36:24.87.0:36:27.21.Default..0.0.0..{\an1\pos(150.408)}RICHARD: Put that there.\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hMAN: Okay.
+Dialogue: 0.0:36:30.20.0:36:31.15.Default..0.0.0..{\an1\pos(358.432)}Stop!
+Dialogue: 0.0:36:31.87.0:36:33.04.Default..0.0.0..{\an1\pos(384.432)}Stop!
+Dialogue: 0.0:36:34.96.0:36:37.83.Default..0.0.0..{\an1\pos(228.432)}We need your help.\NMy wife's been injured.
+Dialogue: 0.0:36:37.83.0:36:38.74.Default..0.0.0..{\an1\pos(150.120)}(CHATTERING IN ARABIC)\N\h\h\h\h\h\h\h\h\h\h\h\hI need your help.
+Dialogue: 0.0:36:38.75.0:36:40.76.Default..0.0.0..{\an1\pos(332.432)}Uh... Help.\NUh... Hospital.
+Dialogue: 0.0:36:40.75.0:36:42.75.Default..0.0.0..{\an1\pos(189.432)}Help. come here.\NTell him we need his help!
+Dialogue: 0.0:36:42.75.0:36:45.25.Default..0.0.0..{\an1\pos(254.432)}No. wait! Wait! Wait!
+Dialogue: 0.0:36:45.25.0:36:47.75.Default..0.0.0..{\an1\pos(241.432)}Stop him! Stop him!
+Dialogue: 0.0:37:01.24.0:37:04.25.Default..0.0.0..{\an1\pos(189.432)}Ouarzazate isn't this way.\NThey're going to\Nstart shooting at us.
+Dialogue: 0.0:37:04.24.0:37:06.57.Default..0.0.0..{\an1\pos(176.408)}Turn the bus around. Anwar!\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hIt hurts.
+Dialogue: 0.0:37:06.57.0:37:09.69.Default..0.0.0..{\an1\pos(202.408)}BARTH: Turn back.\NTurn the bus around!\N\h\h\h\hIt really hurts.
+Dialogue: 0.0:37:10.95.0:37:13.01.Default..0.0.0..{\an1\pos(189.432)}We got to get\Nsomewhere closer.
+Dialogue: 0.0:37:13.00.0:37:14.58.Default..0.0.0..{\an1\pos(150.432)}Is there anywhere else\Nwe can take her?
+Dialogue: 0.0:37:14.58.0:37:15.95.Default..0.0.0..{\an1\pos(267.432)}We can take her\Nto my town.
+Dialogue: 0.0:37:16.42.0:37:17.92.Default..0.0.0..{\an1\pos(241.432)}ANWAR: It's near here.\Nand there is a doctor.
+Dialogue: 0.0:37:17.92.0:37:20.17.Default..0.0.0..{\an1\pos(293.432)}We can call Erfoud\Nfor an ambulance.
+Dialogue: 0.0:37:21.84.0:37:23.17.Default..0.0.0..{\an1\pos(189.432)}Okay. Okay.
+Dialogue: 0.0:37:31.43.0:37:32.30.Default..0.0.0..{\an1\pos(371.432)}(GROANS)
+Dialogue: 0.0:38:42.50.0:38:45.50.Default..0.0.0..{\an1\pos(137.432)}(PEOPLE CHATTERING ANIMATEDLY)
+Dialogue: 0.0:39:08.40.0:39:10.41.Default..0.0.0..{\an1\pos(150.432)}Watch her shoulder!\NWatch her shoulder!
+Dialogue: 0.0:39:10.40.0:39:11.73.Default..0.0.0..{\an1\pos(332.432)}Okay. Okay.
+Dialogue: 0.0:39:13.23.0:39:14.73.Default..0.0.0..{\an1\pos(280.432)}(GRUNTING)
+Dialogue: 0.0:39:15.74.0:39:16.74.Default..0.0.0..{\an1\pos(150.432)}ANWAR: Turn this way.
+Dialogue: 0.0:39:17.24.0:39:18.24.Default..0.0.0..{\an1\pos(254.432)}SUSAN: No. no.
+Dialogue: 0.0:39:18.24.0:39:20.49.Default..0.0.0..{\an1\pos(150.432)}Through the next door.\NCome on.
+Dialogue: 0.0:39:26.50.0:39:27.83.Default..0.0.0..{\an1\pos(150.432)}(SPEAKING ARABIC)
+Dialogue: 0.0:39:28.58.0:39:29.97.Default..0.0.0..{\an1\pos(241.432)}(SUSAN GROANING)
+Dialogue: 0.0:39:33.64.0:39:35.64.Default..0.0.0..{\an1\pos(280.432)}(PANTING)
+Dialogue: 0.0:39:35.64.0:39:36.64.Default..0.0.0..{\an1\pos(150.432)}We got to call an ambulance.
+Dialogue: 0.0:39:36.64.0:39:38.14.Default..0.0.0..{\an1\pos(150.432)}I need to call my embassy.
+Dialogue: 0.0:39:38.64.0:39:40.14.Default..0.0.0..{\an1\pos(176.432)}ANWAR: Okay. If you have\Nthe number of your embassy.\NI can go call.
+Dialogue: 0.0:39:40.64.0:39:43.65.Default..0.0.0..{\an1\pos(150.408)}\h\hSUSAN: Where are you going?\NI'll make the call. Okay.\NI got to go make a call.
+Dialogue: 0.0:39:43.65.0:39:45.65.Default..0.0.0..{\an1\pos(150.408)}\h\h\h\h\h\h\h\h\hPlease don't\N\h\h\h\h\h\h\h\h\hleave me here alone.\NYou're going to be all right.
+Dialogue: 0.0:39:45.65.0:39:47.15.Default..0.0.0..{\an1\pos(267.408)}Can she help?\N\h\h\h\h\h\h\h\h\hYeah. yeah.
+Dialogue: 0.0:39:47.15.0:39:48.18.Default..0.0.0..{\an1\pos(163.432)}Where are you going? Please\Ndon't leave me here alone.
+Dialogue: 0.0:39:48.69.0:39:50.25.Default..0.0.0..{\an1\pos(319.408)}Can she help?\N\h\h\h\h\hYes.
+Dialogue: 0.0:39:50.24.0:39:51.99.Default..0.0.0..{\an1\pos(150.432)}Listen. listen. It's gonna be\Nall right. I'm just gonna\Ngo make a call.
+Dialogue: 0.0:39:51.99.0:39:54.82.Default..0.0.0..{\an1\pos(202.432)}Wait. wait. wait. wait.\NTell her she has to\Nkeep pressure right here.
+Dialogue: 0.0:39:55.24.0:39:56.74.Default..0.0.0..{\an1\pos(267.432)}She cannot let go.\NDoes she understand?
+Dialogue: 0.0:39:56.74.0:39:58.41.Default..0.0.0..{\an1\pos(293.432)}Yes.
+Dialogue: 0.0:39:58.41.0:39:59.95.Default..0.0.0..{\an1\pos(176.432)}I'm just gonna make sure\Nhelp's on the way.\NI'm coming right back.
+Dialogue: 0.0:39:59.95.0:40:01.91.Default..0.0.0..{\an1\pos(241.408)}Please don't leave me.\N\h\hDoes she understand?
+Dialogue: 0.0:40:01.92.0:40:03.93.Default..0.0.0..{\an1\pos(254.408)}\h\hI'll be right back.\NRichard. no.\Ndon't leave me here.
+Dialogue: 0.0:40:03.92.0:40:06.92.Default..0.0.0..{\an1\pos(150.408)}\h\h\h\h\h\h\h\h\h\hI'll be right back.\NRichard. don't. Richard!
+Dialogue: 0.0:40:07.20.0:40:10.01.Default..0.0.0..{\an1\pos(176.432)}I'll be back. sweetheart.\NJust gonna make the call.
+Dialogue: 0.0:40:11.79.0:40:12.76.Default..0.0.0..{\an1\pos(176.432)}How's your wife?
+Dialogue: 0.0:40:13.26.0:40:14.63.Default..0.0.0..{\an1\pos(228.432)}It's bad. I can't\Nstop the bleeding.
+Dialogue: 0.0:40:14.63.0:40:15.63.Default..0.0.0..{\an1\pos(280.432)}Get her out of\Nthere and let's go.
+Dialogue: 0.0:40:15.63.0:40:17.30.Default..0.0.0..{\an1\pos(150.432)}Where? Where do I take her?
+Dialogue: 0.0:40:17.30.0:40:20.13.Default..0.0.0..{\an1\pos(150.432)}In Egypt in a town like this\Nthey slit 30 German\Ntourists' throats.
+Dialogue: 0.0:40:20.13.0:40:21.68.Default..0.0.0..{\an1\pos(150.408)}They might do the same to us.\N\hNo. sir. not here.
+Dialogue: 0.0:40:21.69.0:40:23.48.Default..0.0.0..{\an1\pos(163.432)}What do you know?\NWe've got to get out of here\Nas soon as possible.
+Dialogue: 0.0:40:23.47.0:40:25.30.Default..0.0.0..{\an1\pos(150.432)}It's unbearably hot.
+Dialogue: 0.0:40:25.31.0:40:27.28.Default..0.0.0..{\an1\pos(137.408)}\h\h\h\h\h\h\h\hWe have to get\N\h\h\h\h\h\h\h\hback for our children.\NLook. you can't leave us here.
+Dialogue: 0.0:40:27.27.0:40:28.97.Default..0.0.0..{\an1\pos(150.408)}What is the point\Nin our staying?\N\h\h\h\h\hIn case we need the bus!
+Dialogue: 0.0:40:28.98.0:40:29.87.Default..0.0.0..{\an1\pos(241.432)}He can drop us off\Nand come back for you.
+Dialogue: 0.0:40:29.86.0:40:31.14.Default..0.0.0..{\an1\pos(293.408)}\h\h\h\h\hNo.\NI'll stay with you\Nif you need me.
+Dialogue: 0.0:40:31.15.0:40:32.87.Default..0.0.0..{\an1\pos(150.432)}Please just wait.\NLet me figure this out.
+Dialogue: 0.0:40:32.86.0:40:35.87.Default..0.0.0..{\an1\pos(267.432)}We're not gonna risk\Nour lives. so hurry.
+Dialogue: 0.0:40:45.63.0:40:48.42.Default..0.0.0..{\an1\pos(293.432)}(IN ARABIC)\NI need your phone.\NI will pay.
+Dialogue: 0.0:41:01.89.0:41:03.68.Default..0.0.0..{\an1\pos(176.432)}(WOMAN SHOUTING IN ARABIC)
+Dialogue: 0.0:41:06.68.0:41:09.68.Default..0.0.0..{\an1\pos(267.432)}(SHOOING IN ARABIC)
+Dialogue: 0.0:41:14.66.0:41:17.53.Default..0.0.0..{\an1\pos(254.432)}Rachel? Rachel?\NIt's Richard. Listen.
+Dialogue: 0.0:41:17.52.0:41:19.53.Default..0.0.0..{\an1\pos(176.432)}{\i1}RACHEL: Hey.\Nwhere are you?
+Dialogue: 0.0:41:19.53.0:41:21.03.Default..0.0.0..{\an1\pos(332.432)}We're still...\NListen. listen.
+Dialogue: 0.0:41:21.03.0:41:22.53.Default..0.0.0..{\an1\pos(202.432)}There's been an accident.
+Dialogue: 0.0:41:22.53.0:41:24.53.Default..0.0.0..{\an1\pos(215.432)}Your sister's been shot.
+Dialogue: 0.0:41:24.53.0:41:26.53.Default..0.0.0..{\an1\pos(319.432)}She's been shot.
+Dialogue: 0.0:41:27.03.0:41:28.95.Default..0.0.0..{\an1\pos(358.432)}I don't know.\NI... I...\NI don't know.
+Dialogue: 0.0:41:28.95.0:41:30.45.Default..0.0.0..{\an1\pos(163.408)}\h\h\h\h\h\hShe's hit in the neck.\N{\i1}Oh. my God!
+Dialogue: 0.0:41:30.45.0:41:33.17.Default..0.0.0..{\an1\pos(189.432)}Listen. listen. I need you\Nto call the embassy
+Dialogue: 0.0:41:33.17.0:41:34.67.Default..0.0.0..{\an1\pos(345.432)}and tell them\Nwhat happened.
+Dialogue: 0.0:41:34.68.0:41:37.69.Default..0.0.0..{\an1\pos(267.432)}And call Mark. okay?\NCall Mark.
+Dialogue: 0.0:41:37.68.0:41:39.18.Default..0.0.0..{\an1\pos(163.432)}{\i1}Where are you?
+Dialogue: 0.0:41:39.18.0:41:41.01.Default..0.0.0..{\an1\pos(358.432)}Where are we?
+Dialogue: 0.0:41:41.02.0:41:44.03.Default..0.0.0..{\an1\pos(254.432)}Tazarine. Three hours\Nsouthwest of Erfoud.
+Dialogue: 0.0:41:44.02.0:41:48.52.Default..0.0.0..{\an1\pos(319.432)}Tazarine.\NT-A-Z-A-R-I-N-E.
+Dialogue: 0.0:41:49.52.0:41:52.19.Default..0.0.0..{\an1\pos(267.432)}Three hours\Nsouthwest of Erfoud.
+Dialogue: 0.0:41:52.19.0:41:53.69.Default..0.0.0..{\an1\pos(150.432)}It's in the desert.\NIt's a village.
+Dialogue: 0.0:41:53.69.0:41:55.19.Default..0.0.0..{\an1\pos(176.432)}{\i1}How are we\Nsupposed to find you?
+Dialogue: 0.0:41:55.70.0:41:57.32.Default..0.0.0..{\an1\pos(215.432)}Listen. listen. listen!
+Dialogue: 0.0:41:57.31.0:41:58.31.Default..0.0.0..{\an1\pos(163.408)}This is urgent. okay?\N{\i1}Okay.
+Dialogue: 0.0:41:58.32.0:41:59.83.Default..0.0.0..{\an1\pos(176.432)}Call the embassy.\NThey will help us.
+Dialogue: 0.0:42:00.32.0:42:01.37.Default..0.0.0..{\an1\pos(319.432)}And call James!
+Dialogue: 0.0:42:07.83.0:42:09.17.Default..0.0.0..{\an1\pos(215.432)}(GREETING IN ARABIC)
+Dialogue: 0.0:42:10.63.0:42:11.63.Default..0.0.0..{\an1\pos(280.432)}This is the doctor.
+Dialogue: 0.0:42:11.63.0:42:14.63.Default..0.0.0..{\an1\pos(189.432)}(GREETING IN ARABIC)
+Dialogue: 0.0:42:32.85.0:42:34.10.Default..0.0.0..{\an1\pos(345.432)}Easy.
+Dialogue: 0.0:42:42.24.0:42:43.74.Default..0.0.0..{\an1\pos(241.432)}(SUSAN SHUDDERING)
+Dialogue: 0.0:42:45.86.0:42:48.33.Default..0.0.0..{\an1\pos(150.432)}RICHARD: Easy. easy.\NEasy! Easy!
+Dialogue: 0.0:42:48.33.0:42:49.83.Default..0.0.0..{\an1\pos(215.432)}I can't. I can't.
+Dialogue: 0.0:42:51.84.0:42:53.85.Default..0.0.0..{\an1\pos(150.432)}RICHARD: Tell him. easy.
+Dialogue: 0.0:42:53.84.0:42:56.51.Default..0.0.0..{\an1\pos(280.432)}DOCTOR: (IN ARABIC)\NThe bullet didn't\Ntouch her spine.
+Dialogue: 0.0:42:56.51.0:43:01.01.Default..0.0.0..{\an1\pos(215.432)}If she stays like this.\Nshe will bleed to death.
+Dialogue: 0.0:43:01.01.0:43:02.21.Default..0.0.0..{\an1\pos(202.432)}What did he say?
+Dialogue: 0.0:43:02.21.0:43:03.55.Default..0.0.0..{\an1\pos(358.432)}He says
+Dialogue: 0.0:43:04.52.0:43:05.52.Default..0.0.0..{\an1\pos(176.432)}she will be fine.
+Dialogue: 0.0:43:05.52.0:43:07.64.Default..0.0.0..{\an1\pos(150.432)}Don't you fucking lie to me.\NYou tell me what he said.
+Dialogue: 0.0:43:07.63.0:43:09.13.Default..0.0.0..{\an1\pos(163.432)}Tell me what he said!
+Dialogue: 0.0:43:09.14.0:43:10.81.Default..0.0.0..{\an1\pos(267.432)}(SPEAKING ARABIC)
+Dialogue: 0.0:43:11.31.0:43:13.12.Default..0.0.0..{\an1\pos(280.432)}Hospital. Hospital.
+Dialogue: 0.0:43:13.11.0:43:14.64.Default..0.0.0..{\an1\pos(150.432)}I know. hospital!\NWhat can you do?
+Dialogue: 0.0:43:14.64.0:43:16.53.Default..0.0.0..{\an1\pos(150.432)}ANWAR: (IN ARABIC)\NIs there anything\Nwe can do?
+Dialogue: 0.0:43:16.53.0:43:18.53.Default..0.0.0..{\an1\pos(215.432)}I have to\Nstitch up the wound\Nto stop the bleeding.
+Dialogue: 0.0:43:18.53.0:43:21.40.Default..0.0.0..{\an1\pos(150.432)}(IN ENGLISH)\NHe says he need\Nto sew up the wounds.
+Dialogue: 0.0:43:21.40.0:43:22.70.Default..0.0.0..{\an1\pos(189.432)}SUSAN: What did he say?
+Dialogue: 0.0:43:25.45.0:43:27.79.Default..0.0.0..{\an1\pos(254.432)}He said you need\Nsome stitches. honey.
+Dialogue: 0.0:43:29.62.0:43:32.66.Default..0.0.0..{\an1\pos(176.432)}Stitches?\NWhat do you mean.\Nstitches?
+Dialogue: 0.0:43:32.66.0:43:33.79.Default..0.0.0..{\an1\pos(241.432)}(WHISPERING) What kind\Nof doctor is he?
+Dialogue: 0.0:43:33.79.0:43:36.05.Default..0.0.0..{\an1\pos(228.432)}He's a veterinarian.\NBut he is good.
+Dialogue: 0.0:43:36.05.0:43:38.30.Default..0.0.0..{\an1\pos(228.432)}DOCTOR: (IN ARABIC)\NAnd tell him\Nher clavicle is broken.
+Dialogue: 0.0:43:38.30.0:43:41.80.Default..0.0.0..{\an1\pos(150.432)}He says she has a broken bone\Nand he has to\Nput a splint on it.
+Dialogue: 0.0:43:41.80.0:43:45.72.Default..0.0.0..{\an1\pos(150.432)}If he doesn't\Nsew up her wound.\Nshe might bleed to death.
+Dialogue: 0.0:43:45.72.0:43:47.59.Default..0.0.0..{\an1\pos(254.408)}\h\h\hWait. Wait. wait.\NSUSAN: Richard.
+Dialogue: 0.0:43:50.06.0:43:51.06.Default..0.0.0..{\an1\pos(215.432)}No. no. no. Richard.
+Dialogue: 0.0:43:51.06.0:43:53.01.Default..0.0.0..{\an1\pos(293.432)}DOCTOR: We have to\Nhold her down.
+Dialogue: 0.0:43:53.01.0:43:56.90.Default..0.0.0..{\an1\pos(150.408)}\h\h\h\h\h\h\h\h\h\h\h\hRichard. Richard.\N\h\h\h\h\h\h\h\h\h\h\h\hNo. no. no. no.\NWait. Wait. Wait. Wait.
+Dialogue: 0.0:44:02.91.0:44:07.08.Default..0.0.0..{\an1\pos(189.408)}\hRichard. don't let him.\NHoney. we have to do this.
+Dialogue: 0.0:44:07.08.0:44:09.53.Default..0.0.0..{\an1\pos(163.432)}It's still bleeding.\NWe got to stop the bleeding.\NYou gotta do this.
+Dialogue: 0.0:44:10.03.0:44:11.45.Default..0.0.0..{\an1\pos(241.408)}\h\h\hWe have to do this.\NNo. no. don't let him.
+Dialogue: 0.0:44:11.45.0:44:12.78.Default..0.0.0..{\an1\pos(280.408)}\h\hListen to me.\NNo. no. no. please.
+Dialogue: 0.0:44:12.78.0:44:14.78.Default..0.0.0..{\an1\pos(241.432)}No. no. no. no.\NRichard. don't.
+Dialogue: 0.0:44:14.79.0:44:16.60.Default..0.0.0..{\an1\pos(293.432)}(GROANS)
+Dialogue: 0.0:44:16.59.0:44:18.20.Default..0.0.0..{\an1\pos(267.408)}\h\h\h\h\hNo!\NYou got to be still.
+Dialogue: 0.0:44:18.21.0:44:22.13.Default..0.0.0..{\an1\pos(176.408)}Richard. don't let him! No.\N\h\h\h\h\h\h\hYou got to be still.
+Dialogue: 0.0:44:22.13.0:44:24.35.Default..0.0.0..{\an1\pos(228.432)}RICHARD: Be strong.\Nbe strong. Shh.
+Dialogue: 0.0:44:24.34.0:44:27.71.Default..0.0.0..{\an1\pos(228.432)}(SUSAN SCREAMING)
+Dialogue: 0.0:44:28.18.0:44:31.30.Default..0.0.0..{\an1\pos(384.432)}(INAUDIBLE)
+Dialogue: 0.0:44:46.73.0:44:47.70.Default..0.0.0..{\an1\pos(150.432)}(SPEAKING JAPANESE)
+Dialogue: 0.0:44:48.20.0:44:49.20.Default..0.0.0..{\an1\pos(202.432)}(TELEPHONE RINGING)
+Dialogue: 0.0:44:51.62.0:44:53.12.Default..0.0.0..{\an1\pos(137.432)}FEMALE ASSISTANT: Here\Nare the sterilized drill bits.
+Dialogue: 0.0:44:53.12.0:44:54.37.Default..0.0.0..{\an1\pos(150.432)}Hmm.
+Dialogue: 0.0:44:57.08.0:44:59.16.Default..0.0.0..{\an1\pos(202.432)}You have cavities\Nin two molars.
+Dialogue: 0.0:45:24.32.0:45:25.82.Default..0.0.0..{\an1\pos(150.432)}What are you doing?
+Dialogue: 0.0:45:36.75.0:45:38.58.Default..0.0.0..{\an1\pos(202.432)}What's wrong with you?
+Dialogue: 0.0:45:49.88.0:45:51.13.Default..0.0.0..{\an1\pos(150.432)}Get out.
+Dialogue: 0.0:45:56.35.0:45:58.02.Default..0.0.0..{\an1\pos(176.432)}Get out right now.
+Dialogue: 0.0:46:37.48.0:46:39.48.Default..0.0.0..{\an1\pos(228.432)}Yes. I'll let him know.
+Dialogue: 0.0:46:42.65.0:46:44.90.Default..0.0.0..{\an1\pos(280.432)}That's Mr. Wataya's\Ndaughter.
+Dialogue: 0.0:46:45.85.0:46:46.85.Default..0.0.0..{\an1\pos(176.432)}Thank you.
+Dialogue: 0.0:46:51.44.0:46:54.78.Default..0.0.0..{\an1\pos(150.432)}Are you Yasujiro\NWataya's daughter?
+Dialogue: 0.0:46:54.78.0:46:57.78.Default..0.0.0..{\an1\pos(371.432)}She's\Ndeaf-mute...
+Dialogue: 0.0:46:57.78.0:47:02.17.Default..0.0.0..{\an1\pos(189.432)}Face her when you speak\Nso she can read your lips.
+Dialogue: 0.0:47:05.84.0:47:07.96.Default..0.0.0..{\an1\pos(150.432)}Are you Yasujiro\NWataya's daughter?
+Dialogue: 0.0:47:10.43.0:47:15.76.Default..0.0.0..{\an1\pos(150.432)}We are Yoshjo Hamano\Nand Kenji Mamiya of\Nthe Metropolitan Police.
+Dialogue: 0.0:47:18.69.0:47:21.20.Default..0.0.0..{\an1\pos(150.432)}We would like\Nto see your father.
+Dialogue: 0.0:47:33.65.0:47:40.62.Default..0.0.0..{\an1\pos(150.432)}No. it's nothing bad.\NWe just want to talk to him.
+Dialogue: 0.0:47:40.62.0:47:42.62.Default..0.0.0..{\an1\pos(150.432)}Do you know\Nwhere he is?
+Dialogue: 0.0:47:45.13.0:47:48.91.Default..0.0.0..{\an1\pos(150.432)}Please tell him to call.
+Dialogue: 0.0:47:50.92.0:47:55.09.Default..0.0.0..{\an1\pos(150.432)}Don't be scared.\NWe just want to talk to him.
+Dialogue: 0.0:47:58.89.0:47:59.73.Default..0.0.0..{\an1\pos(150.432)}Thank you.
+Dialogue: 0.0:48:10.10.0:48:13.61.Default..0.0.0..{\an1\pos(189.432)}{\i1}Chieko. I waited for you.\NI have a meeting so\NI'll be back late.
+Dialogue: 0.0:48:13.61.0:48:15.61.Default..0.0.0..{\an1\pos(163.432)}{\i1}I left you a bento box. Papa.
+Dialogue: 0.0:48:21.87.0:48:25.93.Default..0.0.0..{\an1\pos(345.432)}{\i1}I'm on my way\Nto your place.
+Dialogue: 0.0:48:26.70.0:48:28.70.Default..0.0.0..{\an1\pos(189.432)}Where are you?
+Dialogue: 0.0:48:31.63.0:48:33.39.Default..0.0.0..{\an1\pos(254.432)}Hurry up!
+Dialogue: 0.0:48:39.77.0:48:41.55.Default..0.0.0..{\an1\pos(228.432)}{\i1}(SPEAKING JAPANESE)
+Dialogue: 0.0:48:43.77.0:48:47.31.Default..0.0.0..{\an1\pos(189.96)}{\i1}(NARRATOR CHATTERING ON TV)
+Dialogue: 0.0:48:47.31.0:48:48.31.Default..0.0.0..{\an1\pos(280.432)}{\i1}(MAN EXCLAIMS)
+Dialogue: 0.0:48:48.31.0:48:51.81.Default..0.0.0..{\an1\pos(241.432)}{\i1}(EXPLOSIONS SOUNDING)
+Dialogue: 0.0:48:51.81.0:48:55.53.Default..0.0.0..{\an1\pos(163.432)}{\i1}NEWSREADER:\NMoroccan officials\Nare investigating suspects...
+Dialogue: 0.0:48:55.53.0:48:58.03.Default..0.0.0..{\an1\pos(215.432)}{\i1}in the shooting of\Nan American tourist.
+Dialogue: 0.0:48:58.03.0:49:01.95.Default..0.0.0..{\an1\pos(176.432)}{\i1}Officials said the shooting\Ntook place...
+Dialogue: 0.0:49:01.96.0:49:05.33.Default..0.0.0..{\an1\pos(176.432)}{\i1}(ANNOUNCER CHATTERING\NIN JAPANESE)
+Dialogue: 0.0:49:07.21.0:49:08.71.Default..0.0.0..{\an1\pos(241.432)}(BOTH LAUGHING)
+Dialogue: 0.0:49:11.58.0:49:12.58.Default..0.0.0..{\an1\pos(345.432)}Are you ready?
+Dialogue: 0.0:49:12.58.0:49:14.58.Default..0.0.0..{\an1\pos(150.432)}Yeah. I'm just going\Nto get my bag.
+Dialogue: 0.0:49:20.81.0:49:23.48.Default..0.0.0..{\an1\pos(267.432)}The cops came again?
+Dialogue: 0.0:49:23.48.0:49:26.81.Default..0.0.0..{\an1\pos(137.432)}Yeah. They hadn't come\Nin nine months. But these were\Ndifferent cops.
+Dialogue: 0.0:49:26.81.0:49:29.15.Default..0.0.0..{\an1\pos(189.432)}Did they come to ask\Nabout your mother's death?
+Dialogue: 0.0:49:29.15.0:49:33.57.Default..0.0.0..{\an1\pos(150.432)}No. but they're probably\Ngoing to ask my dad\Nabout the same things.
+Dialogue: 0.0:49:33.57.0:49:35.85.Default..0.0.0..{\an1\pos(267.432)}They're just not\Nconvinced. are they?
+Dialogue: 0.0:49:42.36.0:49:45.86.Default..0.0.0..{\an1\pos(150.432)}Believe it or not.\NI liked one of the cops.
+Dialogue: 0.0:49:47.37.0:49:48.67.Default..0.0.0..{\an1\pos(449.432)}Idiot.
+Dialogue: 0.0:49:49.17.0:49:50.67.Default..0.0.0..{\an1\pos(345.432)}Did you put on\Nsome panties?
+Dialogue: 0.0:49:55.71.0:49:56.71.Default..0.0.0..{\an1\pos(241.432)}(BOTH LAUGHING)
+Dialogue: 0.0:49:56.71.0:49:59.68.Default..0.0.0..{\an1\pos(215.432)}(CHATTERING IN JAPANESE)
+Dialogue: 0.0:50:48.73.0:50:54.15.Default..0.0.0..{\an1\pos(150.432)}{\i1}(PEOPLE CHATTERING OVER RADIO)
+Dialogue: 0.0:50:54.15.0:50:56.15.Default..0.0.0..{\an1\pos(215.432)}ALARID: (IN ARABIC)\NAre you sure\Nit was here?
+Dialogue: 0.0:50:56.15.0:50:58.65.Default..0.0.0..{\an1\pos(150.432)}OLD MAN:\NAn American stopped me.
+Dialogue: 0.0:50:58.66.0:51:03.09.Default..0.0.0..{\an1\pos(150.432)}I was scared.\NHe was covered in blood.
+Dialogue: 0.0:51:04.58.0:51:06.08.Default..0.0.0..{\an1\pos(150.432)}Where was the bus stopped?
+Dialogue: 0.0:51:06.08.0:51:07.83.Default..0.0.0..{\an1\pos(384.432)}Over there.
+Dialogue: 0.0:51:08.33.0:51:10.67.Default..0.0.0..{\an1\pos(163.432)}{\i1}MAN ON RADIO:\NCaptain Alarid...\NCaptain Alarid.
+Dialogue: 0.0:51:10.67.0:51:11.67.Default..0.0.0..{\an1\pos(267.432)}(RESPONDS IN ARABIC)
+Dialogue: 0.0:51:11.67.0:51:13.03.Default..0.0.0..{\an1\pos(163.432)}{\i1}I found cartridges.
+Dialogue: 0.0:51:19.13.0:51:22.10.Default..0.0.0..{\an1\pos(345.432)}We found four.\NHere's one.
+Dialogue: 0.0:51:29.94.0:51:31.44.Default..0.0.0..{\an1\pos(150.432)}Did you search all over?
+Dialogue: 0.0:51:31.72.0:51:33.02.Default..0.0.0..{\an1\pos(215.432)}Yes. the whole mountain.
+Dialogue: 0.0:51:52.16.0:51:54.66.Default..0.0.0..{\an1\pos(202.432)}They're from around here.
+Dialogue: 0.0:51:54.66.0:51:56.66.Default..0.0.0..{\an1\pos(215.432)}Find out who has\Na .270 caliber rifle.
+Dialogue: 0.0:52:12.43.0:52:13.76.Default..0.0.0..{\an1\pos(189.432)}(WOMAN SPEAKING ARABIC)
+Dialogue: 0.0:52:21.82.0:52:24.02.Default..0.0.0..{\an1\pos(267.432)}(CAR DOORS SLAMMING)
+Dialogue: 0.0:52:24.02.0:52:25.02.Default..0.0.0..{\an1\pos(332.432)}ALARID:\NHassan Ibrahim?
+Dialogue: 0.0:52:25.03.0:52:26.54.Default..0.0.0..{\an1\pos(150.408)}Yes.\N\h\h\h\h\h\h\h\h\h\h\h\hDrop your weapon.
+Dialogue: 0.0:52:26.53.0:52:27.74.Default..0.0.0..{\an1\pos(150.432)}I don't have a weapon.
+Dialogue: 0.0:52:27.74.0:52:29.03.Default..0.0.0..{\an1\pos(371.432)}Drop it now.
+Dialogue: 0.0:52:29.03.0:52:29.91.Default..0.0.0..{\an1\pos(293.432)}I told you to drop\Nyour weapon.
+Dialogue: 0.0:52:29.91.0:52:31.91.Default..0.0.0..{\an1\pos(150.432)}This is just my knife.
+Dialogue: 0.0:52:32.42.0:52:33.43.Default..0.0.0..{\an1\pos(293.432)}Get on the ground.
+Dialogue: 0.0:52:33.42.0:52:34.42.Default..0.0.0..{\an1\pos(228.432)}What did we do?
+Dialogue: 0.0:52:34.42.0:52:36.42.Default..0.0.0..{\an1\pos(319.432)}Get down\Non the ground...\Nface down.
+Dialogue: 0.0:52:38.34.0:52:40.34.Default..0.0.0..{\an1\pos(306.432)}ALARID:\NDon't look at me.
+Dialogue: 0.0:52:40.84.0:52:42.01.Default..0.0.0..{\an1\pos(254.432)}What did we do?
+Dialogue: 0.0:52:42.01.0:52:43.71.Default..0.0.0..{\an1\pos(267.432)}(SHOUTING IN ARABIC)
+Dialogue: 0.0:52:47.43.0:52:51.13.Default..0.0.0..{\an1\pos(163.432)}ABDULLAH:\NTake these skins to Najib.\Nsee if he wants to buy them.
+Dialogue: 0.0:53:08.15.0:53:11.40.Default..0.0.0..{\an1\pos(306.432)}Why did you shoot\Nat the bus?
+Dialogue: 0.0:53:11.40.0:53:12.90.Default..0.0.0..{\an1\pos(215.432)}(SOBBING)
+Dialogue: 0.0:53:13.41.0:53:15.91.Default..0.0.0..{\an1\pos(150.432)}I didn't shoot at anyone.
+Dialogue: 0.0:53:16.91.0:53:18.41.Default..0.0.0..{\an1\pos(410.432)}Then who?
+Dialogue: 0.0:53:25.75.0:53:27.25.Default..0.0.0..{\an1\pos(176.432)}It wasn't me.
+Dialogue: 0.0:53:30.34.0:53:31.59.Default..0.0.0..{\an1\pos(150.432)}(HASSAN CRYING)
+Dialogue: 0.0:53:31.59.0:53:34.23.Default..0.0.0..{\an1\pos(267.432)}That was your rifle.
+Dialogue: 0.0:53:37.23.0:53:39.23.Default..0.0.0..{\an1\pos(150.432)}I sold it yesterday.
+Dialogue: 0.0:53:40.07.0:53:41.77.Default..0.0.0..{\an1\pos(228.432)}Who did you sell it to?
+Dialogue: 0.0:54:09.96.0:54:11.46.Default..0.0.0..{\an1\pos(267.432)}(GREETING IN ARABIC)
+Dialogue: 0.0:54:11.46.0:54:14.13.Default..0.0.0..{\an1\pos(241.432)}Do you know where\NAbdullah Adboum lives?
+Dialogue: 0.0:54:15.14.0:54:16.86.Default..0.0.0..{\an1\pos(423.432)}Yes.
+Dialogue: 0.0:54:16.85.0:54:19.39.Default..0.0.0..{\an1\pos(254.432)}You have to go\Nover those mountains.
+Dialogue: 0.0:54:23.89.0:54:25.89.Default..0.0.0..{\an1\pos(358.432)}Who lives\Nin this area?
+Dialogue: 0.0:54:25.90.0:54:29.04.Default..0.0.0..{\an1\pos(150.432)}We live here with our mother.\NAbdullah lives\Non the other side.
+Dialogue: 0.0:54:32.62.0:54:37.82.Default..0.0.0..{\an1\pos(228.432)}If you're lying.\NI'm going to come back\Nand cut your balls off.
+Dialogue: 0.0:54:37.82.0:54:40.21.Default..0.0.0..{\an1\pos(163.432)}You can come back\Nanytime you like.
+Dialogue: 0.0:54:49.64.0:54:51.56.Default..0.0.0..{\an1\pos(150.432)}Don't walk\Nbetween the graves.
+Dialogue: 0.0:55:14.36.0:55:15.83.Default..0.0.0..{\an1\pos(241.432)}AHMED: Papa... Papa...
+Dialogue: 0.0:55:15.83.0:55:16.83.Default..0.0.0..{\an1\pos(254.432)}What happened?
+Dialogue: 0.0:55:16.83.0:55:19.33.Default..0.0.0..{\an1\pos(215.432)}The police...\Nthey're looking for you.
+Dialogue: 0.0:55:19.33.0:55:20.75.Default..0.0.0..{\an1\pos(267.432)}Me? Why?
+Dialogue: 0.0:55:20.75.0:55:22.92.Default..0.0.0..{\an1\pos(150.432)}No. not for you...\Nthey're looking for us.
+Dialogue: 0.0:55:22.92.0:55:25.34.Default..0.0.0..{\an1\pos(150.432)}Looking for you?\NWhy?
+Dialogue: 0.0:55:25.34.0:55:27.51.Default..0.0.0..{\an1\pos(150.432)}Because of the tourist.
+Dialogue: 0.0:55:27.51.0:55:28.67.Default..0.0.0..{\an1\pos(306.432)}What tourist?
+Dialogue: 0.0:55:28.68.0:55:30.69.Default..0.0.0..{\an1\pos(202.432)}The American...\NYussef killed her.
+Dialogue: 0.0:55:30.68.0:55:31.76.Default..0.0.0..{\an1\pos(228.432)}Liar. we both did.
+Dialogue: 0.0:55:32.26.0:55:33.60.Default..0.0.0..{\an1\pos(267.432)}What are you saying?
+Dialogue: 0.0:55:33.60.0:55:35.71.Default..0.0.0..{\an1\pos(150.432)}Yussef started shooting\Nat the cars...
+Dialogue: 0.0:55:35.72.0:55:37.03.Default..0.0.0..{\an1\pos(150.432)}because Hassan said\Nthat the bullet could go far.
+Dialogue: 0.0:55:37.02.0:55:39.18.Default..0.0.0..{\an1\pos(228.432)}Liar. you started\Nshooting at the cars.
+Dialogue: 0.0:55:39.19.0:55:40.36.Default..0.0.0..{\an1\pos(189.432)}But you killed her.
+Dialogue: 0.0:55:40.35.0:55:41.52.Default..0.0.0..{\an1\pos(150.432)}What are you saying?
+Dialogue: 0.0:55:41.52.0:55:44.52.Default..0.0.0..{\an1\pos(189.432)}Yussef killed the American\Nand he spies on\NZohra naked...
+Dialogue: 0.0:55:44.52.0:55:46.73.Default..0.0.0..{\an1\pos(280.432)}and Zohra lets him\Nwatch her.
+Dialogue: 0.0:55:46.73.0:55:48.53.Default..0.0.0..{\an1\pos(241.432)}ZOHRA: That's garbage.
+Dialogue: 0.0:55:48.53.0:55:52.20.Default..0.0.0..{\an1\pos(202.432)}It's not garbage.\NShe's a street girl\Nand he spies on her.
+Dialogue: 0.0:55:52.20.0:55:55.20.Default..0.0.0..{\an1\pos(163.432)}(BOTH CHATTERING ANGRILY\NIN ARABIC)
+Dialogue: 0.0:55:55.20.0:55:56.20.Default..0.0.0..{\an1\pos(254.432)}(HORN HONKING)
+Dialogue: 0.0:55:56.20.0:55:59.12.Default..0.0.0..{\an1\pos(228.432)}(PEOPLE CHEERING)
+Dialogue: 0.0:55:59.12.0:56:01.04.Default..0.0.0..{\an1\pos(332.432)}(IN SPANISH)\NTime to drink!
+Dialogue: 0.0:56:02.63.0:56:06.64.Default..0.0.0..{\an1\pos(176.432)}(BAND PLAYING LIVELY MUSIC)
+Dialogue: 0.0:56:12.84.0:56:15.60.Default..0.0.0..{\an1\pos(189.432)}{\i1}(PLAYING SLOW BLUES SONG)
+Dialogue: 0.0:56:28.57.0:56:33.10.Default..0.0.0..{\an1\pos(150.144)}(IN SPANISH)\NThis song is dedicated\Nfrom Luis to Patricia...
+Dialogue: 0.0:56:33.11.0:56:35.70.Default..0.0.0..{\an1\pos(215.432)}the most beautiful bride\Nin the world.
+Dialogue: 0.0:56:41.41.0:56:45.42.Default..0.0.0..{\an1\pos(228.432)}{\i1}(SINGING IN SPANISH)
+Dialogue: 0.0:56:56.55.0:56:58.72.Default..0.0.0..{\an1\pos(267.432)}(SINGING ALONG)
+Dialogue: 0.0:57:08.78.0:57:14.07.Default..0.0.0..{\an1\pos(280.432)}I think Aunt Amelia\Nhas to dance.
+Dialogue: 0.0:57:15.40.0:57:19.98.Default..0.0.0..{\an1\pos(176.432)}(ALL CHATTERING IN SPANISH)
+Dialogue: 0.0:57:35.00.0:57:36.67.Default..0.0.0..{\an1\pos(150.432)}{\i1}(PLAYING UPBEAT SPANISH MUSIC)
+Dialogue: 0.0:58:02.45.0:58:06.12.Default..0.0.0..{\an1\pos(293.432)}Amelia. can I have\Nthis dance?
+Dialogue: 0.0:58:06.12.0:58:08.38.Default..0.0.0..{\an1\pos(150.432)}I don't think your wife\Nwould like that.
+Dialogue: 0.0:58:08.37.0:58:13.45.Default..0.0.0..{\an1\pos(267.432)}Ohh. she passed away\N10 years ago.\NCome on Amelia.
+Dialogue: 0.0:58:13.46.0:58:16.47.Default..0.0.0..{\an1\pos(228.432)}(CHATTERING IN SPANISH)
+Dialogue: 0.0:58:23.22.0:58:27.36.Default..0.0.0..{\an1\pos(137.432)}(PEOPLE CHATTERING IN SPANISH)
+Dialogue: 0.0:58:32.19.0:58:36.90.Default..0.0.0..{\an1\pos(150.432)}{\i1}(LIVELY SPANISH MUSIC PLAYING)
+Dialogue: 0.0:58:47.71.0:58:52.33.Default..0.0.0..{\an1\pos(280.432)}{\i1}(ROMANTIC SPANISH\NBALLAD PLAYING)
+Dialogue: 0.1:00:38.60.1:00:39.85.Default..0.0.0..{\an1\pos(254.432)}(ALL CHANTING)
+Dialogue: 0.1:00:45.53.1:00:47.54.Default..0.0.0..{\an1\pos(254.432)}(ALL CHEERING)
+Dialogue: 0.1:00:47.53.1:00:49.86.Default..0.0.0..{\an1\pos(345.432)}{\i1}(COUNTING SONG\NIN SPANISH)
+Dialogue: 0.1:00:49.86.1:00:52.58.Default..0.0.0..{\an1\pos(215.432)}{\i1}(NORTENO MUSIC PLAYING)
+Dialogue: 0.1:00:59.42.1:01:03.42.Default..0.0.0..{\an1\pos(150.432)}Let's go dance... You have\Nsomething white on your face.
+Dialogue: 0.1:01:03.43.1:01:05.44.Default..0.0.0..{\an1\pos(228.432)}Don't get excited.\Nit's only cake.
+Dialogue: 0.1:01:18.56.1:01:20.56.Default..0.0.0..{\an1\pos(241.432)}{\i1}ANNOUNCER ON RADIO:\N(IN ARABIC) Today.\Nnear Tazarine.
+Dialogue: 0.1:01:20.56.1:01:22.48.Default..0.0.0..{\an1\pos(228.432)}{\i1}there was an incident.
+Dialogue: 0.1:01:22.48.1:01:24.23.Default..0.0.0..{\an1\pos(215.432)}{\i1}An American was shot.
+Dialogue: 0.1:01:24.23.1:01:29.20.Default..0.0.0..{\an1\pos(176.432)}{\i1}Authorities say\Nit could have been a robbery.
+Dialogue: 0.1:01:29.20.1:01:32.90.Default..0.0.0..{\an1\pos(176.432)}{\i1}But. the American government\Nwas quick to suggest\Na terrorist link.
+Dialogue: 0.1:01:32.91.1:01:35.22.Default..0.0.0..{\an1\pos(228.432)}{\i1}Minister Hassan Hazal\Nhas said...
+Dialogue: 0.1:01:35.54.1:01:39.99.Default..0.0.0..{\an1\pos(202.432)}{\i1}that terrorist cells\Nhave been eradicated\Nin our country...
+Dialogue: 0.1:01:40.00.1:01:43.09.Default..0.0.0..{\an1\pos(228.432)}{\i1}and one act\Nof vulgar banditry...
+Dialogue: 0.1:01:43.08.1:01:48.09.Default..0.0.0..{\an1\pos(202.432)}{\i1}followed by\Nsuperficial evaluations\Nthe U.S. places on it...
+Dialogue: 0.1:01:48.09.1:01:50.42.Default..0.0.0..{\an1\pos(228.432)}{\i1}cannot ruin our image\Nor the economy.
+Dialogue: 0.1:01:51.59.1:01:52.47.Default..0.0.0..{\an1\pos(241.432)}(SUSAN GRUNTING)
+Dialogue: 0.1:01:52.48.1:01:54.77.Default..0.0.0..{\an1\pos(176.432)}(MEN CHATTERING IN ARABIC)
+Dialogue: 0.1:01:57.15.1:01:58.98.Default..0.0.0..{\an1\pos(319.432)}SUSAN: I want to\Ncall the kids.
+Dialogue: 0.1:02:00.35.1:02:02.35.Default..0.0.0..{\an1\pos(293.432)}Richard. I want to\Ntalk to the kids.
+Dialogue: 0.1:02:02.35.1:02:04.10.Default..0.0.0..{\an1\pos(150.432)}We can't move you\Nright now.
+Dialogue: 0.1:02:04.35.1:02:07.07.Default..0.0.0..{\an1\pos(150.408)}We'll call them later.\N\h\hI want to talk to the kids.
+Dialogue: 0.1:02:08.49.1:02:09.99.Default..0.0.0..{\an1\pos(241.432)}I got to talk to them.
+Dialogue: 0.1:02:22.87.1:02:24.87.Default..0.0.0..{\an1\pos(254.432)}SUSAN: I got to\Ntalk to the kids.
+Dialogue: 0.1:02:27.76.1:02:29.76.Default..0.0.0..{\an1\pos(267.432)}(SOBBING)
+Dialogue: 0.1:02:51.62.1:02:53.37.Default..0.0.0..{\an1\pos(150.432)}(SPEAKING SOFTLY IN ARABIC)
+Dialogue: 0.1:03:43.79.1:03:47.52.Default..0.0.0..{\an1\pos(150.432)}(PRAYING IN ARABIC)
+Dialogue: 0.1:03:55.05.1:03:59.05.Default..0.0.0..{\an1\pos(150.432)}(IN FRENCH) You have to\Nturn on the air-conditioning.\Nmy husband is ill.
+Dialogue: 0.1:03:59.05.1:04:02.02.Default..0.0.0..{\an1\pos(163.432)}(IN FRENCH)\NNo air-conditioning.\Nno gasoline near. I'm sorry.
+Dialogue: 0.1:04:02.02.1:04:05.61.Default..0.0.0..{\an1\pos(241.432)}Please. it's too hot.\NWe can get dehydrated.
+Dialogue: 0.1:04:05.61.1:04:06.52.Default..0.0.0..{\an1\pos(319.432)}(IN ENGLISH)\NWhat did he say?
+Dialogue: 0.1:04:06.53.1:04:08.37.Default..0.0.0..{\an1\pos(215.432)}He says we can't turn on\Nthe air-conditioning
+Dialogue: 0.1:04:08.78.1:04:11.31.Default..0.0.0..{\an1\pos(215.432)}because it uses the gas.
+Dialogue: 0.1:04:11.31.1:04:13.61.Default..0.0.0..{\an1\pos(228.432)}Oh. fuck that. Come on.
+Dialogue: 0.1:04:15.87.1:04:17.37.Default..0.0.0..{\an1\pos(345.432)}Fuck you.
+Dialogue: 0.1:04:22.63.1:04:23.97.Default..0.0.0..{\an1\pos(150.432)}Tom. where are you going?
+Dialogue: 0.1:04:24.38.1:04:26.88.Default..0.0.0..{\an1\pos(202.432)}Get back.\NWait there. Get back.
+Dialogue: 0.1:04:32.55.1:04:35.05.Default..0.0.0..{\an1\pos(150.408)}TOM: Look. we're leaving.\N\h\h\h\h\h\h\hRICHARD:\N\h\h\h\h\h\h\hYou're not leaving us.
+Dialogue: 0.1:04:35.05.1:04:37.56.Default..0.0.0..{\an1\pos(150.432)}There's old people here.\NThe heat is really getting...
+Dialogue: 0.1:04:37.56.1:04:38.51.Default..0.0.0..{\an1\pos(228.432)}Wait for the ambulance.\Nand then you can leave.
+Dialogue: 0.1:04:38.51.1:04:40.51.Default..0.0.0..{\an1\pos(150.432)}There's a man in the bus\Nwho almost fainted.
+Dialogue: 0.1:04:40.51.1:04:42.84.Default..0.0.0..{\an1\pos(150.432)}and there's a woman who\Nneeds to get back in time\Nto take her medication.
+Dialogue: 0.1:04:42.85.1:04:45.36.Default..0.0.0..{\an1\pos(137.408)}\h\h\h\h\h\h\h\h\h\h\hWALTER: We can't\N\h\h\h\h\h\h\h\h\h\h\hleave him here.\NTOM: Well. let him come. then.
+Dialogue: 0.1:04:45.35.1:04:46.85.Default..0.0.0..{\an1\pos(267.432)}His wife's in no\Ncondition to travel.
+Dialogue: 0.1:04:47.35.1:04:48.85.Default..0.0.0..{\an1\pos(150.432)}There's people\Nin no condition\Nto be kept waiting.
+Dialogue: 0.1:04:48.85.1:04:50.60.Default..0.0.0..{\an1\pos(150.432)}Can't you see that?
+Dialogue: 0.1:04:50.60.1:04:53.60.Default..0.0.0..{\an1\pos(150.432)}Please wait. The ambulance\Nis gonna be here\Nany minute. right?
+Dialogue: 0.1:04:53.61.1:04:55.12.Default..0.0.0..{\an1\pos(163.432)}It's gonna be\Nhere any minute.
+Dialogue: 0.1:04:55.11.1:04:58.69.Default..0.0.0..{\an1\pos(150.432)}So I'm asking you all\Nto please wait.
+Dialogue: 0.1:05:01.11.1:05:02.91.Default..0.0.0..{\an1\pos(345.432)}30 minutes.
+Dialogue: 0.1:05:02.92.1:05:04.84.Default..0.0.0..{\an1\pos(150.432)}We're giving you\N30 minutes.
+Dialogue: 0.1:05:22.47.1:05:23.47.Default..0.0.0..{\an1\pos(358.432)}(LAUGHING)
+Dialogue: 0.1:05:32.31.1:05:33.81.Default..0.0.0..{\an1\pos(267.432)}(GIRLS LAUGHING)
+Dialogue: 0.1:05:45.66.1:05:47.04.Default..0.0.0..{\an1\pos(358.432)}Who are they?
+Dialogue: 0.1:05:48.04.1:05:49.21.Default..0.0.0..{\an1\pos(267.432)}My cousins.
+Dialogue: 0.1:05:49.21.1:05:50.66.Default..0.0.0..{\an1\pos(150.432)}Is he deaf-mute\Nlike us?
+Dialogue: 0.1:05:50.66.1:05:52.66.Default..0.0.0..{\an1\pos(150.432)}No. but he\Nunderstands some.
+Dialogue: 0.1:05:58.84.1:06:01.39.Default..0.0.0..{\an1\pos(150.432)}(SPEAKING SLOWLY)\NWhat is your name?
+Dialogue: 0.1:06:10.43.1:06:11.93.Default..0.0.0..{\an1\pos(150.432)}Chieko.
+Dialogue: 0.1:06:12.43.1:06:15.57.Default..0.0.0..{\an1\pos(150.432)}My name's Haruki.
+Dialogue: 0.1:06:32.59.1:06:34.59.Default..0.0.0..{\an1\pos(176.432)}It's whisky.
+Dialogue: 0.1:06:37.79.1:06:42.55.Default..0.0.0..{\an1\pos(150.432)}(BOYS CHATTERING IN JAPANESE)
+Dialogue: 0.1:06:49.47.1:06:52.89.Default..0.0.0..{\an1\pos(150.432)}Do the cops\Ncome around here?
+Dialogue: 0.1:06:54.19.1:06:55.69.Default..0.0.0..{\an1\pos(241.432)}Sometimes.
+Dialogue: 0.1:07:13.16.1:07:14.80.Default..0.0.0..{\an1\pos(150.432)}(SPEAKS JAPANESE)
+Dialogue: 0.1:07:40.41.1:07:43.00.Default..0.0.0..{\an1\pos(254.432)}(BOYS CHATTERING\NGOOD-NATUREDLY)
+Dialogue: 0.1:08:01.34.1:08:02.93.Default..0.0.0..{\an1\pos(254.432)}(ALL LAUGHING)
+Dialogue: 0.1:08:06.13.1:08:08.13.Default..0.0.0..{\an1\pos(163.432)}(GIRLS SQUEALING IN DELIGHT)
+Dialogue: 0.1:08:14.36.1:08:18.56.Default..0.0.0..{\an1\pos(267.432)}(INAUDIBLE)
+Dialogue: 0.1:09:31.35.1:09:32.72.Default..0.0.0..{\an1\pos(332.432)}You smell good.
+Dialogue: 0.1:09:56.49.1:10:01.88.Default..0.0.0..{\an1\pos(176.432)}{\i1}(ELECTRONIC MUSIC PLAYING)
+Dialogue: 0.1:10:16.65.1:10:21.69.Default..0.0.0..{\an1\pos(189.432)}{\i1}(ELECTRONIC MUSIC PLAYING\NVERY FAINTLY)
+Dialogue: 0.1:10:39.70.1:10:42.84.Default..0.0.0..{\an1\pos(215.432)}{\i1}(UPBEAT MUSIC BLARING)
+Dialogue: 0.1:10:43.34.1:10:47.29.Default..0.0.0..{\an1\pos(241.432)}(PEOPLE CHEERING)
+Dialogue: 0.1:10:48.84.1:10:51.05.Default..0.0.0..{\an1\pos(267.432)}(SILENCE)
+Dialogue: 0.1:10:55.88.1:10:58.60.Default..0.0.0..{\an1\pos(280.432)}{\i1}(MUSIC BLARING)
+Dialogue: 0.1:10:59.10.1:11:02.89.Default..0.0.0..{\an1\pos(267.432)}(SILENCE)
+Dialogue: 0.1:11:02.89.1:11:06.73.Default..0.0.0..{\an1\pos(254.432)}{\i1}(MUSIC BLARING)
+Dialogue: 0.1:11:20.33.1:11:22.67.Default..0.0.0..{\an1\pos(267.432)}(SILENCE)
+Dialogue: 0.1:11:22.66.1:11:26.58.Default..0.0.0..{\an1\pos(280.432)}{\i1}(MUSIC BLARING)
+Dialogue: 0.1:11:53.58.1:11:54.50.Default..0.0.0..{\an1\pos(267.432)}(SONG ENDS)
+Dialogue: 0.1:11:58.91.1:12:04.34.Default..0.0.0..{\an1\pos(254.432)}{\i1}(TECHNO MUSIC PLAYING)
+Dialogue: 0.1:13:08.18.1:13:11.18.Default..0.0.0..{\an1\pos(267.432)}(SILENCE)
+Dialogue: 0.1:13:11.18.1:13:13.26.Default..0.0.0..{\an1\pos(280.432)}{\i1}(MUSIC BLARING)
+Dialogue: 0.1:13:13.26.1:13:18.47.Default..0.0.0..{\an1\pos(267.432)}(SILENCE)
+Dialogue: 0.1:13:20.52.1:13:22.77.Default..0.0.0..{\an1\pos(280.432)}{\i1}(MUSIC BLARING)
+Dialogue: 0.1:13:22.77.1:13:28.44.Default..0.0.0..{\an1\pos(267.432)}(SILENCE)
+Dialogue: 0.1:13:30.53.1:13:32.56.Default..0.0.0..{\an1\pos(280.432)}{\i1}(MUSIC BLARING)
+Dialogue: 0.1:13:57.51.1:14:00.68.Default..0.0.0..{\an1\pos(267.432)}(SILENCE)
+Dialogue: 0.1:14:09.07.1:14:12.99.Default..0.0.0..{\an1\pos(267.432)}(INAUDIBLE)
+Dialogue: 0.1:14:34.43.1:14:36.59.Default..0.0.0..{\an1\pos(332.432)}(IN JAPANESE)\NWelcome home...\Nmay I help you?
+Dialogue: 0.1:14:47.27.1:14:50.78.Default..0.0.0..{\an1\pos(371.432)}Are you sure\Nyou want him\Nto come now?
+Dialogue: 0.1:15:06.49.1:15:10.54.Default..0.0.0..{\an1\pos(202.432)}Is this Detective Mamiya?
+Dialogue: 0.1:15:10.55.1:15:14.98.Default..0.0.0..{\an1\pos(241.432)}The deaf-mute girl\Nyou met this afternoon\Nasked me to call.
+Dialogue: 0.1:15:14.97.1:15:17.38.Default..0.0.0..{\an1\pos(410.432)}Yes. her.
+Dialogue: 0.1:15:17.39.1:15:23.85.Default..0.0.0..{\an1\pos(189.432)}She says she\Nneeds to talk to you.\Nalone... about her father.
+Dialogue: 0.1:15:25.56.1:15:28.18.Default..0.0.0..{\an1\pos(254.432)}ABDULLAH: (IN ARABIC)\NWhy did you do this?
+Dialogue: 0.1:15:28.18.1:15:29.68.Default..0.0.0..{\an1\pos(267.432)}Why did you do this?
+Dialogue: 0.1:15:32.65.1:15:34.15.Default..0.0.0..{\an1\pos(163.432)}Answer me. damn it!
+Dialogue: 0.1:15:35.65.1:15:37.40.Default..0.0.0..{\an1\pos(150.432)}We were testing the rifle.
+Dialogue: 0.1:15:38.91.1:15:40.91.Default..0.0.0..{\an1\pos(332.432)}Are you idiots?
+Dialogue: 0.1:15:40.91.1:15:42.58.Default..0.0.0..{\an1\pos(280.432)}You killed a woman.
+Dialogue: 0.1:15:44.53.1:15:46.75.Default..0.0.0..{\an1\pos(384.432)}And you....
+Dialogue: 0.1:15:46.75.1:15:49.45.Default..0.0.0..{\an1\pos(150.432)}You got naked\Nso your brother could watch?
+Dialogue: 0.1:15:51.25.1:15:54.29.Default..0.0.0..{\an1\pos(150.432)}Zohra got naked lots of times\Nso Yussef could watch her.
+Dialogue: 0.1:15:54.29.1:15:55.87.Default..0.0.0..{\an1\pos(293.432)}Is it true or not?
+Dialogue: 0.1:16:00.18.1:16:01.93.Default..0.0.0..{\an1\pos(293.432)}Is it true or not?
+Dialogue: 0.1:16:17.11.1:16:19.48.Default..0.0.0..{\an1\pos(189.432)}Why did you do this to us?
+Dialogue: 0.1:16:21.40.1:16:22.73.Default..0.0.0..{\an1\pos(293.432)}Where's the rifle?
+Dialogue: 0.1:16:24.70.1:16:26.65.Default..0.0.0..{\an1\pos(150.432)}Where's the rifle?
+Dialogue: 0.1:16:26.66.1:16:28.67.Default..0.0.0..{\an1\pos(150.432)}I told you.\Na hunter gave it to me.
+Dialogue: 0.1:16:29.16.1:16:30.57.Default..0.0.0..{\an1\pos(215.432)}What hunter?
+Dialogue: 0.1:16:32.54.1:16:39.05.Default..0.0.0..{\an1\pos(267.432)}A Japanese hunter...\Ngave it to me.
+Dialogue: 0.1:16:39.55.1:16:44.09.Default..0.0.0..{\an1\pos(280.432)}I've got a picture.\NShe can get it.
+Dialogue: 0.1:16:44.09.1:16:45.59.Default..0.0.0..{\an1\pos(202.432)}POLICEMAN: Go get it.
+Dialogue: 0.1:16:57.60.1:16:58.60.Default..0.0.0..{\an1\pos(202.432)}(CRYING)
+Dialogue: 0.1:17:09.20.1:17:13.67.Default..0.0.0..{\an1\pos(241.432)}He's holding the rifle\Nhe gave me.
+Dialogue: 0.1:17:39.70.1:17:41.04.Default..0.0.0..{\an1\pos(150.432)}We're going to Najib's house.
+Dialogue: 0.1:17:41.03.1:17:44.32.Default..0.0.0..{\an1\pos(150.432)}If the cops come.\Ntell them we went south.
+Dialogue: 0.1:17:51.16.1:17:53.07.Default..0.0.0..{\an1\pos(189.432)}{\i1}(CHATTER OVER POLICE RADIO)
+Dialogue: 0.1:18:03.09.1:18:05.43.Default..0.0.0..{\an1\pos(150.432)}This Abdullah doesn't live\Nin the area you told us.
+Dialogue: 0.1:18:05.42.1:18:07.92.Default..0.0.0..{\an1\pos(150.432)}Are you playing with us?
+Dialogue: 0.1:18:07.92.1:18:09.92.Default..0.0.0..{\an1\pos(215.432)}HASSAN'S WIFE: He lives\Nin the area he told you.
+Dialogue: 0.1:18:09.93.1:18:12.44.Default..0.0.0..{\an1\pos(202.432)}He lives there?
+Dialogue: 0.1:18:12.43.1:18:14.93.Default..0.0.0..{\an1\pos(150.432)}You're going to take us.
+Dialogue: 0.1:18:17.93.1:18:20.43.Default..0.0.0..{\an1\pos(150.432)}(CHATTERING IN ARABIC)
+Dialogue: 0.1:18:25.44.1:18:26.94.Default..0.0.0..{\an1\pos(280.432)}{\i1}(ORDERS IN ARABIC)
+Dialogue: 0.1:18:39.12.1:18:40.62.Default..0.0.0..{\an1\pos(215.432)}{\i1}(CHATTERING ON RADIO)
+Dialogue: 0.1:18:48.26.1:18:52.55.Default..0.0.0..{\an1\pos(228.432)}(SPEAKING ARABIC)
+Dialogue: 0.1:18:54.30.1:18:55.97.Default..0.0.0..{\an1\pos(215.432)}They're over there.
+Dialogue: 0.1:18:59.14.1:19:01.03.Default..0.0.0..{\an1\pos(202.432)}The police. the police.
+Dialogue: 0.1:19:02.03.1:19:03.31.Default..0.0.0..{\an1\pos(215.432)}Run... run.
+Dialogue: 0.1:19:15.87.1:19:17.49.Default..0.0.0..{\an1\pos(254.432)}(GUNS FIRING)
+Dialogue: 0.1:19:30.34.1:19:31.34.Default..0.0.0..{\an1\pos(410.432)}Get down.
+Dialogue: 0.1:19:31.34.1:19:32.84.Default..0.0.0..{\an1\pos(267.432)}(GUNFIRE CEASES)
+Dialogue: 0.1:19:41.77.1:19:45.69.Default..0.0.0..{\an1\pos(254.432)}(GUNS FIRING)
+Dialogue: 0.1:19:45.69.1:19:46.82.Default..0.0.0..{\an1\pos(306.432)}(SPEAKING ARABIC)
+Dialogue: 0.1:19:49.99.1:19:51.41.Default..0.0.0..{\an1\pos(189.432)}(SHOUTS IN ARABIC)
+Dialogue: 0.1:19:51.41.1:19:52.41.Default..0.0.0..{\an1\pos(280.432)}(SCREAMS)
+Dialogue: 0.1:19:53.11.1:19:54.11.Default..0.0.0..{\an1\pos(267.432)}(GROANING)
+Dialogue: 0.1:19:55.11.1:19:55.86.Default..0.0.0..{\an1\pos(358.432)}Ahmed!
+Dialogue: 0.1:19:56.37.1:19:58.01.Default..0.0.0..{\an1\pos(150.432)}(AHMED EXCLAIMING IN PAIN)
+Dialogue: 0.1:19:58.00.1:20:03.54.Default..0.0.0..{\an1\pos(176.432)}(BOTH CHATTERING IN ARABIC)
+Dialogue: 0.1:20:03.54.1:20:05.59.Default..0.0.0..{\an1\pos(176.432)}(GUNS CONTINUE FIRING)
+Dialogue: 0.1:20:06.34.1:20:08.38.Default..0.0.0..{\an1\pos(150.432)}(SHOUTING IN ARABIC)
+Dialogue: 0.1:20:10.05.1:20:14.11.Default..0.0.0..{\an1\pos(150.432)}(IMPLORING IN ARABIC)
+Dialogue: 0.1:20:16.60.1:20:18.02.Default..0.0.0..{\an1\pos(267.432)}(BELLOWING)
+Dialogue: 0.1:20:18.39.1:20:19.69.Default..0.0.0..{\an1\pos(280.432)}(SCREAMS)
+Dialogue: 0.1:20:19.69.1:20:22.39.Default..0.0.0..{\an1\pos(215.432)}{\i1}(SALSA MUSIC PLAYING)
+Dialogue: 0.1:20:26.19.1:20:28.15.Default..0.0.0..{\an1\pos(280.432)}(CHATTERING ANGRILY\NIN SPANISH)
+Dialogue: 0.1:20:32.48.1:20:34.49.Default..0.0.0..{\an1\pos(241.432)}(PEOPLE WHOOPING)
+Dialogue: 0.1:20:36.87.1:20:39.54.Default..0.0.0..{\an1\pos(306.432)}(CALLING\NIN SPANISH)
+Dialogue: 0.1:20:40.04.1:20:41.04.Default..0.0.0..{\an1\pos(215.432)}(IN SPANISH) Mom.\Nstay here tonight.
+Dialogue: 0.1:20:41.54.1:20:45.00.Default..0.0.0..{\an1\pos(267.432)}I can't. I have to\Nget these kids home.\NIt's almost dawn.
+Dialogue: 0.1:20:45.50.1:20:47.50.Default..0.0.0..{\an1\pos(228.432)}But this fucking guy\Nis really drunk.
+Dialogue: 0.1:20:47.50.1:20:52.17.Default..0.0.0..{\an1\pos(163.432)}SANTIAGO:\NDrunk my ass. I'm fine.\NI'll be right back.
+Dialogue: 0.1:20:52.17.1:20:54.51.Default..0.0.0..{\an1\pos(137.432)}PATRICIA: Stay a little while.\Nthe party's just starting.
+Dialogue: 0.1:20:54.51.1:20:57.76.Default..0.0.0..{\an1\pos(150.432)}I would like to.\Nbut these kids have\Nsoccer practice tomorrow.
+Dialogue: 0.1:20:57.76.1:20:59.01.Default..0.0.0..{\an1\pos(293.432)}See you soon. Son.
+Dialogue: 0.1:20:59.01.1:21:00.93.Default..0.0.0..{\an1\pos(150.432)}Congratulations. my darling.
+Dialogue: 0.1:21:02.93.1:21:06.23.Default..0.0.0..{\an1\pos(137.432)}Take care of my grandchild.\NI'm dying to be a grandmother.
+Dialogue: 0.1:21:06.23.1:21:07.73.Default..0.0.0..{\an1\pos(150.432)}Seriously.\Nyou're not drunk man?
+Dialogue: 0.1:21:07.74.1:21:11.03.Default..0.0.0..{\an1\pos(215.432)}(SLURRING) Drunk my ass.\NI'm fine. I'll be back.
+Dialogue: 0.1:21:11.32.1:21:15.19.Default..0.0.0..{\an1\pos(150.432)}Remember. they got you\Nonce already and you got\Nin a lot of trouble.
+Dialogue: 0.1:21:16.19.1:21:17.44.Default..0.0.0..{\an1\pos(293.432)}LUIS: Bye. Ma...
+Dialogue: 0.1:21:17.45.1:21:20.96.Default..0.0.0..{\an1\pos(189.432)}If things don't work here.\NI'll meet you\Nwith the 'gringos.'
+Dialogue: 0.1:21:20.95.1:21:22.45.Default..0.0.0..{\an1\pos(254.432)}(CAR STARTING)
+Dialogue: 0.1:21:51.81.1:21:53.20.Default..0.0.0..{\an1\pos(228.432)}(TIRES SCREECHING)
+Dialogue: 0.1:21:53.20.1:21:55.12.Default..0.0.0..{\an1\pos(150.432)}Hey. be careful.
+Dialogue: 0.1:21:56.32.1:21:58.12.Default..0.0.0..{\an1\pos(228.432)}(LAUGHING SHEEPISHLY)
+Dialogue: 0.1:22:00.99.1:22:04.58.Default..0.0.0..{\an1\pos(254.432)}I'll cross the border\Nthrough Tecate...
+Dialogue: 0.1:22:04.58.1:22:07.41.Default..0.0.0..{\an1\pos(254.432)}that will get us to\NSan Diego super fast.
+Dialogue: 0.1:22:26.26.1:22:28.10.Default..0.0.0..{\an1\pos(293.432)}(IN ENGLISH)\NPapers?
+Dialogue: 0.1:22:30.60.1:22:32.10.Default..0.0.0..{\an1\pos(371.432)}Where you\Ncoming from?
+Dialogue: 0.1:22:32.10.1:22:33.57.Default..0.0.0..{\an1\pos(267.432)}From Mexico.
+Dialogue: 0.1:22:36.61.1:22:38.61.Default..0.0.0..{\an1\pos(215.432)}From a wedding.
+Dialogue: 0.1:22:40.11.1:22:41.28.Default..0.0.0..{\an1\pos(332.432)}Where you from?
+Dialogue: 0.1:22:41.28.1:22:43.28.Default..0.0.0..{\an1\pos(254.432)}From Valle\Nde Guadalupe.
+Dialogue: 0.1:22:45.78.1:22:48.17.Default..0.0.0..{\an1\pos(150.432)}Valle de Guadalupe.
+Dialogue: 0.1:22:48.67.1:22:49.95.Default..0.0.0..{\an1\pos(150.432)}Where you headed today?
+Dialogue: 0.1:22:49.96.1:22:51.77.Default..0.0.0..{\an1\pos(163.432)}To San Diego. We're going...
+Dialogue: 0.1:22:51.76.1:22:53.54.Default..0.0.0..{\an1\pos(319.432)}I'm taking them.
+Dialogue: 0.1:22:56.29.1:22:58.21.Default..0.0.0..{\an1\pos(215.408)}\h\h\h\h\h\h\h\hWho are they?\NHer nephews.
+Dialogue: 0.1:22:58.21.1:23:00.43.Default..0.0.0..{\an1\pos(319.432)}Her nephews.\NThey don't look\Nlike you. ma'am.
+Dialogue: 0.1:23:00.80.1:23:03.68.Default..0.0.0..{\an1\pos(150.432)}No. no. no. no.\NI'm in charge of them.
+Dialogue: 0.1:23:04.69.1:23:06.52.Default..0.0.0..{\an1\pos(163.408)}Do you have their passports?\N\h\h\h\h\h\h\h\hYes.
+Dialogue: 0.1:23:21.70.1:23:23.20.Default..0.0.0..{\an1\pos(150.432)}Is there a problem?
+Dialogue: 0.1:23:26.79.1:23:28.08.Default..0.0.0..{\an1\pos(267.432)}Should there be one?
+Dialogue: 0.1:23:35.30.1:23:37.17.Default..0.0.0..{\an1\pos(332.432)}Wait right here\Njust a minute.
+Dialogue: 0.1:23:43.18.1:23:46.69.Default..0.0.0..{\an1\pos(241.432)}(IN SPANISH)\NDon't say anything.\NLet me do the talking.
+Dialogue: 0.1:23:46.68.1:23:48.93.Default..0.0.0..{\an1\pos(150.432)}But you're provoking him.
+Dialogue: 0.1:23:48.93.1:23:50.73.Default..0.0.0..{\an1\pos(280.432)}I was just kidding.
+Dialogue: 0.1:23:52.73.1:23:55.15.Default..0.0.0..{\an1\pos(267.432)}Can you open\Nyour trunk. sir?
+Dialogue: 0.1:23:55.15.1:23:56.74.Default..0.0.0..{\an1\pos(202.408)}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hWhat?\NOFFICER: Open your trunk.
+Dialogue: 0.1:23:57.07.1:23:58.52.Default..0.0.0..{\an1\pos(241.432)}Yes. yes. yes.
+Dialogue: 0.1:24:01.53.1:24:03.36.Default..0.0.0..{\an1\pos(254.432)}(DOG BARKING)
+Dialogue: 0.1:24:25.68.1:24:27.10.Default..0.0.0..{\an1\pos(202.432)}Close it up.
+Dialogue: 0.1:24:30.31.1:24:32.20.Default..0.0.0..{\an1\pos(150.432)}Get back\Nin the vehicle.
+Dialogue: 0.1:24:34.64.1:24:36.64.Default..0.0.0..{\an1\pos(150.432)}Glove compartment. ma'am.
+Dialogue: 0.1:24:44.02.1:24:45.40.Default..0.0.0..{\an1\pos(306.432)}Purse?
+Dialogue: 0.1:25:08.51.1:25:09.93.Default..0.0.0..{\an1\pos(150.432)}OFFICER: All right.
+Dialogue: 0.1:25:14.93.1:25:18.27.Default..0.0.0..{\an1\pos(202.432)}(MUTTERING IN SPANISH)\NWhat now? Motherfucker...
+Dialogue: 0.1:25:25.48.1:25:26.61.Default..0.0.0..{\an1\pos(358.432)}Ma'am?
+Dialogue: 0.1:25:26.61.1:25:28.61.Default..0.0.0..{\an1\pos(254.408)}You said you were\Nin charge of them?\N\hYes.
+Dialogue: 0.1:25:28.61.1:25:31.70.Default..0.0.0..{\an1\pos(241.432)}We need the parents'\Nletters of permission.
+Dialogue: 0.1:25:31.70.1:25:33.90.Default..0.0.0..{\an1\pos(215.432)}Parents' letters?
+Dialogue: 0.1:25:33.90.1:25:35.82.Default..0.0.0..{\an1\pos(293.432)}(IN SPANISH)\NWhat's that?
+Dialogue: 0.1:25:35.82.1:25:37.82.Default..0.0.0..{\an1\pos(293.432)}(OFFICER REPEATING\NIN BROKEN SPANISH)
+Dialogue: 0.1:25:54.76.1:25:56.26.Default..0.0.0..{\an1\pos(228.432)}Hey there. sweetie.
+Dialogue: 0.1:25:56.26.1:25:59.14.Default..0.0.0..{\an1\pos(241.432)}Tell me. is this\Nlady here your auntie?
+Dialogue: 0.1:25:59.14.1:26:00.81.Default..0.0.0..{\an1\pos(215.432)}No. she's not my auntie.
+Dialogue: 0.1:26:02.76.1:26:04.15.Default..0.0.0..{\an1\pos(280.432)}She's in charge.
+Dialogue: 0.1:26:04.15.1:26:06.15.Default..0.0.0..{\an1\pos(280.408)}Are you drunk. sir?\N\h\h\h\h\h\h\hMe?
+Dialogue: 0.1:26:06.15.1:26:08.65.Default..0.0.0..{\an1\pos(267.408)}Are you intoxicated?\N\h\hNo.
+Dialogue: 0.1:26:08.65.1:26:10.52.Default..0.0.0..{\an1\pos(215.432)}Sir. I'm gonna ask you\Nto step out the vehicle.
+Dialogue: 0.1:26:10.52.1:26:13.77.Default..0.0.0..{\an1\pos(254.408)}Why?\N\hI need you to step\N\hout the vehicle now.
+Dialogue: 0.1:26:13.78.1:26:15.67.Default..0.0.0..{\an1\pos(267.432)}I need you to step\Nout the vehicle now!
+Dialogue: 0.1:26:16.16.1:26:17.99.Default..0.0.0..{\an1\pos(150.408)}Sir. can I explain?\N\h\h\h\h\h\hNo. you cannot explain!
+Dialogue: 0.1:26:18.00.1:26:20.87.Default..0.0.0..{\an1\pos(254.432)}I'm telling you\Nthat you will\Nstep out the vehicle!
+Dialogue: 0.1:26:20.87.1:26:23.01.Default..0.0.0..{\an1\pos(345.432)}Don't make me\Nask you again!
+Dialogue: 0.1:26:23.25.1:26:25.09.Default..0.0.0..{\an1\pos(150.432)}Wait. sir.\NGet back into the vehicle.
+Dialogue: 0.1:26:25.09.1:26:27.17.Default..0.0.0..{\an1\pos(202.432)}What you're gonna do now\Nis you're gonna follow me
+Dialogue: 0.1:26:27.17.1:26:28.17.Default..0.0.0..{\an1\pos(319.432)}to the secondary\Ninspection area.
+Dialogue: 0.1:26:28.17.1:26:29.51.Default..0.0.0..{\an1\pos(150.408)}Can I explain?\N\h\h\h\h\h\hNo. you cannot explain.
+Dialogue: 0.1:26:30.01.1:26:31.51.Default..0.0.0..{\an1\pos(150.432)}Sir. you will shut your mouth\Nand you will follow me...
+Dialogue: 0.1:26:31.51.1:26:34.26.Default..0.0.0..{\an1\pos(150.432)}(IN SPANISH)\NI heard you... stop shouting.
+Dialogue: 0.1:26:34.26.1:26:36.05.Default..0.0.0..{\an1\pos(189.144)}\h\h\h(CAR STARTING)\NYou will park your vehicle\Nand you will get out.
+Dialogue: 0.1:26:36.05.1:26:37.71.Default..0.0.0..{\an1\pos(215.432)}(IN SPANISH)\NDon't shout at me.
+Dialogue: 0.1:26:37.72.1:26:40.23.Default..0.0.0..{\an1\pos(150.432)}You will shut your mouth\Nand you will do\Nas you're told. Follow me!
+Dialogue: 0.1:26:40.22.1:26:42.19.Default..0.0.0..{\an1\pos(254.432)}(IN SPANISH)\NStop shouting at me.
+Dialogue: 0.1:26:42.19.1:26:44.64.Default..0.0.0..{\an1\pos(150.144)}(BOTH CHATTERING IN SPANISH)\N\h\h\h\h\h\h\h\h\hOFFICER: Step out of\N\h\h\h\h\h\h\h\h\hthe vehicle as told.
+Dialogue: 0.1:26:44.64.1:26:47.27.Default..0.0.0..{\an1\pos(150.432)}AMELIA: (IN SPANISH)\NEasy Santiago. please.
+Dialogue: 0.1:26:47.78.1:26:49.79.Default..0.0.0..{\an1\pos(150.432)}(MUTTERING IN SPANISH)
+Dialogue: 0.1:26:49.78.1:26:53.15.Default..0.0.0..{\an1\pos(215.432)}Upon passing this van.\Nyou'll turn to the right\Nand park your vehicle.
+Dialogue: 0.1:26:59.12.1:27:00.62.Default..0.0.0..{\an1\pos(150.432)}(MUTTERS IN SPANISH)
+Dialogue: 0.1:27:01.21.1:27:02.80.Default..0.0.0..{\an1\pos(228.432)}(TIRES SCREECHING)
+Dialogue: 0.1:27:04.08.1:27:06.39.Default..0.0.0..{\an1\pos(176.432)}(CUSTOMS OFFICERS SHOUTING)
+Dialogue: 0.1:27:09.88.1:27:12.17.Default..0.0.0..{\an1\pos(189.432)}I got a port runner.
+Dialogue: 0.1:27:12.17.1:27:14.30.Default..0.0.0..{\an1\pos(189.432)}(IN SPANISH)\NWhat are you doing?
+Dialogue: 0.1:27:14.30.1:27:17.80.Default..0.0.0..{\an1\pos(150.432)}I got a port runner!\NTecate border!\NOfficer Brigg. Tecate border!
+Dialogue: 0.1:27:18.67.1:27:20.17.Default..0.0.0..{\an1\pos(215.432)}(AMELIA EXCLAIMING)
+Dialogue: 0.1:27:22.14.1:27:24.81.Default..0.0.0..{\an1\pos(150.432)}AMELIA: What are you doing.\NSantiago? What are you doing!
+Dialogue: 0.1:27:24.81.1:27:28.32.Default..0.0.0..{\an1\pos(293.432)}See. I told you!\NYou shouldn't have\Nbrought them.
+Dialogue: 0.1:27:28.32.1:27:32.10.Default..0.0.0..{\an1\pos(150.432)}Santiago. stop acting\Nlike a madman\Nand stop the car.
+Dialogue: 0.1:27:32.10.1:27:33.15.Default..0.0.0..{\an1\pos(189.432)}(DEBBIE AND MIKE CRYING)
+Dialogue: 0.1:27:33.15.1:27:34.52.Default..0.0.0..{\an1\pos(189.432)}Please. Santiago. stop!
+Dialogue: 0.1:27:34.52.1:27:37.24.Default..0.0.0..{\an1\pos(280.432)}Shut those kids up!\NShut them up!
+Dialogue: 0.1:27:45.17.1:27:47.33.Default..0.0.0..{\an1\pos(150.432)}(TRUCK HORN HONKING)
+Dialogue: 0.1:27:47.34.1:27:49.10.Default..0.0.0..{\an1\pos(150.432)}(HORN BLARING)
+Dialogue: 0.1:27:57.38.1:27:59.38.Default..0.0.0..{\an1\pos(241.432)}(DEBBIE SOBBING)
+Dialogue: 0.1:27:59.38.1:28:01.38.Default..0.0.0..{\an1\pos(150.432)}(IN ENGLISH) Sweetie.\Neverything is okay.
+Dialogue: 0.1:28:04.02.1:28:05.02.Default..0.0.0..{\an1\pos(150.432)}Don't cry.
+Dialogue: 0.1:28:05.02.1:28:07.55.Default..0.0.0..{\an1\pos(150.432)}(IN SPANISH)\NPlease stop. Santiago.
+Dialogue: 0.1:28:09.89.1:28:10.89.Default..0.0.0..{\an1\pos(163.432)}(DISTANT SIRENS APPROACHING)
+Dialogue: 0.1:28:10.89.1:28:12.89.Default..0.0.0..{\an1\pos(176.432)}(MIKE AND DEBBIE SOBBING)
+Dialogue: 0.1:28:12.89.1:28:18.32.Default..0.0.0..{\an1\pos(176.432)}(IN SPANISH) Motherfuckers.\Nfucking gringo assholes.\Nhere they come.
+Dialogue: 0.1:28:18.32.1:28:21.62.Default..0.0.0..{\an1\pos(150.432)}(AMELIA IMPLORING\NIN SPANISH)
+Dialogue: 0.1:28:26.54.1:28:28.04.Default..0.0.0..{\an1\pos(241.432)}(SIRENS WAILING)
+Dialogue: 0.1:28:28.04.1:28:29.49.Default..0.0.0..{\an1\pos(228.432)}(TIRES SCREECHING)
+Dialogue: 0.1:28:37.34.1:28:38.76.Default..0.0.0..{\an1\pos(241.432)}(DEBBIE SOBBING)
+Dialogue: 0.1:28:49.15.1:28:53.43.Default..0.0.0..{\an1\pos(241.432)}(SIRENS WAILING)
+Dialogue: 0.1:29:02.66.1:29:03.66.Default..0.0.0..{\an1\pos(150.432)}SANTIAGO:\NGet out. Get out.
+Dialogue: 0.1:29:04.16.1:29:05.16.Default..0.0.0..{\an1\pos(332.432)}AMELIA: Are you\Ncrazy? Where?
+Dialogue: 0.1:29:05.16.1:29:08.16.Default..0.0.0..{\an1\pos(150.432)}Get out.\NIf they catch us.\Nwe're all screwed...
+Dialogue: 0.1:29:08.17.1:29:10.18.Default..0.0.0..{\an1\pos(150.432)}I'll lose them.\Nthen come back for you.
+Dialogue: 0.1:29:10.17.1:29:11.67.Default..0.0.0..{\an1\pos(150.432)}(AMELIA ARGUING)
+Dialogue: 0.1:29:11.67.1:29:13.59.Default..0.0.0..{\an1\pos(319.432)}Get out.\Nfor Christ sake!
+Dialogue: 0.1:29:13.59.1:29:15.42.Default..0.0.0..{\an1\pos(150.432)}Santiago.\Ncalm down.
+Dialogue: 0.1:29:15.42.1:29:18.29.Default..0.0.0..{\an1\pos(150.432)}Aunt Amelia. get out...\Nfor the love of God!
+Dialogue: 0.1:29:20.76.1:29:22.26.Default..0.0.0..{\an1\pos(241.432)}SANTIAGO: (IN ENGLISH)\NGet out. kids.
+Dialogue: 0.1:29:22.26.1:29:23.71.Default..0.0.0..{\an1\pos(241.432)}(DEBBIE SOBBING)
+Dialogue: 0.1:29:23.72.1:29:26.73.Default..0.0.0..{\an1\pos(137.432)}(AMELIA CHATTERING IN SPANISH)
+Dialogue: 0.1:29:26.72.1:29:28.64.Default..0.0.0..{\an1\pos(176.432)}(SPEAKING SPANISH)
+Dialogue: 0.1:29:28.64.1:29:30.64.Default..0.0.0..{\an1\pos(150.432)}Come on. come on. get out!
+Dialogue: 0.1:29:43.23.1:29:45.74.Default..0.0.0..{\an1\pos(150.432)}AMELIA: (IN SPANISH)\NSantiago is going to\Ncome back soon and...
+Dialogue: 0.1:29:46.24.1:29:48.74.Default..0.0.0..{\an1\pos(150.432)}the sun is going to rise.
+Dialogue: 0.1:29:55.80.1:29:57.91.Default..0.0.0..{\an1\pos(150.432)}DEBBIE: I want\Nto go home now.
+Dialogue: 0.1:29:59.67.1:30:01.00.Default..0.0.0..{\an1\pos(202.432)}AMELIA: Be careful. baby.
+Dialogue: 0.1:30:46.30.1:30:47.80.Default..0.0.0..{\an1\pos(267.432)}(GREETING IN ARABIC)
+Dialogue: 0.1:30:49.80.1:30:51.30.Default..0.0.0..{\an1\pos(241.432)}Thank you.
+Dialogue: 0.1:31:03.98.1:31:05.48.Default..0.0.0..{\an1\pos(150.432)}Is that\Nyour daughter?
+Dialogue: 0.1:31:06.48.1:31:08.99.Default..0.0.0..{\an1\pos(228.432)}Yes. The third of five.
+Dialogue: 0.1:31:12.32.1:31:13.82.Default..0.0.0..{\an1\pos(306.432)}Do you have kids?
+Dialogue: 0.1:31:13.83.1:31:15.34.Default..0.0.0..{\an1\pos(267.432)}Yeah.
+Dialogue: 0.1:31:38.10.1:31:39.27.Default..0.0.0..{\an1\pos(358.432)}Just two?
+Dialogue: 0.1:31:40.27.1:31:41.27.Default..0.0.0..{\an1\pos(293.432)}Yeah.
+Dialogue: 0.1:31:43.44.1:31:44.94.Default..0.0.0..{\an1\pos(254.432)}You should have more.
+Dialogue: 0.1:31:56.53.1:31:59.20.Default..0.0.0..{\an1\pos(150.432)}What about you?\NHow many wives you have?
+Dialogue: 0.1:32:00.20.1:32:02.01.Default..0.0.0..{\an1\pos(241.432)}I can only afford one.
+Dialogue: 0.1:32:15.72.1:32:17.30.Default..0.0.0..{\an1\pos(202.432)}Come on!\NFind another ambulance!\NDo something!
+Dialogue: 0.1:32:17.31.1:32:19.15.Default..0.0.0..{\an1\pos(150.432)}(IN ARABIC)\NWhy can't you call\Nanother ambulance?
+Dialogue: 0.1:32:19.52.1:32:21.47.Default..0.0.0..{\an1\pos(176.432)}They just told me\Nthe ambulance isn't coming.
+Dialogue: 0.1:32:21.98.1:32:24.31.Default..0.0.0..{\an1\pos(202.432)}And you know we don't\Nhave another ambulance.
+Dialogue: 0.1:32:26.31.1:32:28.15.Default..0.0.0..{\an1\pos(189.432)}There isn't\Nanother ambulance.
+Dialogue: 0.1:32:28.15.1:32:30.20.Default..0.0.0..{\an1\pos(163.432)}What do you mean.\Nthere's no other ambulance?\NWhat do you mean?
+Dialogue: 0.1:32:30.20.1:32:34.15.Default..0.0.0..{\an1\pos(150.432)}Fucking move!\NFucking find me an ambulance!\NFind me an ambulance!
+Dialogue: 0.1:32:34.16.1:32:36.17.Default..0.0.0..{\an1\pos(163.432)}(IN ARABIC) He wants to know\Nhow he will get his wife\Nout of here.
+Dialogue: 0.1:32:36.16.1:32:39.46.Default..0.0.0..{\an1\pos(228.432)}Tell him\Nthey said his embassy\Nwill deal with it.
+Dialogue: 0.1:32:39.91.1:32:40.91.Default..0.0.0..{\an1\pos(293.432)}Your embassy\Nwill deal with it.
+Dialogue: 0.1:32:40.91.1:32:42.41.Default..0.0.0..{\an1\pos(306.432)}What can\Nmy embassy do?
+Dialogue: 0.1:32:42.41.1:32:43.41.Default..0.0.0..{\an1\pos(202.432)}This is your fucked-up\Ncountry!
+Dialogue: 0.1:32:43.41.1:32:45.22.Default..0.0.0..{\an1\pos(189.432)}It's your responsibility!\NYou do something!
+Dialogue: 0.1:32:45.22.1:32:48.17.Default..0.0.0..{\an1\pos(150.432)}(IN ARABIC) The Americans\Nstopped the ambulance.
+Dialogue: 0.1:32:48.17.1:32:50.84.Default..0.0.0..{\an1\pos(150.432)}They want to\Nsend a helicopter.\Nbut there are problems.
+Dialogue: 0.1:32:50.84.1:32:53.14.Default..0.0.0..{\an1\pos(202.432)}He says it's your embassy\Nwho stopped the ambulance
+Dialogue: 0.1:32:53.14.1:32:55.01.Default..0.0.0..{\an1\pos(293.432)}and they will\Nsend a helicopter.
+Dialogue: 0.1:32:55.01.1:32:59.06.Default..0.0.0..{\an1\pos(176.432)}Now I'm supposed to wait\Nfor a helicopter?\NFucking do something!
+Dialogue: 0.1:32:59.06.1:33:00.93.Default..0.0.0..{\an1\pos(176.432)}Fuck you! Fuck you!
+Dialogue: 0.1:33:05.15.1:33:06.57.Default..0.0.0..{\an1\pos(280.408)}How's your wife?\N\h\h\hWe can't stay\N\h\h\hhere any longer.
+Dialogue: 0.1:33:06.57.1:33:08.44.Default..0.0.0..{\an1\pos(150.408)}Stay away from me.\N\hIt's gonna get dark soon.
+Dialogue: 0.1:33:08.44.1:33:11.32.Default..0.0.0..{\an1\pos(241.432)}People are not feeling\Nwell. It's dangerous.
+Dialogue: 0.1:33:11.33.1:33:13.12.Default..0.0.0..{\an1\pos(293.432)}Don't you push me!
+Dialogue: 0.1:33:13.11.1:33:15.03.Default..0.0.0..{\an1\pos(202.432)}Fuck that! We're leaving!
+Dialogue: 0.1:33:16.75.1:33:19.58.Default..0.0.0..{\an1\pos(306.432)}Shut up! Shut up!\NShut up! Shut up!
+Dialogue: 0.1:33:19.58.1:33:21.37.Default..0.0.0..{\an1\pos(241.432)}Take it easy!
+Dialogue: 0.1:33:21.37.1:33:23.54.Default..0.0.0..{\an1\pos(254.408)}\h\h\h\hShut up! Shut up!\NCalm down. Come here.
+Dialogue: 0.1:33:24.54.1:33:26.34.Default..0.0.0..{\an1\pos(150.408)}\h\h\h\h\h\h\h\h\h\h\h\hGet off me!\NCalm down!
+Dialogue: 0.1:33:26.84.1:33:28.34.Default..0.0.0..{\an1\pos(345.432)}If you leave.\NI'll kill you.
+Dialogue: 0.1:33:28.34.1:33:30.09.Default..0.0.0..{\an1\pos(345.432)}I'll kill you.
+Dialogue: 0.1:33:30.09.1:33:31.88.Default..0.0.0..{\an1\pos(254.432)}Come with us.\NCome with us.
+Dialogue: 0.1:33:32.38.1:33:33.63.Default..0.0.0..{\an1\pos(397.432)}Are you\Nall right?
+Dialogue: 0.1:33:35.43.1:33:37.43.Default..0.0.0..{\an1\pos(254.432)}RICHARD:\NNo. we need help now.
+Dialogue: 0.1:33:37.44.1:33:38.73.Default..0.0.0..{\an1\pos(293.432)}We need help now.\NDo you understand?
+Dialogue: 0.1:33:38.72.1:33:40.64.Default..0.0.0..{\an1\pos(176.432)}{\i1}MARK: I'm doing\Neverything I can do.
+Dialogue: 0.1:33:40.64.1:33:42.69.Default..0.0.0..{\an1\pos(176.432)}{\i1}I've got the State Department\Non the other line right now.
+Dialogue: 0.1:33:42.69.1:33:44.44.Default..0.0.0..{\an1\pos(176.432)}{\i1}They're doing\Neverything they can do.
+Dialogue: 0.1:33:44.44.1:33:46.44.Default..0.0.0..{\an1\pos(163.432)}{\i1}Due to some\Npolitical problems\Nthat are being resolved...
+Dialogue: 0.1:33:46.44.1:33:48.70.Default..0.0.0..{\an1\pos(202.432)}I don't give a shit about\Npolitical problems.\NI need help now.
+Dialogue: 0.1:33:48.70.1:33:50.70.Default..0.0.0..{\an1\pos(176.432)}{\i1}Everybody is doing\Neverything they can.
+Dialogue: 0.1:33:51.20.1:33:53.15.Default..0.0.0..{\an1\pos(176.432)}{\i1}Okay? I don't know\Nwhat else I can do.
+Dialogue: 0.1:33:53.15.1:33:55.15.Default..0.0.0..{\an1\pos(163.432)}{\i1}It's all over the news.
+Dialogue: 0.1:33:55.15.1:33:59.16.Default..0.0.0..{\an1\pos(163.432)}{\i1}Everybody is paying attention\Nand doing everything\Nthat they can.
+Dialogue: 0.1:33:59.16.1:34:00.29.Default..0.0.0..{\an1\pos(163.432)}{\i1}Richard...
+Dialogue: 0.1:34:13.09.1:34:17.67.Default..0.0.0..{\an1\pos(228.432)}Stop! Stop! Stop! Stop!
+Dialogue: 0.1:34:51.84.1:34:53.34.Default..0.0.0..{\an1\pos(228.432)}(DOORBELL RINGING)
+Dialogue: 0.1:35:06.89.1:35:08.27.Default..0.0.0..{\an1\pos(267.432)}(DOORBELL RINGING)
+Dialogue: 0.1:35:10.73.1:35:12.23.Default..0.0.0..{\an1\pos(358.432)}(IN JAPANESE)\NGood evening.
+Dialogue: 0.1:35:12.23.1:35:15.23.Default..0.0.0..{\an1\pos(202.432)}The doorman called to say\Nyou wanted to talk to me.
+Dialogue: 0.1:35:15.23.1:35:16.73.Default..0.0.0..{\an1\pos(202.432)}I don't understand.
+Dialogue: 0.1:35:16.73.1:35:19.15.Default..0.0.0..{\an1\pos(189.432)}Could you speak slowly?
+Dialogue: 0.1:35:21.16.1:35:22.17.Default..0.0.0..{\an1\pos(397.432)}I'm sorry.
+Dialogue: 0.1:35:23.49.1:35:27.16.Default..0.0.0..{\an1\pos(241.432)}(SLOWLY) What was it\Nyou wanted to tell me?
+Dialogue: 0.1:35:37.42.1:35:39.42.Default..0.0.0..{\an1\pos(150.432)}(SPEAKING INDISTINCTLY)
+Dialogue: 0.1:35:41.93.1:35:43.94.Default..0.0.0..{\an1\pos(319.432)}Do you have tea?
+Dialogue: 0.1:36:15.38.1:36:18.88.Default..0.0.0..{\an1\pos(189.432)}{\i1}"My father had nothing to do\Nwith my mother's death."
+Dialogue: 0.1:36:22.35.1:36:23.68.Default..0.0.0..{\an1\pos(371.432)}What's this?
+Dialogue: 0.1:36:43.57.1:36:49.33.Default..0.0.0..{\an1\pos(228.432)}When your mother\Njumped off the balcony.\Nyour father was asleep?
+Dialogue: 0.1:37:39.46.1:37:40.96.Default..0.0.0..{\an1\pos(306.432)}You saw her jump?
+Dialogue: 0.1:37:50.27.1:37:52.61.Default..0.0.0..{\an1\pos(280.432)}You've already told\Nthe other officers?
+Dialogue: 0.1:38:06.82.1:38:08.65.Default..0.0.0..{\an1\pos(345.432)}What are you\Ntalking about?
+Dialogue: 0.1:38:53.83.1:38:57.67.Default..0.0.0..{\an1\pos(319.432)}Does your father\Nstill hunt?
+Dialogue: 0.1:39:14.11.1:39:19.04.Default..0.0.0..{\an1\pos(241.432)}There was an incident\Ninvolving a rifle\Nin your father's name.
+Dialogue: 0.1:39:19.03.1:39:22.53.Default..0.0.0..{\an1\pos(293.432)}That's why we want\Nto talk to him.\NUnderstand?
+Dialogue: 0.1:40:03.52.1:40:08.52.Default..0.0.0..{\an1\pos(150.432)}Your father\Nisn't going to jail.
+Dialogue: 0.1:40:08.53.1:40:10.04.Default..0.0.0..{\an1\pos(150.432)}We just need\Nto talk to him.
+Dialogue: 0.1:40:18.92.1:40:20.42.Default..0.0.0..{\an1\pos(202.432)}I have to go.
+Dialogue: 0.1:40:23.76.1:40:25.42.Default..0.0.0..{\an1\pos(150.432)}I really have to go.
+Dialogue: 0.1:41:33.36.1:41:35.16.Default..0.0.0..{\an1\pos(280.432)}What are you doing?
+Dialogue: 0.1:41:46.76.1:41:48.26.Default..0.0.0..{\an1\pos(150.432)}What are you doing?
+Dialogue: 0.1:41:57.18.1:41:58.47.Default..0.0.0..{\an1\pos(332.432)}Please stop.
+Dialogue: 0.1:42:00.22.1:42:03.97.Default..0.0.0..{\an1\pos(280.432)}No. this is wrong.\NYou're just a girl.
+Dialogue: 0.1:42:10.65.1:42:13.57.Default..0.0.0..{\an1\pos(319.432)}Enough. stop it!
+Dialogue: 0.1:42:32.89.1:42:35.89.Default..0.0.0..{\an1\pos(280.432)}(SOBBING)
+Dialogue: 0.1:42:52.32.1:42:56.53.Default..0.0.0..{\an1\pos(150.432)}(SOBBING WRETCHEDLY)
+Dialogue: 0.1:42:57.75.1:42:59.29.Default..0.0.0..{\an1\pos(254.432)}(GUNS FIRING)
+Dialogue: 0.1:43:00.66.1:43:02.16.Default..0.0.0..{\an1\pos(215.432)}(IN ARABIC)\NGive me that rifle.
+Dialogue: 0.1:43:02.17.1:43:03.88.Default..0.0.0..{\an1\pos(150.432)}They're going to kill us.
+Dialogue: 0.1:43:07.79.1:43:09.54.Default..0.0.0..{\an1\pos(150.432)}They're going to kill us.
+Dialogue: 0.1:43:14.01.1:43:16.43.Default..0.0.0..{\an1\pos(176.432)}(BOTH CHATTERING IN ARABIC)
+Dialogue: 0.1:43:22.52.1:43:23.30.Default..0.0.0..{\an1\pos(332.432)}Ahmed!
+Dialogue: 0.1:43:25.22.1:43:26.27.Default..0.0.0..{\an1\pos(267.432)}Ahmed!
+Dialogue: 0.1:43:26.77.1:43:28.02.Default..0.0.0..{\an1\pos(358.432)}Ahmed!
+Dialogue: 0.1:43:28.03.1:43:28.90.Default..0.0.0..{\an1\pos(345.432)}Ahmed!
+Dialogue: 0.1:43:30.14.1:43:31.14.Default..0.0.0..{\an1\pos(267.432)}Ahmed!
+Dialogue: 0.1:43:35.57.1:43:36.46.Default..0.0.0..{\an1\pos(150.432)}Ahmed!
+Dialogue: 0.1:43:38.04.1:43:39.04.Default..0.0.0..{\an1\pos(267.432)}Ahmed.
+Dialogue: 0.1:43:43.32.1:43:45.32.Default..0.0.0..{\an1\pos(150.432)}(EXCLAIMS IN ARABIC)
+Dialogue: 0.1:43:46.33.1:43:47.83.Default..0.0.0..{\an1\pos(189.432)}(SOBBING)
+Dialogue: 0.1:44:00.51.1:44:02.01.Default..0.0.0..{\an1\pos(358.432)}(PANTING)
+Dialogue: 0.1:44:15.77.1:44:21.44.Default..0.0.0..{\an1\pos(150.432)}YUSSEF: (IN ARABIC)\NI killed the American. I was\Nthe only one who shot at you.
+Dialogue: 0.1:44:21.95.1:44:23.54.Default..0.0.0..{\an1\pos(163.432)}(OFFICER SHOUTING IN ARABIC)
+Dialogue: 0.1:44:26.83.1:44:30.34.Default..0.0.0..{\an1\pos(150.432)}YUSSEF: They did\Nnothing... nothing.
+Dialogue: 0.1:44:34.51.1:44:40.60.Default..0.0.0..{\an1\pos(150.432)}Kill me.\Nbut save my brother.\Nhe did nothing... nothing.
+Dialogue: 0.1:44:46.55.1:44:48.55.Default..0.0.0..{\an1\pos(267.432)}(PLEADING IN ARABIC)
+Dialogue: 0.1:44:50.06.1:44:54.06.Default..0.0.0..{\an1\pos(293.432)}Save my brother...\Nhe did nothing.
+Dialogue: 0.1:45:47.25.1:45:48.70.Default..0.0.0..{\an1\pos(215.432)}(IN ENGLISH)\NHelp!
+Dialogue: 0.1:45:48.70.1:45:50.20.Default..0.0.0..{\an1\pos(254.432)}(SHOUTING IN SPANISH)
+Dialogue: 0.1:45:50.70.1:45:52.28.Default..0.0.0..{\an1\pos(280.432)}(IN ENGLISH)\NHelp!
+Dialogue: 0.1:45:53.17.1:45:55.87.Default..0.0.0..{\an1\pos(358.432)}Help!
+Dialogue: 0.1:46:02.76.1:46:03.60.Default..0.0.0..{\an1\pos(241.432)}Help!
+Dialogue: 0.1:46:08.27.1:46:10.22.Default..0.0.0..{\an1\pos(254.432)}(WHIMPERING)
+Dialogue: 0.1:46:25.45.1:46:27.95.Default..0.0.0..{\an1\pos(306.432)}What's happening?
+Dialogue: 0.1:46:28.46.1:46:31.97.Default..0.0.0..{\an1\pos(293.432)}Why are we hiding\Nif we didn't even\Ndo anything wrong?
+Dialogue: 0.1:46:31.96.1:46:37.33.Default..0.0.0..{\an1\pos(150.432)}Because they think\Nwe did something wrong. baby.
+Dialogue: 0.1:46:37.33.1:46:40.83.Default..0.0.0..{\an1\pos(319.432)}That's not true.\NYou're bad.
+Dialogue: 0.1:46:42.72.1:46:46.47.Default..0.0.0..{\an1\pos(163.432)}No. sweetie. No. I'm not.
+Dialogue: 0.1:46:47.47.1:46:50.48.Default..0.0.0..{\an1\pos(150.432)}I just did\Nsomething stupid.
+Dialogue: 0.1:46:50.98.1:46:54.26.Default..0.0.0..{\an1\pos(150.432)}(WHISPERING IN SPANISH)
+Dialogue: 0.1:46:54.26.1:46:55.76.Default..0.0.0..{\an1\pos(150.432)}(KISSING COMFORTINGLY)
+Dialogue: 0.1:48:30.41.1:48:34.11.Default..0.0.0..{\an1\pos(150.432)}Sweetie. I have\Nto go look for help.
+Dialogue: 0.1:48:34.11.1:48:36.62.Default..0.0.0..{\an1\pos(150.432)}Stay here and\Ndon't move. please.
+Dialogue: 0.1:48:37.12.1:48:40.12.Default..0.0.0..{\an1\pos(280.432)}I'm not\Nstaying here alone.
+Dialogue: 0.1:48:40.12.1:48:43.62.Default..0.0.0..{\an1\pos(150.432)}Honey. you have\Nto take care\Nof Debbie. baby.
+Dialogue: 0.1:48:45.13.1:48:46.64.Default..0.0.0..{\an1\pos(280.432)}I'm going with you.
+Dialogue: 0.1:48:48.13.1:48:51.63.Default..0.0.0..{\an1\pos(150.432)}I won't be long.\NI promise. Stay here.
+Dialogue: 0.1:48:52.60.1:48:54.43.Default..0.0.0..{\an1\pos(150.432)}Don't move. Okay?
+Dialogue: 0.1:48:54.80.1:48:56.80.Default..0.0.0..{\an1\pos(150.432)}I won't be long. baby.
+Dialogue: 0.1:49:01.69.1:49:04.36.Default..0.0.0..{\an1\pos(254.432)}(MIKE SOBBING)
+Dialogue: 0.1:49:28.42.1:49:30.75.Default..0.0.0..{\an1\pos(280.432)}(PANTING)
+Dialogue: 0.1:49:45.74.1:49:46.75.Default..0.0.0..{\an1\pos(384.432)}(SIGHS)
+Dialogue: 0.1:49:56.75.1:49:58.11.Default..0.0.0..{\an1\pos(267.432)}(IN ENGLISH)\NDrink.
+Dialogue: 0.1:50:17.02.1:50:19.52.Default..0.0.0..{\an1\pos(254.432)}(GASPING IN SURPRISE)
+Dialogue: 0.1:50:20.44.1:50:22.19.Default..0.0.0..{\an1\pos(150.432)}(SHOUTING IN TRIUMPH)
+Dialogue: 0.1:50:22.19.1:50:27.61.Default..0.0.0..{\an1\pos(267.432)}(BEGGING FOR HELP\NIN SPANISH)
+Dialogue: 0.1:50:51.97.1:50:56.56.Default..0.0.0..{\an1\pos(150.432)}I have to go and get two kids\NI left behind in the desert.\NPlease?
+Dialogue: 0.1:50:56.56.1:50:58.56.Default..0.0.0..{\an1\pos(384.432)}(QUESTIONS\NIN SPANISH)
+Dialogue: 0.1:50:59.06.1:51:00.48.Default..0.0.0..{\an1\pos(150.432)}(IN ENGLISH)\NThey're Americans.
+Dialogue: 0.1:51:00.48.1:51:03.68.Default..0.0.0..{\an1\pos(150.408)}\h\h\h\h\h\h\h\h\h\hWhen did you cross?\NI didn't cross. I live here.
+Dialogue: 0.1:51:03.68.1:51:07.43.Default..0.0.0..{\an1\pos(150.432)}Please. please.\Nhelp me find those kids.
+Dialogue: 0.1:51:07.43.1:51:09.15.Default..0.0.0..{\an1\pos(384.432)}Stand here.\NDon't move.
+Dialogue: 0.1:51:14.91.1:51:17.28.Default..0.0.0..{\an1\pos(189.432)}Attention. Dispatch.\NI think I got the suspect.
+Dialogue: 0.1:51:21.62.1:51:23.34.Default..0.0.0..{\an1\pos(150.432)}{\i1}(CHATTERING OVER POLICE RADIO)
+Dialogue: 0.1:51:27.09.1:51:29.54.Default..0.0.0..{\an1\pos(176.432)}Ma'am. you're under arrest.\NYou want to turn around
+Dialogue: 0.1:51:29.54.1:51:32.37.Default..0.0.0..{\an1\pos(150.432)}and put your hands\Nbehind your head. please.
+Dialogue: 0.1:51:32.71.1:51:35.43.Default..0.0.0..{\an1\pos(150.432)}I live with those\Nkids. I swear!
+Dialogue: 0.1:51:35.43.1:51:38.76.Default..0.0.0..{\an1\pos(267.408)}\h\h\h\h\h\h\h\hTurn around.\NPlease. sir.\Nthose kids will die!
+Dialogue: 0.1:51:39.27.1:51:40.28.Default..0.0.0..{\an1\pos(150.432)}Thank you.
+Dialogue: 0.1:51:40.77.1:51:42.27.Default..0.0.0..{\an1\pos(384.432)}(IMPLORING\NIN SPANISH)
+Dialogue: 0.1:51:54.03.1:51:55.31.Default..0.0.0..{\an1\pos(150.432)}Then we'll get\Nyou some water.
+Dialogue: 0.1:51:55.32.1:51:58.38.Default..0.0.0..{\an1\pos(345.432)}(IN SPANISH)\NThey're alone.
+Dialogue: 0.1:52:00.32.1:52:03.99.Default..0.0.0..{\an1\pos(293.432)}(IN SPANISH)\NThey are children.\Nthey will die.
+Dialogue: 0.1:52:03.99.1:52:07.13.Default..0.0.0..{\an1\pos(150.432)}OFFICER: (IN ENGLISH)\NYou're gonna take me\Nto them. okay?
+Dialogue: 0.1:52:20.84.1:52:21.84.Default..0.0.0..{\an1\pos(267.432)}(INAUDIBLE)
+Dialogue: 0.1:52:28.85.1:52:30.40.Default..0.0.0..{\an1\pos(319.432)}(CALLING TO KIDS\NIN SPANISH)
+Dialogue: 0.1:52:38.16.1:52:39.74.Default..0.0.0..{\an1\pos(150.432)}Ma'am. are you\Nwith them?
+Dialogue: 0.1:53:13.53.1:53:15.03.Default..0.0.0..{\an1\pos(345.432)}{\i1}SUSAN: Richard?
+Dialogue: 0.1:53:20.40.1:53:21.40.Default..0.0.0..{\an1\pos(163.432)}What?
+Dialogue: 0.1:53:23.40.1:53:27.41.Default..0.0.0..{\an1\pos(228.432)}If I die. you take care\Nof the kids.
+Dialogue: 0.1:53:29.91.1:53:31.91.Default..0.0.0..{\an1\pos(267.432)}Especially Mike.\NHe really needs you.
+Dialogue: 0.1:53:31.91.1:53:35.41.Default..0.0.0..{\an1\pos(150.432)}You're not gonna die.\NYou can't die.\NYou just can't.
+Dialogue: 0.1:53:36.42.1:53:38.42.Default..0.0.0..{\an1\pos(306.432)}Don't you ever\Nleave them again.
+Dialogue: 0.1:53:41.00.1:53:43.00.Default..0.0.0..{\an1\pos(150.432)}I will never leave them.
+Dialogue: 0.1:53:53.68.1:53:54.68.Default..0.0.0..{\an1\pos(293.432)}I peed my pants.
+Dialogue: 0.1:53:55.69.1:53:56.70.Default..0.0.0..{\an1\pos(150.432)}What?
+Dialogue: 0.1:53:58.19.1:54:02.19.Default..0.0.0..{\an1\pos(254.432)}I couldn't hold it in\Nand I peed.
+Dialogue: 0.1:54:11.92.1:54:13.92.Default..0.0.0..{\an1\pos(241.432)}I've got to pee again.
+Dialogue: 0.1:54:20.09.1:54:22.09.Default..0.0.0..{\an1\pos(228.432)}Do you have\Na pan we could use?
+Dialogue: 0.1:54:23.10.1:54:24.10.Default..0.0.0..{\an1\pos(358.432)}A pan?
+Dialogue: 0.1:54:30.69.1:54:33.05.Default..0.0.0..{\an1\pos(150.432)}Could you give us\Na few moments alone?
+Dialogue: 0.1:54:33.06.1:54:34.57.Default..0.0.0..{\an1\pos(150.432)}Yeah. of course.
+Dialogue: 0.1:54:47.74.1:54:49.57.Default..0.0.0..{\an1\pos(215.432)}There.
+Dialogue: 0.1:54:49.57.1:54:50.54.Default..0.0.0..{\an1\pos(228.432)}Now sit.
+Dialogue: 0.1:54:53.04.1:54:54.04.Default..0.0.0..{\an1\pos(423.432)}I can't.
+Dialogue: 0.1:54:59.55.1:55:02.05.Default..0.0.0..{\an1\pos(306.432)}Yep. Yeah. I can.
+Dialogue: 0.1:55:12.01.1:55:16.52.Default..0.0.0..{\an1\pos(358.432)}(URINATING)
+Dialogue: 0.1:55:32.53.1:55:33.53.Default..0.0.0..{\an1\pos(358.432)}(CHUCKLES)
+Dialogue: 0.1:55:43.26.1:55:46.26.Default..0.0.0..{\an1\pos(371.432)}(SOBBING)
+Dialogue: 0.1:56:02.11.1:56:04.15.Default..0.0.0..{\an1\pos(176.432)}Forgive me. my love.
+Dialogue: 0.1:56:06.65.1:56:08.65.Default..0.0.0..{\an1\pos(150.432)}When Sammy died.
+Dialogue: 0.1:56:10.65.1:56:12.15.Default..0.0.0..{\an1\pos(150.432)}I didn't...
+Dialogue: 0.1:56:18.24.1:56:19.24.Default..0.0.0..{\an1\pos(241.432)}I ran.
+Dialogue: 0.1:56:27.75.1:56:29.25.Default..0.0.0..{\an1\pos(176.432)}I was scared.
+Dialogue: 0.1:56:29.26.1:56:30.77.Default..0.0.0..{\an1\pos(293.432)}I was scared. too.
+Dialogue: 0.1:56:32.76.1:56:34.09.Default..0.0.0..{\an1\pos(280.432)}It wasn't my fault.
+Dialogue: 0.1:56:34.09.1:56:36.60.Default..0.0.0..{\an1\pos(150.408)}It wasn't your fault.\N\h\h\h\h\h\h\h\h\h\hIt wasn't my fault.
+Dialogue: 0.1:56:36.60.1:56:37.43.Default..0.0.0..{\an1\pos(150.432)}It wasn't your fault.
+Dialogue: 0.1:56:37.43.1:56:39.43.Default..0.0.0..{\an1\pos(267.432)}He wasn't breathing.
+Dialogue: 0.1:56:39.93.1:56:41.43.Default..0.0.0..{\an1\pos(332.432)}I couldn't...
+Dialogue: 0.1:56:44.82.1:56:46.32.Default..0.0.0..{\an1\pos(150.432)}I love you so much.
+Dialogue: 0.1:56:56.50.1:56:58.50.Default..0.0.0..{\an1\pos(150.432)}I'm forgetting his face.
+Dialogue: 0.1:57:00.50.1:57:02.45.Default..0.0.0..{\an1\pos(176.432)}{\i1}CLIFFORD ON PHONE:\NHello? Richard Jones?
+Dialogue: 0.1:57:02.46.1:57:04.47.Default..0.0.0..{\an1\pos(176.432)}{\i1}I'm very sorry about\Nwhat happened to your wife.
+Dialogue: 0.1:57:04.46.1:57:06.46.Default..0.0.0..{\an1\pos(163.432)}{\i1}but you can be sure\Nthat the culprits\Nwill be punished.
+Dialogue: 0.1:57:06.71.1:57:08.38.Default..0.0.0..{\an1\pos(228.432)}{\i1}RICHARD: What the fuck is\Ntaking so long?
+Dialogue: 0.1:57:08.38.1:57:10.38.Default..0.0.0..{\an1\pos(163.432)}{\i1}Well. the Moroccan government\Nwouldn't let us\Nuse their airspace.
+Dialogue: 0.1:57:10.38.1:57:12.88.Default..0.0.0..{\an1\pos(163.432)}{\i1}They refused to acknowledge\Nthat this was\Nan act of terrorism.
+Dialogue: 0.1:57:12.88.1:57:14.38.Default..0.0.0..{\an1\pos(215.432)}{\i1}What about the ambulance?
+Dialogue: 0.1:57:14.88.1:57:16.47.Default..0.0.0..{\an1\pos(163.432)}{\i1}Taking your safety\Ninto consideration. Mr. Jones.
+Dialogue: 0.1:57:16.47.1:57:19.85.Default..0.0.0..{\an1\pos(163.432)}{\i1}we didn't believe\Nit would be appropriate\Nto send a Moroccan ambulance.
+Dialogue: 0.1:57:19.86.1:57:20.98.Default..0.0.0..{\an1\pos(176.432)}{\i1}Stay put.\NWe settled the matter.
+Dialogue: 0.1:57:21.47.1:57:22.86.Default..0.0.0..{\an1\pos(176.432)}{\i1}A helicopter\Nshould arrive soon.
+Dialogue: 0.1:57:22.86.1:57:24.14.Default..0.0.0..{\an1\pos(163.408)}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\i1}How long?\NSoon.
+Dialogue: 0.1:57:24.14.1:57:25.56.Default..0.0.0..{\an1\pos(371.432)}{\i1}No! How long?
+Dialogue: 0.1:57:32.24.1:57:35.25.Default..0.0.0..{\an1\pos(150.432)}KENJI: (IN JAPANESE)\NThere's no need to apologize.
+Dialogue: 0.1:59:06.05.1:59:08.06.Default..0.0.0..{\an1\pos(150.432)}(BIDDING FAREWELL\NIN JAPANESE)
+Dialogue: 0.1:59:36.53.1:59:38.04.Default..0.0.0..{\an1\pos(150.432)}(SHUFFLING PAPERS)
+Dialogue: 0.1:59:39.53.1:59:41.41.Default..0.0.0..{\an1\pos(150.432)}It's a miracle\Nwe found those kids. ma'am.
+Dialogue: 0.1:59:41.41.1:59:45.42.Default..0.0.0..{\an1\pos(150.432)}I don't know how you\Ncould have left them alone\Nlike that out in the desert.
+Dialogue: 0.1:59:46.92.1:59:48.92.Default..0.0.0..{\an1\pos(215.432)}How are they. sir?
+Dialogue: 0.1:59:48.92.1:59:51.92.Default..0.0.0..{\an1\pos(306.432)}That's none\Nof your business.
+Dialogue: 0.1:59:51.93.1:59:55.94.Default..0.0.0..{\an1\pos(163.432)}You know how many\Nkids die every year\Ntrying to cross this border?
+Dialogue: 0.1:59:59.43.2:00:02.93.Default..0.0.0..{\an1\pos(150.432)}I raised these kids\Nsince they were born.
+Dialogue: 0.2:00:02.94.2:00:06.45.Default..0.0.0..{\an1\pos(150.432)}I take care of them\Nday and night.
+Dialogue: 0.2:00:06.44.2:00:10.44.Default..0.0.0..{\an1\pos(150.432)}I feed them breakfast\Nand lunch and dinner.
+Dialogue: 0.2:00:10.44.2:00:13.45.Default..0.0.0..{\an1\pos(176.432)}I play with them.
+Dialogue: 0.2:00:13.45.2:00:16.45.Default..0.0.0..{\an1\pos(150.432)}Mike and Debbie\Nare like my own children.
+Dialogue: 0.2:00:16.45.2:00:18.87.Default..0.0.0..{\an1\pos(254.432)}But they are not\Nyour children. ma'am.
+Dialogue: 0.2:00:20.37.2:00:23.37.Default..0.0.0..{\an1\pos(189.432)}Plus. you've been working\Nin this country illegally.
+Dialogue: 0.2:00:31.30.2:00:33.80.Default..0.0.0..{\an1\pos(150.432)}What about\Nmy nephew. Santiago?
+Dialogue: 0.2:00:34.30.2:00:37.30.Default..0.0.0..{\an1\pos(280.432)}I don't have any\Ninformation on him.
+Dialogue: 0.2:00:37.30.2:00:39.30.Default..0.0.0..{\an1\pos(254.432)}We located the father\Nin Morocco.
+Dialogue: 0.2:00:39.31.2:00:42.32.Default..0.0.0..{\an1\pos(293.432)}He was very angry.\Nbut decided not\Nto press charges.
+Dialogue: 0.2:00:43.31.2:00:44.81.Default..0.0.0..{\an1\pos(228.432)}Thank you.
+Dialogue: 0.2:00:44.81.2:00:46.81.Default..0.0.0..{\an1\pos(176.432)}Nevertheless the government\Nof the United States
+Dialogue: 0.2:00:46.81.2:00:49.31.Default..0.0.0..{\an1\pos(176.432)}has deemed that you are\Nseriously breaking the law.
+Dialogue: 0.2:00:49.32.2:00:52.66.Default..0.0.0..{\an1\pos(163.432)}and is\Ndetermined to immediately\Nand definitively deport you.
+Dialogue: 0.2:00:55.02.2:00:59.02.Default..0.0.0..{\an1\pos(150.432)}Sir. I...\NI've been here for 16 years.
+Dialogue: 0.2:01:00.53.2:01:05.03.Default..0.0.0..{\an1\pos(150.432)}I--I have my things here.\NI rent a house.
+Dialogue: 0.2:01:05.03.2:01:07.53.Default..0.0.0..{\an1\pos(150.432)}I made a life here. sir.
+Dialogue: 0.2:01:07.53.2:01:10.03.Default..0.0.0..{\an1\pos(228.432)}You should have thought\Nabout that beforehand.
+Dialogue: 0.2:01:16.34.2:01:19.21.Default..0.0.0..{\an1\pos(176.432)}I want to talk\Nto a lawyer.
+Dialogue: 0.2:01:19.71.2:01:23.72.Default..0.0.0..{\an1\pos(241.432)}If you attempt\Nto take this to trial.\NI can assure you.
+Dialogue: 0.2:01:23.72.2:01:25.72.Default..0.0.0..{\an1\pos(332.432)}you'll only\Nbe prolonging\Nthe inevitable.
+Dialogue: 0.2:01:27.72.2:01:30.22.Default..0.0.0..{\an1\pos(241.432)}I recommend you accept\Nvoluntary deportation.
+Dialogue: 0.2:01:33.23.2:01:34.74.Default..0.0.0..{\an1\pos(267.432)}(SOBS)
+Dialogue: 0.2:05:30.05.2:05:32.06.Default..0.0.0..{\an1\pos(189.432)}{\i1}FEMALE REPORTER:\NThe sources of the attack\Nare not yet known.
+Dialogue: 0.2:05:32.05.2:05:37.27.Default..0.0.0..{\an1\pos(176.432)}{\i1}But it is clear that Moroccan\Nand US government officials
+Dialogue: 0.2:05:37.60.2:05:41.94.Default..0.0.0..{\an1\pos(228.432)}{\i1}are working quickly\Nto secure the area\Nfor all citizens.
+Dialogue: 0.2:05:41.94.2:05:47.06.Default..0.0.0..{\an1\pos(189.432)}{\i1}Locals reported Susan Jones.\Nan American mother of two...
+Dialogue: 0.2:05:47.06.2:05:49.86.Default..0.0.0..{\an1\pos(293.432)}Mr. Jones.\NI'm Ken Clifford.\Nthe US ambassador.
+Dialogue: 0.2:06:08.13.2:06:09.58.Default..0.0.0..{\an1\pos(241.432)}CLIFFORD: We will\Nfind these people.
+Dialogue: 0.2:06:09.59.2:06:11.35.Default..0.0.0..{\an1\pos(228.432)}Whoever they are.\Nwe will find them.
+Dialogue: 0.2:06:11.34.2:06:14.14.Default..0.0.0..{\an1\pos(150.432)}Thank you very much.\NThat's all I have to say now.
+Dialogue: 0.2:06:38.25.2:06:39.61.Default..0.0.0..{\an1\pos(345.432)}Mr. Jones?
+Dialogue: 0.2:06:41.53.2:06:44.04.Default..0.0.0..{\an1\pos(267.432)}I'm going to have to\Noperate immediately.
+Dialogue: 0.2:06:44.04.2:06:45.54.Default..0.0.0..{\an1\pos(202.432)}Is she gonna be\Nall right?
+Dialogue: 0.2:06:46.04.2:06:47.54.Default..0.0.0..{\an1\pos(345.432)}It's probable.
+Dialogue: 0.2:06:47.54.2:06:49.54.Default..0.0.0..{\an1\pos(319.432)}We're gonna try\Nto save her arm.
+Dialogue: 0.2:06:49.54.2:06:51.04.Default..0.0.0..{\an1\pos(280.432)}She's been\Nbleeding internally
+Dialogue: 0.2:06:51.54.2:06:52.54.Default..0.0.0..{\an1\pos(280.432)}and there's\Nbeen some clotting.
+Dialogue: 0.2:06:53.05.2:06:55.06.Default..0.0.0..{\an1\pos(306.432)}so there's a high\Nrisk of gangrene.
+Dialogue: 0.2:06:56.55.2:06:58.55.Default..0.0.0..{\an1\pos(215.432)}But is she\Ngonna be all right?
+Dialogue: 0.2:07:01.39.2:07:02.85.Default..0.0.0..{\an1\pos(332.432)}Excuse me. sir.
+Dialogue: 0.2:07:13.37.2:07:14.88.Default..0.0.0..{\an1\pos(228.432)}{\i1}(RINGING)
+Dialogue: 0.2:07:18.87.2:07:21.37.Default..0.0.0..{\an1\pos(163.408)}{\i1}AMELIA: Yes?\N\h\h\h\h\h\h\h\h{\r}Amelia?
+Dialogue: 0.2:07:21.87.2:07:23.37.Default..0.0.0..{\an1\pos(163.432)}{\i1}Yes. sir.
+Dialogue: 0.2:07:23.88.2:07:25.38.Default..0.0.0..{\an1\pos(254.432)}Hi. how's everything?
+Dialogue: 0.2:07:25.88.2:07:27.38.Default..0.0.0..{\an1\pos(163.432)}{\i1}Everything is okay. sir.
+Dialogue: 0.2:07:27.88.2:07:29.38.Default..0.0.0..{\an1\pos(163.432)}{\i1}Mrs. Rachel told me.
+Dialogue: 0.2:07:29.38.2:07:31.38.Default..0.0.0..{\an1\pos(163.432)}{\i1}I am very sorry. sir.
+Dialogue: 0.2:07:31.88.2:07:33.38.Default..0.0.0..{\an1\pos(163.432)}{\i1}How's Mrs. Susan?
+Dialogue: 0.2:07:33.39.2:07:34.90.Default..0.0.0..{\an1\pos(306.432)}She's better now.
+Dialogue: 0.2:07:34.89.2:07:37.39.Default..0.0.0..{\an1\pos(228.432)}They're going to\Nhave to operate. but...
+Dialogue: 0.2:07:37.39.2:07:40.39.Default..0.0.0..{\an1\pos(293.432)}Look. Rachel's\Nflying in tonight.
+Dialogue: 0.2:07:40.39.2:07:43.90.Default..0.0.0..{\an1\pos(215.432)}She's gonna find someone\Nto take care of the kids\Nso you can go.
+Dialogue: 0.2:07:45.40.2:07:46.90.Default..0.0.0..{\an1\pos(163.432)}{\i1}Thank you. sir. Thank you.
+Dialogue: 0.2:07:46.90.2:07:48.40.Default..0.0.0..{\an1\pos(163.432)}{\i1}I really appreciate it.
+Dialogue: 0.2:07:50.90.2:07:53.91.Default..0.0.0..{\an1\pos(189.432)}So. look after them. okay?\NDon't tell them anything.
+Dialogue: 0.2:07:53.91.2:07:56.41.Default..0.0.0..{\an1\pos(176.432)}{\i1}No. no. no. Don't worry. sir.\NDon't worry.
+Dialogue: 0.2:07:56.41.2:07:57.91.Default..0.0.0..{\an1\pos(345.432)}Okay.
+Dialogue: 0.2:07:57.91.2:08:00.91.Default..0.0.0..{\an1\pos(267.432)}Put Mike on. please.
+Dialogue: 0.2:08:00.91.2:08:03.41.Default..0.0.0..{\an1\pos(163.432)}{\i1}Mike? Your dad is calling.
+Dialogue: 0.2:08:08.42.2:08:10.92.Default..0.0.0..{\an1\pos(163.408)}{\i1}Hi. Daddy.\N\h\h\h{\r}Hi. sweetie. How are you?
+Dialogue: 0.2:08:10.92.2:08:14.84.Default..0.0.0..{\an1\pos(163.432)}{\i1}Good. Dad. guess what?\NToday they brought\Nhermit crabs to class.
+Dialogue: 0.2:08:15.34.2:08:16.84.Default..0.0.0..{\an1\pos(345.432)}Oh. really?
+Dialogue: 0.2:08:17.35.2:08:19.35.Default..0.0.0..{\an1\pos(176.432)}{\i1}I held one in my hands.\NIt bit me.
+Dialogue: 0.2:08:19.35.2:08:21.85.Default..0.0.0..{\an1\pos(176.432)}{\i1}It really\Ndidn't bleed. but...
+Dialogue: 0.2:08:21.85.2:08:22.85.Default..0.0.0..{\an1\pos(280.432)}(SNIFFING)
+Dialogue: 0.2:08:22.85.2:08:24.85.Default..0.0.0..{\an1\pos(163.432)}{\i1}Dad? Are you okay?
+Dialogue: 0.2:08:26.36.2:08:28.87.Default..0.0.0..{\an1\pos(280.432)}I'm okay.\NEverything's fine.
+Dialogue: 0.2:08:28.86.2:08:30.36.Default..0.0.0..{\an1\pos(176.432)}{\i1}Mariana wanted\Nto take one home.
+Dialogue: 0.2:08:30.36.2:08:31.86.Default..0.0.0..{\an1\pos(176.432)}{\i1}But the teacher\Ndidn't let her. She was...
+Dialogue: 0.2:08:32.36.2:08:34.86.Default..0.0.0..{\an1\pos(163.432)}{\i1}I felt sad for her 'cause\Nshe went to\Nthe principal's office.
+Dialogue: 0.2:08:34.86.2:08:36.36.Default..0.0.0..{\an1\pos(163.432)}{\i1}You know what she did?
+Dialogue: 0.2:08:36.37.2:08:37.88.Default..0.0.0..{\an1\pos(163.432)}{\i1}She started crying.
+Dialogue: 0.2:08:37.87.2:08:41.37.Default..0.0.0..{\an1\pos(163.432)}{\i1}She was really crying.\NAnd the teacher\Nhad to send her
+Dialogue: 0.2:08:41.37.2:08:45.62.Default..0.0.0..{\an1\pos(176.432)}{\i1}to the principal's office\N'cause she was really crying.
+Dialogue: 0.2:08:54.55.2:08:55.97.Default..0.0.0..{\an1\pos(202.432)}(ELEVATOR BELL DINGS)
+Dialogue: 0.2:09:07.85.2:09:13.10.Default..0.0.0..{\an1\pos(202.432)}(IN JAPANESE)\NMr. Wataya. this officer\Nhas been looking for you.
+Dialogue: 0.2:09:16.69.2:09:22.19.Default..0.0.0..{\an1\pos(241.432)}Good evening.\NI'm Lieutenant Mamiya.
+Dialogue: 0.2:09:22.19.2:09:24.75.Default..0.0.0..{\an1\pos(150.432)}(IN JAPANESE)\NGood evening.\Nhow can I help you?
+Dialogue: 0.2:09:27.28.2:09:29.78.Default..0.0.0..{\an1\pos(293.432)}Sir. there was\Nan incident and...
+Dialogue: 0.2:09:30.87.2:09:32.87.Default..0.0.0..{\an1\pos(293.432)}I'm sorry to\Nbother you. but...
+Dialogue: 0.2:09:33.37.2:09:36.87.Default..0.0.0..{\an1\pos(202.432)}do you own a .270 caliber\NWinchester M70 rifle?
+Dialogue: 0.2:09:38.38.2:09:40.26.Default..0.0.0..{\an1\pos(241.432)}Registration number...
+Dialogue: 0.2:09:42.30.2:09:45.47.Default..0.0.0..{\an1\pos(410.432)}UK-9023.
+Dialogue: 0.2:09:45.97.2:09:49.97.Default..0.0.0..{\an1\pos(150.432)}I don't remember the number.\Nbut I did have\Na rifle like that.
+Dialogue: 0.2:09:49.97.2:09:52.97.Default..0.0.0..{\an1\pos(189.432)}Is it true\Nthat you gave that rifle\Nto a Mr. Hassan Ibrahim...
+Dialogue: 0.2:09:52.98.2:09:54.99.Default..0.0.0..{\an1\pos(254.432)}who lives in Morocco?
+Dialogue: 0.2:09:54.98.2:09:56.28.Default..0.0.0..{\an1\pos(189.432)}Hassan Ibrahim?
+Dialogue: 0.2:09:57.78.2:10:00.78.Default..0.0.0..{\an1\pos(254.432)}He says he was\Nyour guide in a hunt.
+Dialogue: 0.2:10:00.78.2:10:02.90.Default..0.0.0..{\an1\pos(150.432)}Hassan? Yes.\NI remember him well.
+Dialogue: 0.2:10:02.90.2:10:08.71.Default..0.0.0..{\an1\pos(150.432)}He was a good guide and\Na very good man. I gave him\Nthe rifle in thanks.
+Dialogue: 0.2:10:10.99.2:10:13.49.Default..0.0.0..{\an1\pos(150.432)}Did anything happen?
+Dialogue: 0.2:10:13.50.2:10:16.81.Default..0.0.0..{\an1\pos(202.432)}That rifle was used\Nin an attempted murder...
+Dialogue: 0.2:10:16.80.2:10:20.80.Default..0.0.0..{\an1\pos(163.432)}and the Moroccan police want\Nto confirm it's not\Noff the black market.
+Dialogue: 0.2:10:20.80.2:10:23.80.Default..0.0.0..{\an1\pos(150.432)}No. I gave it to him.
+Dialogue: 0.2:10:25.42.2:10:27.93.Default..0.0.0..{\an1\pos(228.432)}Is Hassan ok?
+Dialogue: 0.2:10:29.40.2:10:31.41.Default..0.0.0..{\an1\pos(215.432)}I don't know about that.
+Dialogue: 0.2:10:35.85.2:10:38.35.Default..0.0.0..{\an1\pos(150.432)}Am I legally involved?
+Dialogue: 0.2:10:38.35.2:10:43.32.Default..0.0.0..{\an1\pos(215.432)}Not for the moment.\Nbut can you come down\Nto the station tomorrow?
+Dialogue: 0.2:10:43.33.2:10:45.34.Default..0.0.0..{\an1\pos(319.432)}I have\Na few questions.
+Dialogue: 0.2:10:47.33.2:10:48.61.Default..0.0.0..{\an1\pos(163.432)}Can I leave now?
+Dialogue: 0.2:10:49.62.2:10:51.13.Default..0.0.0..{\an1\pos(358.432)}Good night.
+Dialogue: 0.2:10:55.20.2:10:56.70.Default..0.0.0..{\an1\pos(397.432)}Excuse me.
+Dialogue: 0.2:10:58.37.2:11:00.34.Default..0.0.0..{\an1\pos(254.432)}I heard\Nfrom your daughter...
+Dialogue: 0.2:11:01.34.2:11:03.34.Default..0.0.0..{\an1\pos(332.432)}about your wife\Non the balcony.
+Dialogue: 0.2:11:04.55.2:11:06.05.Default..0.0.0..{\an1\pos(332.432)}I'm very sorry.
+Dialogue: 0.2:11:06.68.2:11:08.30.Default..0.0.0..{\an1\pos(228.432)}What balcony?
+Dialogue: 0.2:11:09.80.2:11:13.97.Default..0.0.0..{\an1\pos(176.432)}About how\Nyour wife killed herself\Nby jumping off the balcony.
+Dialogue: 0.2:11:21.98.2:11:26.78.Default..0.0.0..{\an1\pos(150.432)}My wife never\Njumped off a balcony.\NShe shot herself in the head.
+Dialogue: 0.2:11:26.79.2:11:28.80.Default..0.0.0..{\an1\pos(150.432)}My daughter was\Nthe first to find her.
+Dialogue: 0.2:11:30.79.2:11:33.57.Default..0.0.0..{\an1\pos(150.432)}I've explained it\Nto the police many times.
+Dialogue: 0.2:11:35.58.2:11:39.08.Default..0.0.0..{\an1\pos(176.432)}Don't bother us\Nwith that anymore.
+Dialogue: 0.2:11:39.08.2:11:42.00.Default..0.0.0..{\an1\pos(163.432)}I'm very sorry sir. we won't\Nbother you anymore.
+Dialogue: 0.2:11:42.00.2:11:43.00.Default..0.0.0..{\an1\pos(371.432)}Good night.
+Dialogue: 0.2:12:35.72.2:12:37.52.Default..0.0.0..{\an1\pos(319.432)}Another shochu.
+Dialogue: 0.2:13:08.09.2:13:09.55.Default..0.0.0..{\an1\pos(150.432)}(SPEAKING JAPANESE)
+Dialogue: 0.2:13:10.06.2:13:11.57.Default..0.0.0..{\an1\pos(280.432)}(SPEAKING JAPANESE)
+Dialogue: 0.2:13:15.56.2:13:18.76.Default..0.0.0..{\an1\pos(150.432)}{\i1}(IN JAPANESE) Susan Jones.\Nwho was wounded in a terrorist\Nattack in Morocco...
+Dialogue: 0.2:13:18.76.2:13:23.07.Default..0.0.0..{\an1\pos(176.432)}{\i1}was discharged from\Na Casablanca hospital\Nthis morning. local time.
+Dialogue: 0.2:13:23.07.2:13:26.82.Default..0.0.0..{\an1\pos(163.432)}{\i1}The American people\Nfinally have a happy ending.\Nafter five days...
+Dialogue: 0.2:13:26.82.2:13:30.16.Default..0.0.0..{\an1\pos(176.432)}{\i1}of frantic phone calls\Nand hand wringing.
+Dialogue: 0.2:13:31.08.2:13:33.03.Default..0.0.0..{\an1\pos(215.432)}{\i1}In other news...
+Dialogue: 0.2:13:33.03.2:13:36.61.Default..0.0.0..{\an1\pos(254.120)}{\i1}(REPORTER CHATTERING\NIN JAPANESE)
