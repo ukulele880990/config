@@ -1,0 +1,833 @@
+WEBVTT
+
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 706
+PlayResY: 480
+Timer: 100.0
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name. Fontname. Fontsize. PrimaryColour. SecondaryColour. OutlineColour. BackColour. Bold. Italic. Underline. StrikeOut. ScaleX. ScaleY. Spacing. Angle. BorderStyle. Outline. Shadow. Alignment. MarginL. MarginR. MarginV. Encoding
+Style: Default.Lucida Console.30.&H00FFFFFF.&H00FFFFFF.&H000F0F0F.&H000F0F0F.0.0.0.0.100.100.0.0.00.1.2.3.2.20.20.20.0
+
+[Events]
+Format: Layer. Start. End. Style. Actor. MarginL. MarginR. MarginV. Effect. Text
+Dialogue: 0.0:00:04.18.0:00:08.18.Default..0.0.0..{\an1\pos(210.432)}\h{\i1}Captain's Log.\NStardate 43489.2.
+Dialogue: 0.0:00:08.19.0:00:09.69.Default..0.0.0..{\an1\pos(84.432)}{\i1}We have arrived at Angosia III
+Dialogue: 0.0:00:10.19.0:00:12.46.Default..0.0.0..{\an1\pos(120.432)}{\i1}a planet that has expressed\N\h\h\h\h\h\ha strong desire
+Dialogue: 0.0:00:12.46.0:00:14.46.Default..0.0.0..{\an1\pos(192.432)}\h\h{\i1}for membership\Nin the Federation.
+Dialogue: 0.0:00:14.46.0:00:17.27.Default..0.0.0..{\an1\pos(102.432)}\h\h{\i1}Prime Minister Nayrok has\Ntaken Commander Riker and me
+Dialogue: 0.0:00:17.26.0:00:19.26.Default..0.0.0..{\an1\pos(84.432)}{\i1}on a tour of the capital city.
+Dialogue: 0.0:00:21.67.0:00:23.17.Default..0.0.0..{\an1\pos(102.432)}Well. I'm greatly impressed
+Dialogue: 0.0:00:23.17.0:00:25.67.Default..0.0.0..{\an1\pos(120.432)}with everything I've seen\N\hso far. Prime Minister.
+Dialogue: 0.0:00:25.67.0:00:27.68.Default..0.0.0..{\an1\pos(66.432)}Then. I hope it will\Nreflect favorably
+Dialogue: 0.0:00:27.67.0:00:29.17.Default..0.0.0..{\an1\pos(66.432)}in your report. Captain.
+Dialogue: 0.0:00:29.17.0:00:31.17.Default..0.0.0..{\an1\pos(84.432)}It's a tribute to your people\N\h\h\h\h\h\hthat you were able
+Dialogue: 0.0:00:31.18.0:00:33.18.Default..0.0.0..{\an1\pos(156.432)}to recover so rapidly\Nfrom the Tarsian War.
+Dialogue: 0.0:00:33.18.0:00:35.18.Default..0.0.0..{\an1\pos(66.432)}It is. indeed.\NWe are not warriors.
+Dialogue: 0.0:00:35.18.0:00:37.19.Default..0.0.0..{\an1\pos(66.432)}We believe reason\Nshould settle disputes
+Dialogue: 0.0:00:37.18.0:00:39.48.Default..0.0.0..{\an1\pos(66.432)}but not every culture\Nagrees with our position.
+Dialogue: 0.0:00:39.49.0:00:42.22.Default..0.0.0..{\an1\pos(138.432)}An unfortunate reality.
+Dialogue: 0.0:00:42.22.0:00:44.13.Default..0.0.0..{\an1\pos(102.432)}The development of the mind
+Dialogue: 0.0:00:44.12.0:00:45.62.Default..0.0.0..{\an1\pos(192.432)}\hthe cultivation\Nof the intellect--
+Dialogue: 0.0:00:45.62.0:00:48.12.Default..0.0.0..{\an1\pos(156.432)}these are the pursuits\Nto which the Angosians
+Dialogue: 0.0:00:48.13.0:00:50.13.Default..0.0.0..{\an1\pos(120.432)}have dedicated themselves\N\h\h\h\h\h\hfor centuries.
+Dialogue: 0.0:00:50.13.0:00:51.85.Default..0.0.0..{\an1\pos(354.408)}Prime Minister?
+Dialogue: 0.0:00:51.85.0:00:55.25.Default..0.0.0..{\an1\pos(210.432)}I'm sorry to interrupt.\Nbut we have a problem.
+Dialogue: 0.0:00:55.25.0:00:57.26.Default..0.0.0..{\an1\pos(354.432)}May I see you\Nfor a moment?
+Dialogue: 0.0:00:57.25.0:00:59.25.Default..0.0.0..{\an1\pos(66.432)}Excuse me.\Ngentlemen.
+Dialogue: 0.0:01:02.63.0:01:03.88.Default..0.0.0..{\an1\pos(138.432)}Yes. what is it?
+Dialogue: 0.0:01:03.88.0:01:06.65.Default..0.0.0..{\an1\pos(210.432)}Well. I think they'll\Nmake a fine addition
+Dialogue: 0.0:01:06.65.0:01:08.65.Default..0.0.0..{\an1\pos(282.432)}to the Federation.\NNumber One.
+Dialogue: 0.0:01:08.65.0:01:11.15.Default..0.0.0..{\an1\pos(66.432)}I'm not sure I'd like\Nto live in this place.
+Dialogue: 0.0:01:11.65.0:01:13.15.Default..0.0.0..{\an1\pos(66.432)}A little stuffy\Nfor my taste.
+Dialogue: 0.0:01:16.54.0:01:18.04.Default..0.0.0..{\an1\pos(66.432)}A prisoner has escaped
+Dialogue: 0.0:01:18.04.0:01:20.55.Default..0.0.0..{\an1\pos(66.432)}from the penal colony\Non Lunar V.
+Dialogue: 0.0:01:21.04.0:01:22.54.Default..0.0.0..{\an1\pos(66.432)}Two guards are dead.
+Dialogue: 0.0:01:22.54.0:01:26.04.Default..0.0.0..{\an1\pos(66.432)}The prisoner has taken\Na transport vessel.
+Dialogue: 0.0:01:26.05.0:01:27.77.Default..0.0.0..{\an1\pos(192.432)}Do you have means\N\h\h\hof pursuit?
+Dialogue: 0.0:01:27.77.0:01:29.59.Default..0.0.0..{\an1\pos(174.432)}The tracking station\N\h\h\hwas sabotaged.
+Dialogue: 0.0:01:30.09.0:01:31.59.Default..0.0.0..{\an1\pos(102.432)}The entire base is in chaos.
+Dialogue: 0.0:01:31.59.0:01:34.09.Default..0.0.0..{\an1\pos(84.432)}\h\h\h\h\hWe've ordered ships\Nfrom the surface to follow him
+Dialogue: 0.0:01:34.09.0:01:35.81.Default..0.0.0..{\an1\pos(210.432)}but to be honest
+Dialogue: 0.0:01:35.81.0:01:38.40.Default..0.0.0..{\an1\pos(66.432)}our civilian pilots\Nare not trained for this.
+Dialogue: 0.0:01:38.39.0:01:40.49.Default..0.0.0..{\an1\pos(156.432)}With your permission?
+Dialogue: 0.0:01:42.18.0:01:45.14.Default..0.0.0..{\an1\pos(120.432)}\h\h\h\h\h\h\h\hMr. Data.\Na stolen transport vessel
+Dialogue: 0.0:01:45.13.0:01:46.88.Default..0.0.0..{\an1\pos(120.432)}has departed from Lunar V.
+Dialogue: 0.0:01:46.89.0:01:49.24.Default..0.0.0..{\an1\pos(156.408)}Have you picked it up\N\h\h\hon the sensors?
+Dialogue: 0.0:01:49.24.0:01:51.04.Default..0.0.0..{\an1\pos(66.432)}Yes. Commander.
+Dialogue: 0.0:01:51.04.0:01:52.93.Default..0.0.0..{\an1\pos(120.432)}\hGood. Detain the vessel\Nand quarantine the pilot.
+Dialogue: 0.0:01:52.93.0:01:53.93.Default..0.0.0..{\an1\pos(246.432)}Is he armed?
+Dialogue: 0.0:01:53.93.0:01:56.31.Default..0.0.0..{\an1\pos(84.432)}Yes. and extremely dangerous.\N\h\h\h\h\h\h\h\h\h\hCommander.
+Dialogue: 0.0:01:56.31.0:01:59.12.Default..0.0.0..{\an1\pos(66.432)}\h\h\h\h\h\h\h\h\h\h\h\hLunar V\Nis a maximum security facility.
+Dialogue: 0.0:01:59.11.0:02:00.43.Default..0.0.0..{\an1\pos(138.432)}Did you read that. Data?
+Dialogue: 0.0:02:00.93.0:02:01.71.Default..0.0.0..{\an1\pos(264.408)}Yes. sir.
+Dialogue: 0.0:02:01.72.0:02:03.99.Default..0.0.0..{\an1\pos(66.432)}We will use extreme caution.
+Dialogue: 0.0:02:03.99.0:02:05.49.Default..0.0.0..{\an1\pos(192.408)}Keep us informed.
+Dialogue: 0.0:02:05.49.0:02:06.49.Default..0.0.0..{\an1\pos(264.408)}Riker out.
+Dialogue: 0.0:02:06.49.0:02:08.33.Default..0.0.0..{\an1\pos(354.432)}On screen. sir.
+Dialogue: 0.0:02:08.32.0:02:11.97.Default..0.0.0..{\an1\pos(138.432)}\h\h\h\h\h\h\h\h\hDATA:\N\h\h\h\h\hSpecifications\Non the vessel. Mr. Worf.
+Dialogue: 0.0:02:11.98.0:02:13.52.Default..0.0.0..{\an1\pos(66.432)}No warp drive.
+Dialogue: 0.0:02:13.51.0:02:15.09.Default..0.0.0..{\an1\pos(192.432)}Minimal weaponry.
+Dialogue: 0.0:02:15.10.0:02:16.82.Default..0.0.0..{\an1\pos(156.432)}Heading. Mr. Crusher.
+Dialogue: 0.0:02:16.82.0:02:20.14.Default..0.0.0..{\an1\pos(192.432)}319 mark 250. sir.
+Dialogue: 0.0:02:20.14.0:02:23.37.Default..0.0.0..{\an1\pos(138.432)}Vessel speed increasing\N\h\h\h\hto .02 impulse.
+Dialogue: 0.0:02:23.37.0:02:25.26.Default..0.0.0..{\an1\pos(66.432)}He's seen us. Data.
+Dialogue: 0.0:02:37.20.0:02:39.93.Default..0.0.0..{\an1\pos(192.432)}That's the ship's\N\h\hdrive section.
+Dialogue: 0.0:02:39.94.0:02:41.63.Default..0.0.0..{\an1\pos(120.432)}What happened to the rest\N\h\h\h\h\h\h\hof his ship?
+Dialogue: 0.0:02:41.62.0:02:45.07.Default..0.0.0..{\an1\pos(66.432)}Scan the drive section\Nfor life-form readings.
+Dialogue: 0.0:02:45.58.0:02:46.58.Default..0.0.0..{\an1\pos(426.432)}None.
+Dialogue: 0.0:02:46.58.0:02:48.08.Default..0.0.0..{\an1\pos(66.432)}Bring us around
+Dialogue: 0.0:02:48.08.0:02:50.08.Default..0.0.0..{\an1\pos(66.432)}to the back side\Nof the asteroid. Mr. Crusher.
+Dialogue: 0.0:02:56.56.0:03:00.31.Default..0.0.0..{\an1\pos(84.432)}\h\hSensors indicate wreckage\Non the asteroid surface. Data.
+Dialogue: 0.0:03:00.31.0:03:01.73.Default..0.0.0..{\an1\pos(228.432)}No life signs.
+Dialogue: 0.0:03:01.73.0:03:05.40.Default..0.0.0..{\an1\pos(66.432)}Apparently. he did not survive.
+Dialogue: 0.0:03:05.40.0:03:07.60.Default..0.0.0..{\an1\pos(120.432)}Data. the drive section...
+Dialogue: 0.0:03:07.60.0:03:09.24.Default..0.0.0..{\an1\pos(66.432)}where'd it go?
+Dialogue: 0.0:03:09.23.0:03:12.43.Default..0.0.0..{\an1\pos(138.432)}\hThere's no sign of it\Non its previous heading.
+Dialogue: 0.0:03:12.44.0:03:14.98.Default..0.0.0..{\an1\pos(102.432)}Someone must be at the helm.
+Dialogue: 0.0:03:14.97.0:03:17.35.Default..0.0.0..{\an1\pos(138.408)}\h\h\h\h\h\h\h\h\hRIKER:\NStatus report. Mr. Data.
+Dialogue: 0.0:03:17.36.0:03:20.62.Default..0.0.0..{\an1\pos(138.432)}I am afraid the prisoner\N\h\hhas eluded us. sir.
+Dialogue: 0.0:03:22.35.0:03:25.35.Default..0.0.0..{\an1\pos(66.432)}Eluded the {\i1}Enterprise?
+Dialogue: 0.0:03:53.48.0:03:57.99.Default..0.0.0..{\an1\pos(120.432)}{\i1}Space. the final frontier.
+Dialogue: 0.0:03:57.98.0:04:01.98.Default..0.0.0..{\an1\pos(120.432)}\h\h\h{\i1}These are the voyages\Nof the Starship{\r} Enterprise.
+Dialogue: 0.0:04:01.99.0:04:03.99.Default..0.0.0..{\an1\pos(138.432)}{\i1}Its continuing mission--
+Dialogue: 0.0:04:03.99.0:04:08.00.Default..0.0.0..{\an1\pos(192.432)}\h\h\h\h{\i1}to explore\Nstrange new worlds
+Dialogue: 0.0:04:07.99.0:04:12.49.Default..0.0.0..{\an1\pos(174.432)}{\i1}to seek out new life\Nand new civilizations
+Dialogue: 0.0:04:12.50.0:04:16.94.Default..0.0.0..{\an1\pos(102.432)}\h\h\h\h\h\h\h\h{\i1}to boldly go\Nwhere no one has gone before.
+Dialogue: 0.0:04:16.94.0:04:20.98.Default..0.0.0..{\an1\pos(138.432)}[Captioning sponsored by\N\h\hPARAMOUNT PICTURES]
+Dialogue: 0.0:05:20.10.0:05:21.37.Default..0.0.0..{\an1\pos(156.120)}We followed procedures\N\hprecisely. Captain.
+Dialogue: 0.0:05:21.87.0:05:24.37.Default..0.0.0..{\an1\pos(210.120)}Scanners indicated\Nno life-forms present
+Dialogue: 0.0:05:24.37.0:05:25.87.Default..0.0.0..{\an1\pos(210.96)}in the drive section.
+Dialogue: 0.0:05:25.87.0:05:27.88.Default..0.0.0..{\an1\pos(354.120)}I cannot explain\Nhow he escaped.
+Dialogue: 0.0:05:27.87.0:05:30.37.Default..0.0.0..{\an1\pos(66.120)}Incoming message from\Nthe Angosian Prime Minister.
+Dialogue: 0.0:05:30.38.0:05:31.71.Default..0.0.0..{\an1\pos(264.96)}On screen.
+Dialogue: 0.0:05:31.71.0:05:34.45.Default..0.0.0..{\an1\pos(120.144)}Captain. we've identified\N\h\h\h\h\h\hthe prisoner.
+Dialogue: 0.0:05:34.95.0:05:37.45.Default..0.0.0..{\an1\pos(138.120)}His name is Roga Danar.
+Dialogue: 0.0:05:37.45.0:05:40.02.Default..0.0.0..{\an1\pos(156.144)}\hHis criminal record\Nis too long to go into
+Dialogue: 0.0:05:40.42.0:05:41.89.Default..0.0.0..{\an1\pos(156.120)}but I must caution you
+Dialogue: 0.0:05:41.89.0:05:44.73.Default..0.0.0..{\an1\pos(102.144)}\hthat he is given to bouts\Nof uncontrollable violence.
+Dialogue: 0.0:05:44.72.0:05:47.50.Default..0.0.0..{\an1\pos(120.120)}I appreciate your warning.\N\h\h\h\h\hPrime Minister.
+Dialogue: 0.0:05:47.51.0:05:51.03.Default..0.0.0..{\an1\pos(66.120)}We will keep you informed\Nof our progress.
+Dialogue: 0.0:05:51.03.0:05:53.67.Default..0.0.0..{\an1\pos(66.120)}Geordi. how far and how fast\Ncan that transport ship travel?
+Dialogue: 0.0:05:53.67.0:05:55.12.Default..0.0.0..{\an1\pos(66.120)}Without warp drive.\Nthere's no way
+Dialogue: 0.0:05:55.12.0:05:56.70.Default..0.0.0..{\an1\pos(66.120)}he could be out\Nof our range by now.
+Dialogue: 0.0:05:56.70.0:05:58.49.Default..0.0.0..{\an1\pos(66.144)}\h\h\h\h\h\h\h\h\h\h\h\hWESLEY:\N\h\h\h\h\h\hWe've been sweeping\Nthe area constantly. Commander.
+Dialogue: 0.0:05:58.49.0:06:00.66.Default..0.0.0..{\an1\pos(174.120)}\h\hThere's nothing\Nwithin sensor range.
+Dialogue: 0.0:06:00.66.0:06:02.98.Default..0.0.0..{\an1\pos(210.96)}Cloaking device?
+Dialogue: 0.0:06:02.98.0:06:05.71.Default..0.0.0..{\an1\pos(66.120)}Sir. the Angosians have\Nno cloaking technology.
+Dialogue: 0.0:06:06.18.0:06:07.95.Default..0.0.0..{\an1\pos(66.168)}Unless he's\Nborrowing one.
+Dialogue: 0.0:06:07.95.0:06:09.43.Default..0.0.0..{\an1\pos(318.96)}Hmm?
+Dialogue: 0.0:06:09.43.0:06:10.89.Default..0.0.0..{\an1\pos(156.120)}\h\h\hIf he's hanging\Nover the planet's pole
+Dialogue: 0.0:06:10.88.0:06:12.66.Default..0.0.0..{\an1\pos(120.120)}\h\h\h\hthe magnetic field\Nwould confuse our sensors.
+Dialogue: 0.0:06:14.34.0:06:17.19.Default..0.0.0..{\an1\pos(120.120)}Commander. I believe I can\N\hrecalibrate our sensors
+Dialogue: 0.0:06:17.19.0:06:19.69.Default..0.0.0..{\an1\pos(66.120)}\h\h\h\h\h\h\h\hto read through\Nthe electromagnetic interference
+Dialogue: 0.0:06:19.69.0:06:20.70.Default..0.0.0..{\an1\pos(210.96)}over the poles.
+Dialogue: 0.0:06:20.69.0:06:22.55.Default..0.0.0..{\an1\pos(66.432)}RIKER:\NLet's try it.\NMr. Crusher.
+Dialogue: 0.0:06:22.56.0:06:24.55.Default..0.0.0..{\an1\pos(138.432)}Realign for polar orbit.
+Dialogue: 0.0:06:25.05.0:06:26.33.Default..0.0.0..{\an1\pos(264.432)}Aye. sir.
+Dialogue: 0.0:06:30.07.0:06:32.54.Default..0.0.0..{\an1\pos(66.432)}DATA:\NThere he is. Commander.\NYou were correct.
+Dialogue: 0.0:06:32.54.0:06:35.24.Default..0.0.0..{\an1\pos(84.432)}This guy knows all the tricks.\N\h\h\h\h\h\h\h\h\hdoesn't he?
+Dialogue: 0.0:06:35.24.0:06:37.31.Default..0.0.0..{\an1\pos(102.432)}Still no life-form readings\N\h\hcoming from the vessel.
+Dialogue: 0.0:06:37.31.0:06:39.41.Default..0.0.0..{\an1\pos(66.432)}\h\h\h\h\h\h\h\h\h\hCould it be\Nthe magnetic interference. Data?
+Dialogue: 0.0:06:39.41.0:06:40.72.Default..0.0.0..{\an1\pos(174.432)}I have compensated.
+Dialogue: 0.0:06:40.71.0:06:41.96.Default..0.0.0..{\an1\pos(192.432)}Still no reading.
+Dialogue: 0.0:06:41.96.0:06:43.22.Default..0.0.0..{\an1\pos(84.432)}We'll have an answer shortly.
+Dialogue: 0.0:06:43.23.0:06:44.52.Default..0.0.0..{\an1\pos(138.432)}Lock on a tractor beam.\N\h\h\h\h\hMr. La Forge.
+Dialogue: 0.0:06:44.52.0:06:47.39.Default..0.0.0..{\an1\pos(84.96)}Tractor beam locking on. sir.
+Dialogue: 0.0:06:53.39.0:06:55.76.Default..0.0.0..{\an1\pos(210.96)}He is coming about. sir.
+Dialogue: 0.0:06:55.76.0:06:57.53.Default..0.0.0..{\an1\pos(156.96)}He's out of his mind.
+Dialogue: 0.0:06:57.53.0:06:58.82.Default..0.0.0..{\an1\pos(138.432)}\h\h\h\h\hSensors detect\Na massive power buildup
+Dialogue: 0.0:06:59.31.0:07:00.14.Default..0.0.0..{\an1\pos(156.432)}in his aft thrusters.
+Dialogue: 0.0:07:00.15.0:07:02.37.Default..0.0.0..{\an1\pos(66.432)}On main viewer.
+Dialogue: 0.0:07:06.57.0:07:08.71.Default..0.0.0..{\an1\pos(120.432)}He's making a suicide run.
+Dialogue: 0.0:07:08.71.0:07:11.15.Default..0.0.0..{\an1\pos(210.432)}Shields have been\Nautomatically activated.
+Dialogue: 0.0:07:11.14.0:07:12.47.Default..0.0.0..{\an1\pos(210.432)}Tractor beam disengaged.
+Dialogue: 0.0:07:17.45.0:07:19.27.Default..0.0.0..{\an1\pos(102.432)}He bounced off the shields.
+Dialogue: 0.0:07:19.27.0:07:22.16.Default..0.0.0..{\an1\pos(102.432)}That's an interesting twist.
+Dialogue: 0.0:07:22.65.0:07:24.65.Default..0.0.0..{\an1\pos(66.432)}Mr. Crusher. fix coordinates\Nonto that vessel.
+Dialogue: 0.0:07:24.66.0:07:26.88.Default..0.0.0..{\an1\pos(354.432)}We'll just beam\Nthe whole thing
+Dialogue: 0.0:07:26.88.0:07:28.16.Default..0.0.0..{\an1\pos(66.432)}into a shuttle bay\Nif we have to.
+Dialogue: 0.0:07:28.16.0:07:30.67.Default..0.0.0..{\an1\pos(282.432)}I do not believe\Nthat will be\Nnecessary. Captain.
+Dialogue: 0.0:07:30.66.0:07:32.41.Default..0.0.0..{\an1\pos(282.432)}He is no longer in\Nthe drive section.
+Dialogue: 0.0:07:32.41.0:07:34.53.Default..0.0.0..{\an1\pos(300.432)}What?
+Dialogue: 0.0:07:34.53.0:07:35.83.Default..0.0.0..{\an1\pos(354.432)}I anticipated
+Dialogue: 0.0:07:35.83.0:07:38.18.Default..0.0.0..{\an1\pos(84.432)}\h\h\hthat diversionary tactic\Nbased on his pattern to date.
+Dialogue: 0.0:07:38.69.0:07:40.19.Default..0.0.0..{\an1\pos(174.432)}\hWe are picking up\Na cylindrical object
+Dialogue: 0.0:07:40.19.0:07:41.94.Default..0.0.0..{\an1\pos(120.432)}approximately seven meters\N\h\h\h\h\h\h\h\hin length
+Dialogue: 0.0:07:41.94.0:07:44.51.Default..0.0.0..{\an1\pos(354.432)}and three meters\Nin diameter.
+Dialogue: 0.0:07:44.51.0:07:46.66.Default..0.0.0..{\an1\pos(66.432)}WORF:\NOn screen.
+Dialogue: 0.0:07:47.75.0:07:48.85.Default..0.0.0..{\an1\pos(66.432)}PICARD:\NMagnify.
+Dialogue: 0.0:07:51.08.0:07:52.78.Default..0.0.0..{\an1\pos(228.432)}An escape pod.
+Dialogue: 0.0:07:52.78.0:07:54.91.Default..0.0.0..{\an1\pos(156.432)}This guy's incredible.
+Dialogue: 0.0:07:54.92.0:07:57.71.Default..0.0.0..{\an1\pos(210.432)}Yet there are still\Nno life-form readings.
+Dialogue: 0.0:07:57.71.0:07:59.46.Default..0.0.0..{\an1\pos(66.432)}Transporter Room 4
+Dialogue: 0.0:07:59.46.0:08:01.83.Default..0.0.0..{\an1\pos(138.432)}\hprepare to beam aboard\Nfrom inside that shuttle
+Dialogue: 0.0:08:02.33.0:08:04.33.Default..0.0.0..{\an1\pos(138.432)}\hanything large enough\Nto be a humanoid adult.
+Dialogue: 0.0:08:04.33.0:08:06.08.Default..0.0.0..{\an1\pos(264.408)}O'BRIEN:\NAye. sir.
+Dialogue: 0.0:08:06.08.0:08:08.84.Default..0.0.0..{\an1\pos(156.432)}Security team. report\Nto Transporter Room 4.
+Dialogue: 0.0:08:09.33.0:08:10.83.Default..0.0.0..{\an1\pos(210.408)}\h\h\h\hCREWMAN:\NOn our way. sir.
+Dialogue: 0.0:08:10.84.0:08:12.79.Default..0.0.0..{\an1\pos(120.432)}We're holding the contents\N\h\h\h\h\h\h\h\hin stasis
+Dialogue: 0.0:08:12.79.0:08:14.29.Default..0.0.0..{\an1\pos(66.432)}pending the arrival of security.
+Dialogue: 0.0:08:14.29.0:08:15.79.Default..0.0.0..{\an1\pos(246.432)}( {\i1}beeping{\r} )
+Dialogue: 0.0:08:16.27.0:08:17.13.Default..0.0.0..{\an1\pos(192.432)}An illicit weapon\Nhas been detected
+Dialogue: 0.0:08:17.14.0:08:18.35.Default..0.0.0..{\an1\pos(84.432)}in the transporter beam. sir.
+Dialogue: 0.0:08:18.34.0:08:20.34.Default..0.0.0..{\an1\pos(84.408)}It's been rendered inoperable.
+Dialogue: 0.0:08:20.85.0:08:23.85.Default..0.0.0..{\an1\pos(102.432)}Worf. let's greet our guest.
+Dialogue: 0.0:08:27.24.0:08:29.72.Default..0.0.0..{\an1\pos(120.432)}\h\h\h\hSECURITY CREWMAN:\NBring him in. Mr. O'Brien.
+Dialogue: 0.0:08:35.29.0:08:36.90.Default..0.0.0..{\an1\pos(138.432)}Just stay where you are.
+Dialogue: 0.0:08:40.47.0:08:44.26.Default..0.0.0..{\an1\pos(66.432)}O'BRIEN:\NMore security.\NTransporter Room 4.
+Dialogue: 0.0:08:44.25.0:08:45.76.Default..0.0.0..{\an1\pos(354.432)}More security!
+Dialogue: 0.0:08:45.77.0:08:47.14.Default..0.0.0..{\an1\pos(228.432)}More security!
+Dialogue: 0.0:08:55.23.0:08:56.20.Default..0.0.0..{\an1\pos(66.432)}( {\i1}grunts{\r} )
+Dialogue: 0.0:09:06.49.0:09:09.63.Default..0.0.0..{\an1\pos(354.432)}( {\i1}screams{\r} )
+Dialogue: 0.0:09:11.43.0:09:12.73.Default..0.0.0..{\an1\pos(264.432)}( {\i1}groans{\r} )
+Dialogue: 0.0:09:17.80.0:09:18.60.Default..0.0.0..{\an1\pos(66.432)}Oh...
+Dialogue: 0.0:09:23.04.0:09:25.11.Default..0.0.0..{\an1\pos(156.432)}( {\i1}grunts with effort{\r} )
+Dialogue: 0.0:09:40.08.0:09:42.36.Default..0.0.0..{\an1\pos(282.432)}Get him to\Na detention cell.
+Dialogue: 0.0:09:42.36.0:09:45.50.Default..0.0.0..{\an1\pos(354.432)}Set phasers\Non maximum stun!
+Dialogue: 0.0:09:45.50.0:09:48.37.Default..0.0.0..{\an1\pos(246.432)}( {\i1}beeping{\r} )
+Dialogue: 0.0:09:48.37.0:09:50.12.Default..0.0.0..{\an1\pos(426.432)}O'BRIEN:\NCommander...
+Dialogue: 0.0:10:01.28.0:10:03.72.Default..0.0.0..{\an1\pos(102.408)}\h\h\hWe'll need a few hours\Nto get the containment field
+Dialogue: 0.0:10:03.72.0:10:07.57.Default..0.0.0..{\an1\pos(156.408)}on Lunar V operational\Nbefore we pick him up.
+Dialogue: 0.0:10:07.57.0:10:10.07.Default..0.0.0..{\an1\pos(102.408)}\h\hThe damage he did during\Nhis escape was considerable.
+Dialogue: 0.0:10:10.07.0:10:11.58.Default..0.0.0..{\an1\pos(66.432)}We will await\Nyour signal.
+Dialogue: 0.0:10:11.57.0:10:13.32.Default..0.0.0..{\an1\pos(102.408)}I appreciate your patience.
+Dialogue: 0.0:10:13.33.0:10:15.73.Default..0.0.0..{\an1\pos(138.408)}The prison psychologist\N\h\h\h\h\h\h\hrecommends
+Dialogue: 0.0:10:15.73.0:10:17.73.Default..0.0.0..{\an1\pos(174.408)}that you keep Danar\N\h\h\hfully sedated
+Dialogue: 0.0:10:17.73.0:10:20.17.Default..0.0.0..{\an1\pos(66.408)}until he's ready for transport.
+Dialogue: 0.0:10:20.17.0:10:23.67.Default..0.0.0..{\an1\pos(66.432)}Hmm... Well. he's in our highest\N\h\h\h\hsecurity detention area.
+Dialogue: 0.0:10:23.67.0:10:26.06.Default..0.0.0..{\an1\pos(192.432)}There shouldn't be\Nany more problems.
+Dialogue: 0.0:10:26.05.0:10:28.83.Default..0.0.0..{\an1\pos(120.408)}Do not relax your security\N\hfor an instant. Captain.
+Dialogue: 0.0:10:29.34.0:10:31.35.Default..0.0.0..{\an1\pos(138.408)}He is extremely violent\N\h\h\h\hand very cunning
+Dialogue: 0.0:10:31.34.0:10:32.84.Default..0.0.0..{\an1\pos(174.408)}as you already know.
+Dialogue: 0.0:10:32.84.0:10:34.26.Default..0.0.0..{\an1\pos(84.408)}I will send a transport vessel
+Dialogue: 0.0:10:34.76.0:10:36.26.Default..0.0.0..{\an1\pos(174.408)}\h\h\hto pick him up\Nas soon as possible.
+Dialogue: 0.0:10:36.26.0:10:37.26.Default..0.0.0..{\an1\pos(246.408)}Nayrok out.
+Dialogue: 0.0:10:37.77.0:10:39.27.Default..0.0.0..{\an1\pos(426.432)}Have you run\Na diagnostic
+Dialogue: 0.0:10:39.27.0:10:41.02.Default..0.0.0..{\an1\pos(354.432)}on the\Nsensors. Data?
+Dialogue: 0.0:10:41.02.0:10:43.86.Default..0.0.0..{\an1\pos(66.432)}Yes. sir. There is nothing wrong\N\h\h\h\hwith the ship's sensors.
+Dialogue: 0.0:10:43.86.0:10:45.86.Default..0.0.0..{\an1\pos(84.432)}\h\h\h\h\h\h\h\h\h\hThe reason\Nwe did not pick up life signs
+Dialogue: 0.0:10:45.86.0:10:48.20.Default..0.0.0..{\an1\pos(138.432)}aboard the escape vessel\Nis because the prisoner
+Dialogue: 0.0:10:48.19.0:10:50.04.Default..0.0.0..{\an1\pos(66.432)}has no life signs.
+Dialogue: 0.0:10:50.05.0:10:53.30.Default..0.0.0..{\an1\pos(66.432)}Computer. identify the occupant\N\h\h\h\h\hof the detention cell.
+Dialogue: 0.0:10:53.30.0:10:56.99.Default..0.0.0..{\an1\pos(138.408)}\h\h\h\h\h\h\hCOMPUTER:\N\h\h\hThe detention cell\Nis vacant at this time.
+Dialogue: 0.0:10:56.99.0:10:58.61.Default..0.0.0..{\an1\pos(228.432)}He's in there.
+Dialogue: 0.0:10:58.60.0:11:00.50.Default..0.0.0..{\an1\pos(156.432)}Could he be some kind\N\h\h\h\h\hof android?
+Dialogue: 0.0:11:00.51.0:11:04.40.Default..0.0.0..{\an1\pos(102.432)}\h\hOur sensors can identify\Nartificial life-forms. sir.
+Dialogue: 0.0:11:04.39.0:11:07.89.Default..0.0.0..{\an1\pos(120.432)}Apparently. he is capable\Nof deceiving the sensors.
+Dialogue: 0.0:11:15.32.0:11:17.16.Default..0.0.0..{\an1\pos(192.432)}( {\i1}startled yell{\r} )
+Dialogue: 0.0:11:22.33.0:11:23.43.Default..0.0.0..{\an1\pos(246.432)}( {\i1}groaning{\r} )
+Dialogue: 0.0:11:28.23.0:11:29.56.Default..0.0.0..{\an1\pos(156.432)}( {\i1}groaning continues{\r} )
+Dialogue: 0.0:11:41.30.0:11:42.97.Default..0.0.0..{\an1\pos(246.432)}( {\i1}moaning{\r} )
+Dialogue: 0.0:11:51.09.0:11:52.43.Default..0.0.0..{\an1\pos(192.432)}Are you all right?
+Dialogue: 0.0:11:57.28.0:11:59.28.Default..0.0.0..{\an1\pos(192.432)}What is this ship?
+Dialogue: 0.0:11:59.28.0:12:02.64.Default..0.0.0..{\an1\pos(174.432)}\h\hYou are on board\Nthe USS {\i1}Enterprise.
+Dialogue: 0.0:12:02.63.0:12:04.81.Default..0.0.0..{\an1\pos(228.432)}A war vessel?
+Dialogue: 0.0:12:04.82.0:12:07.88.Default..0.0.0..{\an1\pos(156.432)}A Federation starship.
+Dialogue: 0.0:12:07.87.0:12:10.74.Default..0.0.0..{\an1\pos(246.432)}Federation.
+Dialogue: 0.0:12:11.24.0:12:15.07.Default..0.0.0..{\an1\pos(66.432)}We were\Norbiting Angosia
+Dialogue: 0.0:12:15.08.0:12:17.49.Default..0.0.0..{\an1\pos(210.432)}when you escaped\N\hfrom Lunar V.
+Dialogue: 0.0:12:21.97.0:12:26.98.Default..0.0.0..{\an1\pos(66.432)}\h\h\h\hWell. it seems that I am\Nthe victim of my own bad timing.
+Dialogue: 0.0:12:34.93.0:12:35.93.Default..0.0.0..{\an1\pos(192.432)}( {\i1}water splashes{\r} )
+Dialogue: 0.0:12:38.94.0:12:42.44.Default..0.0.0..{\an1\pos(66.432)}Are you the keeper of this jail?
+Dialogue: 0.0:12:43.69.0:12:45.93.Default..0.0.0..{\an1\pos(192.432)}I'm Deanna Troi.\NShip's Counselor.
+Dialogue: 0.0:12:45.93.0:12:47.88.Default..0.0.0..{\an1\pos(282.432)}Counselor?
+Dialogue: 0.0:12:47.88.0:12:49.30.Default..0.0.0..{\an1\pos(282.432)}Too bad.
+Dialogue: 0.0:12:49.30.0:12:51.30.Default..0.0.0..{\an1\pos(84.432)}I'd rather you were the jailer
+Dialogue: 0.0:12:51.30.0:12:53.64.Default..0.0.0..{\an1\pos(156.432)}\h\hto keep me company\Nduring my return trip.
+Dialogue: 0.0:12:53.64.0:12:56.44.Default..0.0.0..{\an1\pos(408.432)}I assume we\Nare returning
+Dialogue: 0.0:12:56.44.0:12:57.88.Default..0.0.0..{\an1\pos(246.432)}to Lunar V.
+Dialogue: 0.0:13:00.63.0:13:02.83.Default..0.0.0..{\an1\pos(174.432)}That terrifies you.
+Dialogue: 0.0:13:02.83.0:13:06.70.Default..0.0.0..{\an1\pos(84.432)}\h\h\hI just killed three men\Nto get out of there. Counselor
+Dialogue: 0.0:13:06.70.0:13:10.20.Default..0.0.0..{\an1\pos(138.432)}\hand I'm fully capable\Nof killing you. as well.
+Dialogue: 0.0:13:10.20.0:13:13.21.Default..0.0.0..{\an1\pos(102.432)}That's a terrifying thought.\N\h\h\h\h\h\h\h\h\hisn't it?
+Dialogue: 0.0:13:13.20.0:13:15.20.Default..0.0.0..{\an1\pos(246.432)}Even to me.
+Dialogue: 0.0:13:15.21.0:13:17.98.Default..0.0.0..{\an1\pos(102.432)}Do they mistreat you there?
+Dialogue: 0.0:13:17.98.0:13:19.40.Default..0.0.0..{\an1\pos(228.432)}( {\i1}chuckles{\r} ):\N\hNot at all.
+Dialogue: 0.0:13:19.89.0:13:22.39.Default..0.0.0..{\an1\pos(174.432)}\hI am comfortable.\Nwell fed and housed.
+Dialogue: 0.0:13:22.90.0:13:26.90.Default..0.0.0..{\an1\pos(84.432)}\h\hOh. no. the Angosians take\Ngood care of their prisoners.
+Dialogue: 0.0:13:26.90.0:13:31.41.Default..0.0.0..{\an1\pos(84.432)}\h\h\h\h\hIt's simply a matter\Nof never being able to leave.
+Dialogue: 0.0:13:31.41.0:13:33.41.Default..0.0.0..{\an1\pos(120.432)}What about you. Counselor?
+Dialogue: 0.0:13:33.91.0:13:36.41.Default..0.0.0..{\an1\pos(174.432)}Do you always visit\N\h\h\hthe prisoners?
+Dialogue: 0.0:13:36.91.0:13:40.17.Default..0.0.0..{\an1\pos(156.432)}Are you a specialist\Nin criminal behavior?
+Dialogue: 0.0:13:40.17.0:13:43.77.Default..0.0.0..{\an1\pos(210.432)}Or am I just an\Ninteresting specimen\Nwho landed on the ship
+Dialogue: 0.0:13:43.77.0:13:46.97.Default..0.0.0..{\an1\pos(102.432)}like an insect to be studied\N\h\h\hunder your microscope?
+Dialogue: 0.0:13:46.97.0:13:50.19.Default..0.0.0..{\an1\pos(120.432)}Why do have all this anger\N\h\h\h\h\h\h\h\htoward me?
+Dialogue: 0.0:13:52.58.0:13:55.58.Default..0.0.0..{\an1\pos(120.432)}A girl with long dark hair
+Dialogue: 0.0:13:55.58.0:13:59.09.Default..0.0.0..{\an1\pos(66.432)}broke my heart a long time ago.
+Dialogue: 0.0:13:59.08.0:14:03.58.Default..0.0.0..{\an1\pos(192.432)}Out of bitterness\Nand resentment...
+Dialogue: 0.0:14:03.59.0:14:05.59.Default..0.0.0..{\an1\pos(192.432)}I turned to crime.
+Dialogue: 0.0:14:06.98.0:14:09.76.Default..0.0.0..{\an1\pos(426.432)}( {\i1}laughing{\r} )
+Dialogue: 0.0:14:09.76.0:14:11.55.Default..0.0.0..{\an1\pos(174.432)}How about this one--
+Dialogue: 0.0:14:11.55.0:14:15.05.Default..0.0.0..{\an1\pos(138.432)}\hmy mother abandoned me\Nwhen I was a little boy.
+Dialogue: 0.0:14:15.05.0:14:19.42.Default..0.0.0..{\an1\pos(84.432)}\h\h\hI never got the guidance\Nthat a wild young man needed.
+Dialogue: 0.0:14:19.42.0:14:21.19.Default..0.0.0..{\an1\pos(138.432)}Why are you doing this?
+Dialogue: 0.0:14:21.19.0:14:22.54.Default..0.0.0..{\an1\pos(228.432)}Playing games?
+Dialogue: 0.0:14:22.54.0:14:24.55.Default..0.0.0..{\an1\pos(138.432)}Isn't that what you do.\N\h\h\h\h\h\h\hCounselor?
+Dialogue: 0.0:14:24.54.0:14:27.54.Default..0.0.0..{\an1\pos(120.432)}Isn't that what all of you\N\hmind-control experts do?
+Dialogue: 0.0:14:27.55.0:14:30.43.Default..0.0.0..{\an1\pos(66.432)}I am not a mind-control expert.
+Dialogue: 0.0:14:30.43.0:14:34.44.Default..0.0.0..{\an1\pos(120.432)}\h\h\hI came here because\NI sensed you were in pain.
+Dialogue: 0.0:14:34.44.0:14:38.18.Default..0.0.0..{\an1\pos(120.432)}And what do you sense now?
+Dialogue: 0.0:14:38.17.0:14:41.79.Default..0.0.0..{\an1\pos(192.432)}The pain is gone.
+Dialogue: 0.0:14:44.70.0:14:48.57.Default..0.0.0..{\an1\pos(84.432)}That's interesting. isn't it?
+Dialogue: 0.0:14:48.57.0:14:51.01.Default..0.0.0..{\an1\pos(66.432)}TROI:\NThere's a duality\Nabout the man.
+Dialogue: 0.0:14:51.00.0:14:53.00.Default..0.0.0..{\an1\pos(66.432)}It's hard\Nto describe.
+Dialogue: 0.0:14:53.00.0:14:54.80.Default..0.0.0..{\an1\pos(66.432)}He's aware\Nof his crimes.
+Dialogue: 0.0:14:54.81.0:14:57.01.Default..0.0.0..{\an1\pos(138.432)}\h\h\h\h\h\h\h\hIn fact.\Nthey trouble him deeply.
+Dialogue: 0.0:14:57.01.0:14:58.76.Default..0.0.0..{\an1\pos(246.432)}Counselor...
+Dialogue: 0.0:14:58.76.0:15:01.53.Default..0.0.0..{\an1\pos(84.432)}He's intelligent. thoughtful.\N\h\h\h\h\htypically Angosian.
+Dialogue: 0.0:15:01.53.0:15:04.94.Default..0.0.0..{\an1\pos(66.432)}I know what he's done.\Nbut when I'm with him
+Dialogue: 0.0:15:05.43.0:15:07.93.Default..0.0.0..{\an1\pos(66.432)}I cannot believe\Nthat he is randomly
+Dialogue: 0.0:15:07.94.0:15:10.44.Default..0.0.0..{\an1\pos(66.432)}and deliberately violent.
+Dialogue: 0.0:15:10.44.0:15:11.73.Default..0.0.0..{\an1\pos(66.432)}In fact
+Dialogue: 0.0:15:11.72.0:15:14.82.Default..0.0.0..{\an1\pos(120.432)}\h\h\h\hinherently. he has\Na nonviolent personality.
+Dialogue: 0.0:15:14.83.0:15:17.18.Default..0.0.0..{\an1\pos(102.432)}Counselor. it took five men\N\h\h\h\h\h\hto restrain him
+Dialogue: 0.0:15:17.18.0:15:19.18.Default..0.0.0..{\an1\pos(156.432)}and he took apart half\N\hthe transporter room
+Dialogue: 0.0:15:19.18.0:15:20.52.Default..0.0.0..{\an1\pos(210.432)}in the process.
+Dialogue: 0.0:15:20.52.0:15:23.70.Default..0.0.0..{\an1\pos(120.432)}\h\h\h\h\hI'm not opening\Nthe door for him. Captain.
+Dialogue: 0.0:15:23.70.0:15:26.51.Default..0.0.0..{\an1\pos(66.432)}I can only tell you\Nthat I sense
+Dialogue: 0.0:15:26.50.0:15:28.90.Default..0.0.0..{\an1\pos(156.432)}something very unusual\N\h\h\h\h\habout him--
+Dialogue: 0.0:15:29.41.0:15:33.21.Default..0.0.0..{\an1\pos(84.432)}something that is not inherent\N\h\hto a criminal personality.
+Dialogue: 0.0:15:33.21.0:15:35.13.Default..0.0.0..{\an1\pos(138.432)}\h\h\h\hIn a few hours.\NI'll be turning him over
+Dialogue: 0.0:15:35.63.0:15:38.00.Default..0.0.0..{\an1\pos(102.432)}\h\h\h\h\hto the Angosians.\Nand I'll be happy to do it.
+Dialogue: 0.0:15:40.14.0:15:41.64.Default..0.0.0..{\an1\pos(228.432)}I understand.
+Dialogue: 0.0:15:51.10.0:15:53.10.Default..0.0.0..{\an1\pos(66.432)}Data. do we\Nhave a linkup
+Dialogue: 0.0:15:53.10.0:15:56.10.Default..0.0.0..{\an1\pos(66.432)}with the Angosian\Ncentral computer?
+Dialogue: 0.0:15:56.10.0:15:57.10.Default..0.0.0..{\an1\pos(372.432)}Yes. Counselor.
+Dialogue: 0.0:15:57.60.0:16:00.11.Default..0.0.0..{\an1\pos(192.432)}We are copying records\Nfor Federation inspection
+Dialogue: 0.0:16:00.10.0:16:03.10.Default..0.0.0..{\an1\pos(138.432)}pursuant to their\Napplication for admittance.
+Dialogue: 0.0:16:03.11.0:16:06.61.Default..0.0.0..{\an1\pos(66.432)}Can I see a police record\Non Roga Danar?
+Dialogue: 0.0:16:09.70.0:16:11.95.Default..0.0.0..{\an1\pos(120.432)}\h\h\h\h\h\h\h\h\h\hDATA:\NThere is no police record.
+Dialogue: 0.0:16:11.95.0:16:13.07.Default..0.0.0..{\an1\pos(192.432)}That's impossible.
+Dialogue: 0.0:16:13.07.0:16:14.36.Default..0.0.0..{\an1\pos(174.432)}He's been in prison.
+Dialogue: 0.0:16:14.35.0:16:17.45.Default..0.0.0..{\an1\pos(102.432)}\h\h\h\h\h\h\h\h\hLunar V is\Na military prison facility.
+Dialogue: 0.0:16:17.46.0:16:18.58.Default..0.0.0..{\an1\pos(264.432)}Military?
+Dialogue: 0.0:16:18.57.0:16:21.44.Default..0.0.0..{\an1\pos(210.432)}He's a soldier?
+Dialogue: 0.0:16:21.44.0:16:23.55.Default..0.0.0..{\an1\pos(210.432)}That may provide\N\han explanation
+Dialogue: 0.0:16:23.56.0:16:26.90.Default..0.0.0..{\an1\pos(84.432)}\h\h\h\h\h\h\hfor the tactics\Nhe was able to use against us
+Dialogue: 0.0:16:26.90.0:16:29.85.Default..0.0.0..{\an1\pos(354.432)}when we tried\Nto capture him.
+Dialogue: 0.0:16:29.85.0:16:33.36.Default..0.0.0..{\an1\pos(66.432)}It doesn't say here\Nwhat he was arrested for.
+Dialogue: 0.0:16:33.35.0:16:36.35.Default..0.0.0..{\an1\pos(66.432)}Call up his\Nmilitary record.
+Dialogue: 0.0:16:38.31.0:16:41.35.Default..0.0.0..{\an1\pos(102.432)}\h\h\h\h\h\h\h\h\h\h\hDATA:\NHe served in many campaigns\N\h\h\hduring the Tarsian War
+Dialogue: 0.0:16:41.35.0:16:44.80.Default..0.0.0..{\an1\pos(102.432)}\h\hreceived two promotions\Nto the rank of "subhadar"--
+Dialogue: 0.0:16:44.80.0:16:46.30.Default..0.0.0..{\an1\pos(84.432)}A very honorable tour of duty.
+Dialogue: 0.0:16:46.30.0:16:48.71.Default..0.0.0..{\an1\pos(264.432)}( {\i1}sighs{\r} )
+Dialogue: 0.0:16:48.70.0:16:51.70.Default..0.0.0..{\an1\pos(120.432)}What was this man's crime?
+Dialogue: 0.0:17:04.12.0:17:05.42.Default..0.0.0..{\an1\pos(246.432)}I've learned
+Dialogue: 0.0:17:05.42.0:17:07.32.Default..0.0.0..{\an1\pos(66.432)}you are\Na soldier.
+Dialogue: 0.0:17:07.32.0:17:09.16.Default..0.0.0..{\an1\pos(210.432)}I was a soldier.
+Dialogue: 0.0:17:09.16.0:17:11.41.Default..0.0.0..{\an1\pos(102.432)}Why were you put in prison?
+Dialogue: 0.0:17:11.41.0:17:14.65.Default..0.0.0..{\an1\pos(120.432)}\h\h\h\hObviously because\NI am a threat to society.
+Dialogue: 0.0:17:14.65.0:17:16.40.Default..0.0.0..{\an1\pos(120.432)}There's no police record.
+Dialogue: 0.0:17:16.40.0:17:18.15.Default..0.0.0..{\an1\pos(210.432)}What did you do?
+Dialogue: 0.0:17:18.15.0:17:20.45.Default..0.0.0..{\an1\pos(66.432)}Everything they asked me to do.
+Dialogue: 0.0:17:20.45.0:17:23.96.Default..0.0.0..{\an1\pos(174.432)}That's why I became\N\h\h\hsuch a threat.
+Dialogue: 0.0:17:23.96.0:17:25.46.Default..0.0.0..{\an1\pos(66.432)}I don't understand.
+Dialogue: 0.0:17:25.46.0:17:27.76.Default..0.0.0..{\an1\pos(84.432)}Why are you bothering to try.\N\h\h\h\h\h\h\h\h\h\hCounselor?
+Dialogue: 0.0:17:27.76.0:17:30.11.Default..0.0.0..{\an1\pos(66.432)}Because I want to help if I can.
+Dialogue: 0.0:17:30.11.0:17:32.37.Default..0.0.0..{\an1\pos(210.432)}Unlock the door.
+Dialogue: 0.0:17:34.77.0:17:38.27.Default..0.0.0..{\an1\pos(138.432)}You are a nonviolent man
+Dialogue: 0.0:17:38.27.0:17:41.08.Default..0.0.0..{\an1\pos(156.432)}yet you committed acts\Nof excessive violence.
+Dialogue: 0.0:17:41.07.0:17:46.20.Default..0.0.0..{\an1\pos(156.432)}You can learn to do it\N\h\h\hif you have to.
+Dialogue: 0.0:17:46.21.0:17:47.78.Default..0.0.0..{\an1\pos(210.432)}Did you have to?
+Dialogue: 0.0:17:47.78.0:17:49.37.Default..0.0.0..{\an1\pos(246.432)}It was war.
+Dialogue: 0.0:17:49.36.0:17:52.51.Default..0.0.0..{\an1\pos(102.432)}So it started with the war.
+Dialogue: 0.0:17:52.52.0:17:55.52.Default..0.0.0..{\an1\pos(66.432)}\h\h\h\h\h\h\h\h\h\h\hIt started\Nthe day I volunteered. Counselor
+Dialogue: 0.0:17:55.52.0:17:57.52.Default..0.0.0..{\an1\pos(138.432)}the day I began training
+Dialogue: 0.0:17:57.52.0:18:00.03.Default..0.0.0..{\an1\pos(174.432)}\h\h\hthe day I met\Nmy first instructor
+Dialogue: 0.0:18:00.02.0:18:02.52.Default..0.0.0..{\an1\pos(120.432)}and he also called himself\N\h\h\h\h\h\ha "Counselor."
+Dialogue: 0.0:18:12.80.0:18:15.75.Default..0.0.0..{\an1\pos(66.432)}Roga Danar was\Nan idealistic young man
+Dialogue: 0.0:18:15.76.0:18:18.26.Default..0.0.0..{\an1\pos(66.432)}who answered his people's call\Nto service.
+Dialogue: 0.0:18:18.26.0:18:20.26.Default..0.0.0..{\an1\pos(66.432)}He joined the military
+Dialogue: 0.0:18:20.26.0:18:23.07.Default..0.0.0..{\an1\pos(66.432)}to help fight\Nfor the Angosian way of life.
+Dialogue: 0.0:18:23.06.0:18:25.46.Default..0.0.0..{\an1\pos(156.432)}What he didn't realize\Nwas that. by doing so
+Dialogue: 0.0:18:25.97.0:18:28.86.Default..0.0.0..{\an1\pos(120.432)}he would have to give up\Nthat way of life forever.
+Dialogue: 0.0:18:28.85.0:18:31.83.Default..0.0.0..{\an1\pos(66.432)}He's not the same man\Nwho left home to go to war.
+Dialogue: 0.0:18:31.84.0:18:35.58.Default..0.0.0..{\an1\pos(120.432)}He's been through intense\Npsychological manipulation
+Dialogue: 0.0:18:35.58.0:18:37.85.Default..0.0.0..{\an1\pos(66.432)}and biochemical\Nmodifications.
+Dialogue: 0.0:18:37.85.0:18:40.18.Default..0.0.0..{\an1\pos(282.432)}At Troi's request.\NI examined him.
+Dialogue: 0.0:18:40.18.0:18:43.05.Default..0.0.0..{\an1\pos(66.432)}\h\h\h\h\h\h\hHis cell structure\Nhas been significantly altered.
+Dialogue: 0.0:18:43.55.0:18:45.56.Default..0.0.0..{\an1\pos(138.432)}They used a combination\N\h\h\h\hof cryptobiolin
+Dialogue: 0.0:18:45.55.0:18:47.43.Default..0.0.0..{\an1\pos(120.432)}triclenidil. macrospentol
+Dialogue: 0.0:18:47.44.0:18:49.04.Default..0.0.0..{\an1\pos(66.432)}and a few things\NI can't even recognize.
+Dialogue: 0.0:18:49.54.0:18:50.54.Default..0.0.0..{\an1\pos(120.432)}Was he a prisoner of war?
+Dialogue: 0.0:18:51.04.0:18:51.93.Default..0.0.0..{\an1\pos(174.432)}Who did this to him?
+Dialogue: 0.0:18:51.93.0:18:54.38.Default..0.0.0..{\an1\pos(174.432)}His own government.
+Dialogue: 0.0:18:54.38.0:18:57.78.Default..0.0.0..{\an1\pos(66.432)}He's been programmed\Nto be the perfect soldier.
+Dialogue: 0.0:18:57.78.0:19:01.79.Default..0.0.0..{\an1\pos(66.432)}He can be absolutely normal.\Nbut when a danger is perceived
+Dialogue: 0.0:19:01.79.0:19:04.66.Default..0.0.0..{\an1\pos(66.432)}the programming clicks in\Nand takes over.
+Dialogue: 0.0:19:04.66.0:19:10.36.Default..0.0.0..{\an1\pos(66.432)}Memory. strength. intelligence.\Nreflexes-- all become enhanced.
+Dialogue: 0.0:19:10.36.0:19:13.25.Default..0.0.0..{\an1\pos(66.432)}He's conditioned\Nto survive at any cost.
+Dialogue: 0.0:19:13.25.0:19:17.42.Default..0.0.0..{\an1\pos(120.432)}One of the new substances\Nin his cellular structure
+Dialogue: 0.0:19:17.42.0:19:19.19.Default..0.0.0..{\an1\pos(282.432)}even shields\Nelectrical impulses.
+Dialogue: 0.0:19:19.19.0:19:22.44.Default..0.0.0..{\an1\pos(66.432)}Perhaps that would explain why\Nour sensors did not detect him.
+Dialogue: 0.0:19:22.44.0:19:27.00.Default..0.0.0..{\an1\pos(138.432)}\h\hWhy was he assigned\Nto the Lunar V facility?
+Dialogue: 0.0:19:26.99.0:19:28.94.Default..0.0.0..{\an1\pos(156.432)}He committed no crime.
+Dialogue: 0.0:19:28.95.0:19:32.25.Default..0.0.0..{\an1\pos(102.432)}He says he was ordered there\N\h\h\hwith others like him.
+Dialogue: 0.0:19:32.25.0:19:34.52.Default..0.0.0..{\an1\pos(66.432)}When the first soldiers\Nreturned to Angosia
+Dialogue: 0.0:19:34.52.0:19:35.97.Default..0.0.0..{\an1\pos(66.432)}they had trouble.
+Dialogue: 0.0:19:35.97.0:19:38.39.Default..0.0.0..{\an1\pos(84.432)}The rules changed too quickly.
+Dialogue: 0.0:19:38.39.0:19:41.40.Default..0.0.0..{\an1\pos(138.432)}\h\h\h\h\hA lost temper\Ncould result in murder.
+Dialogue: 0.0:19:41.39.0:19:43.17.Default..0.0.0..{\an1\pos(66.432)}DATA:\NCounselor.\Ndid no one attempt
+Dialogue: 0.0:19:43.18.0:19:45.47.Default..0.0.0..{\an1\pos(102.432)}to adjust their programming?
+Dialogue: 0.0:19:45.46.0:19:49.91.Default..0.0.0..{\an1\pos(138.432)}They were just exiled\Nto Lunar V.
+Dialogue: 0.0:19:49.92.0:19:54.93.Default..0.0.0..{\an1\pos(192.432)}\h\h\h\hLunar V...\Nan orbiting gulag.
+Dialogue: 0.0:20:04.17.0:20:05.67.Default..0.0.0..{\an1\pos(282.432)}What do you want?
+Dialogue: 0.0:20:05.67.0:20:07.60.Default..0.0.0..{\an1\pos(138.432)}Am I disturbing you?
+Dialogue: 0.0:20:07.60.0:20:08.61.Default..0.0.0..{\an1\pos(498.432)}Yes!
+Dialogue: 0.0:20:08.60.0:20:09.93.Default..0.0.0..{\an1\pos(138.432)}Then I will leave.
+Dialogue: 0.0:20:09.94.0:20:11.17.Default..0.0.0..{\an1\pos(210.432)}No. wait. wait.
+Dialogue: 0.0:20:11.17.0:20:14.60.Default..0.0.0..{\an1\pos(354.432)}I'd rather talk\Nto someone.
+Dialogue: 0.0:20:16.53.0:20:18.53.Default..0.0.0..{\an1\pos(102.432)}Why do you have yellow eyes?
+Dialogue: 0.0:20:18.53.0:20:19.93.Default..0.0.0..{\an1\pos(210.432)}I am an android.
+Dialogue: 0.0:20:19.93.0:20:22.77.Default..0.0.0..{\an1\pos(138.432)}I believe you and I have\N\h\hsomething in common.
+Dialogue: 0.0:20:22.77.0:20:24.89.Default..0.0.0..{\an1\pos(300.432)}We do?
+Dialogue: 0.0:20:24.89.0:20:26.67.Default..0.0.0..{\an1\pos(192.432)}Yes. We have both\Nbeen programmed.
+Dialogue: 0.0:20:26.67.0:20:31.16.Default..0.0.0..{\an1\pos(138.432)}Ah. yes. yes. you've been\Ntalking to Counselor Troi.
+Dialogue: 0.0:20:31.16.0:20:34.16.Default..0.0.0..{\an1\pos(282.432)}It is not at all\Nthe same. android.
+Dialogue: 0.0:20:34.16.0:20:37.62.Default..0.0.0..{\an1\pos(120.432)}I do not mean to belittle\N\h\h\h\h\hyour condition.
+Dialogue: 0.0:20:37.62.0:20:39.62.Default..0.0.0..{\an1\pos(120.432)}I understand your dilemma
+Dialogue: 0.0:20:39.62.0:20:41.12.Default..0.0.0..{\an1\pos(192.432)}but I am curious.
+Dialogue: 0.0:20:41.12.0:20:43.12.Default..0.0.0..{\an1\pos(120.432)}My program can be altered.
+Dialogue: 0.0:20:43.12.0:20:44.46.Default..0.0.0..{\an1\pos(228.432)}Yours cannot?
+Dialogue: 0.0:20:44.46.0:20:47.91.Default..0.0.0..{\an1\pos(66.432)}The man I was is still inside me
+Dialogue: 0.0:20:47.91.0:20:50.91.Default..0.0.0..{\an1\pos(84.432)}but this... this conditioning\N\h\h\h\h\h\hhas been imposed--
+Dialogue: 0.0:20:50.91.0:20:53.42.Default..0.0.0..{\an1\pos(66.432)}woven together with my thoughts
+Dialogue: 0.0:20:53.41.0:20:55.91.Default..0.0.0..{\an1\pos(192.432)}\hand my feelings\Nand my responses.
+Dialogue: 0.0:20:55.92.0:20:59.64.Default..0.0.0..{\an1\pos(120.432)}\h\h\hHow do you separate\Nthe program from the man?
+Dialogue: 0.0:20:59.64.0:21:02.41.Default..0.0.0..{\an1\pos(138.432)}Without further analysis\N\h\h\hof your condition
+Dialogue: 0.0:21:02.41.0:21:04.28.Default..0.0.0..{\an1\pos(174.432)}from Counselor Troi\N\h\h\hor Dr. Crusher
+Dialogue: 0.0:21:04.28.0:21:05.75.Default..0.0.0..{\an1\pos(66.432)}I cannot say
+Dialogue: 0.0:21:05.74.0:21:08.21.Default..0.0.0..{\an1\pos(66.432)}but I believe\Nit is possible.
+Dialogue: 0.0:21:08.21.0:21:09.66.Default..0.0.0..{\an1\pos(282.432)}Doctors.
+Dialogue: 0.0:21:09.66.0:21:12.83.Default..0.0.0..{\an1\pos(174.432)}The Angosian doctors\N\h\hdid this to me.
+Dialogue: 0.0:21:13.33.0:21:17.71.Default..0.0.0..{\an1\pos(156.432)}If it could be undone.\Nwouldn't they undo it?
+Dialogue: 0.0:21:17.72.0:21:20.61.Default..0.0.0..{\an1\pos(156.432)}I cannot answer that.
+Dialogue: 0.0:21:22.41.0:21:24.92.Default..0.0.0..{\an1\pos(264.432)}Nor can I.
+Dialogue: 0.0:21:24.91.0:21:29.91.Default..0.0.0..{\an1\pos(84.432)}Yet I ask myself that question\N\h\hevery moment of every day.
+Dialogue: 0.0:21:31.80.0:21:33.76.Default..0.0.0..{\an1\pos(156.408)}Captain. what this man\N\hhas been telling you
+Dialogue: 0.0:21:33.77.0:21:34.78.Default..0.0.0..{\an1\pos(138.408)}is full of half-truths.
+Dialogue: 0.0:21:34.77.0:21:35.77.Default..0.0.0..{\an1\pos(210.408)}He's a prisoner.
+Dialogue: 0.0:21:35.77.0:21:37.00.Default..0.0.0..{\an1\pos(156.408)}What do you expect him\N\h\h\hto say about us?
+Dialogue: 0.0:21:37.01.0:21:39.83.Default..0.0.0..{\an1\pos(138.432)}Well. perhaps you would\N\h\h\hclarify it for me.
+Dialogue: 0.0:21:40.33.0:21:42.83.Default..0.0.0..{\an1\pos(102.408)}The soldiers were resettled\N\h\h\h\h\h\h\h\hon Lunar V.
+Dialogue: 0.0:21:42.83.0:21:45.34.Default..0.0.0..{\an1\pos(120.408)}It was to be their colony.
+Dialogue: 0.0:21:45.33.0:21:48.16.Default..0.0.0..{\an1\pos(156.432)}Was it a resettlement\N\h\hof their choosing?
+Dialogue: 0.0:21:48.17.0:21:50.52.Default..0.0.0..{\an1\pos(66.408)}It was for their own protection.\N\h\h\has well as that of others.
+Dialogue: 0.0:21:51.02.0:21:52.53.Default..0.0.0..{\an1\pos(156.408)}\h\h\h\h\hMost of them\Nare quite happy there.
+Dialogue: 0.0:21:52.52.0:21:55.02.Default..0.0.0..{\an1\pos(66.408)}We went to great lengths to give\N\h\hthem a fine quality of life.
+Dialogue: 0.0:21:55.03.0:21:56.48.Default..0.0.0..{\an1\pos(228.432)}Prime Minister
+Dialogue: 0.0:21:56.48.0:22:00.73.Default..0.0.0..{\an1\pos(66.432)}even the most comfortable prison\N\h\h\h\h\h\h\his still a prison.
+Dialogue: 0.0:22:00.73.0:22:01.94.Default..0.0.0..{\an1\pos(228.408)}Unfortunately
+Dialogue: 0.0:22:01.93.0:22:04.80.Default..0.0.0..{\an1\pos(120.408)}a few agitators like Danar\Nforced us to add security.
+Dialogue: 0.0:22:04.80.0:22:06.78.Default..0.0.0..{\an1\pos(138.432)}My medical team suggests
+Dialogue: 0.0:22:06.79.0:22:11.13.Default..0.0.0..{\an1\pos(156.432)}\h\hthat there may be\Nalternative treatment.
+Dialogue: 0.0:22:11.13.0:22:12.48.Default..0.0.0..{\an1\pos(156.408)}Captain. I assure you
+Dialogue: 0.0:22:12.48.0:22:14.98.Default..0.0.0..{\an1\pos(156.408)}that every alternative\N\h\hhas been explored
+Dialogue: 0.0:22:14.98.0:22:16.48.Default..0.0.0..{\an1\pos(174.408)}and this discussion
+Dialogue: 0.0:22:16.48.0:22:18.99.Default..0.0.0..{\an1\pos(102.408)}is now treading upon matters\N\h\h\hof internal security.
+Dialogue: 0.0:22:18.98.0:22:20.71.Default..0.0.0..{\an1\pos(120.408)}This is not your concern.
+Dialogue: 0.0:22:20.72.0:22:23.52.Default..0.0.0..{\an1\pos(138.408)}I have dispatched a ship\N\hto rendezvous with you
+Dialogue: 0.0:22:23.52.0:22:25.83.Default..0.0.0..{\an1\pos(120.408)}to transport the prisoner\N\h\h\h\h\hback to Lunar V.
+Dialogue: 0.0:22:25.82.0:22:28.65.Default..0.0.0..{\an1\pos(156.408)}On behalf of Angosia.\NI thank the Federation
+Dialogue: 0.0:22:28.66.0:22:31.47.Default..0.0.0..{\an1\pos(120.408)}\h\h\h\hfor its assistance\Nin retrieving our citizen.
+Dialogue: 0.0:22:35.95.0:22:39.96.Default..0.0.0..{\an1\pos(66.432)}"Matter of internal security"--
+Dialogue: 0.0:22:39.95.0:22:43.45.Default..0.0.0..{\an1\pos(192.432)}\hthe age-old cry\Nof the oppressor.
+Dialogue: 0.0:22:43.46.0:22:45.40.Default..0.0.0..{\an1\pos(120.432)}Were you built for combat.\N\h\h\h\h\h\h\h\h\handroid?
+Dialogue: 0.0:22:45.39.0:22:47.14.Default..0.0.0..{\an1\pos(66.432)}No
+Dialogue: 0.0:22:47.14.0:22:49.82.Default..0.0.0..{\an1\pos(66.432)}but my program does include\Nmilitary strategy.
+Dialogue: 0.0:22:49.83.0:22:52.72.Default..0.0.0..{\an1\pos(66.432)}That is how I was able\Nto anticipate your final tactic
+Dialogue: 0.0:22:52.72.0:22:53.80.Default..0.0.0..{\an1\pos(66.432)}and capture you.
+Dialogue: 0.0:22:53.80.0:22:55.17.Default..0.0.0..{\an1\pos(228.432)}You did that?
+Dialogue: 0.0:22:55.17.0:22:56.61.Default..0.0.0..{\an1\pos(282.432)}Perhaps you would be
+Dialogue: 0.0:22:56.60.0:22:58.58.Default..0.0.0..{\an1\pos(66.432)}better at combat than you think.
+Dialogue: 0.0:22:58.59.0:23:00.91.Default..0.0.0..{\an1\pos(138.432)}\h\h\h\hExcept that I am\Nnot programmed to kill.
+Dialogue: 0.0:23:00.91.0:23:06.83.Default..0.0.0..{\an1\pos(102.432)}\hMy improved reflexes have\Nallowed me to kill 84 times
+Dialogue: 0.0:23:06.83.0:23:09.34.Default..0.0.0..{\an1\pos(156.432)}and my improved memory
+Dialogue: 0.0:23:09.83.0:23:13.83.Default..0.0.0..{\an1\pos(138.432)}\h\h\h\hlets me remember\Neach of those 84 faces.
+Dialogue: 0.0:23:14.34.0:23:17.23.Default..0.0.0..{\an1\pos(192.432)}Can you understand\N\hhow that feels?
+Dialogue: 0.0:23:17.22.0:23:20.40.Default..0.0.0..{\an1\pos(84.432)}I am incapable of any feeling.
+Dialogue: 0.0:23:20.41.0:23:22.72.Default..0.0.0..{\an1\pos(156.432)}Why. then. I envy you.
+Dialogue: 0.0:23:22.71.0:23:25.01.Default..0.0.0..{\an1\pos(210.432)}( {\i1}door opening{\r} )
+Dialogue: 0.0:23:28.45.0:23:31.95.Default..0.0.0..{\an1\pos(138.432)}Roga. this is\NCaptain Picard.
+Dialogue: 0.0:23:31.96.0:23:32.96.Default..0.0.0..{\an1\pos(498.432)}Captain.
+Dialogue: 0.0:23:32.96.0:23:35.46.Default..0.0.0..{\an1\pos(156.432)}\h\h\h\h\h\hMr. Danar.\NI am transferring you
+Dialogue: 0.0:23:35.46.0:23:37.46.Default..0.0.0..{\an1\pos(66.432)}to Angosian security.
+Dialogue: 0.0:23:37.46.0:23:40.30.Default..0.0.0..{\an1\pos(66.432)}They're en route.\NThey will arrive shortly.
+Dialogue: 0.0:23:40.30.0:23:43.12.Default..0.0.0..{\an1\pos(174.432)}I wanted to tell you\N\hI have no choice.
+Dialogue: 0.0:23:43.12.0:23:47.37.Default..0.0.0..{\an1\pos(66.432)}\h\hThe Prime Minister insisted.\Nand we have no right to refuse.
+Dialogue: 0.0:23:47.37.0:23:49.26.Default..0.0.0..{\an1\pos(120.432)}Well. you would be foolish
+Dialogue: 0.0:23:49.26.0:23:51.76.Default..0.0.0..{\an1\pos(120.432)}to consider it otherwise.\N\h\h\h\h\h\h\h\h\hCaptain
+Dialogue: 0.0:23:51.76.0:23:53.76.Default..0.0.0..{\an1\pos(120.432)}for they are very correct.
+Dialogue: 0.0:23:53.76.0:23:55.27.Default..0.0.0..{\an1\pos(210.432)}I am dangerous.
+Dialogue: 0.0:23:55.26.0:23:58.63.Default..0.0.0..{\an1\pos(138.432)}There is no place for me\Nin a civilized society.
+Dialogue: 0.0:23:58.63.0:24:00.58.Default..0.0.0..{\an1\pos(210.432)}I do not believe that.
+Dialogue: 0.0:24:00.58.0:24:01.41.Default..0.0.0..{\an1\pos(66.432)}Nor do I.
+Dialogue: 0.0:24:01.42.0:24:04.86.Default..0.0.0..{\an1\pos(156.432)}I respect my officers'\N\h\h\h\h\h\hjudgments.
+Dialogue: 0.0:24:04.86.0:24:07.36.Default..0.0.0..{\an1\pos(102.432)}I wish I could help further.
+Dialogue: 0.0:24:07.36.0:24:09.66.Default..0.0.0..{\an1\pos(120.432)}If a way appears. I will.
+Dialogue: 0.0:24:09.66.0:24:12.43.Default..0.0.0..{\an1\pos(102.432)}I appreciate you telling me\N\h\h\h\h\hthat face to face.
+Dialogue: 0.0:24:12.43.0:24:13.87.Default..0.0.0..{\an1\pos(156.432)}I thought you deserved\N\h\h\h\h\h\hthat much.
+Dialogue: 0.0:24:14.37.0:24:15.37.Default..0.0.0..{\an1\pos(354.432)}And you deserve\Nto know
+Dialogue: 0.0:24:15.37.0:24:18.24.Default..0.0.0..{\an1\pos(66.432)}\h\h\h\h\h\h\h\hthat I must use\Nwhatever means I can to escape.
+Dialogue: 0.0:24:18.24.0:24:23.19.Default..0.0.0..{\an1\pos(84.408)}\h\h\h\h\h\h\h\h\h\h\h\hWORF:\N\h\h\h\hCaptain. the Angosian\Ntransport vessel has arrived.
+Dialogue: 0.0:24:23.19.0:24:27.20.Default..0.0.0..{\an1\pos(120.432)}Inform them the transport\Nwill take place shortly.
+Dialogue: 0.0:24:27.19.0:24:28.69.Default..0.0.0..{\an1\pos(246.432)}Picard out.
+Dialogue: 0.0:24:28.70.0:24:30.53.Default..0.0.0..{\an1\pos(66.432)}Mr. Data. to the Bridge. please.
+Dialogue: 0.0:24:32.88.0:24:35.21.Default..0.0.0..{\an1\pos(282.408)}Take care of\Nyourself. android.
+Dialogue: 0.0:24:35.22.0:24:37.57.Default..0.0.0..{\an1\pos(174.432)}I enjoyed our talk.
+Dialogue: 0.0:24:37.57.0:24:40.03.Default..0.0.0..{\an1\pos(426.432)}I. too.
+Dialogue: 0.0:24:45.53.0:24:47.03.Default..0.0.0..{\an1\pos(138.432)}Perhaps when this planet
+Dialogue: 0.0:24:47.03.0:24:49.04.Default..0.0.0..{\an1\pos(102.432)}\h\hbecomes a member of the\NFederation. we'll be able...
+Dialogue: 0.0:24:49.03.0:24:50.03.Default..0.0.0..{\an1\pos(462.432)}I will not\Nbe there
+Dialogue: 0.0:24:50.03.0:24:51.93.Default..0.0.0..{\an1\pos(174.432)}to see it. Counselor
+Dialogue: 0.0:24:51.94.0:24:55.94.Default..0.0.0..{\an1\pos(84.432)}\h\h\h\hbecause even with this\Noverwhelming demand to survive
+Dialogue: 0.0:24:55.94.0:24:58.45.Default..0.0.0..{\an1\pos(174.432)}that they have built\N\h\h\h\hinto my soul
+Dialogue: 0.0:24:58.44.0:25:03.24.Default..0.0.0..{\an1\pos(138.432)}\h\h\hI would rather die\Nthan return to Lunar V.
+Dialogue: 0.0:25:18.16.0:25:20.43.Default..0.0.0..{\an1\pos(102.408)}Captain Picard. we're ready\N\h\hto receive the prisoner.
+Dialogue: 0.0:25:20.43.0:25:23.07.Default..0.0.0..{\an1\pos(66.408)}Now transmitting the coordinates\N\h\h\h\h\h\hof our holding cell.
+Dialogue: 0.0:25:23.07.0:25:24.39.Default..0.0.0..{\an1\pos(246.432)}( {\i1}beeping{\r} )
+Dialogue: 0.0:25:24.39.0:25:26.39.Default..0.0.0..{\an1\pos(120.432)}Coordinates received. sir.
+Dialogue: 0.0:25:26.39.0:25:28.33.Default..0.0.0..{\an1\pos(354.432)}Stand by\Nfor transport.
+Dialogue: 0.0:25:28.32.0:25:29.82.Default..0.0.0..{\an1\pos(426.432)}Picard out.
+Dialogue: 0.0:25:29.82.0:25:33.32.Default..0.0.0..{\an1\pos(102.432)}Mr. Worf. have all security\N\h\hprecautions been taken?
+Dialogue: 0.0:25:33.33.0:25:34.73.Default..0.0.0..{\an1\pos(120.432)}Release of the force field
+Dialogue: 0.0:25:34.73.0:25:36.23.Default..0.0.0..{\an1\pos(192.432)}\h\hand activation\Nof the transporter
+Dialogue: 0.0:25:36.23.0:25:38.24.Default..0.0.0..{\an1\pos(66.432)}will be virtually simultaneous.
+Dialogue: 0.0:25:38.23.0:25:41.01.Default..0.0.0..{\an1\pos(84.432)}There will only be a .1 second\N\h\h\hdifference between them.
+Dialogue: 0.0:25:41.02.0:25:43.42.Default..0.0.0..{\an1\pos(66.432)}Even Danar can't\Nmove that fast.
+Dialogue: 0.0:25:43.42.0:25:44.76.Default..0.0.0..{\an1\pos(66.408)}There will be
+Dialogue: 0.0:25:44.76.0:25:46.53.Default..0.0.0..{\an1\pos(120.432)}a full security contingent\N\h\h\h\h\h\h\h\h\hpresent.
+Dialogue: 0.0:25:46.52.0:25:48.22.Default..0.0.0..{\an1\pos(498.432)}Proceed.
+Dialogue: 0.0:25:57.87.0:25:59.69.Default..0.0.0..{\an1\pos(174.432)}Transporter Room One\Nto Lieutenant Worf.
+Dialogue: 0.0:25:59.69.0:26:01.06.Default..0.0.0..{\an1\pos(192.432)}We're ready. sir.
+Dialogue: 0.0:26:01.06.0:26:03.11.Default..0.0.0..{\an1\pos(246.408)}Energizing.
+Dialogue: 0.0:26:12.12.0:26:14.79.Default..0.0.0..{\an1\pos(192.432)}\h\h\h\h\h\hWORF:\NO'Brien. increase\Ntransporter power.
+Dialogue: 0.0:26:14.79.0:26:16.66.Default..0.0.0..{\an1\pos(210.432)}I'm losing him.
+Dialogue: 0.0:26:16.65.0:26:19.08.Default..0.0.0..{\an1\pos(426.432)}TROI:\NRoga. don't!
+Dialogue: 0.0:26:19.09.0:26:20.39.Default..0.0.0..{\an1\pos(282.432)}You'll be killed!
+Dialogue: 0.0:26:22.16.0:26:24.26.Default..0.0.0..{\an1\pos(228.432)}( {\i1}explosion{\r} )
+Dialogue: 0.0:26:24.26.0:26:27.02.Default..0.0.0..{\an1\pos(192.432)}What the hell...?
+Dialogue: 0.0:26:27.01.0:26:31.06.Default..0.0.0..{\an1\pos(192.432)}( {\i1}alarm beeping{\r} )
+Dialogue: 0.0:26:38.74.0:26:40.30.Default..0.0.0..{\an1\pos(282.432)}Security personnel--\Nfull alert.
+Dialogue: 0.0:26:40.31.0:26:41.82.Default..0.0.0..{\an1\pos(354.432)}Shut down all\Nshuttle bays
+Dialogue: 0.0:26:41.81.0:26:42.81.Default..0.0.0..{\an1\pos(354.432)}transporters\Nand turbolifts.
+Dialogue: 0.0:26:43.31.0:26:44.81.Default..0.0.0..{\an1\pos(84.408)}\h\h\h\h\h\h\h\h\h\h\h\hWORF:\NCaptain. a phaser is missing.
+Dialogue: 0.0:26:44.82.0:26:47.20.Default..0.0.0..{\an1\pos(66.432)}We must assume that he is armed.
+Dialogue: 0.0:26:49.95.0:26:51.30.Default..0.0.0..{\an1\pos(66.432)}Sound general quarters.
+Dialogue: 0.0:26:51.31.0:26:54.31.Default..0.0.0..{\an1\pos(66.432)}Clear all corridors\Nof nonessential personnel.
+Dialogue: 0.0:26:54.31.0:26:56.31.Default..0.0.0..{\an1\pos(66.432)}We don't want him\Ntaking any hostages.
+Dialogue: 0.0:26:56.31.0:26:58.06.Default..0.0.0..{\an1\pos(84.432)}General quarters sounded. sir.
+Dialogue: 0.0:26:58.06.0:26:59.95.Default..0.0.0..{\an1\pos(66.432)}Raise security containment\Nfields immediately
+Dialogue: 0.0:26:59.95.0:27:01.45.Default..0.0.0..{\an1\pos(66.432)}on decks 34. 35 and 36.
+Dialogue: 0.0:27:01.45.0:27:02.45.Default..0.0.0..{\an1\pos(264.408)}Aye. sir.
+Dialogue: 0.0:27:02.45.0:27:06.02.Default..0.0.0..{\an1\pos(354.432)}Data. put\Nthe turbolifts\Nback on line.
+Dialogue: 0.0:27:06.02.0:27:07.32.Default..0.0.0..{\an1\pos(282.432)}If Danar sees\Nthey're operating
+Dialogue: 0.0:27:07.32.0:27:08.83.Default..0.0.0..{\an1\pos(210.432)}he may try to use them.
+Dialogue: 0.0:27:08.82.0:27:10.53.Default..0.0.0..{\an1\pos(282.432)}As soon as he does.\Nwe have him.
+Dialogue: 0.0:27:40.34.0:27:44.51.Default..0.0.0..{\an1\pos(66.432)}Sir. unauthorized access\Nof turbolift five on deck 34.
+Dialogue: 0.0:27:44.51.0:27:45.86.Default..0.0.0..{\an1\pos(282.432)}He took the bait.
+Dialogue: 0.0:27:45.86.0:27:47.23.Default..0.0.0..{\an1\pos(138.432)}Data
+Dialogue: 0.0:27:47.23.0:27:49.62.Default..0.0.0..{\an1\pos(426.432)}override its\Ndestination.
+Dialogue: 0.0:27:49.61.0:27:51.46.Default..0.0.0..{\an1\pos(66.432)}Divert that turbolift\Nto a position near
+Dialogue: 0.0:27:51.47.0:27:52.97.Default..0.0.0..{\an1\pos(66.432)}to Lieutenant Worf's\Npresent location.
+Dialogue: 0.0:27:52.97.0:27:55.62.Default..0.0.0..{\an1\pos(84.432)}Four seconds to arrival. sir.
+Dialogue: 0.0:27:58.84.0:28:00.56.Default..0.0.0..{\an1\pos(282.432)}We're in position.
+Dialogue: 0.0:28:02.19.0:28:05.76.Default..0.0.0..{\an1\pos(138.432)}( {\i1}electronic shrieking{\r} )
+Dialogue: 0.0:28:05.76.0:28:07.32.Default..0.0.0..{\an1\pos(174.432)}Phaser on overload!
+Dialogue: 0.0:28:07.33.0:28:09.25.Default..0.0.0..{\an1\pos(210.432)}Seal this deck!
+Dialogue: 0.0:28:11.25.0:28:12.71.Default..0.0.0..{\an1\pos(120.432)}( {\i1}shrieking intensifies{\r} )
+Dialogue: 0.0:28:15.76.0:28:17.76.Default..0.0.0..{\an1\pos(174.432)}( {\i1}shrieking stops{\r} )
+Dialogue: 0.0:28:20.09.0:28:24.52.Default..0.0.0..{\an1\pos(156.408)}\h\h\h\h\h\h\h\hWORF:\NCaptain. the overload\N\h\hhas been averted.
+Dialogue: 0.0:28:32.92.0:28:34.42.Default..0.0.0..{\an1\pos(66.432)}( {\i1}grunts and yells{\r} )
+Dialogue: 0.0:28:36.43.0:28:37.43.Default..0.0.0..{\an1\pos(426.432)}( {\i1}beeps{\r} )
+Dialogue: 0.0:28:37.43.0:28:40.73.Default..0.0.0..{\an1\pos(102.432)}Drop force field on deck 36.
+Dialogue: 0.0:28:45.15.0:28:48.77.Default..0.0.0..{\an1\pos(102.432)}Sir. containment field down\N\h\h\h\h\h\h\h\hon deck 36.
+Dialogue: 0.0:28:48.77.0:28:50.53.Default..0.0.0..{\an1\pos(354.432)}How the hell did\Nhe manage that?
+Dialogue: 0.0:28:50.54.0:28:52.55.Default..0.0.0..{\an1\pos(66.432)}He's headed for Engineering.
+Dialogue: 0.0:28:53.04.0:28:55.04.Default..0.0.0..{\an1\pos(282.432)}Riker to La Forge.
+Dialogue: 0.0:28:55.05.0:28:57.30.Default..0.0.0..{\an1\pos(210.432)}Engineering. respond.
+Dialogue: 0.0:28:57.30.0:28:59.55.Default..0.0.0..{\an1\pos(246.408)}Engineering?
+Dialogue: 0.0:28:59.55.0:29:02.56.Default..0.0.0..{\an1\pos(156.408)}Engineering. come in.
+Dialogue: 0.0:29:02.55.0:29:04.55.Default..0.0.0..{\an1\pos(156.408)}Geordi. are you okay?
+Dialogue: 0.0:29:14.37.0:29:16.62.Default..0.0.0..{\an1\pos(354.432)}Captain. someone\Nin Engineering
+Dialogue: 0.0:29:16.62.0:29:19.12.Default..0.0.0..{\an1\pos(138.432)}is attempting to override\Nthe security system lockout.
+Dialogue: 0.0:29:19.12.0:29:20.61.Default..0.0.0..{\an1\pos(354.432)}Riker to Worf.
+Dialogue: 0.0:29:20.60.0:29:21.97.Default..0.0.0..{\an1\pos(282.432)}He's in Engineering.
+Dialogue: 0.0:29:21.97.0:29:23.38.Default..0.0.0..{\an1\pos(138.432)}Acknowledged. Commander.
+Dialogue: 0.0:29:23.39.0:29:25.65.Default..0.0.0..{\an1\pos(66.432)}We're on our way.
+Dialogue: 0.0:29:25.64.0:29:27.49.Default..0.0.0..{\an1\pos(66.432)}Data. I want you\Nto stall Danar.
+Dialogue: 0.0:29:27.49.0:29:29.27.Default..0.0.0..{\an1\pos(66.432)}Allow him to think\Nhe's succeeding.
+Dialogue: 0.0:29:29.28.0:29:31.15.Default..0.0.0..{\an1\pos(84.432)}As he bypasses each subsystem
+Dialogue: 0.0:29:31.65.0:29:34.40.Default..0.0.0..{\an1\pos(156.432)}\h\h\hI can reroute it\Nwithout his knowledge.
+Dialogue: 0.0:29:34.40.0:29:35.92.Default..0.0.0..{\an1\pos(66.432)}Make it so.
+Dialogue: 0.0:29:39.89.0:29:41.78.Default..0.0.0..{\an1\pos(84.432)}Danar is extremely adept. sir.
+Dialogue: 0.0:29:41.78.0:29:43.28.Default..0.0.0..{\an1\pos(210.432)}I am not certain
+Dialogue: 0.0:29:43.78.0:29:46.53.Default..0.0.0..{\an1\pos(66.432)}\h\h\h\h\hwhich security measure\Nhe is attempting to circumvent.
+Dialogue: 0.0:29:46.53.0:29:48.80.Default..0.0.0..{\an1\pos(66.432)}Sir. Danar\Nhas succeeded
+Dialogue: 0.0:29:48.80.0:29:52.04.Default..0.0.0..{\an1\pos(192.432)}in restoring power\Nto Shuttle Bay 2.
+Dialogue: 0.0:30:14.48.0:30:16.71.Default..0.0.0..{\an1\pos(282.432)}I have overridden\NDanar's bypass.
+Dialogue: 0.0:30:17.21.0:30:19.93.Default..0.0.0..{\an1\pos(282.432)}Shuttle Bay 2 is\Nonce again inactive.
+Dialogue: 0.0:30:19.93.0:30:21.70.Default..0.0.0..{\an1\pos(66.432)}Very good. Mr. Data.
+Dialogue: 0.0:30:21.70.0:30:23.70.Default..0.0.0..{\an1\pos(66.432)}Now I know\Nwhere he's headed.
+Dialogue: 0.0:30:39.63.0:30:41.63.Default..0.0.0..{\an1\pos(138.432)}You okay?
+Dialogue: 0.0:30:41.64.0:30:43.64.Default..0.0.0..{\an1\pos(282.432)}Geordi!
+Dialogue: 0.0:30:45.14.0:30:46.64.Default..0.0.0..{\an1\pos(66.432)}I'm all right.
+Dialogue: 0.0:30:46.64.0:30:49.15.Default..0.0.0..{\an1\pos(66.432)}He took us by surprise.
+Dialogue: 0.0:30:49.14.0:30:51.14.Default..0.0.0..{\an1\pos(66.432)}He came out of nowhere.
+Dialogue: 0.0:30:51.15.0:30:54.65.Default..0.0.0..{\an1\pos(210.432)}I didn't think {\i1}anyone\N{\r}could move that fast.
+Dialogue: 0.0:30:54.65.0:30:58.15.Default..0.0.0..{\an1\pos(138.408)}\h\h\h\h\h\h\h\h\hDATA:\NLieutenant. I am reading\N\h\h\h\han open panel--
+Dialogue: 0.0:30:58.15.0:30:59.66.Default..0.0.0..{\an1\pos(174.408)}K-12. J-9. deck 30.
+Dialogue: 0.0:30:59.65.0:31:00.65.Default..0.0.0..{\an1\pos(138.432)}Acknowledged.
+Dialogue: 0.0:31:01.16.0:31:03.16.Default..0.0.0..{\an1\pos(210.432)}Danar must have climbed\Nup the reactor core
+Dialogue: 0.0:31:03.16.0:31:04.66.Default..0.0.0..{\an1\pos(282.432)}and gotten into\Na Jefferies tube.
+Dialogue: 0.0:31:04.66.0:31:05.91.Default..0.0.0..{\an1\pos(210.432)}He could be anywhere.
+Dialogue: 0.0:31:05.91.0:31:09.67.Default..0.0.0..{\an1\pos(66.432)}We believe he is attempting\Nto reach Shuttle Bay 2.
+Dialogue: 0.0:31:10.16.0:31:11.44.Default..0.0.0..{\an1\pos(354.432)}That's 25 decks\Nup from here--
+Dialogue: 0.0:31:11.45.0:31:13.92.Default..0.0.0..{\an1\pos(354.432)}quite a climb.\Nbut I wouldn't\Nput it past him.
+Dialogue: 0.0:31:13.92.0:31:17.92.Default..0.0.0..{\an1\pos(66.432)}There is a full contingent\Nof security at all Shuttle Bays.
+Dialogue: 0.0:31:17.92.0:31:19.71.Default..0.0.0..{\an1\pos(174.432)}You want my advice?
+Dialogue: 0.0:31:19.71.0:31:21.09.Default..0.0.0..{\an1\pos(264.432)}Double it!
+Dialogue: 0.0:31:31.54.0:31:32.89.Default..0.0.0..{\an1\pos(246.432)}( {\i1}beeping{\r} )
+Dialogue: 0.0:31:32.89.0:31:34.89.Default..0.0.0..{\an1\pos(138.432)}Captain. reading another\N\h\h\hopen access panel.
+Dialogue: 0.0:31:37.81.0:31:40.81.Default..0.0.0..{\an1\pos(66.432)}Security team\Nto Jefferies tube J-4. deck 15.
+Dialogue: 0.0:31:40.81.0:31:42.15.Default..0.0.0..{\an1\pos(138.408)}Security. acknowledged.
+Dialogue: 0.0:31:47.89.0:31:52.21.Default..0.0.0..{\an1\pos(246.432)}Deck 15-- a few decks\Nbelow the Shuttle Bay.
+Dialogue: 0.0:31:52.21.0:31:54.16.Default..0.0.0..{\an1\pos(84.432)}Sir. I find it highly unlikely
+Dialogue: 0.0:31:54.16.0:31:56.50.Default..0.0.0..{\an1\pos(84.432)}that Danar would be attempting\N\h\h\hto reach Shuttle Bay 2.
+Dialogue: 0.0:31:56.49.0:31:57.29.Default..0.0.0..{\an1\pos(138.432)}Explain.
+Dialogue: 0.0:31:57.80.0:31:58.68.Default..0.0.0..{\an1\pos(372.432)}In our previous\Nencounter
+Dialogue: 0.0:31:58.68.0:32:01.10.Default..0.0.0..{\an1\pos(120.432)}Danar employed a strategy\N\h\h\h\h\hof misdirection
+Dialogue: 0.0:32:01.10.0:32:03.40.Default..0.0.0..{\an1\pos(156.432)}\h\h\h\hin an attempt\Nto gain his objective.
+Dialogue: 0.0:32:03.40.0:32:06.24.Default..0.0.0..{\an1\pos(66.432)}And you believe he's using\Nthe same tactic now?
+Dialogue: 0.0:32:06.24.0:32:08.64.Default..0.0.0..{\an1\pos(102.432)}He is aware that our sensors\N\h\hare unable to track him
+Dialogue: 0.0:32:08.64.0:32:10.14.Default..0.0.0..{\an1\pos(102.432)}yet he seems to be purposely\N\h\h\h\h\h\hleaving a trail
+Dialogue: 0.0:32:10.14.0:32:11.44.Default..0.0.0..{\an1\pos(192.432)}for us to follow.
+Dialogue: 0.0:32:11.44.0:32:14.23.Default..0.0.0..{\an1\pos(282.432)}Where do you think\Nhe's headed?
+Dialogue: 0.0:32:14.23.0:32:17.72.Default..0.0.0..{\an1\pos(66.432)}I am afraid his true destination\N\h\h\h\h\h\h\hremains a mystery.
+Dialogue: 0.0:32:25.06.0:32:27.81.Default..0.0.0..{\an1\pos(156.432)}Readings now indicate\Nan open access panel
+Dialogue: 0.0:32:27.81.0:32:30.76.Default..0.0.0..{\an1\pos(282.432)}in Jefferies tube\NN-11. deck 38.
+Dialogue: 0.0:32:30.76.0:32:32.27.Default..0.0.0..{\an1\pos(66.432)}He's doubled back on us.
+Dialogue: 0.0:32:32.26.0:32:34.26.Default..0.0.0..{\an1\pos(354.432)}The cargo bays.
+Dialogue: 0.0:32:34.26.0:32:38.76.Default..0.0.0..{\an1\pos(66.432)}Advise all personnel on deck 38\Nto stay out of the cargo bays.
+Dialogue: 0.0:32:38.77.0:32:39.77.Default..0.0.0..{\an1\pos(426.432)}DATA:\NAye. sir.
+Dialogue: 0.0:32:56.50.0:32:57.90.Default..0.0.0..{\an1\pos(66.432)}PICARD:\NStatus. Mr. Data?
+Dialogue: 0.0:32:58.41.0:32:59.91.Default..0.0.0..{\an1\pos(84.432)}They appear to be empty. sir.
+Dialogue: 0.0:32:59.91.0:33:04.38.Default..0.0.0..{\an1\pos(84.432)}Good. I want you to flood them\N\h\h\h\h\h\hwith anesthizine.
+Dialogue: 0.0:33:04.38.0:33:06.58.Default..0.0.0..{\an1\pos(426.432)}DATA:\NAye. sir.
+Dialogue: 0.0:33:08.37.0:33:12.41.Default..0.0.0..{\an1\pos(210.432)}( {\i1}loud hissing{\r} )
+Dialogue: 0.0:33:18.16.0:33:20.16.Default..0.0.0..{\an1\pos(120.432)}( {\i1}equipment powering up{\r} )
+Dialogue: 0.0:33:26.82.0:33:29.11.Default..0.0.0..{\an1\pos(138.432)}Sensors show anesthizine\N\h\h\h\h\hconcentration
+Dialogue: 0.0:33:29.10.0:33:30.46.Default..0.0.0..{\an1\pos(174.432)}70 parts per million
+Dialogue: 0.0:33:30.47.0:33:31.94.Default..0.0.0..{\an1\pos(426.432)}within the\Ncargo bays.
+Dialogue: 0.0:33:31.94.0:33:34.19.Default..0.0.0..{\an1\pos(138.432)}That should put our boy\N\h\h\h\h\h\h\hto sleep.
+Dialogue: 0.0:33:34.19.0:33:37.05.Default..0.0.0..{\an1\pos(66.432)}Return environmental conditions\N\h\h\h\h\h\hto normal. Mr. Data.
+Dialogue: 0.0:33:39.25.0:33:41.53.Default..0.0.0..{\an1\pos(102.432)}Move in your security teams.\N\h\h\h\h\h\h\h\h\hMr. Worf.
+Dialogue: 0.0:33:41.53.0:33:42.92.Default..0.0.0..{\an1\pos(228.408)}Acknowledged.
+Dialogue: 0.0:34:13.13.0:34:14.63.Default..0.0.0..{\an1\pos(210.432)}Worf to Bridge.
+Dialogue: 0.0:34:14.63.0:34:17.14.Default..0.0.0..{\an1\pos(156.432)}We have found no sign\N\h\h\hof the intruder
+Dialogue: 0.0:34:17.13.0:34:19.91.Default..0.0.0..{\an1\pos(138.432)}\h\h\h\h\h\hbut there is\Na missing pressure suit
+Dialogue: 0.0:34:19.92.0:34:21.22.Default..0.0.0..{\an1\pos(192.408)}from Cargo Bay 3.
+Dialogue: 0.0:34:21.22.0:34:22.23.Default..0.0.0..{\an1\pos(228.432)}Pressure suit?
+Dialogue: 0.0:34:22.22.0:34:23.77.Default..0.0.0..{\an1\pos(66.432)}RIKER:\NCould be\Nhe's planning
+Dialogue: 0.0:34:23.77.0:34:25.99.Default..0.0.0..{\an1\pos(102.432)}\h\h\hto enter Shuttle Bay 2\Nfrom outside the {\i1}Enterprise
+Dialogue: 0.0:34:25.99.0:34:27.70.Default..0.0.0..{\an1\pos(66.432)}bypassing\Nthe security guards.
+Dialogue: 0.0:34:28.21.0:34:31.97.Default..0.0.0..{\an1\pos(84.432)}Mr. Worf. post security guards\N\h\hat all emergency airlocks
+Dialogue: 0.0:34:31.97.0:34:34.09.Default..0.0.0..{\an1\pos(138.408)}on decks 37 through 39.
+Dialogue: 0.0:34:34.08.0:34:35.08.Default..0.0.0..{\an1\pos(264.432)}Aye. sir.
+Dialogue: 0.0:34:36.42.0:34:39.38.Default..0.0.0..{\an1\pos(84.432)}\h\h\h\h\h\h\hI'll also cover\Nthe photon torpedo launchers.
+Dialogue: 0.0:34:39.37.0:34:42.37.Default..0.0.0..{\an1\pos(102.432)}\h\h\h\h\hDanar may attempt\Nto leave the ship that way.
+Dialogue: 0.0:34:42.38.0:34:43.38.Default..0.0.0..{\an1\pos(264.432)}Worf out.
+Dialogue: 0.0:34:59.11.0:35:00.36.Default..0.0.0..{\an1\pos(498.432)}WORF:\NDanar!
+Dialogue: 0.0:35:02.13.0:35:03.85.Default..0.0.0..{\an1\pos(210.432)}You are cunning.
+Dialogue: 0.0:35:06.15.0:35:09.16.Default..0.0.0..{\an1\pos(102.432)}You must have Klingon blood
+Dialogue: 0.0:35:09.15.0:35:11.48.Default..0.0.0..{\an1\pos(138.432)}but the battle is over.
+Dialogue: 0.0:35:11.49.0:35:14.29.Default..0.0.0..{\an1\pos(138.432)}My battle is never over.
+Dialogue: 0.0:35:15.71.0:35:16.96.Default..0.0.0..{\an1\pos(210.432)}Worf to Bridge--
+Dialogue: 0.0:35:16.96.0:35:18.61.Default..0.0.0..{\an1\pos(354.432)}I have Danar.
+Dialogue: 0.0:35:30.44.0:35:33.11.Default..0.0.0..{\an1\pos(102.432)}Explosion in Jefferies tube.\N\h\h\h\h\h\h\hsection T-95.
+Dialogue: 0.0:35:33.11.0:35:35.68.Default..0.0.0..{\an1\pos(282.432)}All external sensors\Ninoperative.
+Dialogue: 0.0:35:35.68.0:35:37.33.Default..0.0.0..{\an1\pos(156.432)}Go to backup systems.
+Dialogue: 0.0:35:38.63.0:35:41.02.Default..0.0.0..{\an1\pos(66.432)}Unable to transfer control. sir.
+Dialogue: 0.0:35:41.02.0:35:43.31.Default..0.0.0..{\an1\pos(84.432)}( {\i1}both grunting and groaning{\r} )
+Dialogue: 0.0:36:02.01.0:36:04.01.Default..0.0.0..{\an1\pos(246.432)}( {\i1}beeping{\r} )
+Dialogue: 0.0:36:23.73.0:36:25.73.Default..0.0.0..{\an1\pos(66.432)}Sit down. gentlemen.
+Dialogue: 0.0:36:26.56.0:36:28.91.Default..0.0.0..{\an1\pos(246.432)}( {\i1}groaning{\r} )
+Dialogue: 0.0:36:41.50.0:36:43.50.Default..0.0.0..{\an1\pos(102.432)}( {\i1}equipment powering down{\r} )
+Dialogue: 0.0:36:45.50.0:36:47.00.Default..0.0.0..{\an1\pos(210.432)}Worf to Bridge.
+Dialogue: 0.0:36:47.00.0:36:48.00.Default..0.0.0..{\an1\pos(264.408)}\h\hRIKER:\NGo ahead.
+Dialogue: 0.0:36:48.00.0:36:49.76.Default..0.0.0..{\an1\pos(192.432)}Danar has escaped.
+Dialogue: 0.0:36:49.75.0:36:52.83.Default..0.0.0..{\an1\pos(66.408)}\h\h\h\h\h\h\h\hHe used a phaser\Nto power the cargo transporter.
+Dialogue: 0.0:36:52.84.0:36:54.61.Default..0.0.0..{\an1\pos(174.408)}Coordinates indicate
+Dialogue: 0.0:36:54.61.0:36:57.61.Default..0.0.0..{\an1\pos(102.408)}\h\h\h\h\h\hhe beamed aboard\Nthe Angosian transport ship.
+Dialogue: 0.0:36:57.61.0:36:59.62.Default..0.0.0..{\an1\pos(120.432)}Data. can you verify that?
+Dialogue: 0.0:37:00.11.0:37:02.11.Default..0.0.0..{\an1\pos(282.432)}Negative. sir. All\Nexternal sensors
+Dialogue: 0.0:37:02.12.0:37:04.30.Default..0.0.0..{\an1\pos(156.432)}still nonfunctioning.
+Dialogue: 0.0:37:06.07.0:37:08.57.Default..0.0.0..{\an1\pos(174.432)}Then we have no way\N\h\h\hto track him.
+Dialogue: 0.0:37:08.57.0:37:11.58.Default..0.0.0..{\an1\pos(102.432)}That was his plan all along.
+Dialogue: 0.0:37:18.62.0:37:20.29.Default..0.0.0..{\an1\pos(174.432)}{\i1}First Officer's Log.\N\h\h\h\hsupplemental.
+Dialogue: 0.0:37:20.28.0:37:23.48.Default..0.0.0..{\an1\pos(102.432)}{\i1}We are continuing to repair\Ndamage to the ship's sensors
+Dialogue: 0.0:37:23.49.0:37:26.63.Default..0.0.0..{\an1\pos(84.432)}\h\h\h\h\h{\i1}following the escape\Nof the Angosian prisoner Danar.
+Dialogue: 0.0:37:26.62.0:37:28.38.Default..0.0.0..{\an1\pos(174.432)}{\i1}He is still at large.
+Dialogue: 0.0:37:28.39.0:37:30.40.Default..0.0.0..{\an1\pos(138.432)}Engineering. I'm getting\N\hreadings on tactical.
+Dialogue: 0.0:37:30.39.0:37:31.39.Default..0.0.0..{\an1\pos(210.432)}Are we back up?
+Dialogue: 0.0:37:31.39.0:37:33.39.Default..0.0.0..{\an1\pos(84.408)}\h\h\h\h\h\h\h\h\h\hLA FORGE:\NThat's affirmative. Commander.
+Dialogue: 0.0:37:33.40.0:37:35.20.Default..0.0.0..{\an1\pos(120.432)}Mr. Worf. sweep the area.
+Dialogue: 0.0:37:35.20.0:37:37.90.Default..0.0.0..{\an1\pos(102.432)}Captain. the Prime Minister\Nis hailing us. priority one.
+Dialogue: 0.0:37:37.90.0:37:40.41.Default..0.0.0..{\an1\pos(210.432)}On screen.
+Dialogue: 0.0:37:40.40.0:37:42.90.Default..0.0.0..{\an1\pos(120.432)}\h\h\h\h\h\h\h\h\h\hWORF:\NPriority channel cleared.
+Dialogue: 0.0:37:43.41.0:37:44.69.Default..0.0.0..{\an1\pos(174.432)}Yes. Prime Minister?
+Dialogue: 0.0:37:44.69.0:37:46.51.Default..0.0.0..{\an1\pos(66.408)}Captain. I've just been informed
+Dialogue: 0.0:37:46.51.0:37:49.28.Default..0.0.0..{\an1\pos(102.408)}that Roga Danar has attacked\Nthe penal colony on Lunar V.
+Dialogue: 0.0:37:49.28.0:37:50.62.Default..0.0.0..{\an1\pos(246.432)}Attacked it?
+Dialogue: 0.0:37:50.61.0:37:52.61.Default..0.0.0..{\an1\pos(120.408)}In our own police shuttle.
+Dialogue: 0.0:37:52.62.0:37:54.70.Default..0.0.0..{\an1\pos(174.408)}Several of my people\N\hhave been wounded.
+Dialogue: 0.0:37:54.70.0:37:56.96.Default..0.0.0..{\an1\pos(156.408)}Hundreds of prisoners\N\h\h\h\h\hare rioting.
+Dialogue: 0.0:37:56.95.0:37:58.55.Default..0.0.0..{\an1\pos(120.408)}Some of them have escaped\N\h\h\h\h\h\h\h\hwith Danar
+Dialogue: 0.0:37:58.56.0:38:00.56.Default..0.0.0..{\an1\pos(66.408)}and. at last report. are headed\N\h\h\h\htoward the capital city.
+Dialogue: 0.0:38:00.56.0:38:04.43.Default..0.0.0..{\an1\pos(66.408)}\h\h\hCaptain. we are not suited\Nto handle situations like this.
+Dialogue: 0.0:38:04.43.0:38:06.70.Default..0.0.0..{\an1\pos(66.408)}That's what we created {\i1}them{\r} for.
+Dialogue: 0.0:38:06.70.0:38:09.99.Default..0.0.0..{\an1\pos(138.432)}We'll send an away team.\N\h\h\h\hPrime Minister.
+Dialogue: 0.0:38:10.48.0:38:11.48.Default..0.0.0..{\an1\pos(246.432)}Picard out.
+Dialogue: 0.0:38:11.99.0:38:14.49.Default..0.0.0..{\an1\pos(120.432)}\h\h\h\h\hCounselor Troi.\NCommander Data. Mr. Worf--
+Dialogue: 0.0:38:14.99.0:38:17.24.Default..0.0.0..{\an1\pos(156.432)}you will accompany me\N\h\h\h\hto the planet.
+Dialogue: 0.0:38:28.54.0:38:29.96.Default..0.0.0..{\an1\pos(138.432)}And my understanding is
+Dialogue: 0.0:38:29.95.0:38:31.45.Default..0.0.0..{\an1\pos(120.432)}\h\h\h\h\h\hthat these men\Nare programmed to survive.
+Dialogue: 0.0:38:31.45.0:38:32.95.Default..0.0.0..{\an1\pos(210.432)}Is that correct?
+Dialogue: 0.0:38:32.96.0:38:34.46.Default..0.0.0..{\an1\pos(138.432)}Yes. Captain.
+Dialogue: 0.0:38:34.46.0:38:35.96.Default..0.0.0..{\an1\pos(354.432)}And that they\Nwill not kill
+Dialogue: 0.0:38:35.96.0:38:37.96.Default..0.0.0..{\an1\pos(210.432)}unless their survival\Nis at stake.
+Dialogue: 0.0:38:37.96.0:38:40.47.Default..0.0.0..{\an1\pos(120.432)}\h\h\hIt is against their\Nnature to do so. Captain.
+Dialogue: 0.0:38:40.46.0:38:44.96.Default..0.0.0..{\an1\pos(210.432)}Then let us hope they\Ndo not believe their\Nsurvival is at stake.
+Dialogue: 0.0:38:47.64.0:38:49.14.Default..0.0.0..{\an1\pos(354.432)}Mr. Worf...
+Dialogue: 0.0:38:51.14.0:38:54.65.Default..0.0.0..{\an1\pos(84.432)}You are personally responsible\N\h\hfor the Captain's safety.
+Dialogue: 0.0:38:55.15.0:38:57.15.Default..0.0.0..{\an1\pos(66.432)}I understand.\NCommander.
+Dialogue: 0.0:39:01.99.0:39:04.42.Default..0.0.0..{\an1\pos(174.432)}( {\i1}talking quietly{\r} )
+Dialogue: 0.0:39:06.39.0:39:08.89.Default..0.0.0..{\an1\pos(66.432)}I don't expect them\Nto listen to reason.
+Dialogue: 0.0:39:08.89.0:39:11.90.Default..0.0.0..{\an1\pos(66.432)}I loathe the idea\Nof a violent confrontation
+Dialogue: 0.0:39:11.90.0:39:13.90.Default..0.0.0..{\an1\pos(66.432)}but we must\Nbe prepared.
+Dialogue: 0.0:39:13.90.0:39:16.65.Default..0.0.0..{\an1\pos(138.432)}( {\i1}whoosh of beam down{\r} )
+Dialogue: 0.0:39:18.90.0:39:20.71.Default..0.0.0..{\an1\pos(66.432)}MAN:\NIs that it?
+Dialogue: 0.0:39:20.70.0:39:23.07.Default..0.0.0..{\an1\pos(228.432)}\h\h\h\hMAN 2:\NI don't know.
+Dialogue: 0.0:39:23.07.0:39:25.40.Default..0.0.0..{\an1\pos(66.432)}This is all you've brought?
+Dialogue: 0.0:39:25.41.0:39:27.18.Default..0.0.0..{\an1\pos(66.432)}Where are\Nyour security men?
+Dialogue: 0.0:39:27.18.0:39:28.68.Default..0.0.0..{\an1\pos(102.432)}\h\h\h\h\h\h\hWe're not here\Nto fight your wars for you.
+Dialogue: 0.0:39:29.18.0:39:30.18.Default..0.0.0..{\an1\pos(66.432)}They have been seen
+Dialogue: 0.0:39:30.18.0:39:31.68.Default..0.0.0..{\an1\pos(66.432)}moving towards\Nthe center of the city.
+Dialogue: 0.0:39:31.68.0:39:33.07.Default..0.0.0..{\an1\pos(66.432)}People are scared.
+Dialogue: 0.0:39:33.07.0:39:35.34.Default..0.0.0..{\an1\pos(66.432)}Don't you understand. Captain?\NThey're dangerous.
+Dialogue: 0.0:39:35.34.0:39:36.59.Default..0.0.0..{\an1\pos(192.432)}{\i1}You{\r} are dangerous.
+Dialogue: 0.0:39:36.59.0:39:37.59.Default..0.0.0..{\an1\pos(156.432)}They're only victims.
+Dialogue: 0.0:39:37.59.0:39:38.59.Default..0.0.0..{\an1\pos(102.432)}You made them what they are.
+Dialogue: 0.0:39:39.09.0:39:40.59.Default..0.0.0..{\an1\pos(120.432)}\h\h\h\h\h\hYou asked them\Nto defend your way of life
+Dialogue: 0.0:39:40.59.0:39:41.89.Default..0.0.0..{\an1\pos(102.432)}and then you discarded them.
+Dialogue: 0.0:39:41.89.0:39:44.08.Default..0.0.0..{\an1\pos(120.432)}They were not happy here.
+Dialogue: 0.0:39:44.08.0:39:45.90.Default..0.0.0..{\an1\pos(102.432)}They were not welcome here.
+Dialogue: 0.0:39:45.90.0:39:48.58.Default..0.0.0..{\an1\pos(84.432)}It was the will of the people\N\h\h\h\h\h\hto resettle them.
+Dialogue: 0.0:39:48.58.0:39:50.22.Default..0.0.0..{\an1\pos(192.432)}No one was pleased\Nwith the solution
+Dialogue: 0.0:39:50.22.0:39:52.72.Default..0.0.0..{\an1\pos(156.432)}\h\hbut we had to act\Nfor the greater good.
+Dialogue: 0.0:39:52.72.0:39:54.06.Default..0.0.0..{\an1\pos(354.432)}DATA:\NPrime Minister
+Dialogue: 0.0:39:54.05.0:39:56.98.Default..0.0.0..{\an1\pos(138.432)}if you have the skills to\Ncreate a master soldier
+Dialogue: 0.0:39:56.99.0:39:59.28.Default..0.0.0..{\an1\pos(210.432)}can you not counteract\Nthe effect?
+Dialogue: 0.0:39:59.28.0:40:01.63.Default..0.0.0..{\an1\pos(66.432)}The chemicals can be removed\Nfrom their systems
+Dialogue: 0.0:40:02.13.0:40:03.63.Default..0.0.0..{\an1\pos(66.432)}but we're not convinced
+Dialogue: 0.0:40:03.63.0:40:05.13.Default..0.0.0..{\an1\pos(66.432)}that the psychological\Nconditioning
+Dialogue: 0.0:40:05.63.0:40:07.39.Default..0.0.0..{\an1\pos(66.432)}can ever be entirely reversed.
+Dialogue: 0.0:40:07.38.0:40:09.13.Default..0.0.0..{\an1\pos(174.432)}Have you tried. sir?
+Dialogue: 0.0:40:09.14.0:40:10.59.Default..0.0.0..{\an1\pos(120.432)}We studied it thoroughly.
+Dialogue: 0.0:40:11.09.0:40:12.59.Default..0.0.0..{\an1\pos(84.432)}Even before the training began
+Dialogue: 0.0:40:12.59.0:40:15.09.Default..0.0.0..{\an1\pos(156.432)}we knew there would be\Nproblems reversing it.
+Dialogue: 0.0:40:15.09.0:40:16.93.Default..0.0.0..{\an1\pos(84.432)}It was a risk we had to take.
+Dialogue: 0.0:40:16.93.0:40:18.33.Default..0.0.0..{\an1\pos(138.432)}Did you reveal that risk
+Dialogue: 0.0:40:18.33.0:40:20.12.Default..0.0.0..{\an1\pos(120.432)}to the men who volunteered\N\h\h\h\h\h\h\hfor service?
+Dialogue: 0.0:40:20.11.0:40:22.37.Default..0.0.0..{\an1\pos(174.432)}We were helping them\Nto survive the war.
+Dialogue: 0.0:40:22.38.0:40:23.39.Default..0.0.0..{\an1\pos(210.432)}You understand?
+Dialogue: 0.0:40:23.38.0:40:25.85.Default..0.0.0..{\an1\pos(66.432)}They needed\Nthose skills.
+Dialogue: 0.0:40:25.85.0:40:27.80.Default..0.0.0..{\an1\pos(156.432)}They're your brothers.\N\h\h\h\h\h\hyour sons
+Dialogue: 0.0:40:27.80.0:40:29.80.Default..0.0.0..{\an1\pos(120.432)}and you turned your backs\N\h\h\h\h\h\h\h\h\hon them.
+Dialogue: 0.0:40:29.81.0:40:33.08.Default..0.0.0..{\an1\pos(282.432)}TROI:\NThere are methods\Nof treatment.
+Dialogue: 0.0:40:33.08.0:40:34.48.Default..0.0.0..{\an1\pos(192.432)}Until you try them
+Dialogue: 0.0:40:34.48.0:40:36.48.Default..0.0.0..{\an1\pos(210.432)}how can you know\Nthey won't work?
+Dialogue: 0.0:40:36.98.0:40:39.49.Default..0.0.0..{\an1\pos(102.432)}\h\hEven a partial recovery\Ncould give them some peace.
+Dialogue: 0.0:40:39.48.0:40:41.74.Default..0.0.0..{\an1\pos(84.432)}It was the will of the people.
+Dialogue: 0.0:40:41.75.0:40:43.21.Default..0.0.0..{\an1\pos(138.432)}To allow them to suffer?
+Dialogue: 0.0:40:45.69.0:40:47.49.Default..0.0.0..{\an1\pos(138.432)}There was a referendum.
+Dialogue: 0.0:40:47.49.0:40:48.99.Default..0.0.0..{\an1\pos(174.432)}The people weighed\Nthe costs involved.
+Dialogue: 0.0:40:48.99.0:40:50.83.Default..0.0.0..{\an1\pos(138.432)}\h\h\h\h\h\h\hThey chose\Nthe settlement solution.
+Dialogue: 0.0:40:50.83.0:40:54.03.Default..0.0.0..{\an1\pos(120.432)}\h\h\hBesides. we may need\Nto use them again someday.
+Dialogue: 0.0:40:54.03.0:40:55.37.Default..0.0.0..{\an1\pos(228.432)}Have you understood one\Nword that we have said?
+Dialogue: 0.0:40:55.37.0:40:56.37.Default..0.0.0..{\an1\pos(264.432)}ANGOSIAN:\NMove in.
+Dialogue: 0.0:40:56.37.0:40:57.87.Default..0.0.0..{\an1\pos(66.432)}Freeze!
+Dialogue: 0.0:40:57.87.0:40:58.87.Default..0.0.0..{\an1\pos(426.432)}Nobody move!
+Dialogue: 0.0:41:01.59.0:41:02.88.Default..0.0.0..{\an1\pos(426.432)}No. Worf!
+Dialogue: 0.0:41:02.87.0:41:04.67.Default..0.0.0..{\an1\pos(66.432)}All of you--\Ndon't respond.
+Dialogue: 0.0:41:04.67.0:41:06.60.Default..0.0.0..{\an1\pos(66.432)}Don't provoke them further.
+Dialogue: 0.0:41:06.61.0:41:08.40.Default..0.0.0..{\an1\pos(66.432)}Keep those weapons down
+Dialogue: 0.0:41:08.40.0:41:10.43.Default..0.0.0..{\an1\pos(66.432)}unless you wish\Nto be killed.
+Dialogue: 0.0:41:13.62.0:41:15.39.Default..0.0.0..{\an1\pos(354.432)}Do as he says.
+Dialogue: 0.0:41:15.39.0:41:16.79.Default..0.0.0..{\an1\pos(318.432)}No!
+Dialogue: 0.0:41:16.79.0:41:18.29.Default..0.0.0..{\an1\pos(300.432)}Don't.
+Dialogue: 0.0:41:18.29.0:41:19.12.Default..0.0.0..{\an1\pos(264.432)}Shoot us.
+Dialogue: 0.0:41:19.12.0:41:21.01.Default..0.0.0..{\an1\pos(66.432)}Destroy us.
+Dialogue: 0.0:41:21.01.0:41:22.78.Default..0.0.0..{\an1\pos(66.432)}Do what you have to
+Dialogue: 0.0:41:22.78.0:41:25.13.Default..0.0.0..{\an1\pos(102.432)}but you will not ignore us.
+Dialogue: 0.0:41:29.50.0:41:31.74.Default..0.0.0..{\an1\pos(210.432)}Come on. do it!
+Dialogue: 0.0:41:41.54.0:41:42.87.Default..0.0.0..{\an1\pos(246.432)}You cowards.
+Dialogue: 0.0:41:42.88.0:41:45.77.Default..0.0.0..{\an1\pos(84.432)}Yes. and you're not programmed\N\h\h\h\h\h\hto murder cowards.
+Dialogue: 0.0:41:45.77.0:41:48.60.Default..0.0.0..{\an1\pos(66.432)}So if they will not fight back.\N\h\h\h\h\h\h\hwhat will you do?
+Dialogue: 0.0:41:48.60.0:41:52.29.Default..0.0.0..{\an1\pos(174.432)}We will not go back.
+Dialogue: 0.0:41:52.29.0:41:54.06.Default..0.0.0..{\an1\pos(282.432)}You were programmed\Nto survive.
+Dialogue: 0.0:41:54.06.0:41:56.40.Default..0.0.0..{\an1\pos(210.432)}You can survive at\Nthe Lunar V settlement.
+Dialogue: 0.0:41:56.39.0:41:58.70.Default..0.0.0..{\an1\pos(120.432)}To survive is not enough.
+Dialogue: 0.0:41:59.21.0:42:02.09.Default..0.0.0..{\an1\pos(84.432)}To simply exist is not enough.
+Dialogue: 0.0:42:03.97.0:42:06.64.Default..0.0.0..{\an1\pos(84.432)}Roga. tell them what you want.
+Dialogue: 0.0:42:08.49.0:42:11.49.Default..0.0.0..{\an1\pos(138.432)}We want our lives back.
+Dialogue: 0.0:42:11.49.0:42:14.75.Default..0.0.0..{\an1\pos(156.432)}We want to come home.
+Dialogue: 0.0:42:14.74.0:42:16.56.Default..0.0.0..{\an1\pos(282.432)}I am not prepared
+Dialogue: 0.0:42:16.56.0:42:19.06.Default..0.0.0..{\an1\pos(282.432)}to negotiate\Nunder threat. Danar.
+Dialogue: 0.0:42:20.78.0:42:23.51.Default..0.0.0..{\an1\pos(210.432)}But if you will\Nput down your weapons
+Dialogue: 0.0:42:24.02.0:42:26.53.Default..0.0.0..{\an1\pos(282.432)}and return peaceably\Nto Lunar V...
+Dialogue: 0.0:42:27.96.0:42:29.76.Default..0.0.0..{\an1\pos(174.432)}I would be willing.
+Dialogue: 0.0:42:29.76.0:42:34.10.Default..0.0.0..{\an1\pos(174.432)}Mr. Prime Minister.\Nwith all due respect
+Dialogue: 0.0:42:34.10.0:42:39.10.Default..0.0.0..{\an1\pos(120.432)}you will have to force us\N\h\h\h\hor. at least. try.
+Dialogue: 0.0:42:41.00.0:42:43.00.Default..0.0.0..{\an1\pos(282.432)}Captain. you must\Ndo something.
+Dialogue: 0.0:42:43.01.0:42:44.51.Default..0.0.0..{\an1\pos(354.432)}Call your ship.
+Dialogue: 0.0:42:44.51.0:42:46.51.Default..0.0.0..{\an1\pos(66.432)}Quite right.\NPrime Minister.
+Dialogue: 0.0:42:46.51.0:42:50.02.Default..0.0.0..{\an1\pos(84.432)}{\i1}Enterprise.{\r} prepare to beam\Nthe away team back.
+Dialogue: 0.0:42:50.01.0:42:52.01.Default..0.0.0..{\an1\pos(120.408)}\h\h\h\h\h\h\h\h\h\hRIKER:\NAt your command. Captain.
+Dialogue: 0.0:42:52.02.0:42:53.30.Default..0.0.0..{\an1\pos(192.432)}Picard. you can't
+Dialogue: 0.0:42:53.30.0:42:54.59.Default..0.0.0..{\an1\pos(66.432)}leave us\Nlike this.
+Dialogue: 0.0:42:54.58.0:42:57.58.Default..0.0.0..{\an1\pos(138.432)}I have all the information\NI need for my report.
+Dialogue: 0.0:42:57.59.0:42:59.59.Default..0.0.0..{\an1\pos(282.432)}Your prisoner has\Nbeen returned to you
+Dialogue: 0.0:42:59.59.0:43:01.59.Default..0.0.0..{\an1\pos(282.432)}and you have\Na decision to make--
+Dialogue: 0.0:43:01.59.0:43:03.35.Default..0.0.0..{\an1\pos(282.432)}whether to try\Nand force them back
+Dialogue: 0.0:43:03.34.0:43:05.14.Default..0.0.0..{\an1\pos(426.432)}or welcome\Nthem home.
+Dialogue: 0.0:43:05.15.0:43:06.90.Default..0.0.0..{\an1\pos(426.432)}In your\Nown words--
+Dialogue: 0.0:43:06.90.0:43:08.65.Default..0.0.0..{\an1\pos(426.432)}this is not\Nour affair.
+Dialogue: 0.0:43:08.65.0:43:10.37.Default..0.0.0..{\an1\pos(426.432)}We cannot\Ninterfere
+Dialogue: 0.0:43:10.37.0:43:14.16.Default..0.0.0..{\an1\pos(174.432)}in the natural course of\Nyour society's development
+Dialogue: 0.0:43:14.15.0:43:17.15.Default..0.0.0..{\an1\pos(210.432)}and I'd say it's going\Nto develop significantly
+Dialogue: 0.0:43:17.16.0:43:19.16.Default..0.0.0..{\an1\pos(210.432)}in the next few minutes.
+Dialogue: 0.0:43:21.54.0:43:23.54.Default..0.0.0..{\an1\pos(66.432)}It's been an interesting visit.
+Dialogue: 0.0:43:23.55.0:43:25.55.Default..0.0.0..{\an1\pos(66.432)}When you're ready for membership
+Dialogue: 0.0:43:25.55.0:43:29.05.Default..0.0.0..{\an1\pos(66.432)}the Federation will be pleased\Nto reconsider your application.
+Dialogue: 0.0:43:29.05.0:43:30.36.Default..0.0.0..{\an1\pos(264.432)}Mr. Riker
+Dialogue: 0.0:43:30.35.0:43:32.95.Default..0.0.0..{\an1\pos(354.432)}four to beam up.
+Dialogue: 0.0:43:32.96.0:43:34.73.Default..0.0.0..{\an1\pos(264.408)}\h\hRIKER:\NAye. sir.
+Dialogue: 0.0:43:55.98.0:43:57.98.Default..0.0.0..{\an1\pos(66.432)}Success. Captain?
+Dialogue: 0.0:43:57.98.0:43:59.49.Default..0.0.0..{\an1\pos(426.432)}Number One
+Dialogue: 0.0:43:59.48.0:44:01.48.Default..0.0.0..{\an1\pos(102.432)}will you note in our report
+Dialogue: 0.0:44:01.48.0:44:04.98.Default..0.0.0..{\an1\pos(84.432)}\h\h\h\hthat if the government\Nof Angosia survives the night
+Dialogue: 0.0:44:04.99.0:44:07.49.Default..0.0.0..{\an1\pos(156.432)}\h\hwe will offer them\NFederation assistance
+Dialogue: 0.0:44:07.49.0:44:10.50.Default..0.0.0..{\an1\pos(102.432)}\h\h\h\h\h\hin their efforts\Nto reprogram their veterans.
+Dialogue: 0.0:44:10.99.0:44:13.49.Default..0.0.0..{\an1\pos(66.432)}And if the government\Ndoesn't survive?
+Dialogue: 0.0:44:13.50.0:44:17.00.Default..0.0.0..{\an1\pos(174.432)}\h\hI have a feeling\Nthey will choose to.
+Dialogue: 0.0:44:17.00.0:44:20.34.Default..0.0.0..{\an1\pos(210.432)}\h\hMr. Crusher.\Nset coordinates
+Dialogue: 0.0:44:20.34.0:44:22.66.Default..0.0.0..{\an1\pos(66.432)}for Starbase\NLya III.
+Dialogue: 0.0:44:22.66.0:44:24.04.Default..0.0.0..{\an1\pos(156.432)}Coordinates set. sir.
+Dialogue: 0.0:44:26.04.0:44:27.54.Default..0.0.0..{\an1\pos(282.432)}Engage.
+Dialogue: 0.0:44:28.80.0:44:32.55.Default..0.0.0..{\an1\pos(138.120)}[Captioning sponsored by\N\h\h\hPARAMOUNT PICTURES
+Dialogue: 0.0:44:32.55.0:44:33.05.Default..0.0.0..{\an1\pos(102.144)}\h\h\h\h\h\h\h\hCaptioned by\N\h\h\h\h\hThe Caption Center\NWGBH Educational Foundation]
