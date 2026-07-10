@@ -1,0 +1,386 @@
+WEBVTT
+
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 720
+PlayResY: 480
+Timer: 100.0
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name. Fontname. Fontsize. PrimaryColour. SecondaryColour. OutlineColour. BackColour. Bold. Italic. Underline. StrikeOut. ScaleX. ScaleY. Spacing. Angle. BorderStyle. Outline. Shadow. Alignment. MarginL. MarginR. MarginV. Encoding
+Style: Default.Lucida Console.30.&H00FFFFFF.&H00FFFFFF.&H000F0F0F.&H000F0F0F.0.0.0.0.100.100.0.0.00.1.2.3.2.20.20.20.0
+
+[Events]
+Format: Layer. Start. End. Style. Actor. MarginL. MarginR. MarginV. Effect. Text
+Dialogue: 0.0:00:04.05.0:00:07.36.Default..0.0.0..{\an1\pos(234.432)}{\i1}♪ The Simpsons ♪
+Dialogue: 0.0:00:07.36.0:00:08.69.Default..0.0.0..{\an1\pos(198.432)}(TIRES SCREECHING)
+Dialogue: 0.0:00:10.31.0:00:11.81.Default..0.0.0..{\an1\pos(324.432)}D'oh!
+Dialogue: 0.0:00:11.81.0:00:12.94.Default..0.0.0..{\an1\pos(270.432)}(SCREAMS)
+Dialogue: 0.0:00:12.95.0:00:13.82.Default..0.0.0..{\an1\pos(198.432)}(BRAKES SCREECHING)
+Dialogue: 0.0:00:14.48.0:00:15.53.Default..0.0.0..{\an1\pos(252.432)}(ALL SHRIEK)
+Dialogue: 0.0:00:29.46.0:00:30.88.Default..0.0.0..{\an1\pos(216.432)}BART: Woo-hoo!
+Dialogue: 0.0:00:30.88.0:00:33.80.Default..0.0.0..{\an1\pos(162.144)}St. Patrick's Day.\NI love how they made\Nthe river green.
+Dialogue: 0.0:00:36.34.0:00:40.18.Default..0.0.0..{\an1\pos(216.144)}Actually. my nuclear\Nplant did that.\NAnd now that you know.
+Dialogue: 0.0:00:40.17.0:00:42.17.Default..0.0.0..{\an1\pos(198.96)}your life is in danger.
+Dialogue: 0.0:00:44.06.0:00:45.39.Default..0.0.0..{\an1\pos(90.96)}(HUMS HAPPY TUNE)
+Dialogue: 0.0:00:45.90.0:00:49.24.Default..0.0.0..{\an1\pos(270.144)}Greetings. fellow\NIrishmen and\Nlady Irishmen.
+Dialogue: 0.0:00:49.23.0:00:52.73.Default..0.0.0..{\an1\pos(90.120)}I. Joseph Fitzgerald O'Malley\NFitzpatrick O'Donnell
+Dialogue: 0.0:00:52.74.0:00:55.53.Default..0.0.0..{\an1\pos(252.144)}"The Edge" Quimby.\Nwelcome you to\NSpringfield's
+Dialogue: 0.0:00:55.82.0:00:58.74.Default..0.0.0..{\an1\pos(288.120)}first booze-free\NSt. Patrick's Day!
+Dialogue: 0.0:00:58.74.0:01:00.53.Default..0.0.0..{\an1\pos(234.96)}(ALL BOOING)
+Dialogue: 0.0:01:01.24.0:01:02.74.Default..0.0.0..{\an1\pos(234.96)}Come on. people.
+Dialogue: 0.0:01:02.75.0:01:05.59.Default..0.0.0..{\an1\pos(90.120)}Your drunken shenanigans\Ndestroy this town every year.
+Dialogue: 0.0:01:05.58.0:01:09.08.Default..0.0.0..{\an1\pos(216.144)}And Ireland is so\Nmuch more than the\Nimbibing of spirits.
+Dialogue: 0.0:01:09.59.0:01:11.26.Default..0.0.0..{\an1\pos(162.120)}The Irish gave the world\Nthe paddy wagon.
+Dialogue: 0.0:01:11.25.0:01:15.84.Default..0.0.0..{\an1\pos(144.144)}the shamrock shake.\Nand folk dancing where you\Ndon't move your arms.
+Dialogue: 0.0:01:16.26.0:01:17.96.Default..0.0.0..{\an1\pos(180.96)}(IRISH MUSIC PLAYING)
+Dialogue: 0.0:01:17.96.0:01:19.04.Default..0.0.0..{\an1\pos(90.96)}(EXCLAIMS)
+Dialogue: 0.0:01:19.05.0:01:21.22.Default..0.0.0..{\an1\pos(252.120)}Where's the IRA\Nwhen you need 'em.
+Dialogue: 0.0:01:21.21.0:01:23.72.Default..0.0.0..{\an1\pos(90.144)}(IN IRISH ACCENT)\NWe renounced the ways\Nof the gun and the bomb.
+Dialogue: 0.0:01:23.72.0:01:25.30.Default..0.0.0..{\an1\pos(234.96)}(ALL CHEERING)
+Dialogue: 0.0:01:25.80.0:01:26.80.Default..0.0.0..{\an1\pos(468.96)}(SIGHS)
+Dialogue: 0.0:01:26.80.0:01:28.80.Default..0.0.0..{\an1\pos(324.144)}In the old days\Nwe would've been\Nall over that.
+Dialogue: 0.0:01:29.22.0:01:31.22.Default..0.0.0..{\an1\pos(126.96)}(BAND PLAYING IRISH MUSIC)
+Dialogue: 0.0:01:33.69.0:01:35.44.Default..0.0.0..{\an1\pos(216.96)}(PEOPLE CHATTERING)
+Dialogue: 0.0:01:35.78.0:01:37.11.Default..0.0.0..{\an1\pos(270.96)}(SILENCE)
+Dialogue: 0.0:01:39.70.0:01:41.70.Default..0.0.0..{\an1\pos(198.96)}(CHILDREN CLAMORING)
+Dialogue: 0.0:01:43.15.0:01:45.90.Default..0.0.0..{\an1\pos(198.432)}(BAND PLAYING HEROIC\NINSTRUMENTAL MUSIC)
+Dialogue: 0.0:01:48.41.0:01:51.91.Default..0.0.0..{\an1\pos(90.120)}Oh. no. The Northern Irish\Nare also having a parade.
+Dialogue: 0.0:01:51.91.0:01:54.75.Default..0.0.0..{\an1\pos(144.144)}Two kinds of Irish people?\NWhat are they\Nfighting over?
+Dialogue: 0.0:01:54.75.0:01:56.46.Default..0.0.0..{\an1\pos(306.120)}Who gets to sleep\Nin the bathtub?
+Dialogue: 0.0:01:56.47.0:02:00.15.Default..0.0.0..{\an1\pos(162.144)}Actually. those Prots and\NCathies have hated each\Nother for centuries.
+Dialogue: 0.0:02:00.14.0:02:03.64.Default..0.0.0..{\an1\pos(144.120)}(SIGHS) It always comes\Ndown to transubstantiation
+Dialogue: 0.0:02:03.64.0:02:05.67.Default..0.0.0..{\an1\pos(234.120)}versus\Nconsubstantiation.
+Dialogue: 0.0:02:07.68.0:02:10.40.Default..0.0.0..{\an1\pos(162.120)}(BOTH SPEAKING\NIRISH-ACCENTED GIBBERISH)
+Dialogue: 0.0:02:10.90.0:02:14.98.Default..0.0.0..{\an1\pos(216.144)}Stop it. both of you!\NYou have a common\Nland. a literature.
+Dialogue: 0.0:02:14.98.0:02:17.60.Default..0.0.0..{\an1\pos(252.120)}and the sweetest\Nsongs on earth!
+Dialogue: 0.0:02:17.60.0:02:20.52.Default..0.0.0..{\an1\pos(144.96)}♪ Too-ra-loo-ra-loo-ral
+Dialogue: 0.0:02:20.52.0:02:23.83.Default..0.0.0..{\an1\pos(198.96)}♪ Too-ra-loo-ra-li
+Dialogue: 0.0:02:23.83.0:02:26.95.Default..0.0.0..{\an1\pos(162.96)}♪ Hush. my little baby
+Dialogue: 0.0:02:26.95.0:02:30.25.Default..0.0.0..{\an1\pos(126.96)}♪ Hush now. don't you cry
+Dialogue: 0.0:02:30.25.0:02:34.00.Default..0.0.0..{\an1\pos(108.96)}ALL: ♪ Too-ra-loo-ra-loo-ral
+Dialogue: 0.0:02:34.00.0:02:37.96.Default..0.0.0..{\an1\pos(198.96)}♪ Too-ra-loo-ra-li
+Dialogue: 0.0:02:37.96.0:02:41.76.Default..0.0.0..{\an1\pos(144.96)}♪ Too-ra-loo-ra-loo-ral
+Dialogue: 0.0:02:41.76.0:02:48.22.Default..0.0.0..{\an1\pos(108.96)}♪ That's an Irish lullaby ♪
+Dialogue: 0.0:02:48.22.0:02:49.72.Default..0.0.0..{\an1\pos(270.96)}(ALL CRYING)
+Dialogue: 0.0:02:54.31.0:02:55.81.Default..0.0.0..{\an1\pos(288.120)}Oh. no!\NWithout the booze.
+Dialogue: 0.0:02:55.81.0:02:57.94.Default..0.0.0..{\an1\pos(198.144)}these guys all remember\Nhow much they\Nhate each other!
+Dialogue: 0.0:03:04.70.0:03:06.37.Default..0.0.0..{\an1\pos(306.96)}(EXCLAIMS)
+Dialogue: 0.0:03:06.37.0:03:10.32.Default..0.0.0..{\an1\pos(126.144)}This was such a pleasant\NSt. Patrick's Day until the\NIrish people showed up.
+Dialogue: 0.0:03:10.32.0:03:11.24.Default..0.0.0..{\an1\pos(90.96)}(CHILDREN CHATTERING)
+Dialogue: 0.0:03:11.74.0:03:12.74.Default..0.0.0..{\an1\pos(270.96)}Urchins!
+Dialogue: 0.0:03:13.74.0:03:15.91.Default..0.0.0..{\an1\pos(180.96)}They took my cupcakes!
+Dialogue: 0.0:03:15.91.0:03:19.91.Default..0.0.0..{\an1\pos(72.144)}(IRISH ACCENT) All right.\Nyou unwanted miracles.\Ngive back the lady's cupcakes.
+Dialogue: 0.0:03:19.92.0:03:22.01.Default..0.0.0..{\an1\pos(306.432)}You don't have\Nthe teeth for it.
+Dialogue: 0.0:03:22.00.0:03:23.75.Default..0.0.0..{\an1\pos(198.432)}(IRISH ACCENT)\NAye. but we could\Ngum the frosting.
+Dialogue: 0.0:03:23.75.0:03:25.17.Default..0.0.0..{\an1\pos(234.432)}Well. if it's good\Ngumming you're after.
+Dialogue: 0.0:03:25.17.0:03:28.47.Default..0.0.0..{\an1\pos(180.432)}wouldn't you rather have\Nthis lovely cabbage?
+Dialogue: 0.0:03:28.47.0:03:30.39.Default..0.0.0..{\an1\pos(306.432)}CHILDREN:\NCabbage. cabbage!
+Dialogue: 0.0:03:30.39.0:03:33.39.Default..0.0.0..{\an1\pos(270.432)}Here you go. ma'am.\NNot a sprinkle nor\Njimmy askew.
+Dialogue: 0.0:03:33.40.0:03:35.91.Default..0.0.0..{\an1\pos(144.432)}Thank you\Nso much. Mr...
+Dialogue: 0.0:03:35.90.0:03:37.23.Default..0.0.0..{\an1\pos(324.432)}Patrick Farrelly\Nat your service.
+Dialogue: 0.0:03:37.57.0:03:40.18.Default..0.0.0..{\an1\pos(90.432)}Marge Simpson.\NWell. Mr. Farrelly.
+Dialogue: 0.0:03:40.19.0:03:43.03.Default..0.0.0..{\an1\pos(90.432)}the least I could do is\Noffer you a cupcake.
+Dialogue: 0.0:03:46.94.0:03:47.94.Default..0.0.0..{\an1\pos(378.432)}Mmm.
+Dialogue: 0.0:03:47.94.0:03:51.11.Default..0.0.0..{\an1\pos(216.432)}Light. moist. and such\Na marvelous\Nshape retention.
+Dialogue: 0.0:03:51.11.0:03:54.12.Default..0.0.0..{\an1\pos(234.432)}Marge. I own a\Nsmall bakery.\NWill you bake for me?
+Dialogue: 0.0:03:54.12.0:03:57.37.Default..0.0.0..{\an1\pos(90.432)}Me? A professional\Nbaker's employee?
+Dialogue: 0.0:03:57.37.0:04:00.37.Default..0.0.0..{\an1\pos(180.432)}Imagine how different\Nmy life would be.
+Dialogue: 0.0:04:03.13.0:04:04.72.Default..0.0.0..{\an1\pos(324.432)}Here we are\Nat school. kids.
+Dialogue: 0.0:04:04.71.0:04:06.71.Default..0.0.0..{\an1\pos(180.432)}Hey. what are those\Nboxes in the back?
+Dialogue: 0.0:04:06.71.0:04:08.93.Default..0.0.0..{\an1\pos(162.408)}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hCakes!\NBOTH: See ya.
+Dialogue: 0.0:04:08.93.0:04:11.05.Default..0.0.0..{\an1\pos(234.408)}I'll do it!\N\h\h\h\hBless your heart.
+Dialogue: 0.0:04:11.05.0:04:13.80.Default..0.0.0..{\an1\pos(126.408)}\h\h\h\h\h\h\hYou won't regret it.\NI already don't.
+Dialogue: 0.0:04:13.80.0:04:16.10.Default..0.0.0..{\an1\pos(126.432)}Homer! I've\Ngot great news!
+Dialogue: 0.0:04:16.11.0:04:18.87.Default..0.0.0..{\an1\pos(126.432)}I'll use my one phone call\Nto find out all about it!
+Dialogue: 0.0:04:23.11.0:04:26.20.Default..0.0.0..{\an1\pos(216.432)}Mulk request\Nchange of venue.
+Dialogue: 0.0:04:26.20.0:04:31.79.Default..0.0.0..{\an1\pos(234.432)}Green monster cannot\Nget fair trial in\Ndowntown Springfield.
+Dialogue: 0.0:04:31.79.0:04:32.95.Default..0.0.0..{\an1\pos(216.432)}Granted.
+Dialogue: 0.0:04:34.29.0:04:36.49.Default..0.0.0..{\an1\pos(180.432)}Homer Simpson?\NYou're a repeat\Noffender.
+Dialogue: 0.0:04:36.49.0:04:37.58.Default..0.0.0..{\an1\pos(414.432)}Three-peat.
+Dialogue: 0.0:04:37.58.0:04:40.96.Default..0.0.0..{\an1\pos(270.432)}Bail is set\Nat $25.000.
+Dialogue: 0.0:04:40.96.0:04:43.30.Default..0.0.0..{\an1\pos(270.432)}(SCOFFS) I make\Nthat in a year.
+Dialogue: 0.0:04:43.30.0:04:44.67.Default..0.0.0..{\an1\pos(180.432)}I suggest you see\Na bail bondsman.
+Dialogue: 0.0:04:48.67.0:04:51.81.Default..0.0.0..{\an1\pos(198.432)}Okay. Simpson.\NAll of your information\Nchecks out.
+Dialogue: 0.0:04:51.81.0:04:53.81.Default..0.0.0..{\an1\pos(288.432)}I called your boss\Nto verify your\Nemployment.
+Dialogue: 0.0:04:53.81.0:04:56.31.Default..0.0.0..{\an1\pos(180.432)}and he says you're fired\Nfor getting arrested.
+Dialogue: 0.0:04:56.31.0:04:57.31.Default..0.0.0..{\an1\pos(396.432)}(LAUGHING)
+Dialogue: 0.0:04:57.31.0:04:59.10.Default..0.0.0..{\an1\pos(342.432)}You'd be amazed\Nhow often that\Nhappens.
+Dialogue: 0.0:04:59.10.0:05:00.43.Default..0.0.0..{\an1\pos(342.432)}Oh!
+Dialogue: 0.0:05:00.43.0:05:01.93.Default..0.0.0..{\an1\pos(324.432)}We'll put up\Nyour bail money.
+Dialogue: 0.0:05:01.93.0:05:05.74.Default..0.0.0..{\an1\pos(216.432)}Just pay us 10 percent\Nand show up for\Nyour court date.
+Dialogue: 0.0:05:05.74.0:05:07.74.Default..0.0.0..{\an1\pos(234.432)}And if I don't\Nshow up?
+Dialogue: 0.0:05:07.74.0:05:12.66.Default..0.0.0..{\an1\pos(90.432)}Then you gotta deal with me.\NThe name's Wolf.\Nand I'm a bounty hunter.
+Dialogue: 0.0:05:12.66.0:05:16.11.Default..0.0.0..{\an1\pos(90.432)}If someone skips bail.\NI track 'em down\Nand bring 'em back.
+Dialogue: 0.0:05:16.12.0:05:20.04.Default..0.0.0..{\an1\pos(180.432)}I also take a tooth.\Nmake a plastic cast.\Nput it on this necklace.
+Dialogue: 0.0:05:20.04.0:05:22.38.Default..0.0.0..{\an1\pos(216.432)}then replace the tooth\Nat my expense.
+Dialogue: 0.0:05:22.37.0:05:25.37.Default..0.0.0..{\an1\pos(90.432)}Well. time to go\Nback to my world\Nof sleazy bars.
+Dialogue: 0.0:05:25.37.0:05:27.93.Default..0.0.0..{\an1\pos(90.432)}tattoo parlors.\Nand greasy spoons.
+Dialogue: 0.0:05:27.93.0:05:31.68.Default..0.0.0..{\an1\pos(306.432)}What a great job.\NAnd I could use\Na job right now.
+Dialogue: 0.0:05:31.68.0:05:33.18.Default..0.0.0..{\an1\pos(180.432)}Whoa!
+Dialogue: 0.0:05:33.68.0:05:36.18.Default..0.0.0..{\an1\pos(90.432)}Not just anyone can be\Na bounty hunter. You have\Nto pass an online exam.
+Dialogue: 0.0:05:36.69.0:05:39.70.Default..0.0.0..{\an1\pos(90.432)}No. wait. They got rid\Nof that. There is a\Nten-dollar filing fee.
+Dialogue: 0.0:05:39.69.0:05:40.94.Default..0.0.0..{\an1\pos(90.432)}But you can get around it.
+Dialogue: 0.0:05:40.94.0:05:43.02.Default..0.0.0..{\an1\pos(162.432)}Congratulations.\NYou're now\Na bounty hunter.
+Dialogue: 0.0:05:43.03.0:05:43.90.Default..0.0.0..{\an1\pos(324.432)}Mmm.
+Dialogue: 0.0:05:45.36.0:05:47.53.Default..0.0.0..{\an1\pos(216.432)}Okay. I've set\Nmy trap.
+Dialogue: 0.0:05:47.53.0:05:51.37.Default..0.0.0..{\an1\pos(180.432)}Now to scatter my\Ncheese cubes and\Nthe rats will come.
+Dialogue: 0.0:05:51.37.0:05:55.82.Default..0.0.0..{\an1\pos(126.432)}Condos! Affordable condos!\NBail jumpers welcome!
+Dialogue: 0.0:05:55.82.0:05:58.87.Default..0.0.0..{\an1\pos(198.432)}"Bail jumpers welcome."\NThat's refreshing.
+Dialogue: 0.0:05:58.88.0:06:04.22.Default..0.0.0..{\an1\pos(180.432)}after the cold shoulder\Nwe got at the Town Homes\Nat Sterling Point.
+Dialogue: 0.0:06:04.21.0:06:08.22.Default..0.0.0..{\an1\pos(90.432)}Let's not get too excited\Ntill we find out if it's in\Na good school district.
+Dialogue: 0.0:06:08.22.0:06:10.72.Default..0.0.0..{\an1\pos(360.432)}Well. so wait.\NAre we telling\Npeople now?
+Dialogue: 0.0:06:10.72.0:06:15.59.Default..0.0.0..{\an1\pos(90.432)}Stop! In the name of\Na private citizen with no\Nconnection to the law!
+Dialogue: 0.0:06:19.35.0:06:22.86.Default..0.0.0..{\an1\pos(90.432)}Now are you gonna\Ncome quietly.\Nor do I have to...
+Dialogue: 0.0:06:22.85.0:06:24.85.Default..0.0.0..{\an1\pos(90.432)}(SCREAMS) Now let's\Nthink about this.
+Dialogue: 0.0:06:25.35.0:06:28.85.Default..0.0.0..{\an1\pos(126.432)}If you shoot me.\NI won't be able\Nto stop you
+Dialogue: 0.0:06:28.85.0:06:33.86.Default..0.0.0..{\an1\pos(90.432)}and you'll be free to go.\NBut someone may\Ncome after you.
+Dialogue: 0.0:06:33.86.0:06:37.36.Default..0.0.0..{\an1\pos(90.432)}Probably not. given your\Nreputation for shooting\Npeople who come after you.
+Dialogue: 0.0:06:37.36.0:06:41.45.Default..0.0.0..{\an1\pos(90.432)}What I'm trying to say is.\Nnot shooting me now
+Dialogue: 0.0:06:41.45.0:06:45.42.Default..0.0.0..{\an1\pos(90.432)}would be the biggest\Nmistake of your life.
+Dialogue: 0.0:06:48.51.0:06:49.51.Default..0.0.0..{\an1\pos(270.432)}(SCREAMING)
+Dialogue: 0.0:06:52.51.0:06:54.38.Default..0.0.0..{\an1\pos(234.432)}(SCREAMING)
+Dialogue: 0.0:06:54.38.0:06:55.18.Default..0.0.0..{\an1\pos(342.432)}(GROANS)
+Dialogue: 0.0:06:55.60.0:06:56.43.Default..0.0.0..{\an1\pos(324.432)}Huh?
+Dialogue: 0.0:06:56.43.0:06:57.43.Default..0.0.0..{\an1\pos(198.432)}Bullet-proof glass.
+Dialogue: 0.0:06:57.43.0:06:58.93.Default..0.0.0..{\an1\pos(360.432)}Flanders?
+Dialogue: 0.0:06:58.94.0:07:01.45.Default..0.0.0..{\an1\pos(90.432)}Yep. I'm just replacing\Nthe front window\Nof my store.
+Dialogue: 0.0:07:01.44.0:07:03.72.Default..0.0.0..{\an1\pos(180.432)}which was broken\Nin the riot.
+Dialogue: 0.0:07:03.72.0:07:05.72.Default..0.0.0..{\an1\pos(90.432)}Young man.\Nwhat would your\Nmother say
+Dialogue: 0.0:07:05.73.0:07:08.90.Default..0.0.0..{\an1\pos(90.432)}if she knew you were\Nshooting nice\Npeople in the brain?
+Dialogue: 0.0:07:08.89.0:07:13.61.Default..0.0.0..{\an1\pos(108.432)}She'd say that year off from\NPrinceton was the worst\Ndecision I ever made.
+Dialogue: 0.0:07:13.62.0:07:16.13.Default..0.0.0..{\an1\pos(90.432)}Well. son. if you\Ntake responsibility\Nfor your actions.
+Dialogue: 0.0:07:16.12.0:07:19.04.Default..0.0.0..{\an1\pos(90.432)}this could be the start\Nof a better life for you.
+Dialogue: 0.0:07:19.04.0:07:21.71.Default..0.0.0..{\an1\pos(180.432)}Maybe you're right.\NMaybe I should just...
+Dialogue: 0.0:07:22.29.0:07:23.79.Default..0.0.0..{\an1\pos(198.432)}(SNAKE GASPING)
+Dialogue: 0.0:07:24.99.0:07:27.75.Default..0.0.0..{\an1\pos(342.432)}This case is\Nin the bag!
+Dialogue: 0.0:07:27.75.0:07:29.58.Default..0.0.0..{\an1\pos(90.432)}Homer. you could've\Nkilled him!
+Dialogue: 0.0:07:29.58.0:07:31.88.Default..0.0.0..{\an1\pos(324.432)}I sure could've.\NThanks to you.
+Dialogue: 0.0:07:33.97.0:07:37.97.Default..0.0.0..{\an1\pos(162.432)}Now I can clearly see\Npotential customers\Nwalk right past my store.
+Dialogue: 0.0:07:37.97.0:07:39.47.Default..0.0.0..{\an1\pos(270.432)}Enjoy your shopping\Nelsewhere.
+Dialogue: 0.0:07:39.48.0:07:41.85.Default..0.0.0..{\an1\pos(90.432)}Hey. Ned. I brought\Nyou something.
+Dialogue: 0.0:07:42.81.0:07:44.31.Default..0.0.0..{\an1\pos(90.432)}(HOMER CHUCKLES)
+Dialogue: 0.0:07:45.73.0:07:47.73.Default..0.0.0..{\an1\pos(144.408)}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hWhat the...\NIt's your share\Nof the money
+Dialogue: 0.0:07:47.73.0:07:50.02.Default..0.0.0..{\an1\pos(90.432)}for bringing in\Nthat bail jumper.
+Dialogue: 0.0:07:50.02.0:07:53.32.Default..0.0.0..{\an1\pos(90.432)}Ned. I never thought\NI'd say this. but we\Nmake a great team.
+Dialogue: 0.0:07:53.74.0:07:57.24.Default..0.0.0..{\an1\pos(198.432)}Us? A team? As the\Nsalad said to the soup.\NI'm all mixed up.
+Dialogue: 0.0:07:57.66.0:07:59.66.Default..0.0.0..{\an1\pos(90.432)}We should be bounty\Nhunters together.
+Dialogue: 0.0:07:59.66.0:08:02.66.Default..0.0.0..{\an1\pos(90.432)}You're kind and smart.\NI'm cruel and strong.
+Dialogue: 0.0:08:03.17.0:08:04.68.Default..0.0.0..{\an1\pos(144.432)}Together.\Nwe're nothing.
+Dialogue: 0.0:08:04.67.0:08:08.00.Default..0.0.0..{\an1\pos(90.432)}But together.\Nwe're the perfect\Nbounty hunter.
+Dialogue: 0.0:08:08.29.0:08:11.96.Default..0.0.0..{\an1\pos(180.432)}Well. I could use money.\NBut you have to promise\Nme something. Homer.
+Dialogue: 0.0:08:11.96.0:08:15.88.Default..0.0.0..{\an1\pos(162.408)}Sure. What is it?\N\h\hWe have to do\N\h\heverything by the book.
+Dialogue: 0.0:08:15.88.0:08:19.88.Default..0.0.0..{\an1\pos(90.432)}And you have to\Npromise no "diddilies"\Nor "doodlies."
+Dialogue: 0.0:08:19.88.0:08:21.97.Default..0.0.0..{\an1\pos(270.432)}My friend. you have\Na dealaroonie!
+Dialogue: 0.0:08:30.73.0:08:35.36.Default..0.0.0..{\an1\pos(288.432)}Mmm. Mmm.\NMmm. Mmm.
+Dialogue: 0.0:08:35.36.0:08:39.37.Default..0.0.0..{\an1\pos(90.432)}Marge. your talent\Nwith cakes is a rare\Nand precious thing.
+Dialogue: 0.0:08:39.37.0:08:42.37.Default..0.0.0..{\an1\pos(378.432)}Well. thanks.\NBut I've been\Nwondering.
+Dialogue: 0.0:08:42.37.0:08:46.99.Default..0.0.0..{\an1\pos(216.432)}Why do you only have\Nme make spheres. rods.\Nand half-moon shapes?
+Dialogue: 0.0:08:46.99.0:08:49.49.Default..0.0.0..{\an1\pos(90.432)}(NERVOUSLY) Well.\NMarge. I'll tell you.
+Dialogue: 0.0:08:49.50.0:08:50.76.Default..0.0.0..{\an1\pos(234.432)}(DOOR OPENING)
+Dialogue: 0.0:08:50.75.0:08:53.63.Default..0.0.0..{\an1\pos(90.432)}right after I talk to\Nthese customers.
+Dialogue: 0.0:08:53.63.0:08:57.42.Default..0.0.0..{\an1\pos(90.432)}(CHUCKLES) We're going to\Na bachelorette party for\Na really naughty girl.
+Dialogue: 0.0:08:57.84.0:09:01.31.Default..0.0.0..{\an1\pos(198.432)}Yeah. We need something\Ntasty and tasteless.
+Dialogue: 0.0:09:01.31.0:09:04.06.Default..0.0.0..{\an1\pos(180.432)}I've got just the thing.\Ncourtesy of my\Nnewest baker.
+Dialogue: 0.0:09:04.06.0:09:06.18.Default..0.0.0..{\an1\pos(342.432)}Freshly frosted\Nass cake.
+Dialogue: 0.0:09:06.18.0:09:07.90.Default..0.0.0..{\an1\pos(126.432)}(BOTH MURMURING EXCITEDLY)
+Dialogue: 0.0:09:07.90.0:09:11.32.Default..0.0.0..{\an1\pos(162.432)}Oh. my God.\NThis is an erotic\Nbakery!
+Dialogue: 0.0:09:15.40.0:09:16.90.Default..0.0.0..{\an1\pos(270.432)}BOTH: Mmm.
+Dialogue: 0.0:09:16.91.0:09:18.42.Default..0.0.0..{\an1\pos(162.432)}Delicious.
+Dialogue: 0.0:09:18.41.0:09:21.61.Default..0.0.0..{\an1\pos(252.432)}Now what do you have\Nin the way of a\Nsuggestive cannoli?
+Dialogue: 0.0:09:21.61.0:09:24.28.Default..0.0.0..{\an1\pos(306.432)}We have quite\Na selection.
+Dialogue: 0.0:09:24.28.0:09:28.12.Default..0.0.0..{\an1\pos(90.408)}\h(LAUGHS EXCITEDLY)\N\hYes! Oh. boy.\NI'll leave you with the book.
+Dialogue: 0.0:09:30.87.0:09:34.04.Default..0.0.0..{\an1\pos(90.432)}How could you not tell me\Nthis is an erotic bakery?
+Dialogue: 0.0:09:34.04.0:09:36.54.Default..0.0.0..{\an1\pos(252.432)}Marge. calm down.\NFor as long as\Nthere's been baking.
+Dialogue: 0.0:09:37.04.0:09:40.54.Default..0.0.0..{\an1\pos(198.432)}there's been erotic\Nbaking. It fills a need\Nand harms no one.
+Dialogue: 0.0:09:40.55.0:09:44.56.Default..0.0.0..{\an1\pos(90.432)}(SCOFFS) Harms no one?\NExplain that to...
+Dialogue: 0.0:09:44.55.0:09:49.19.Default..0.0.0..{\an1\pos(126.432)}Well. what about...\NI think you\Nforgot about...
+Dialogue: 0.0:09:49.19.0:09:52.69.Default..0.0.0..{\an1\pos(126.432)}My number-one customers\Nare married couples.\Nyour friends and neighbors.
+Dialogue: 0.0:09:53.19.0:09:55.14.Default..0.0.0..{\an1\pos(144.432)}I just made a custom order\Nfor the Hibberts.
+Dialogue: 0.0:09:55.14.0:09:57.65.Default..0.0.0..{\an1\pos(198.432)}It's an exact replica\Nof the good doctor's...
+Dialogue: 0.0:09:57.65.0:09:59.90.Default..0.0.0..{\an1\pos(90.408)}I don't want to know!\N\h\h\h\h\h\h\h\h\h\h\h\hIt's not what\N\h\h\h\h\h\h\h\h\h\h\h\hyou think it is.
+Dialogue: 0.0:09:59.90.0:10:01.40.Default..0.0.0..{\an1\pos(198.432)}Good.
+Dialogue: 0.0:10:01.40.0:10:04.95.Default..0.0.0..{\an1\pos(90.408)}\h\h\h\h\h\h\h\h\h\h\h\h\h\hIt's his penis!\NThat's exactly\Nwhat I was thinking!
+Dialogue: 0.0:10:04.95.0:10:07.46.Default..0.0.0..{\an1\pos(180.432)}Marge. this is a\Nvaluable public service.
+Dialogue: 0.0:10:07.46.0:10:10.96.Default..0.0.0..{\an1\pos(180.432)}Without your baking.\Npeople like me will be\Nforced into back alleys.
+Dialogue: 0.0:10:10.96.0:10:13.46.Default..0.0.0..{\an1\pos(288.432)}repurposing Ho Hos\Nand Ding Dongs.
+Dialogue: 0.0:10:13.46.0:10:16.46.Default..0.0.0..{\an1\pos(162.432)}You have a great gift.\NDon't let it go to waste.
+Dialogue: 0.0:10:17.47.0:10:18.97.Default..0.0.0..{\an1\pos(270.432)}Well. okay.
+Dialogue: 0.0:10:23.42.0:10:27.59.Default..0.0.0..{\an1\pos(90.432)}This Taser is awesome!\NFinally. a practical\Nuse for electricity.
+Dialogue: 0.0:10:27.59.0:10:30.90.Default..0.0.0..{\an1\pos(90.432)}Dear Lord. thank you for\Ncreating so many evil\Ncriminals for us to bring in.
+Dialogue: 0.0:10:31.26.0:10:34.15.Default..0.0.0..{\an1\pos(270.432)}And also. thank you\Nfor my partner\NHomer. who...
+Dialogue: 0.0:10:34.15.0:10:36.15.Default..0.0.0..{\an1\pos(288.432)}Did you just Taser\Nmy coffee?
+Dialogue: 0.0:10:36.15.0:10:39.65.Default..0.0.0..{\an1\pos(90.432)}Just warming it up.\NNow to melt the cheese\Nin this croissant.
+Dialogue: 0.0:10:40.16.0:10:42.33.Default..0.0.0..{\an1\pos(144.432)}And get rid of a little\Nexcess earwax.
+Dialogue: 0.0:10:42.32.0:10:43.77.Default..0.0.0..{\an1\pos(270.432)}(GRUNTING)
+Dialogue: 0.0:10:43.78.0:10:46.25.Default..0.0.0..{\an1\pos(162.432)}And smoke\Na relaxing cigar.
+Dialogue: 0.0:10:48.41.0:10:51.42.Default..0.0.0..{\an1\pos(162.408)}\h\h\h\hHomer. can we take it\N\h\h\h\heasy on the Taser?\NNo problem.
+Dialogue: 0.0:10:54.29.0:10:56.84.Default..0.0.0..{\an1\pos(144.408)}\h\h\h\h\h\h\h\h\h(GASPS) Our first\N\h\h\h\h\h\h\h\h\hbail jumper!\NLet's roll.
+Dialogue: 0.0:10:56.84.0:10:58.84.Default..0.0.0..{\an1\pos(108.432)}(TASER VIBRATING)
+Dialogue: 0.0:10:58.84.0:11:00.84.Default..0.0.0..{\an1\pos(342.432)}Homer. take the\NTaser out of\Nyour pants.
+Dialogue: 0.0:11:00.84.0:11:03.01.Default..0.0.0..{\an1\pos(90.432)}No. it looks cool!
+Dialogue: 0.0:11:03.01.0:11:05.21.Default..0.0.0..{\an1\pos(162.432)}{\i1}(ELECTRIC AVENUE{\r} PLAYING)
+Dialogue: 0.0:11:05.21.0:11:06.71.Default..0.0.0..{\an1\pos(324.432)}{\i1}♪ Boy!
+Dialogue: 0.0:11:09.05.0:11:10.35.Default..0.0.0..{\an1\pos(324.432)}{\i1}♪ Boy!
+Dialogue: 0.0:11:13.36.0:11:16.37.Default..0.0.0..{\an1\pos(216.432)}{\i1}♪ Down in the street\Nthere is violence
+Dialogue: 0.0:11:16.36.0:11:18.81.Default..0.0.0..{\an1\pos(216.432)}{\i1}♪ And a lots of work\Nto be done
+Dialogue: 0.0:11:18.81.0:11:21.15.Default..0.0.0..{\an1\pos(216.408)}\h\h\h\h\hMAN: Who's there?\NBible salesman.
+Dialogue: 0.0:11:21.15.0:11:24.03.Default..0.0.0..{\an1\pos(198.432)}{\i1}♪ No place to hang out\Nour washing
+Dialogue: 0.0:11:24.03.0:11:28.29.Default..0.0.0..{\an1\pos(198.432)}{\i1}♪ And I can't blame\Nall on the sun. oh no
+Dialogue: 0.0:11:28.29.0:11:32.41.Default..0.0.0..{\an1\pos(216.432)}{\i1}♪ We gonna rock down\Nto Electric Avenue
+Dialogue: 0.0:11:32.41.0:11:35.83.Default..0.0.0..{\an1\pos(252.432)}{\i1}♪ And then we'll\Ntake it higher
+Dialogue: 0.0:11:35.83.0:11:40.25.Default..0.0.0..{\an1\pos(180.432)}{\i1}♪ Oh. we gonna rock down\Nto Electric Avenue
+Dialogue: 0.0:11:40.25.0:11:42.97.Default..0.0.0..{\an1\pos(252.432)}{\i1}♪ And then we'll\Ntake it higher
+Dialogue: 0.0:11:44.47.0:11:47.42.Default..0.0.0..{\an1\pos(234.432)}{\i1}♪ Workin' so hard\Nlike a soldier ♪
+Dialogue: 0.0:11:50.56.0:11:54.48.Default..0.0.0..{\an1\pos(234.432)}Daddy's home!\NI brought you kids\Nsome stuff from work!
+Dialogue: 0.0:11:54.48.0:11:57.65.Default..0.0.0..{\an1\pos(306.432)}Here you go. son!\NShell casings!
+Dialogue: 0.0:11:57.65.0:12:00.57.Default..0.0.0..{\an1\pos(144.432)}Whoa!\NThere's still bullets\Nin some of these!
+Dialogue: 0.0:12:00.57.0:12:03.57.Default..0.0.0..{\an1\pos(216.432)}Point them away\Nfrom your sisters when\Nyou hammer them.
+Dialogue: 0.0:12:03.57.0:12:04.77.Default..0.0.0..{\an1\pos(144.432)}Yes. sir!
+Dialogue: 0.0:12:04.77.0:12:05.94.Default..0.0.0..{\an1\pos(396.432)}What'd you\Nget for me?
+Dialogue: 0.0:12:06.44.0:12:09.44.Default..0.0.0..{\an1\pos(90.432)}Something for the\Nsweetest little scientist\Nin the world.
+Dialogue: 0.0:12:09.45.0:12:11.17.Default..0.0.0..{\an1\pos(90.432)}A new chemistry set!
+Dialogue: 0.0:12:11.16.0:12:13.75.Default..0.0.0..{\an1\pos(306.432)}Dad. is this from\Na meth lab?
+Dialogue: 0.0:12:13.75.0:12:15.67.Default..0.0.0..{\an1\pos(180.432)}The biggest\None in town!
+Dialogue: 0.0:12:15.67.0:12:17.00.Default..0.0.0..{\an1\pos(306.432)}This is evidence.
+Dialogue: 0.0:12:17.00.0:12:20.76.Default..0.0.0..{\an1\pos(90.432)}Evidence that I\Nlove my little girl.
+Dialogue: 0.0:12:20.76.0:12:25.26.Default..0.0.0..{\an1\pos(144.432)}Marge. I brought you\Nsome flowers. A full dozen\Nthis time! No tricks.
+Dialogue: 0.0:12:25.26.0:12:28.46.Default..0.0.0..{\an1\pos(90.432)}Homie! I got you\Nsomething. too!
+Dialogue: 0.0:12:30.47.0:12:35.23.Default..0.0.0..{\an1\pos(90.432)}A sterling silver picture\Nframe with pictures\Nof our kids in it.
+Dialogue: 0.0:12:35.22.0:12:37.22.Default..0.0.0..{\an1\pos(378.432)}Yes. for now.
+Dialogue: 0.0:12:37.72.0:12:40.22.Default..0.0.0..{\an1\pos(198.432)}I guess things are\Nworking out pretty good\Nat your bakery job.
+Dialogue: 0.0:12:40.23.0:12:43.24.Default..0.0.0..{\an1\pos(252.432)}Maybe we could order\None of your cakes\Nfor Lisa's birthday.
+Dialogue: 0.0:12:43.23.0:12:46.23.Default..0.0.0..{\an1\pos(90.408)}How dare you?\N\h\h\h\h\h\hWhat'd you do that for?
+Dialogue: 0.0:12:46.23.0:12:48.23.Default..0.0.0..{\an1\pos(126.432)}Sorry. Sorry.\NMuscle spasm.
+Dialogue: 0.0:12:48.23.0:12:49.07.Default..0.0.0..{\an1\pos(90.432)}(MARGE LAUGHING)
+Dialogue: 0.0:12:49.07.0:12:52.54.Default..0.0.0..{\an1\pos(270.432)}I'm not convinced.\NStill on the fence.
+Dialogue: 0.0:12:52.54.0:12:53.90.Default..0.0.0..{\an1\pos(288.432)}Now I believe you.
+Dialogue: 0.0:12:55.71.0:12:58.21.Default..0.0.0..{\an1\pos(90.432)}He'll be here\Nsooner or later.
+Dialogue: 0.0:13:02.55.0:13:04.97.Default..0.0.0..{\an1\pos(342.432)}(HOMER HUMMING)
+Dialogue: 0.0:13:04.97.0:13:06.47.Default..0.0.0..{\an1\pos(306.432)}So how about\Na little stakeout\Nmusic?
+Dialogue: 0.0:13:06.47.0:13:09.25.Default..0.0.0..{\an1\pos(90.432)}(CHUCKLES) Homer.\NI don't think we have the\Nsame musical tastes.
+Dialogue: 0.0:13:09.56.0:13:10.85.Default..0.0.0..{\an1\pos(234.432)}Well. I like AC/DC.
+Dialogue: 0.0:13:11.26.0:13:13.76.Default..0.0.0..{\an1\pos(144.432)}I like their Christian\Ncover band. AD/BC.
+Dialogue: 0.0:13:13.76.0:13:18.35.Default..0.0.0..{\an1\pos(108.432)}♪ Kindly deeds done for free\NKindly deeds...
+Dialogue: 0.0:13:18.35.0:13:19.85.Default..0.0.0..{\an1\pos(342.432)}♪ Done for free
+Dialogue: 0.0:13:19.85.0:13:23.52.Default..0.0.0..{\an1\pos(108.432)}♪ Kindly deeds done for free
+Dialogue: 0.0:13:23.52.0:13:26.77.Default..0.0.0..{\an1\pos(162.432)}♪ Kindly deeds and\Nthey're done for free
+Dialogue: 0.0:13:27.27.0:13:29.77.Default..0.0.0..{\an1\pos(144.432)}♪ Kindly deeds and\Nthey're done for free ♪
+Dialogue: 0.0:13:37.20.0:13:39.20.Default..0.0.0..{\an1\pos(90.432)}I've never seen anyone\Neat pizza like that.
+Dialogue: 0.0:13:39.20.0:13:40.87.Default..0.0.0..{\an1\pos(306.432)}You gotta try it!
+Dialogue: 0.0:13:40.87.0:13:43.87.Default..0.0.0..{\an1\pos(198.432)}This way the pepperonis\Nstay intact until they\Nreach your stomach.
+Dialogue: 0.0:13:44.37.0:13:46.54.Default..0.0.0..{\an1\pos(414.432)}Then bam!
+Dialogue: 0.0:13:46.88.0:13:49.47.Default..0.0.0..{\an1\pos(162.432)}Man! That's harder\Nto swallow\Nthan evolution!
+Dialogue: 0.0:13:49.46.0:13:51.96.Default..0.0.0..{\an1\pos(252.432)}You've gotta roll it\Nfrom the point.
+Dialogue: 0.0:13:51.96.0:13:53.80.Default..0.0.0..{\an1\pos(216.432)}Here. Let me show you.
+Dialogue: 0.0:13:57.19.0:13:59.86.Default..0.0.0..{\an1\pos(216.408)}Not bad.\N\h\hNow let it unfurl in\N\h\hyour stomach.
+Dialogue: 0.0:13:59.86.0:14:01.12.Default..0.0.0..{\an1\pos(270.432)}(EXCLAIMS)
+Dialogue: 0.0:14:01.11.0:14:02.69.Default..0.0.0..{\an1\pos(396.432)}There he is!
+Dialogue: 0.0:14:02.69.0:14:03.72.Default..0.0.0..{\an1\pos(234.432)}(GASPS)
+Dialogue: 0.0:14:05.23.0:14:06.64.Default..0.0.0..{\an1\pos(306.432)}(TIRES SQUEALING)
+Dialogue: 0.0:14:09.95.0:14:11.98.Default..0.0.0..{\an1\pos(288.432)}Kitten whiskers!
+Dialogue: 0.0:14:11.98.0:14:16.65.Default..0.0.0..{\an1\pos(126.432)}There's one thing he didn't\Ncount on: my reckless\Nindifference to human life!
+Dialogue: 0.0:14:20.58.0:14:23.92.Default..0.0.0..{\an1\pos(180.432)}Lord. in your mercy.\Ncould you give my\Nfriend a stroke?
+Dialogue: 0.0:14:29.22.0:14:32.17.Default..0.0.0..{\an1\pos(126.432)}Seymour. those string beans\Nwere cooked to perfection.
+Dialogue: 0.0:14:32.17.0:14:35.17.Default..0.0.0..{\an1\pos(234.432)}After twenty years.\NI am finally\Nstarting to like you.
+Dialogue: 0.0:14:35.67.0:14:38.18.Default..0.0.0..{\an1\pos(90.432)}Just wait for dessert. sir.\NI made it with\Nyou in mind.
+Dialogue: 0.0:14:38.18.0:14:39.18.Default..0.0.0..{\an1\pos(360.432)}Outstanding.
+Dialogue: 0.0:14:39.18.0:14:42.68.Default..0.0.0..{\an1\pos(216.432)}I'll just shut my eyes\Nand let you place\Nit before me.
+Dialogue: 0.0:14:43.68.0:14:44.98.Default..0.0.0..{\an1\pos(360.432)}(GARY EXCLAIMS\NIN SHOCK)
+Dialogue: 0.0:14:44.98.0:14:48.35.Default..0.0.0..{\an1\pos(90.432)}AGNES: Seymour.\Nwhat's going on?\NI'm coming down there!
+Dialogue: 0.0:14:48.35.0:14:49.85.Default..0.0.0..{\an1\pos(252.432)}Quick! We'll have to\Neat from each end.
+Dialogue: 0.0:14:50.32.0:14:52.49.Default..0.0.0..{\an1\pos(234.432)}We'll know we're safe\Nwhen our lips meet\Nin the middle.
+Dialogue: 0.0:14:55.61.0:14:56.86.Default..0.0.0..{\an1\pos(198.432)}(BIG TONY SCREAMS)
+Dialogue: 0.0:14:58.45.0:15:00.45.Default..0.0.0..{\an1\pos(198.432)}Homer. you can't\Ndrive a car\Nonto a subway.
+Dialogue: 0.0:15:00.45.0:15:02.70.Default..0.0.0..{\an1\pos(144.432)}You need a special sticker\Njust to bring a bike!
+Dialogue: 0.0:15:02.70.0:15:04.37.Default..0.0.0..{\an1\pos(198.432)}Have you no respect\Nfor the law?
+Dialogue: 0.0:15:04.37.0:15:06.67.Default..0.0.0..{\an1\pos(144.432)}Hey. it worked. didn't it?\NOkay. smart guy!
+Dialogue: 0.0:15:06.67.0:15:09.21.Default..0.0.0..{\an1\pos(396.432)}You're going\Nin the bag!
+Dialogue: 0.0:15:09.21.0:15:10.71.Default..0.0.0..{\an1\pos(288.432)}(GASPING)
+Dialogue: 0.0:15:10.71.0:15:12.71.Default..0.0.0..{\an1\pos(288.432)}Wait. I left a\Nsandwich in there.
+Dialogue: 0.0:15:12.71.0:15:15.05.Default..0.0.0..{\an1\pos(90.432)}(BIG TONY GASPS)
+Dialogue: 0.0:15:15.05.0:15:18.22.Default..0.0.0..{\an1\pos(144.432)}Homer. no. You promised.\NEverything was supposed\Nto be by the book.
+Dialogue: 0.0:15:18.22.0:15:19.72.Default..0.0.0..{\an1\pos(324.432)}You know what\Nyour problem is?
+Dialogue: 0.0:15:19.72.0:15:22.22.Default..0.0.0..{\an1\pos(288.432)}You haven't become\Nas bad as the\Npeople we chase!
+Dialogue: 0.0:15:22.22.0:15:23.64.Default..0.0.0..{\an1\pos(144.432)}This partnership\Nis over!
+Dialogue: 0.0:15:23.64.0:15:28.14.Default..0.0.0..{\an1\pos(144.432)}I'll tell you what's over:\Nthis partnership!
+Dialogue: 0.0:15:28.14.0:15:30.98.Default..0.0.0..{\an1\pos(108.432)}You know. if you'd take your\Nfoot off the accelerator\Ngoing downhill.
+Dialogue: 0.0:15:30.98.0:15:32.65.Default..0.0.0..{\an1\pos(216.432)}you wouldn't use\Nso much gas.
+Dialogue: 0.0:15:32.65.0:15:35.87.Default..0.0.0..{\an1\pos(252.432)}(SIGHS) I can't take\Nanother word\Nout of you.
+Dialogue: 0.0:15:35.87.0:15:37.87.Default..0.0.0..{\an1\pos(342.432)}(HOMER GASPING)
+Dialogue: 0.0:15:40.46.0:15:43.83.Default..0.0.0..{\an1\pos(144.432)}I can't believe\NFlanders dumped me.
+Dialogue: 0.0:15:43.83.0:15:46.64.Default..0.0.0..{\an1\pos(90.432)}Marge. do we have\Nany more of your\Nextra-long Twinkies?
+Dialogue: 0.0:15:46.63.0:15:51.72.Default..0.0.0..{\an1\pos(252.432)}Oh. no! Those were\Nfor Mr. Smithers'\Ncommitment ceremony!
+Dialogue: 0.0:15:51.72.0:15:53.22.Default..0.0.0..{\an1\pos(90.432)}Marge. what's going on?
+Dialogue: 0.0:15:53.22.0:15:54.72.Default..0.0.0..{\an1\pos(378.432)}(MARGE SIGHS)
+Dialogue: 0.0:15:54.72.0:15:58.64.Default..0.0.0..{\an1\pos(252.432)}Homie. I've got a\Nconfession to make.\NI'm an erotic baker.
+Dialogue: 0.0:15:58.64.0:15:59.67.Default..0.0.0..{\an1\pos(306.432)}(GASPS)
+Dialogue: 0.0:16:00.18.0:16:01.99.Default..0.0.0..{\an1\pos(216.432)}I hid it all in the\None place you'd\Nnever look.
+Dialogue: 0.0:16:04.65.0:16:08.15.Default..0.0.0..{\an1\pos(90.432)}Marge. I could see\Nyou withholding sex\Nor withholding cake.
+Dialogue: 0.0:16:08.15.0:16:10.65.Default..0.0.0..{\an1\pos(162.432)}But withholding\Nsexy cake?
+Dialogue: 0.0:16:10.65.0:16:13.65.Default..0.0.0..{\an1\pos(90.432)}I know we have to\Nmove past this\Nbut I don't see how.
+Dialogue: 0.0:16:15.61.0:16:21.33.Default..0.0.0..{\an1\pos(216.432)}Homie. what do you\Nsay we go to bed?\NYou. me. and the cake?
+Dialogue: 0.0:16:21.33.0:16:24.83.Default..0.0.0..{\an1\pos(90.432)}First. why don't you\Nand I and the cake\Ntake a shower?
+Dialogue: 0.0:16:25.33.0:16:26.17.Default..0.0.0..{\an1\pos(378.432)}Oh.
+Dialogue: 0.0:16:31.92.0:16:32.71.Default..0.0.0..{\an1\pos(396.432)}(SIGHS)
+Dialogue: 0.0:16:35.63.0:16:37.96.Default..0.0.0..{\an1\pos(126.432)}Lucky Jim. I'm out of\Nthe bounty\Nhunting business.
+Dialogue: 0.0:16:37.96.0:16:42.47.Default..0.0.0..{\an1\pos(198.432)}Not so fast. Ned. I got\None more bail jumper\Nfor you to pick up.
+Dialogue: 0.0:16:42.47.0:16:44.47.Default..0.0.0..{\an1\pos(90.432)}Forget it! I'm\Nturning in my...
+Dialogue: 0.0:16:44.47.0:16:46.39.Default..0.0.0..{\an1\pos(90.432)}Well. I don't really have\Nanything to turn in.
+Dialogue: 0.0:16:46.39.0:16:49.19.Default..0.0.0..{\an1\pos(90.432)}So that's that!\NI suggest you call\NHomer Simpson!
+Dialogue: 0.0:16:49.47.0:16:51.81.Default..0.0.0..{\an1\pos(198.432)}This is one jumper\Nthat Homer can't catch.
+Dialogue: 0.0:16:54.95.0:16:56.40.Default..0.0.0..{\an1\pos(180.432)}(GASPS) Homer?
+Dialogue: 0.0:16:56.40.0:16:57.90.Default..0.0.0..{\an1\pos(288.432)}Seems he never\Nshowed up in court
+Dialogue: 0.0:16:57.90.0:17:01.49.Default..0.0.0..{\an1\pos(90.408)}\h\h\h\h\hon his St. Patrick's Day\N\h\h\h\h\harrest.\NNot interested.
+Dialogue: 0.0:17:01.49.0:17:06.16.Default..0.0.0..{\an1\pos(90.432)}All right. If you don't want\Nthe job. I'll just give it to\None of these guys.
+Dialogue: 0.0:17:07.66.0:17:08.41.Default..0.0.0..{\an1\pos(198.432)}(CHAINSAW WHIRRING)
+Dialogue: 0.0:17:12.33.0:17:14.33.Default..0.0.0..{\an1\pos(144.432)}I'm sure they're all\Ncompetent professionals.
+Dialogue: 0.0:17:14.33.0:17:16.22.Default..0.0.0..{\an1\pos(180.432)}But you'd best\Nleave it to me.
+Dialogue: 0.0:17:22.26.0:17:24.76.Default..0.0.0..{\an1\pos(288.432)}Hello? Hello?\NAnybody home?
+Dialogue: 0.0:17:27.23.0:17:30.31.Default..0.0.0..{\an1\pos(90.432)}You jumped bail. Homer.\NI gotta bring you in.
+Dialogue: 0.0:17:30.32.0:17:32.24.Default..0.0.0..{\an1\pos(288.432)}What have you\Ndone to my family?
+Dialogue: 0.0:17:32.23.0:17:35.40.Default..0.0.0..{\an1\pos(90.432)}I figured a good time to\Npick you up was when\Nthey were at Lisa's recital.
+Dialogue: 0.0:17:35.40.0:17:37.24.Default..0.0.0..{\an1\pos(180.432)}And how did you know\NI wouldn't be there?
+Dialogue: 0.0:17:37.24.0:17:38.24.Default..0.0.0..{\an1\pos(252.432)}Lucky guess.
+Dialogue: 0.0:17:38.74.0:17:40.66.Default..0.0.0..{\an1\pos(288.432)}Well. you'll never\Ntake me alive!
+Dialogue: 0.0:17:42.95.0:17:44.42.Default..0.0.0..{\an1\pos(306.432)}Forgot my keys.
+Dialogue: 0.0:18:33.05.0:18:34.30.Default..0.0.0..{\an1\pos(342.96)}(HOMER GRUNTS)
+Dialogue: 0.0:18:57.15.0:18:58.69.Default..0.0.0..{\an1\pos(288.432)}(PANTING)
+Dialogue: 0.0:19:02.77.0:19:05.91.Default..0.0.0..{\an1\pos(90.408)}\h\h\h\h\h\h\h\h\hI loved you. man!\NFor the last few weeks.
+Dialogue: 0.0:19:05.91.0:19:08.41.Default..0.0.0..{\an1\pos(144.432)}But most of the time\NI've known you. you've\Ntreated me like dirt.
+Dialogue: 0.0:19:08.41.0:19:11.37.Default..0.0.0..{\an1\pos(162.432)}You hang onto resentment\Nlike a Confederate widow!
+Dialogue: 0.0:19:11.37.0:19:13.78.Default..0.0.0..{\an1\pos(198.432)}I forgave you for\Naccidentally\Nkilling my wife.
+Dialogue: 0.0:19:13.79.0:19:16.30.Default..0.0.0..{\an1\pos(252.432)}Yeah. But you hold\Nonto the big things!
+Dialogue: 0.0:19:16.29.0:19:19.59.Default..0.0.0..{\an1\pos(198.432)}The point is the more\NI got to know you. the\Nmore I got to like you.
+Dialogue: 0.0:19:19.59.0:19:23.63.Default..0.0.0..{\an1\pos(90.432)}I like you. too.\NBut you broke the law.\NSo I gotta bring you in.
+Dialogue: 0.0:19:23.63.0:19:25.63.Default..0.0.0..{\an1\pos(324.432)}So it's gonna be\Nlike that. eh?
+Dialogue: 0.0:19:27.97.0:19:28.72.Default..0.0.0..{\an1\pos(306.432)}(GRUNTS)
+Dialogue: 0.0:19:37.31.0:19:39.61.Default..0.0.0..{\an1\pos(198.432)}{\i1}(BATMAN THEME{\r} PLAYING)
+Dialogue: 0.0:19:48.70.0:19:50.20.Default..0.0.0..{\an1\pos(234.432)}I got you. my friend.
+Dialogue: 0.0:19:50.21.0:19:52.17.Default..0.0.0..{\an1\pos(126.432)}Thanks. But what are\Nyou holding onto?
+Dialogue: 0.0:19:52.32.0:19:53.32.Default..0.0.0..{\an1\pos(324.432)}Well. I'm...
+Dialogue: 0.0:19:53.33.0:19:55.05.Default..0.0.0..{\an1\pos(216.432)}(BOTH SCREAMING)
+Dialogue: 0.0:19:57.80.0:19:59.31.Default..0.0.0..{\an1\pos(306.96)}(SIGHS IN RELIEF)
+Dialogue: 0.0:19:59.80.0:20:01.80.Default..0.0.0..{\an1\pos(234.144)}Now all we have to do\Nis get out before the\Nconcrete hardens.
+Dialogue: 0.0:20:01.80.0:20:03.63.Default..0.0.0..{\an1\pos(252.96)}(BOTH GRUNTING)
+Dialogue: 0.0:20:05.09.0:20:06.09.Default..0.0.0..{\an1\pos(324.96)}Damn it.
+Dialogue: 0.0:20:08.34.0:20:11.64.Default..0.0.0..{\an1\pos(90.432)}"Lest I come and strike\Nthe earth with a curse."
+Dialogue: 0.0:20:11.64.0:20:13.51.Default..0.0.0..{\an1\pos(90.432)}Thus ends the\NBook of Malachi.
+Dialogue: 0.0:20:13.51.0:20:16.51.Default..0.0.0..{\an1\pos(90.432)}(LAUGHS) I guess I did\Nknow the whole\NOld Testament by heart.
+Dialogue: 0.0:20:16.52.0:20:19.53.Default..0.0.0..{\an1\pos(90.432)}Out with the Old.\Nin with the New.\NTestament that is.
+Dialogue: 0.0:20:19.52.0:20:23.02.Default..0.0.0..{\an1\pos(90.432)}Matthew 1. "The book of the\Ngenealogy of Jesus Christ.\Nthe son of David.
+Dialogue: 0.0:20:23.02.0:20:25.02.Default..0.0.0..{\an1\pos(90.432)}"the son of Abraham.
+Dialogue: 0.0:20:25.02.0:20:29.03.Default..0.0.0..{\an1\pos(90.432)}"Abraham became the father\Nof Isaac. Isaac became\Nthe father of Jacob.
+Dialogue: 0.0:20:29.03.0:20:32.03.Default..0.0.0..{\an1\pos(90.432)}"Jacob became the father\Nof Judah and his brothers.
+Dialogue: 0.0:20:32.03.0:20:36.33.Default..0.0.0..{\an1\pos(90.432)}"Judah became the father\Nof Perez and Zarah by Tamar."
+Dialogue: 0.0:20:36.33.0:20:39.70.Default..0.0.0..{\an1\pos(180.432)}Simpson. we're gonna\Nput you away for a long.\Nlong time.
+Dialogue: 0.0:20:40.21.0:20:43.60.Default..0.0.0..{\an1\pos(234.432)}Make it life and\Nyou've got a deal.
+Dialogue: 0.0:20:43.59.0:20:46.51.Default..0.0.0..{\an1\pos(198.432)}{\i1}MARGE: Don't feel\Ntoo bad. Homie.\NYou'll be free tomorrow.
+Dialogue: 0.0:20:46.51.0:20:49.51.Default..0.0.0..{\an1\pos(234.432)}{\i1}And I used all my\Nnew baking skills
+Dialogue: 0.0:20:49.51.0:20:53.88.Default..0.0.0..{\an1\pos(216.432)}{\i1}to make a special cake\Nto remind you of me.
+Dialogue: 0.0:20:56.64.0:20:58.11.Default..0.0.0..{\an1\pos(252.432)}(CHUCKLES EXCITEDLY)
+Dialogue: 0.0:20:58.11.0:20:58.97.Default..0.0.0..{\an1\pos(450.432)}Baby!
+Dialogue: 0.0:21:02.86.0:21:04.86.Default..0.0.0..{\an1\pos(324.432)}Thanks. Marge.
+Dialogue: 0.0:21:57.62.0:21:59.01.Default..0.0.0..{\an1\pos(180.96)}ENGLISH - US - LINE 21
