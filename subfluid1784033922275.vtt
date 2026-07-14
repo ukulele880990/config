@@ -1,0 +1,919 @@
+WEBVTT
+
+﻿[Script Info]
+Title: Default file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 720
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Audio File: 
+Video File: 
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+
+[V4+ Styles]
+Format: Name. Fontname. Fontsize. PrimaryColour. SecondaryColour. OutlineColour. BackColour. Bold. Italic. Underline. StrikeOut. ScaleX. ScaleY. Spacing. Angle. BorderStyle. Outline. Shadow. Alignment. MarginL. MarginR. MarginV. Encoding
+Style: Dialogue1.Tahoma.32.&H00BABABA.&H000000FF.&H1F000000.&HC7000000.0.0.0.0.100.100.0.0.1.1.4.1.7.2.60.60.15.1
+Style: Dialogue2.Tahoma.29.&H00BABABA.&H000000FF.&H1F000000.&HC7000000.0.0.0.0.100.100.0.0.1.1.4.1.7.2.60.60.15.1
+Style: Dialogue3.Tahoma.25.&H00BABABA.&H000000FF.&H1F000000.&HC7000000.0.0.0.0.100.100.0.0.1.1.4.1.7.2.60.60.15.1
+
+[Events]
+Format: Layer. Start. End. Style. Name. MarginL. MarginR. MarginV. Effect. Text
+Dialogue: 0.0:00:07.00.0:00:08.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(235.402)}[theme music playing]
+Dialogue: 0.0:01:57.88.0:01:59.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(152.402)}[somber instrumental music playing]
+Dialogue: 0.0:02:29.65.0:02:31.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(215.402)}[Rhaenyra] There you are.
+Dialogue: 0.0:02:41.19.0:02:44.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(187.369)}The Sea Snake is going to die.
+Dialogue: 0.0:02:41.19.0:02:44.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(313.399)}isn't he?
+Dialogue: 0.0:02:47.00.0:02:50.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(321.366)}- Luke--
+Dialogue: 0.0:02:47.00.0:02:50.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(200.399)}- I can't be Lord of the Tides.
+Dialogue: 0.0:02:50.17.0:02:52.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(172.369)}Grandsire was the greatest sailor
+Dialogue: 0.0:02:50.17.0:02:52.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(274.399)}who ever lived.
+Dialogue: 0.0:02:52.83.0:02:55.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(188.369)}I get greensick before the ship
+Dialogue: 0.0:02:52.83.0:02:55.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(228.399)}even leaves the harbor.
+Dialogue: 0.0:02:56.44.0:02:57.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(230.402)}I'll just ruin everything.
+Dialogue: 0.0:02:59.37.0:03:01.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(235.399)}I don't want Driftmark.
+Dialogue: 0.0:03:01.81.0:03:03.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(134.402)}It should've passed on to Ser Vaemond.
+Dialogue: 0.0:03:03.48.0:03:06.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(157.369)}We don't choose our destiny. Luke.
+Dialogue: 0.0:03:03.48.0:03:06.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(282.399)}It chooses us.
+Dialogue: 0.0:03:06.72.0:03:09.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(217.369)}Grandsire let you choose
+Dialogue: 0.0:03:06.72.0:03:09.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(211.402)}whether you'd be his heir.
+Dialogue: 0.0:03:10.69.0:03:11.88.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(273.399)}You told us so.
+Dialogue: 0.0:03:16.46.0:03:19.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(199.369)}[Rhaenyra] And do you want
+Dialogue: 0.0:03:16.46.0:03:19.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(228.399)}to know the truth of it?
+Dialogue: 0.0:03:22.13.0:03:23.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(267.402)}I was frightened.
+Dialogue: 0.0:03:25.17.0:03:28.54.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(255.399)}I was four-and-ten.
+Dialogue: 0.0:03:28.64.0:03:29.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(236.402)}Same as you are now.
+Dialogue: 0.0:03:31.17.0:03:35.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(283.369)}I wasn't ready
+Dialogue: 0.0:03:31.17.0:03:35.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(150.402)}to be Queen of the Seven Kingdoms.
+Dialogue: 0.0:03:35.38.0:03:38.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(252.402)}But it was my duty.
+Dialogue: 0.0:03:38.68.0:03:41.21.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(163.401)}And. in time. I came to understand
+Dialogue: 0.0:03:41.32.0:03:43.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(199.402)}I had to earn my inheritance.
+Dialogue: 0.0:03:45.39.0:03:46.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(271.402)}I'm not like you.
+Dialogue: 0.0:03:47.06.0:03:49.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(217.369)}- In what way. sweet boy?
+Dialogue: 0.0:03:47.06.0:03:49.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(233.402)}- [Lucerys] I'm not so...
+Dialogue: 0.0:03:52.16.0:03:53.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(319.402)}perfect.
+Dialogue: 0.0:03:56.67.0:03:57.72.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(323.402)}[sighs]
+Dialogue: 0.0:04:03.17.0:04:04.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(258.402)}I am anything but.
+Dialogue: 0.0:04:06.44.0:04:10.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(217.369)}My father looked after me
+Dialogue: 0.0:04:06.44.0:04:10.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(132.402)}and helped to prepare me for my duties.
+Dialogue: 0.0:04:10.45.0:04:13.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(144.402)}Your mother will do the same for you.
+Dialogue: 0.0:04:14.68.0:04:16.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(174.402)}[Lorent] Good morrow. Princess.
+Dialogue: 0.0:04:16.08.0:04:17.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(211.401)}Good morrow. Ser Lorent.
+Dialogue: 0.0:04:19.05.0:04:21.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(260.369)}Princess Rhaenys
+Dialogue: 0.0:04:19.05.0:04:21.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(180.402)}has just arrived on dragonback.
+Dialogue: 0.0:04:21.69.0:04:24.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(162.369)}She urgently requests an audience
+Dialogue: 0.0:04:21.69.0:04:24.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(192.402)}with you and Prince Daemon.
+Dialogue: 0.0:04:24.46.0:04:25.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(259.402)}[breath trembling]
+Dialogue: 0.0:04:31.23.0:04:32.60.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(288.402)}[door opens]
+Dialogue: 0.0:04:42.64.0:04:44.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(121.402)}[Lorent] The Princess Rhaenys Targaryen.
+Dialogue: 0.0:04:44.98.0:04:46.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(230.402)}Thank you. Ser Lorent.
+Dialogue: 0.0:04:50.45.0:04:52.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(256.402)}Princess Rhaenys.
+Dialogue: 0.0:04:52.32.0:04:55.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(224.369)}might we hope for news
+Dialogue: 0.0:04:52.32.0:04:55.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(209.402)}of Lord Corlys's recovery?
+Dialogue: 0.0:04:55.12.0:04:56.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(270.402)}Viserys is dead.
+Dialogue: 0.0:04:57.13.0:04:58.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(274.402)}[music playing]
+Dialogue: 0.0:05:02.83.0:05:05.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(153.369)}[Rhaenys Velaryon] I grieve this loss
+Dialogue: 0.0:05:02.83.0:05:05.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.402)}with you. Rhaenyra.
+Dialogue: 0.0:05:05.60.0:05:08.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(223.402)}My cousin. your father...
+Dialogue: 0.0:05:10.17.0:05:11.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(226.402)}possessed a kind heart.
+Dialogue: 0.0:05:22.95.0:05:24.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(279.399)}There is more.
+Dialogue: 0.0:05:26.12.0:05:28.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(111.402)}Aegon has been crowned as his successor.
+Dialogue: 0.0:05:30.49.0:05:31.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(314.402)}[groans]
+Dialogue: 0.0:05:35.60.0:05:36.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(248.402)}They crowned him?
+Dialogue: 0.0:05:39.03.0:05:41.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(241.402)}How did Viserys die?
+Dialogue: 0.0:05:41.47.0:05:42.60.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(274.402)}I could not say.
+Dialogue: 0.0:05:43.84.0:05:45.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(270.369)}- How long ago?
+Dialogue: 0.0:05:43.84.0:05:45.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(215.402)}- A day past. perhaps two.
+Dialogue: 0.0:05:45.97.0:05:48.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(151.369)}I was made a prisoner in my quarters
+Dialogue: 0.0:05:45.97.0:05:48.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(132.402)}while the Queen made her preparations.
+Dialogue: 0.0:05:48.88.0:05:50.14.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(228.402)}Viserys has been slain.
+Dialogue: 0.0:05:52.01.0:05:56.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(123.402)}Alicent demanded you declare for Aegon.
+Dialogue: 0.0:05:57.95.0:05:59.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(314.399)}She did.
+Dialogue: 0.0:06:01.79.0:06:04.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(282.366)}- I refused her.
+Dialogue: 0.0:06:01.79.0:06:04.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(234.402)}- And yet you are alive.
+Dialogue: 0.0:06:07.53.0:06:09.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(160.402)}The High Septon crowned Aegon...
+Dialogue: 0.0:06:10.00.0:06:11.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(312.369)}- [grunts]
+Dialogue: 0.0:06:10.00.0:06:11.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(135.402)}- [Rhaenys Velaryon]...in the Dragonpit.
+Dialogue: 0.0:06:11.20.0:06:14.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(245.369)}I witnessed it myself
+Dialogue: 0.0:06:11.20.0:06:14.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(200.402)}just before I fled on Meleys.
+Dialogue: 0.0:06:14.37.0:06:17.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(144.402)}They crowned him before the masses.
+Dialogue: 0.0:06:17.71.0:06:20.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(138.369)}[Rhaenys Velaryon] So that the masses
+Dialogue: 0.0:06:17.71.0:06:20.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(153.402)}would see him as their rightful king.
+Dialogue: 0.0:06:20.14.0:06:23.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(173.367)}That whore of a Queen murdered
+Dialogue: 0.0:06:20.14.0:06:23.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(178.402)}my brother and stole his throne.
+Dialogue: 0.0:06:23.48.0:06:25.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(245.369)}And you could have
+Dialogue: 0.0:06:23.48.0:06:25.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(238.399)}burned them all for it.
+Dialogue: 0.0:06:26.05.0:06:29.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(217.369)}A war is like to be fought
+Dialogue: 0.0:06:26.05.0:06:29.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(187.402)}over this treachery. to be sure.
+Dialogue: 0.0:06:30.49.0:06:31.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(329.399)}Hmm.
+Dialogue: 0.0:06:33.22.0:06:36.19.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.402)}But that war is not mine to begin.
+Dialogue: 0.0:06:36.86.0:06:38.19.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(172.402)}I only rushed this warning to you
+Dialogue: 0.0:06:38.26.0:06:41.23.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(196.369)}out of loyalty to my husband
+Dialogue: 0.0:06:38.26.0:06:41.23.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(262.402)}and to my house.
+Dialogue: 0.0:06:42.93.0:06:44.99.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(119.402)}The Greens are coming for you. Rhaenyra.
+Dialogue: 0.0:06:46.23.0:06:47.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(234.402)}And for your children.
+Dialogue: 0.0:06:49.40.0:06:51.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(135.402)}You should leave Dragonstone at once.
+Dialogue: 0.0:06:51.44.0:06:53.60.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(220.402)}[ominous music playing]
+Dialogue: 0.0:06:53.71.0:06:54.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(317.402)}[grunts]
+Dialogue: 0.0:06:55.61.0:06:57.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(255.402)}[breathing heavily]
+Dialogue: 0.0:07:06.52.0:07:07.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(290.402)}[squelching]
+Dialogue: 0.0:07:11.93.0:07:12.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(245.402)}The babe is coming.
+Dialogue: 0.0:07:13.70.0:07:15.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(259.402)}[breath trembling]
+Dialogue: 0.0:07:17.03.0:07:18.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(302.402)}[groaning]
+Dialogue: 0.0:07:19.80.0:07:21.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(259.402)}[breath trembling]
+Dialogue: 0.0:07:21.14.0:07:22.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(192.402)}Her term is far from complete.
+Dialogue: 0.0:07:23.04.0:07:24.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(240.369)}- [Rhaenyra groaning]
+Dialogue: 0.0:07:23.04.0:07:24.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(180.402)}- This should not be happening.
+Dialogue: 0.0:07:24.74.0:07:27.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(226.402)}It is fucking happening.
+Dialogue: 0.0:07:28.64.0:07:31.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(144.369)}[woman 1] Keep your head about you.
+Dialogue: 0.0:07:28.64.0:07:31.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(269.399)}Princess. Come.
+Dialogue: 0.0:07:32.38.0:07:34.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(208.369)}[woman 2] We've done this
+Dialogue: 0.0:07:32.38.0:07:34.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(262.399)}five times before.
+Dialogue: 0.0:07:35.05.0:07:37.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(267.369)}Keep your spirit.
+Dialogue: 0.0:07:35.05.0:07:37.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(172.399)}and the sixth will be no different.
+Dialogue: 0.0:07:37.55.0:07:39.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(227.369)}[grunts] Get off. get off.
+Dialogue: 0.0:07:37.55.0:07:39.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(277.402)}get off. get off!
+Dialogue: 0.0:07:40.06.0:07:42.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(181.402)}Ow. ow. ow. [breathing heavily]
+Dialogue: 0.0:07:46.16.0:07:47.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(150.369)}[Prince Daemon] I want patrols along
+Dialogue: 0.0:07:46.16.0:07:47.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(233.402)}the island's perimeter.
+Dialogue: 0.0:07:48.06.0:07:50.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(206.369)}looking for any small ships
+Dialogue: 0.0:07:48.06.0:07:50.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(235.402)}that might set ashore.
+Dialogue: 0.0:07:51.60.0:07:54.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(220.368)}If the Greens attack now.
+Dialogue: 0.0:07:51.60.0:07:54.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(244.402)}it will be by stealth...
+Dialogue: 0.0:07:54.47.0:07:55.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(207.369)}- [Rhaenyra wailing in pain]
+Dialogue: 0.0:07:54.47.0:07:55.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(278.402)}- ...not directly.
+Dialogue: 0.0:07:55.94.0:07:57.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(203.369)}We don't have enough men
+Dialogue: 0.0:07:55.94.0:07:57.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(229.401)}to surround the island.
+Dialogue: 0.0:07:57.84.0:08:00.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(207.366)}but we can make ourselves
+Dialogue: 0.0:07:57.84.0:08:00.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(189.402)}appear stronger than they are.
+Dialogue: 0.0:08:00.51.0:08:02.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(212.402)}[Rhaenyra wailing in pain]
+Dialogue: 0.0:08:04.01.0:08:06.31.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(190.369)}Conscript the Dragonkeepers.
+Dialogue: 0.0:08:04.01.0:08:06.31.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(220.402)}They're capable fighters.
+Dialogue: 0.0:08:06.41.0:08:08.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(272.366)}- Waste no time.
+Dialogue: 0.0:08:06.41.0:08:08.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(209.402)}- It will be done. my prince.
+Dialogue: 0.0:08:08.92.0:08:10.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(212.402)}[Rhaenyra wailing in pain]
+Dialogue: 0.0:08:11.95.0:08:13.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(275.402)}[both grunting]
+Dialogue: 0.0:08:18.13.0:08:19.19.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(259.402)}[breath trembling]
+Dialogue: 0.0:08:19.29.0:08:20.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(177.402)}[Lucerys and Jacaerys grunting]
+Dialogue: 0.0:08:20.93.0:08:24.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(269.366)}- What was that?
+Dialogue: 0.0:08:20.93.0:08:24.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(304.402)}- I'm sorry.
+Dialogue: 0.0:08:25.03.0:08:27.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(245.402)}You might go easier
+Dialogue: 0.0:08:27.10.0:08:28.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(254.402)}on him. my prince.
+Dialogue: 0.0:08:28.84.0:08:31.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(243.366)}so he can learn what
+Dialogue: 0.0:08:28.84.0:08:31.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(235.402)}you're trying to teach.
+Dialogue: 0.0:08:31.27.0:08:33.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(149.369)}[Rhaenys Velaryon] Your lady mother
+Dialogue: 0.0:08:31.27.0:08:33.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(261.402)}needs to see you!
+Dialogue: 0.0:08:35.68.0:08:37.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(291.402)}Both of you.
+Dialogue: 0.0:08:37.55.0:08:38.60.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(302.402)}[groaning]
+Dialogue: 0.0:08:38.68.0:08:40.21.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(253.402)}[Jacaerys] Mother?
+Dialogue: 0.0:08:40.32.0:08:43.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(247.402)}[Rhaenyra grunting]
+Dialogue: 0.0:08:43.28.0:08:44.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(331.399)}Fuck.
+Dialogue: 0.0:08:45.49.0:08:47.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(302.402)}[groaning]
+Dialogue: 0.0:08:47.16.0:08:48.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(253.402)}[maester] Princess.
+Dialogue: 0.0:08:48.22.0:08:50.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(259.402)}[breath trembling]
+Dialogue: 0.0:08:58.63.0:09:02.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(143.369)}[groans] Your grandsire. King Viserys.
+Dialogue: 0.0:08:58.63.0:09:02.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(294.402)}has passed.
+Dialogue: 0.0:09:02.14.0:09:03.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(311.402)}Viserys?
+Dialogue: 0.0:09:03.57.0:09:06.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(265.366)}The Greens have
+Dialogue: 0.0:09:03.57.0:09:06.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(211.402)}repudiated the succession
+Dialogue: 0.0:09:06.54.0:09:08.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(196.399)}and claimed the Iron Throne.
+Dialogue: 0.0:09:12.38.0:09:14.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(182.402)}Aegon has been crowned king.
+Dialogue: 0.0:09:15.58.0:09:18.31.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(194.366)}- What is to be done about it?
+Dialogue: 0.0:09:15.58.0:09:18.31.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(287.402)}- Nothing yet.
+Dialogue: 0.0:09:18.39.0:09:21.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(224.366)}- And where is Daemon?
+Dialogue: 0.0:09:18.39.0:09:21.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(217.402)}- [Rhaenyra] I don't know.
+Dialogue: 0.0:09:21.16.0:09:22.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(257.399)}Gone to madness.
+Dialogue: 0.0:09:24.83.0:09:26.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(241.402)}Gone to plot his war.
+Dialogue: 0.0:09:26.16.0:09:27.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(259.402)}[breath trembling]
+Dialogue: 0.0:09:27.56.0:09:30.19.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(221.366)}- Leave Daemon with me.
+Dialogue: 0.0:09:27.56.0:09:30.19.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(262.402)}- [Rhaenyra] Jace.
+Dialogue: 0.0:09:31.07.0:09:32.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(307.402)}Jacaerys.
+Dialogue: 0.0:09:34.04.0:09:35.23.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(255.402)}[breathing heavily]
+Dialogue: 0.0:09:37.84.0:09:41.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(185.368)}Whatever claim remains to me.
+Dialogue: 0.0:09:37.84.0:09:41.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(243.402)}you are now its heir.
+Dialogue: 0.0:09:41.94.0:09:44.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(118.402)}Naught is to be done but by my command.
+Dialogue: 0.0:09:52.79.0:09:53.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(302.402)}[groaning]
+Dialogue: 0.0:09:59.93.0:10:01.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(161.402)}[man] A raven flew in this morning.
+Dialogue: 0.0:10:01.10.0:10:04.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(165.368)}The Sea Snake's fever has broken.
+Dialogue: 0.0:10:01.10.0:10:04.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(224.399)}and he has left Evenfall.
+Dialogue: 0.0:10:04.43.0:10:07.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(240.369)}- Where is he sailing?
+Dialogue: 0.0:10:04.43.0:10:07.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(170.402)}- That much is unclear. my prince.
+Dialogue: 0.0:10:07.97.0:10:09.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(139.401)}We'll send ravens to our nearest allies.
+Dialogue: 0.0:10:09.87.0:10:12.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(216.369)}- Lords Darklyn. Massey...
+Dialogue: 0.0:10:09.87.0:10:12.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(207.402)}- [Rhaenyra wailing in pain]
+Dialogue: 0.0:10:13.14.0:10:15.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(251.366)}- ...and Bar Emmon.
+Dialogue: 0.0:10:13.14.0:10:15.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(241.402)}- [Rhaenyra] Daemon!
+Dialogue: 0.0:10:16.31.0:10:18.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(238.369)}Do you want to speak
+Dialogue: 0.0:10:16.31.0:10:18.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(208.402)}to the maester. my prince?
+Dialogue: 0.0:10:27.32.0:10:28.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(233.369)}[Prince Daemon] I'll fly
+Dialogue: 0.0:10:27.32.0:10:28.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(222.402)}to the Riverlands myself
+Dialogue: 0.0:10:28.82.0:10:30.16.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(179.402)}and affirm Lord Tully's support.
+Dialogue: 0.0:10:30.26.0:10:31.28.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(209.402)}You will do no such thing.
+Dialogue: 0.0:10:34.60.0:10:37.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(119.369)}My mother has decreed no action be taken
+Dialogue: 0.0:10:34.60.0:10:37.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(261.399)}while she's abed.
+Dialogue: 0.0:10:43.97.0:10:46.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(157.402)}It's good you're here. young Prince.
+Dialogue: 0.0:10:47.44.0:10:49.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(226.369)}You're needed to patrol
+Dialogue: 0.0:10:47.44.0:10:49.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(241.399)}the skies on Vermax.
+Dialogue: 0.0:10:49.61.0:10:50.60.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(216.402)}Did you hear what I said?
+Dialogue: 0.0:10:50.68.0:10:52.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(247.402)}[Rhaenyra grunting]
+Dialogue: 0.0:10:55.18.0:10:56.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(206.401)}The ravens. Lord Bartimos.
+Dialogue: 0.0:10:58.95.0:11:00.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(258.399)}I shall see it done.
+Dialogue: 0.0:11:00.19.0:11:01.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(239.399)}Summon Ser Steffon.
+Dialogue: 0.0:11:01.79.0:11:04.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(203.369)}Our Kingsguard are needed
+Dialogue: 0.0:11:01.79.0:11:04.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.402)}on the Dragonmont.
+Dialogue: 0.0:11:05.03.0:11:07.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(200.369)}Come with me. I'll show you
+Dialogue: 0.0:11:05.03.0:11:07.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(203.402)}the true meaning of loyalty.
+Dialogue: 0.0:11:15.67.0:11:18.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(253.366)}You swore an oath
+Dialogue: 0.0:11:15.67.0:11:18.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(191.402)}as knights of the Kingsguard.
+Dialogue: 0.0:11:18.34.0:11:20.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(251.366)}As do all who wear
+Dialogue: 0.0:11:18.34.0:11:20.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(207.402)}the white cloak. my prince.
+Dialogue: 0.0:11:22.38.0:11:23.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(300.399)}To whom?
+Dialogue: 0.0:11:24.81.0:11:28.65.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(185.369)}I swore first to King Jaehaerys.
+Dialogue: 0.0:11:24.81.0:11:28.65.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(302.402)}my prince.
+Dialogue: 0.0:11:28.72.0:11:29.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(230.401)}And then to His Grace.
+Dialogue: 0.0:11:30.02.0:11:32.21.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(141.402)}King Viserys. when he succeeded him.
+Dialogue: 0.0:11:32.32.0:11:34.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(242.369)}Do you acknowledge
+Dialogue: 0.0:11:32.32.0:11:34.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(201.399)}the true line of succession?
+Dialogue: 0.0:11:35.29.0:11:37.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(333.366)}- Yes.
+Dialogue: 0.0:11:35.29.0:11:37.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(270.402)}- Yes. my prince.
+Dialogue: 0.0:11:43.70.0:11:45.72.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(287.402)}Do you recall
+Dialogue: 0.0:11:45.83.0:11:48.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(218.369)}who King Viserys named
+Dialogue: 0.0:11:45.83.0:11:48.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(198.399)}as his heir before his death?
+Dialogue: 0.0:11:51.91.0:11:52.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(252.402)}Princess Rhaenyra.
+Dialogue: 0.0:11:55.81.0:11:56.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(329.399)}Hmm.
+Dialogue: 0.0:11:57.75.0:11:59.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(278.369)}I'm grateful for
+Dialogue: 0.0:11:57.75.0:11:59.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(183.402)}your long service to the Crown
+Dialogue: 0.0:12:02.48.0:12:04.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(152.402)}So I'm presenting you with a choice.
+Dialogue: 0.0:12:04.49.0:12:07.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(245.402)}[Caraxes whinnying]
+Dialogue: 0.0:12:07.59.0:12:08.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(269.369)}- [music playing]
+Dialogue: 0.0:12:07.59.0:12:08.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(302.402)}- [snarling]
+Dialogue: 0.0:12:15.50.0:12:18.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(325.402)}[roars]
+Dialogue: 0.0:12:20.03.0:12:21.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(317.402)}[grunts]
+Dialogue: 0.0:12:27.74.0:12:30.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(234.369)}Swear anew your oath
+Dialogue: 0.0:12:27.74.0:12:30.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(196.402)}to Rhaenyra as your queen...
+Dialogue: 0.0:12:31.78.0:12:35.18.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(194.368)}{\i1}to Prince Jacaerys as the heir{\i0}
+Dialogue: 0.0:12:31.78.0:12:35.18.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(257.398)}{\i1}to the Iron Throne.{\i0}
+Dialogue: 0.0:12:35.25.0:12:37.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(255.402)}[breathing heavily]
+Dialogue: 0.0:12:38.92.0:12:40.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(325.402)}[roars]
+Dialogue: 0.0:12:40.19.0:12:41.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(239.401)}[Prince Daemon] {\i1}Or...{\i0}
+Dialogue: 0.0:12:41.22.0:12:43.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(208.369)}if you support the usurper.
+Dialogue: 0.0:12:41.22.0:12:43.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(278.402)}speak it now...
+Dialogue: 0.0:12:43.69.0:12:45.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(302.402)}[groaning]
+Dialogue: 0.0:12:45.46.0:12:47.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(153.369)}[Prince Daemon]...and you will have
+Dialogue: 0.0:12:45.46.0:12:47.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(195.399)}a clean and honorable death.
+Dialogue: 0.0:12:48.80.0:12:50.70.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(203.401)}{\i1}But if you choose treachery.{\i0}
+Dialogue: 0.0:12:51.23.0:12:54.60.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(231.368)}{\i1}if you swear fealty now{\i0}
+Dialogue: 0.0:12:51.23.0:12:54.60.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(188.401)}{\i1}only to later turn your cloaks...{\i0}
+Dialogue: 0.0:12:57.47.0:13:01.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(159.402)}know that you will die... screaming.
+Dialogue: 0.0:13:01.44.0:13:04.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(308.369)}- [wailing]
+Dialogue: 0.0:13:01.44.0:13:04.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(314.402)}- [snarls]
+Dialogue: 0.0:13:05.25.0:13:07.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(302.402)}[groaning]
+Dialogue: 0.0:13:07.62.0:13:09.28.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(217.402)}Princess. let us help you.
+Dialogue: 0.0:13:10.05.0:13:11.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(302.402)}[groaning]
+Dialogue: 0.0:13:12.05.0:13:13.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(338.366)}- No.
+Dialogue: 0.0:13:12.05.0:13:13.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(314.402)}- [snarls]
+Dialogue: 0.0:13:16.32.0:13:19.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(311.366)}- Get out!
+Dialogue: 0.0:13:16.32.0:13:19.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(207.402)}- [woman] Princess. please.
+Dialogue: 0.0:13:19.16.0:13:20.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(311.366)}- Get out.
+Dialogue: 0.0:13:19.16.0:13:20.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(130.401)}- You should not do this alone. Princess.
+Dialogue: 0.0:13:21.00.0:13:22.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(270.402)}Let us help you.
+Dialogue: 0.0:13:22.23.0:13:24.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(302.402)}[groaning]
+Dialogue: 0.0:13:27.94.0:13:29.23.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(320.402)}[gasps]
+Dialogue: 0.0:13:29.97.0:13:31.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(295.402)}[screaming]
+Dialogue: 0.0:13:35.78.0:13:37.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(341.399)}Ah!
+Dialogue: 0.0:13:37.98.0:13:39.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(305.402)}[grunting]
+Dialogue: 0.0:13:43.18.0:13:44.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(341.399)}Ah!
+Dialogue: 0.0:13:44.92.0:13:45.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(255.402)}[breathing heavily]
+Dialogue: 0.0:13:49.79.0:13:51.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(259.402)}[breath trembling]
+Dialogue: 0.0:13:53.53.0:13:55.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(255.402)}[breathing heavily]
+Dialogue: 0.0:13:56.93.0:13:58.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(276.402)}[wind blowing]
+Dialogue: 0.0:14:01.34.0:14:02.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(312.402)}[sniffles]
+Dialogue: 0.0:14:05.01.0:14:06.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(318.402)}[crying]
+Dialogue: 0.0:14:19.05.0:14:20.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(152.402)}[somber instrumental music playing]
+Dialogue: 0.0:14:23.99.0:14:25.65.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(259.402)}[breath trembling]
+Dialogue: 0.0:15:19.11.0:15:21.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(259.402)}[music continues]
+Dialogue: 0.0:16:47.30.0:16:48.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(150.402)}[Ser Erryk] I mean no harm. brothers.
+Dialogue: 0.0:17:06.72.0:17:08.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(274.402)}[music playing]
+Dialogue: 0.0:17:12.39.0:17:14.19.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(203.400)}I swear to ward the Queen...
+Dialogue: 0.0:17:17.06.0:17:18.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(236.402)}with all my strength...
+Dialogue: 0.0:17:20.54.0:17:22.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(203.402)}and give my blood for hers.
+Dialogue: 0.0:17:27.71.0:17:29.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(245.399)}I shall take no wife...
+Dialogue: 0.0:17:31.35.0:17:32.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(272.399)}hold no lands...
+Dialogue: 0.0:17:34.18.0:17:36.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(255.399)}father no children.
+Dialogue: 0.0:17:36.85.0:17:39.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(214.402)}I shall guard her secrets...
+Dialogue: 0.0:17:39.59.0:17:41.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(234.402)}obey her commands...
+Dialogue: 0.0:17:42.49.0:17:45.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(149.368)}ride at her side. and defend her name
+Dialogue: 0.0:17:42.49.0:17:45.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(298.399)}and honor.
+Dialogue: 0.0:18:12.79.0:18:13.88.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(303.402)}My queen.
+Dialogue: 0.0:18:22.90.0:18:24.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(145.402)}[dramatic instrumental music playing]
+Dialogue: 0.0:19:04.01.0:19:06.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(198.402)}[instrumental music playing]
+Dialogue: 0.0:19:11.48.0:19:12.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(253.402)}[muffled footsteps]
+Dialogue: 0.0:19:32.27.0:19:34.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(310.402)}[sizzling]
+Dialogue: 0.0:19:56.06.0:19:57.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(267.369)}[Prince Daemon]
+Dialogue: 0.0:19:56.06.0:19:57.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(202.402)}Queen Rhaenyra Targaryen.
+Dialogue: 0.0:19:57.99.0:19:59.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(259.401)}First of Her Name.
+Dialogue: 0.0:20:00.03.0:20:02.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(146.369)}Queen of the Andals and the Rhoynar
+Dialogue: 0.0:20:00.03.0:20:02.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(257.399)}and the First Men.
+Dialogue: 0.0:20:04.13.0:20:06.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(197.369)}Lady of the Seven Kingdoms
+Dialogue: 0.0:20:04.13.0:20:06.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(204.399)}and Protector of the Realm.
+Dialogue: 0.0:20:11.34.0:20:12.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(293.399)}Your Grace.
+Dialogue: 0.0:20:21.42.0:20:22.85.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(265.402)}Wine. my queen.
+Dialogue: 0.0:20:26.19.0:20:27.16.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(247.402)}Thank you. Rhaena.
+Dialogue: 0.0:20:28.56.0:20:29.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(325.399)}Come.
+Dialogue: 0.0:20:54.18.0:20:56.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(230.369)}- What is our standing?
+Dialogue: 0.0:20:54.18.0:20:56.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(144.402)}- [Prince Daemon] We have 30 knights.
+Dialogue: 0.0:20:56.18.0:20:58.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(215.368)}a hundred crossbowmen.
+Dialogue: 0.0:20:56.18.0:20:58.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(239.399)}and 300 men-at-arms.
+Dialogue: 0.0:20:58.79.0:21:00.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(220.369)}Dragonstone is relatively
+Dialogue: 0.0:20:58.79.0:21:00.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(274.402)}easy to defend.
+Dialogue: 0.0:21:00.76.0:21:02.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(168.402)}but as an instrument of conquest.
+Dialogue: 0.0:21:02.12.0:21:04.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(160.402)}our army leaves a lot to be desired.
+Dialogue: 0.0:21:04.46.0:21:06.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(157.369)}We have sent word to my loyal men
+Dialogue: 0.0:21:04.46.0:21:06.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(261.402)}in the City Watch.
+Dialogue: 0.0:21:06.73.0:21:09.22.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(199.369)}I'll have some support there.
+Dialogue: 0.0:21:06.73.0:21:09.22.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(162.402)}but I cannot speak to the numbers.
+Dialogue: 0.0:21:09.30.0:21:12.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(193.369)}We already have declarations
+Dialogue: 0.0:21:09.30.0:21:12.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(201.402)}from Celtigar and Staunton.
+Dialogue: 0.0:21:12.90.0:21:14.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(191.402)}Massey. Darklyn. Bar Emmon.
+Dialogue: 0.0:21:18.11.0:21:20.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(192.402)}My lady mother was an Arryn.
+Dialogue: 0.0:21:20.27.0:21:22.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(205.366)}The Vale will not turn cloak
+Dialogue: 0.0:21:20.27.0:21:22.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(237.402)}against their own kin.
+Dialogue: 0.0:21:22.78.0:21:26.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(164.369)}Riverrun was always a close friend
+Dialogue: 0.0:21:22.78.0:21:26.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(208.402)}to your father. Your Grace.
+Dialogue: 0.0:21:26.25.0:21:27.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(149.402)}With Prince Daemon's acquiescence.
+Dialogue: 0.0:21:27.88.0:21:30.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(137.402)}I've already sent ravens to Lord Grover.
+Dialogue: 0.0:21:34.22.0:21:36.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(134.402)}Lord Grover is fickle and easily swayed.
+Dialogue: 0.0:21:36.66.0:21:38.99.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(197.366)}He will need to be convinced
+Dialogue: 0.0:21:36.66.0:21:38.99.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(188.402)}of the strength of our position
+Dialogue: 0.0:21:39.09.0:21:41.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(198.369)}and that we will support him
+Dialogue: 0.0:21:39.09.0:21:41.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(233.399)}should it come to war.
+Dialogue: 0.0:21:41.90.0:21:43.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(167.402)}I'm going to treat with him myself.
+Dialogue: 0.0:21:44.00.0:21:45.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(198.369)}[man 1] What of Storm's End
+Dialogue: 0.0:21:44.00.0:21:45.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(274.399)}and Winterfell?
+Dialogue: 0.0:21:45.80.0:21:48.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(225.369)}[man 2] There has never
+Dialogue: 0.0:21:45.80.0:21:48.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(175.402)}lived a Stark who forgot an oath.
+Dialogue: 0.0:21:48.50.0:21:51.23.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(232.368)}And with House Stark.
+Dialogue: 0.0:21:48.50.0:21:51.23.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(241.399)}the North will follow.
+Dialogue: 0.0:21:51.31.0:21:54.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(175.366)}Lord Borros Baratheon will need
+Dialogue: 0.0:21:51.31.0:21:54.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(132.402)}to be reminded of his father's promises.
+Dialogue: 0.0:22:01.58.0:22:02.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(313.402)}[inhales]
+Dialogue: 0.0:22:08.02.0:22:09.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(204.399)}What news from Driftmark?
+Dialogue: 0.0:22:12.83.0:22:14.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(164.402)}Lord Corlys sails for Dragonstone.
+Dialogue: 0.0:22:14.80.0:22:16.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(217.400)}To declare for his Queen.
+Dialogue: 0.0:22:18.43.0:22:21.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(258.369)}The Velaryon fleet
+Dialogue: 0.0:22:18.43.0:22:21.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(220.402)}is in my husband's yoke.
+Dialogue: 0.0:22:21.47.0:22:23.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(206.402)}He decides where they sail.
+Dialogue: 0.0:22:23.44.0:22:26.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(145.369)}[Rhaenyra] We shall pray for both you
+Dialogue: 0.0:22:23.44.0:22:26.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(195.402)}and your husband's support.
+Dialogue: 0.0:22:26.81.0:22:29.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(194.369)}Just as we prayed nightly for
+Dialogue: 0.0:22:26.81.0:22:29.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(141.402)}the Sea Snake's return to good health.
+Dialogue: 0.0:22:31.51.0:22:33.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(165.369)}There's no port on the Narrow Sea
+Dialogue: 0.0:22:31.51.0:22:33.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(248.399)}would dare to make
+Dialogue: 0.0:22:33.28.0:22:35.22.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(184.402)}an enemy of the Velaryon fleet.
+Dialogue: 0.0:22:37.32.0:22:38.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(255.399)}And our enemies?
+Dialogue: 0.0:22:38.35.0:22:39.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(118.402)}We have no friends among the Lannisters.
+Dialogue: 0.0:22:40.69.0:22:43.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(202.369)}Tyland has served the Hand
+Dialogue: 0.0:22:40.69.0:22:43.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(196.402)}too long to turn against him.
+Dialogue: 0.0:22:43.79.0:22:45.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.369)}And Otto Hightower
+Dialogue: 0.0:22:43.79.0:22:45.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(217.399)}needs the Lannister fleet.
+Dialogue: 0.0:22:46.03.0:22:47.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(226.368)}Without the Lannisters.
+Dialogue: 0.0:22:46.03.0:22:47.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(236.399)}we are not like to find
+Dialogue: 0.0:22:47.63.0:22:48.86.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.85)}- any allies west of the Golden Tooth.
+Dialogue: 0.0:22:47.63.0:22:48.86.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.118)}- [Prince Daemon] No.
+Dialogue: 0.0:22:53.13.0:22:55.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(196.368)}The Riverlands are essential.
+Dialogue: 0.0:22:53.13.0:22:55.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(293.399)}Your Grace.
+Dialogue: 0.0:22:56.70.0:23:00.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(138.369)}Pray forgive my bluntness. Your Grace.
+Dialogue: 0.0:22:56.70.0:23:00.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(226.399)}but talk of men is moot.
+Dialogue: 0.0:23:00.74.0:23:04.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(213.369)}Your cause owns a power
+Dialogue: 0.0:23:00.74.0:23:04.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(154.399)}that has not been seen in this world
+Dialogue: 0.0:23:04.48.0:23:06.97.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(194.402)}since the days of Old Valyria.
+Dialogue: 0.0:23:07.05.0:23:08.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(310.402)}Dragons.
+Dialogue: 0.0:23:11.42.0:23:12.85.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(167.402)}The Greens have dragons as well.
+Dialogue: 0.0:23:12.92.0:23:14.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(150.402)}They have three adults. by my count.
+Dialogue: 0.0:23:15.02.0:23:17.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(148.402)}We have Syrax. Caraxes. and Meleys.
+Dialogue: 0.0:23:17.93.0:23:20.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(271.366)}Your sons have
+Dialogue: 0.0:23:17.93.0:23:20.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(200.402)}Vermax. Arrax. and Tyraxes.
+Dialogue: 0.0:23:20.93.0:23:22.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(228.399)}Baela has Moondancer.
+Dialogue: 0.0:23:22.93.0:23:24.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(190.369)}Daemon. none of our dragons
+Dialogue: 0.0:23:22.93.0:23:24.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(261.399)}have been to war.
+Dialogue: 0.0:23:24.73.0:23:27.22.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(163.402)}There are also unclaimed dragons.
+Dialogue: 0.0:23:27.33.0:23:28.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(155.399)}Seasmoke still resides on Driftmark.
+Dialogue: 0.0:23:29.04.0:23:31.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(215.369)}Vermithor and Silverwing
+Dialogue: 0.0:23:29.04.0:23:31.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(212.402)}dwell on the Dragonmont.
+Dialogue: 0.0:23:32.01.0:23:33.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(284.399)}still riderless.
+Dialogue: 0.0:23:34.17.0:23:36.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(143.369)}Then there are the three wild dragons.
+Dialogue: 0.0:23:34.17.0:23:36.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(234.399)}all of whom nest here.
+Dialogue: 0.0:23:36.68.0:23:37.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(152.402)}[Rhaenyra] And who is to ride them?
+Dialogue: 0.0:23:37.95.0:23:40.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(190.369)}[Prince Daemon] Dragonstone
+Dialogue: 0.0:23:37.95.0:23:40.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(267.399)}has 13 to their 4.
+Dialogue: 0.0:23:41.38.0:23:44.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(209.369)}I also have a score of eggs
+Dialogue: 0.0:23:41.38.0:23:44.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(186.402)}incubating in the Dragonmont.
+Dialogue: 0.0:23:44.62.0:23:48.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(173.402)}Now... we need a place to gather.
+Dialogue: 0.0:23:48.19.0:23:51.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(228.369)}a toehold large enough
+Dialogue: 0.0:23:48.19.0:23:51.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(224.399)}to house a sizable host.
+Dialogue: 0.0:23:51.86.0:23:52.85.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(256.401)}Here. at Harrenhal.
+Dialogue: 0.0:23:52.93.0:23:53.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(247.401)}We cut off the west.
+Dialogue: 0.0:23:53.93.0:23:55.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(217.369)}surround King's Landing
+Dialogue: 0.0:23:53.93.0:23:55.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(260.402)}with the dragons.
+Dialogue: 0.0:23:55.56.0:23:57.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(147.369)}And we could have every Green head
+Dialogue: 0.0:23:55.56.0:23:57.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(252.402)}mounted on spikes
+Dialogue: 0.0:23:57.43.0:23:59.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(184.402)}before the fucking moon turns.
+Dialogue: 0.0:23:59.40.0:24:00.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(286.399)}Your Grace...
+Dialogue: 0.0:24:01.07.0:24:02.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(169.402)}a ship has been sighted offshore.
+Dialogue: 0.0:24:02.94.0:24:05.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(187.369)}a lone galleon. flying a banner
+Dialogue: 0.0:24:02.94.0:24:05.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(175.402)}of a three-headed Green dragon.
+Dialogue: 0.0:24:05.57.0:24:07.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(137.369)}- Alert the watchtowers. Sight the skies.
+Dialogue: 0.0:24:05.57.0:24:07.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(269.402)}- [music playing]
+Dialogue: 0.0:24:45.45.0:24:48.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(247.366)}I come at the behest
+Dialogue: 0.0:24:45.45.0:24:48.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(187.402)}of the Dowager Queen Alicent.
+Dialogue: 0.0:24:48.48.0:24:50.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(232.369)}mother of King Aegon.
+Dialogue: 0.0:24:48.48.0:24:50.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(242.401)}Second of His Name.
+Dialogue: 0.0:24:50.75.0:24:53.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(254.366)}Lord and Protector
+Dialogue: 0.0:24:50.75.0:24:53.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(224.402)}of the Seven Kingdoms.
+Dialogue: 0.0:24:54.36.0:24:57.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(204.366)}I've been directed to deliver
+Dialogue: 0.0:24:54.36.0:24:57.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(132.402)}her message only to Princess Rhaenyra.
+Dialogue: 0.0:24:59.69.0:25:01.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(228.399)}Where is the Princess?
+Dialogue: 0.0:25:01.70.0:25:03.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(277.402)}[Syrax roaring]
+Dialogue: 0.0:25:26.52.0:25:28.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(313.402)}[roaring]
+Dialogue: 0.0:25:40.20.0:25:42.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(313.402)}[roaring]
+Dialogue: 0.0:25:43.74.0:25:44.67.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(315.402)}[growls]
+Dialogue: 0.0:25:56.05.0:25:58.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(252.402)}Princess Rhaenyra.
+Dialogue: 0.0:25:59.05.0:26:00.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(216.402)}I'm Queen Rhaenyra now.
+Dialogue: 0.0:26:01.92.0:26:04.19.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(154.402)}And you all are traitors to the realm.
+Dialogue: 0.0:26:04.69.0:26:08.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(230.369)}King Aegon Targaryen.
+Dialogue: 0.0:26:04.69.0:26:08.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(235.399)}Second of His Name...
+Dialogue: 0.0:26:10.20.0:26:13.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(158.402)}in his wisdom and desire for peace.
+Dialogue: 0.0:26:13.73.0:26:15.23.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(265.402)}is offering terms.
+Dialogue: 0.0:26:17.60.0:26:19.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(197.402)}Acknowledge Aegon as king
+Dialogue: 0.0:26:19.41.0:26:22.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(241.366)}and swear obeisance
+Dialogue: 0.0:26:19.41.0:26:22.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(230.399)}before the Iron Throne.
+Dialogue: 0.0:26:22.34.0:26:26.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(159.369)}In exchange. His Grace will confirm
+Dialogue: 0.0:26:22.34.0:26:26.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(169.402)}your possession of Dragonstone.
+Dialogue: 0.0:26:26.88.0:26:30.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(175.369)}It will pass to your trueborn son.
+Dialogue: 0.0:26:26.88.0:26:30.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(205.402)}Jacaerys. upon your death.
+Dialogue: 0.0:26:30.58.0:26:33.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(214.369)}Lucerys will be confirmed
+Dialogue: 0.0:26:30.58.0:26:33.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.402)}as the legitimate heir to Driftmark
+Dialogue: 0.0:26:34.02.0:26:36.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(187.369)}and all the lands and holdings
+Dialogue: 0.0:26:34.02.0:26:36.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(252.402)}of House Velaryon.
+Dialogue: 0.0:26:36.96.0:26:38.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(194.402)}Your sons by Prince Daemon
+Dialogue: 0.0:26:38.86.0:26:41.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(220.369)}will also be given places
+Dialogue: 0.0:26:38.86.0:26:41.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(231.402)}of high honor at court.
+Dialogue: 0.0:26:42.30.0:26:44.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(128.402)}Aegon the Younger as the King's squire.
+Dialogue: 0.0:26:44.40.0:26:46.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(216.402)}Viserys as his cupbearer.
+Dialogue: 0.0:26:46.53.0:26:48.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(157.402)}Finally. the King. in his good grace.
+Dialogue: 0.0:26:48.57.0:26:53.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(190.369)}will pardon any knight or lord
+Dialogue: 0.0:26:48.57.0:26:53.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(164.402)}who conspired against his ascent.
+Dialogue: 0.0:26:53.74.0:26:56.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(203.369)}I would rather feed my sons
+Dialogue: 0.0:26:53.74.0:26:56.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(276.402)}to the dragons
+Dialogue: 0.0:26:56.58.0:26:59.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(139.402)}than have them carry shields and cups
+Dialogue: 0.0:26:59.78.0:27:03.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(260.369)}for your drunken.
+Dialogue: 0.0:26:59.78.0:27:03.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(232.402)}usurper cunt of a king.
+Dialogue: 0.0:27:03.92.0:27:07.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(142.402)}Aegon Targaryen sits the Iron Throne.
+Dialogue: 0.0:27:08.39.0:27:10.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(172.402)}He wears the Conqueror's crown.
+Dialogue: 0.0:27:10.26.0:27:11.99.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(185.402)}wields the Conqueror's sword.
+Dialogue: 0.0:27:12.09.0:27:13.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(208.402)}has the Conqueror's name.
+Dialogue: 0.0:27:13.96.0:27:16.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(128.402)}He was anointed by a septon of the Faith
+Dialogue: 0.0:27:16.46.0:27:18.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(192.402)}before the eyes of thousands.
+Dialogue: 0.0:27:18.43.0:27:22.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(208.369)}Every symbol of legitimacy
+Dialogue: 0.0:27:18.43.0:27:22.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(272.402)}belongs to him.
+Dialogue: 0.0:27:24.91.0:27:28.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(225.368)}And then there is Stark.
+Dialogue: 0.0:27:24.91.0:27:28.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(263.402)}Tully. Baratheon.
+Dialogue: 0.0:27:28.28.0:27:32.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(181.368)}Houses that have also received.
+Dialogue: 0.0:27:28.28.0:27:32.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(255.402)}and are at present.
+Dialogue: 0.0:27:32.41.0:27:35.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(200.369)}considering generous terms
+Dialogue: 0.0:27:32.41.0:27:35.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(272.402)}from their king.
+Dialogue: 0.0:27:37.42.0:27:40.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(205.369)}Stark. Tully. and Baratheon
+Dialogue: 0.0:27:37.42.0:27:40.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(274.399)}all swore to me
+Dialogue: 0.0:27:41.52.0:27:44.19.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(141.402)}when King Viserys named me his heir.
+Dialogue: 0.0:27:44.93.0:27:48.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(204.369)}Stale oaths will not put you
+Dialogue: 0.0:27:44.93.0:27:48.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(194.401)}on the Iron Throne. Princess.
+Dialogue: 0.0:27:49.43.0:27:53.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(173.369)}The succession changed the day
+Dialogue: 0.0:27:49.43.0:27:53.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(227.402)}your father sired a son.
+Dialogue: 0.0:27:53.93.0:27:57.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(200.369)}I only regret that you and he
+Dialogue: 0.0:27:53.93.0:27:57.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(168.399)}were the last to see the truth of it.
+Dialogue: 0.0:27:58.84.0:28:01.14.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(117.402)}You are no more Hand than Aegon is king.
+Dialogue: 0.0:28:01.21.0:28:02.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(274.402)}Fucking traitor.
+Dialogue: 0.0:28:14.62.0:28:16.21.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(274.399)}Grand Maester.
+Dialogue: 0.0:28:21.53.0:28:22.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(235.399)}What the fuck is this?
+Dialogue: 0.0:28:28.90.0:28:30.53.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(274.402)}[music playing]
+Dialogue: 0.0:28:38.25.0:28:41.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(143.369)}[Otto] Queen Alicent has not forgotten
+Dialogue: 0.0:28:38.25.0:28:41.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(146.402)}the love you once had for each other.
+Dialogue: 0.0:28:43.38.0:28:48.88.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(215.369)}No blood need be spilled.
+Dialogue: 0.0:28:43.38.0:28:48.88.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(175.402)}The realm can carry on in peace.
+Dialogue: 0.0:28:52.39.0:28:54.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(236.369)}Queen Alicent eagerly
+Dialogue: 0.0:28:52.39.0:28:54.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(247.402)}awaits your answer.
+Dialogue: 0.0:28:54.76.0:28:57.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(187.368)}She can have her answer now.
+Dialogue: 0.0:28:54.76.0:28:57.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(198.399)}stuffed in her father's mouth
+Dialogue: 0.0:28:57.10.0:28:58.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(193.402)}along with his withered cock.
+Dialogue: 0.0:28:58.40.0:29:00.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(187.399)}Let's end this mummer's farce.
+Dialogue: 0.0:29:01.87.0:29:05.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(158.369)}Ser Erryk. bring me Lord Hightower
+Dialogue: 0.0:29:01.87.0:29:05.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(168.402)}so I may take the pleasure myself.
+Dialogue: 0.0:29:05.27.0:29:07.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(313.402)}[roaring]
+Dialogue: 0.0:29:10.18.0:29:11.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(343.399)}No.
+Dialogue: 0.0:29:22.96.0:29:25.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(221.369)}King's Landing will have
+Dialogue: 0.0:29:22.96.0:29:25.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(210.402)}my answer on the morrow.
+Dialogue: 0.0:29:40.11.0:29:41.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(325.402)}[roars]
+Dialogue: 0.0:29:47.61.0:29:50.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(165.369)}[Prince Daemon] It's no easy thing
+Dialogue: 0.0:29:47.61.0:29:50.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(182.402)}for a man to be a dragonslayer.
+Dialogue: 0.0:29:51.65.0:29:54.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(131.402)}But dragons can kill dragons. And have.
+Dialogue: 0.0:29:55.62.0:29:58.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(225.369)}The simple truth is this.
+Dialogue: 0.0:29:55.62.0:29:58.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(157.402)}we have more dragons than Aegon.
+Dialogue: 0.0:29:59.06.0:30:01.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(247.369)}Viserys spoke often
+Dialogue: 0.0:29:59.06.0:30:01.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(221.402)}of the Valyrian histories.
+Dialogue: 0.0:30:01.56.0:30:02.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(262.399)}I know them well.
+Dialogue: 0.0:30:03.80.0:30:05.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(200.402)}When dragons flew to war...
+Dialogue: 0.0:30:06.83.0:30:07.99.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(253.402)}everything burned.
+Dialogue: 0.0:30:10.44.0:30:13.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(247.366)}I do not wish to rule
+Dialogue: 0.0:30:10.44.0:30:13.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(172.402)}over a kingdom of ash and bone.
+Dialogue: 0.0:30:13.61.0:30:16.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(244.369)}Are you considering
+Dialogue: 0.0:30:13.61.0:30:16.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(156.402)}the Hightowers' terms. Your Grace?
+Dialogue: 0.0:30:16.94.0:30:20.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(181.369)}As Queen. what is my true duty
+Dialogue: 0.0:30:16.94.0:30:20.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(196.401)}to the realm. Lord Bartimos?
+Dialogue: 0.0:30:21.15.0:30:22.67.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(208.402)}Ensuring peace and unity?
+Dialogue: 0.0:30:22.78.0:30:25.65.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(202.368)}Or that I sit the Iron Throne.
+Dialogue: 0.0:30:22.78.0:30:25.65.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(251.399)}no matter the cost?
+Dialogue: 0.0:30:25.75.0:30:28.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(210.369)}- That's your father talking.
+Dialogue: 0.0:30:25.75.0:30:28.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(259.402)}- My father's dead.
+Dialogue: 0.0:30:30.12.0:30:32.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(151.399)}And he chose me as his successor...
+Dialogue: 0.0:30:34.70.0:30:37.26.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.368)}to defend the realm.
+Dialogue: 0.0:30:34.70.0:30:37.26.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(194.402)}not cast it headlong into war.
+Dialogue: 0.0:30:37.33.0:30:38.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(159.402)}Well. the enemy have declared war.
+Dialogue: 0.0:30:39.60.0:30:41.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.402)}What are you gonna do about it?
+Dialogue: 0.0:30:44.71.0:30:45.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(273.399)}Clear the room.
+Dialogue: 0.0:31:16.40.0:31:18.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(153.402)}Does the promise of war excite you?
+Dialogue: 0.0:31:18.07.0:31:19.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(210.366)}You cannot bend the knee
+Dialogue: 0.0:31:18.07.0:31:19.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(255.402)}to the Hightowers.
+Dialogue: 0.0:31:19.97.0:31:21.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(211.402)}They stole your birthright.
+Dialogue: 0.0:31:21.58.0:31:23.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(228.369)}[Rhaenyra] If you could
+Dialogue: 0.0:31:21.58.0:31:23.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(244.399)}take the Iron Throne
+Dialogue: 0.0:31:23.31.0:31:25.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(172.369)}without putting Otto Hightower's
+Dialogue: 0.0:31:23.31.0:31:25.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(268.402)}head on a spike.
+Dialogue: 0.0:31:25.48.0:31:26.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(289.369)}- would you?
+Dialogue: 0.0:31:25.48.0:31:26.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(148.402)}- [Prince Daemon] Are you not angry?
+Dialogue: 0.0:31:27.01.0:31:29.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(126.369)}- I should declare war because I'm angry?
+Dialogue: 0.0:31:27.01.0:31:29.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(239.402)}- [Prince Daemon] No.
+Dialogue: 0.0:31:29.42.0:31:31.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(235.369)}Because it's your duty
+Dialogue: 0.0:31:29.42.0:31:31.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(199.400)}as Queen to crush rebellion.
+Dialogue: 0.0:31:31.55.0:31:35.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(254.369)}You know my oath
+Dialogue: 0.0:31:31.55.0:31:35.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(131.402)}reaches beyond our personal ambitions.
+Dialogue: 0.0:31:38.56.0:31:40.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(229.402)}A Song of Ice and Fire.
+Dialogue: 0.0:31:43.20.0:31:44.19.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(323.399)}What?
+Dialogue: 0.0:31:45.70.0:31:47.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(224.369)}The coming war against
+Dialogue: 0.0:31:45.70.0:31:47.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(212.399)}the darkness in the North.
+Dialogue: 0.0:31:47.50.0:31:48.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(222.402)}The Conqueror's Dream.
+Dialogue: 0.0:31:49.60.0:31:51.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(216.369)}Viserys shared it with me
+Dialogue: 0.0:31:49.60.0:31:51.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(220.399)}when he named me heir.
+Dialogue: 0.0:31:51.67.0:31:52.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(308.402)}[choking]
+Dialogue: 0.0:31:56.61.0:32:00.60.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(184.369)}My brother... was a slave to his
+Dialogue: 0.0:31:56.61.0:32:00.60.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(243.402)}omens and portents.
+Dialogue: 0.0:32:01.88.0:32:05.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(155.369)}Anything to make his feckless reign
+Dialogue: 0.0:32:01.88.0:32:05.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(222.402)}appear to have purpose.
+Dialogue: 0.0:32:09.12.0:32:10.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(193.402)}Dreams didn't make us kings.
+Dialogue: 0.0:32:12.19.0:32:13.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(288.402)}Dragons did.
+Dialogue: 0.0:32:18.06.0:32:20.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(308.402)}[gasping]
+Dialogue: 0.0:32:31.75.0:32:33.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(251.402)}He never told you...
+Dialogue: 0.0:32:33.15.0:32:34.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(259.402)}[breath trembling]
+Dialogue: 0.0:32:37.12.0:32:38.31.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(318.399)}did he?
+Dialogue: 0.0:32:39.05.0:32:40.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(152.402)}[sinister instrumental music playing]
+Dialogue: 0.0:33:07.45.0:33:08.85.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(157.402)}[Rhaenys Velaryon breathing softly]
+Dialogue: 0.0:33:15.62.0:33:19.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(137.369)}I've had men whipped for falling asleep
+Dialogue: 0.0:33:15.62.0:33:19.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(276.399)}on their watch.
+Dialogue: 0.0:33:21.66.0:33:23.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(255.402)}[breathing heavily]
+Dialogue: 0.0:33:26.00.0:33:27.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(267.399)}You are no man.
+Dialogue: 0.0:33:32.34.0:33:33.53.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(239.399)}You abandoned me...
+Dialogue: 0.0:33:35.94.0:33:37.14.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(216.402)}when I most needed you.
+Dialogue: 0.0:33:38.85.0:33:40.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.399)}Both our children stolen from us.
+Dialogue: 0.0:33:42.52.0:33:43.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(285.402)}I needed you.
+Dialogue: 0.0:33:44.38.0:33:45.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(185.402)}Baela and Rhaena needed you.
+Dialogue: 0.0:33:45.89.0:33:48.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(229.369)}and you abandoned us
+Dialogue: 0.0:33:45.89.0:33:48.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(211.399)}for more adventure at sea.
+Dialogue: 0.0:33:49.06.0:33:51.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(188.402)}As has always been your way.
+Dialogue: 0.0:33:52.83.0:33:54.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(154.402)}[Corlys] I had no other place to turn.
+Dialogue: 0.0:33:56.70.0:33:59.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(261.369)}- I lost everything.
+Dialogue: 0.0:33:56.70.0:33:59.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(267.402)}- We lost. Corlys.
+Dialogue: 0.0:34:01.97.0:34:02.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(339.399)}We.
+Dialogue: 0.0:34:16.05.0:34:17.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.402)}I understand we have a new king.
+Dialogue: 0.0:34:18.42.0:34:21.22.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(166.369)}The Stranger casts a long shadow
+Dialogue: 0.0:34:18.42.0:34:21.22.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(270.402)}over this family.
+Dialogue: 0.0:34:28.19.0:34:29.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(212.399)}Your brother is also dead.
+Dialogue: 0.0:34:32.40.0:34:34.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(302.402)}[groaning]
+Dialogue: 0.0:34:35.04.0:34:38.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(226.369)}In his haste to bury you
+Dialogue: 0.0:34:35.04.0:34:38.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.402)}and claim your seat.
+Dialogue: 0.0:34:38.07.0:34:39.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(220.402)}he stood before the King
+Dialogue: 0.0:34:39.67.0:34:42.54.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(272.366)}and denounced
+Dialogue: 0.0:34:39.67.0:34:42.54.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(195.402)}Laenor's sons as illegitimate.
+Dialogue: 0.0:34:43.44.0:34:44.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(323.402)}[sighs]
+Dialogue: 0.0:34:47.61.0:34:49.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(200.399)}Daemon took his head for it.
+Dialogue: 0.0:34:49.18.0:34:50.21.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(319.402)}[scoffs]
+Dialogue: 0.0:34:54.79.0:34:58.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(158.369)}Heedless ambition has always been
+Dialogue: 0.0:34:54.79.0:34:58.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(238.402)}a Velaryon weakness.
+Dialogue: 0.0:35:03.63.0:35:05.26.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(217.402)}You were right. Rhaenys.
+Dialogue: 0.0:35:07.40.0:35:10.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(167.402)}I reached too far. And for nothing.
+Dialogue: 0.0:35:13.27.0:35:17.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(178.369)}Our pursuit of the Iron Throne...
+Dialogue: 0.0:35:13.27.0:35:17.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(292.399)}is at an end.
+Dialogue: 0.0:35:22.58.0:35:24.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(200.399)}We shall declare for no one.
+Dialogue: 0.0:35:26.99.0:35:28.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(212.402)}We will retire to High Tide
+Dialogue: 0.0:35:29.26.0:35:30.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(274.399)}to be content...
+Dialogue: 0.0:35:31.42.0:35:33.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(196.402)}with our grandchildren and--
+Dialogue: 0.0:35:33.89.0:35:36.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(245.368)}Jace. Luke. and Joff
+Dialogue: 0.0:35:33.89.0:35:36.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(204.399)}are claimants to the throne.
+Dialogue: 0.0:35:38.77.0:35:41.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(217.369)}Those boys'll not be safe
+Dialogue: 0.0:35:38.77.0:35:41.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(215.402)}so long as Aegon is king.
+Dialogue: 0.0:35:44.14.0:35:47.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(226.369)}Rhaenyra was complicit
+Dialogue: 0.0:35:44.14.0:35:47.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(255.399)}in our son's death.
+Dialogue: 0.0:35:49.78.0:35:52.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(260.369)}That girl destroys
+Dialogue: 0.0:35:49.78.0:35:52.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(224.402)}everything she touches.
+Dialogue: 0.0:35:52.48.0:35:54.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(292.402)}That "girl"...
+Dialogue: 0.0:35:54.51.0:35:56.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(196.369)}is holding the realm together
+Dialogue: 0.0:35:54.51.0:35:56.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(301.402)}at present.
+Dialogue: 0.0:35:57.78.0:35:59.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(248.369)}Every man standing
+Dialogue: 0.0:35:57.78.0:35:59.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(220.399)}'round the Painted Table
+Dialogue: 0.0:35:59.65.0:36:01.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(139.402)}urges her to plunge the realm into war.
+Dialogue: 0.0:36:03.02.0:36:04.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(257.402)}[indistinct chatter]
+Dialogue: 0.0:36:04.19.0:36:07.42.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(135.368)}[Rhaenys Velaryon] {\i1}Rhaenyra's the only{\i0}
+Dialogue: 0.0:36:04.19.0:36:07.42.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(167.398)}{\i1}one who's demonstrated restraint.{\i0}
+Dialogue: 0.0:36:07.49.0:36:09.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(205.369)}[man 1] The purpose of war
+Dialogue: 0.0:36:07.49.0:36:09.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(249.402)}is to fill graveyards.
+Dialogue: 0.0:36:09.76.0:36:10.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(227.402)}my dear Lord Staunton.
+Dialogue: 0.0:36:10.93.0:36:14.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(155.369)}The trick is to put more of their men
+Dialogue: 0.0:36:10.93.0:36:14.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(194.402)}in the ground than your own.
+Dialogue: 0.0:36:14.17.0:36:15.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(250.369)}[man 2] Easy words
+Dialogue: 0.0:36:14.17.0:36:15.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(213.399)}for a lord who commands
+Dialogue: 0.0:36:15.80.0:36:17.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(195.369)}- from the safety of his castle.
+Dialogue: 0.0:36:15.80.0:36:17.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(143.402)}- [man 1] Doesn't make it any less true.
+Dialogue: 0.0:36:17.44.0:36:18.67.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.402)}[Ser Erryk] The Lord of the Tides!
+Dialogue: 0.0:36:19.71.0:36:21.14.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(230.402)}Lord Corlys Velaryon...
+Dialogue: 0.0:36:22.61.0:36:25.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(288.368)}and his wife.
+Dialogue: 0.0:36:22.61.0:36:25.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(172.402)}the Princess Rhaenys Targaryen.
+Dialogue: 0.0:36:37.52.0:36:39.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(309.402)}My lords.
+Dialogue: 0.0:36:39.19.0:36:40.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(226.402)}[Rhaenyra] Lord Corlys.
+Dialogue: 0.0:36:41.66.0:36:44.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(156.369)}It brings much relief to see you hale
+Dialogue: 0.0:36:41.66.0:36:44.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(256.402)}and healthy again.
+Dialogue: 0.0:36:46.80.0:36:49.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(179.369)}I'm very sorry about your father.
+Dialogue: 0.0:36:46.80.0:36:49.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(309.399)}Princess.
+Dialogue: 0.0:36:50.17.0:36:52.16.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.402)}He was a good man.
+Dialogue: 0.0:37:03.42.0:37:04.65.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(252.399)}Where is Daemon?
+Dialogue: 0.0:37:05.75.0:37:08.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(170.366)}There were other concerns which
+Dialogue: 0.0:37:05.75.0:37:08.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(172.399)}demanded the Prince's attention.
+Dialogue: 0.0:37:10.32.0:37:11.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(327.399)}Mmm.
+Dialogue: 0.0:37:13.53.0:37:15.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(305.402)}[grunting]
+Dialogue: 0.0:37:20.10.0:37:21.53.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(240.399)}Your declared allies?
+Dialogue: 0.0:37:23.07.0:37:26.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(333.366)}- Yes.
+Dialogue: 0.0:37:23.07.0:37:26.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(153.399)}- Too few to win a war for the throne.
+Dialogue: 0.0:37:28.34.0:37:31.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.368)}Well. we would also
+Dialogue: 0.0:37:28.34.0:37:31.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(218.402)}hope to have the support
+Dialogue: 0.0:37:31.08.0:37:34.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(133.369)}- of Houses Arryn. Baratheon. and Stark.
+Dialogue: 0.0:37:31.08.0:37:34.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(268.402)}- [Corlys] Hope...
+Dialogue: 0.0:37:34.95.0:37:36.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(268.402)}is the fool's ally.
+Dialogue: 0.0:37:38.12.0:37:41.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(212.369)}Both Arryn and Baratheon
+Dialogue: 0.0:37:38.12.0:37:41.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(202.402)}share blood with my house.
+Dialogue: 0.0:37:41.42.0:37:43.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(166.399)}But all of them swore oaths to me.
+Dialogue: 0.0:37:43.56.0:37:45.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(210.402)}As did House Hightower...
+Dialogue: 0.0:37:45.46.0:37:46.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(284.399)}if I remember.
+Dialogue: 0.0:37:46.73.0:37:49.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(220.402)}As did you. Lord Corlys.
+Dialogue: 0.0:38:03.54.0:38:04.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(242.399)}Your father's realm...
+Dialogue: 0.0:38:06.08.0:38:08.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(190.402)}was one of justice and honor.
+Dialogue: 0.0:38:10.05.0:38:14.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(125.369)}Our houses are bound by common blood
+Dialogue: 0.0:38:10.05.0:38:14.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.399)}and common cause.
+Dialogue: 0.0:38:16.06.0:38:19.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(145.402)}This Hightower treason cannot stand.
+Dialogue: 0.0:38:24.66.0:38:27.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(215.369)}You have the full support
+Dialogue: 0.0:38:24.66.0:38:27.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(231.399)}of our fleet and house.
+Dialogue: 0.0:38:29.84.0:38:30.83.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(293.399)}Your Grace.
+Dialogue: 0.0:38:36.28.0:38:37.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(274.402)}[music playing]
+Dialogue: 0.0:38:39.91.0:38:41.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(201.402)}You honor me. Lord Corlys.
+Dialogue: 0.0:38:47.85.0:38:49.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(256.402)}Princess Rhaenys.
+Dialogue: 0.0:38:53.93.0:38:57.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(181.402)}But. as I said to my bannermen.
+Dialogue: 0.0:38:57.66.0:39:01.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(192.369)}I made a promise to my father
+Dialogue: 0.0:38:57.66.0:39:01.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(153.402)}to hold the realm strong and united.
+Dialogue: 0.0:39:03.20.0:39:06.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(203.368)}If war's first stroke is to fall.
+Dialogue: 0.0:39:03.20.0:39:06.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(217.402)}it will not be by my hand.
+Dialogue: 0.0:39:07.77.0:39:09.14.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(219.399)}You do not mean to act?
+Dialogue: 0.0:39:09.21.0:39:12.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(276.369)}Taking caution
+Dialogue: 0.0:39:09.21.0:39:12.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(194.402)}does not mean standing fast.
+Dialogue: 0.0:39:12.81.0:39:17.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(176.369)}I wish to know who my allies are
+Dialogue: 0.0:39:12.81.0:39:17.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(213.399)}before I send them to war.
+Dialogue: 0.0:39:25.53.0:39:26.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(214.402)}The consequence of my...
+Dialogue: 0.0:39:28.06.0:39:31.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(178.402)}near-demise in the Stepstones...
+Dialogue: 0.0:39:32.33.0:39:34.16.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(199.399)}is that we now control them.
+Dialogue: 0.0:39:34.83.0:39:37.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(207.369)}I took care to fully garrison
+Dialogue: 0.0:39:34.83.0:39:37.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(237.402)}the territory this time.
+Dialogue: 0.0:39:37.50.0:39:39.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(142.402)}A total blockade of the shipping lanes
+Dialogue: 0.0:39:39.41.0:39:42.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(226.369)}will be in place in days.
+Dialogue: 0.0:39:39.41.0:39:42.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(284.402)}if not already.
+Dialogue: 0.0:39:42.54.0:39:44.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(183.402)}The Triarchy have been routed.
+Dialogue: 0.0:39:45.04.0:39:47.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(224.399)}The Narrow Sea is ours.
+Dialogue: 0.0:39:47.08.0:39:49.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(274.402)}[music playing]
+Dialogue: 0.0:39:49.82.0:39:52.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(218.369)}[Corlys] If we further seal
+Dialogue: 0.0:39:49.82.0:39:52.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(301.401)}the Gullet.
+Dialogue: 0.0:39:52.69.0:39:55.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(280.366)}we can cut off
+Dialogue: 0.0:39:52.69.0:39:55.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(199.399)}all seaborne travel and trade
+Dialogue: 0.0:39:55.76.0:39:57.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(254.402)}to King's Landing.
+Dialogue: 0.0:39:58.02.0:40:00.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(257.369)}I shall take Meleys
+Dialogue: 0.0:39:58.02.0:40:00.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(199.402)}and patrol the Gullet myself.
+Dialogue: 0.0:40:05.73.0:40:07.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(147.402)}[man] When we drain the Narrow Sea.
+Dialogue: 0.0:40:08.60.0:40:10.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(169.402)}we can surround King's Landing.
+Dialogue: 0.0:40:10.70.0:40:12.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(213.402)}lay siege to the Red Keep.
+Dialogue: 0.0:40:13.04.0:40:15.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(176.399)}and force the Greens' surrender.
+Dialogue: 0.0:40:15.58.0:40:19.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(176.369)}If we are to have enough swords
+Dialogue: 0.0:40:15.58.0:40:19.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(198.402)}to surround King's Landing.
+Dialogue: 0.0:40:19.38.0:40:23.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(160.369)}we must first secure the support of
+Dialogue: 0.0:40:19.38.0:40:23.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(142.402)}Winterfell. the Eyrie. and Storm's End.
+Dialogue: 0.0:40:23.08.0:40:25.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(164.402)}I'll prepare the ravens. Your Grace.
+Dialogue: 0.0:40:25.95.0:40:27.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(211.369)}[Jacaerys] We should bear
+Dialogue: 0.0:40:25.95.0:40:27.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(264.402)}those messages.
+Dialogue: 0.0:40:29.52.0:40:31.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(166.402)}Dragons can fly faster than ravens
+Dialogue: 0.0:40:32.56.0:40:33.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(194.402)}and they're more convincing.
+Dialogue: 0.0:40:37.73.0:40:38.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(311.399)}Send us.
+Dialogue: 0.0:40:40.87.0:40:42.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(181.402)}The Prince is right. Your Grace.
+Dialogue: 0.0:40:51.95.0:40:52.97.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(305.402)}Very well.
+Dialogue: 0.0:40:53.08.0:40:53.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(243.402)}[vibrato intensifying]
+Dialogue: 0.0:40:53.98.0:40:56.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(193.402)}Prince Jacaerys will fly north.
+Dialogue: 0.0:40:57.15.0:41:00.31.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(155.369)}First to the Eyrie to see my mother's
+Dialogue: 0.0:40:57.15.0:41:00.31.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(190.402)}cousin. the Lady Jeyne Arryn.
+Dialogue: 0.0:41:00.42.0:41:03.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(237.366)}and then to Winterfell
+Dialogue: 0.0:41:00.42.0:41:03.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(184.402)}to treat with Lord Cregan Stark
+Dialogue: 0.0:41:03.42.0:41:05.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(199.402)}for the support of the North.
+Dialogue: 0.0:41:06.46.0:41:09.26.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(236.369)}Prince Lucerys will fly
+Dialogue: 0.0:41:06.46.0:41:09.26.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(239.399)}south to Storm's End
+Dialogue: 0.0:41:09.33.0:41:12.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(144.399)}and treat with Lord Borros Baratheon.
+Dialogue: 0.0:41:12.23.0:41:16.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(199.366)}We must remind these lords
+Dialogue: 0.0:41:12.23.0:41:16.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(223.402)}of the oaths they swore.
+Dialogue: 0.0:41:17.97.0:41:20.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(173.402)}And... the cost of breaking them.
+Dialogue: 0.0:41:45.10.0:41:49.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(173.369)}It's been said that as Targaryens.
+Dialogue: 0.0:41:45.10.0:41:49.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(162.402)}we are closer to gods than to men.
+Dialogue: 0.0:41:52.17.0:41:54.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(244.366)}And the Iron Throne
+Dialogue: 0.0:41:52.17.0:41:54.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(177.402)}puts us a touch closer. perhaps.
+Dialogue: 0.0:41:56.88.0:42:00.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(238.368)}But. if we are to serve
+Dialogue: 0.0:41:56.88.0:42:00.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(231.402)}the Seven Kingdoms...
+Dialogue: 0.0:42:01.85.0:42:04.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(187.402)}we must answer to their gods.
+Dialogue: 0.0:42:04.85.0:42:09.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(234.369)}If you take this errand.
+Dialogue: 0.0:42:04.85.0:42:09.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(128.402)}you go as messengers... not as warriors.
+Dialogue: 0.0:42:10.02.0:42:12.19.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(144.402)}You must take no part in any fighting.
+Dialogue: 0.0:42:14.03.0:42:17.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(252.366)}Swear it to me now
+Dialogue: 0.0:42:14.03.0:42:17.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(199.402)}under the eyes of the Seven.
+Dialogue: 0.0:42:22.87.0:42:24.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(307.399)}I swear it.
+Dialogue: 0.0:42:28.91.0:42:30.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(307.399)}I swear it.
+Dialogue: 0.0:42:31.31.0:42:32.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(297.402)}Thank you.
+Dialogue: 0.0:42:36.02.0:42:38.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(263.402)}Cregan Stark is...
+Dialogue: 0.0:42:38.89.0:42:40.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(179.402)}closer to your age than to mine.
+Dialogue: 0.0:42:41.05.0:42:44.72.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(210.369)}I would hope. that as men.
+Dialogue: 0.0:42:41.05.0:42:44.72.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(151.402)}you can find some common interest.
+Dialogue: 0.0:42:45.93.0:42:47.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(265.401)}Yes. Your Grace.
+Dialogue: 0.0:42:55.70.0:42:57.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(138.402)}Storm's End is a short flight from here.
+Dialogue: 0.0:42:59.71.0:43:03.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(208.366)}You have Baratheon blood
+Dialogue: 0.0:42:59.71.0:43:03.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(167.402)}from your grandmother. Rhaenys.
+Dialogue: 0.0:43:03.28.0:43:04.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(326.399)}And...
+Dialogue: 0.0:43:04.71.0:43:07.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(140.402)}Lord Borros is an eternally proud man.
+Dialogue: 0.0:43:08.08.0:43:10.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(254.366)}He will be honored
+Dialogue: 0.0:43:08.08.0:43:10.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(188.402)}to host a prince of the realm...
+Dialogue: 0.0:43:12.22.0:43:13.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(271.402)}and his dragon.
+Dialogue: 0.0:43:22.53.0:43:25.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(225.369)}I expect you will receive
+Dialogue: 0.0:43:22.53.0:43:25.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(235.402)}a very warm welcome.
+Dialogue: 0.0:43:27.10.0:43:28.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(163.402)}Yes. Mother. [stutters] Your Grace.
+Dialogue: 0.0:43:28.94.0:43:29.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(323.402)}[sighs]
+Dialogue: 0.0:43:38.38.0:43:40.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(286.399)}Go to it then.
+Dialogue: 0.0:43:41.21.0:43:42.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(262.402)}[dragons roaring]
+Dialogue: 0.0:43:44.98.0:43:47.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(133.402)}[enthralling instrumental music playing]
+Dialogue: 0.0:44:01.57.0:44:02.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(280.402)}[dragon roars]
+Dialogue: 0.0:44:10.61.0:44:11.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(325.402)}[roars]
+Dialogue: 0.0:44:34.63.0:44:36.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.402)}[singing in Valyrian]
+Dialogue: 0.0:45:20.15.0:45:22.88.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(273.402)}[dragon hisses]
+Dialogue: 0.0:45:24.72.0:45:26.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(250.402)}[continues singing]
+Dialogue: 0.0:45:32.93.0:45:35.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(313.402)}[roaring]
+Dialogue: 0.0:45:44.90.0:45:46.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(274.402)}[music playing]
+Dialogue: 0.0:45:46.77.0:45:48.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.402)}[singing in Valyrian]
+Dialogue: 0.0:45:48.94.0:45:50.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(303.402)}[growling]
+Dialogue: 0.0:46:03.36.0:46:04.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(317.402)}[hisses]
+Dialogue: 0.0:46:05.69.0:46:07.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(303.402)}[growling]
+Dialogue: 0.0:46:16.20.0:46:17.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(285.402)}[thunderclap]
+Dialogue: 0.0:46:22.48.0:46:23.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(276.402)}[wind blowing]
+Dialogue: 0.0:46:30.88.0:46:32.88.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(254.402)}[thunder rumbling]
+Dialogue: 0.0:46:40.26.0:46:41.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(312.402)}[hissing]
+Dialogue: 0.0:46:45.73.0:46:46.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(315.402)}[growls]
+Dialogue: 0.0:46:58.91.0:47:00.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(315.402)}[growls]
+Dialogue: 0.0:47:03.35.0:47:06.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(303.402)}[growling]
+Dialogue: 0.0:47:07.45.0:47:10.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(325.402)}[roars]
+Dialogue: 0.0:47:21.30.0:47:23.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(296.369)}[in English]
+Dialogue: 0.0:47:21.30.0:47:23.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(192.402)}I am Prince Lucerys Velaryon.
+Dialogue: 0.0:47:24.04.0:47:26.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(173.369)}I bring a message to Lord Borros
+Dialogue: 0.0:47:24.04.0:47:26.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(268.400)}from the Queen.
+Dialogue: 0.0:47:28.54.0:47:29.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(271.402)}[Vhagar growls]
+Dialogue: 0.0:47:29.88.0:47:31.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(276.402)}[wind blowing]
+Dialogue: 0.0:47:35.28.0:47:36.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(243.402)}[eerie music playing]
+Dialogue: 0.0:47:43.19.0:47:44.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.402)}[knight] Prince Lucerys Velaryon.
+Dialogue: 0.0:47:47.39.0:47:50.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(254.402)}[thunder rumbling]
+Dialogue: 0.0:47:51.70.0:47:54.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(291.369)}[knight] Son
+Dialogue: 0.0:47:51.70.0:47:54.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(175.402)}of Princess Rhaenyra Targaryen.
+Dialogue: 0.0:47:59.31.0:48:00.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(282.399)}Lord Borros...
+Dialogue: 0.0:48:02.51.0:48:04.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(220.369)}I brought you a message
+Dialogue: 0.0:48:02.51.0:48:04.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(259.402)}from my mother...
+Dialogue: 0.0:48:05.64.0:48:06.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(298.400)}the Queen.
+Dialogue: 0.0:48:07.88.0:48:10.85.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(251.369)}Yet earlier this day.
+Dialogue: 0.0:48:07.88.0:48:10.85.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(166.402)}I received an envoy from the King.
+Dialogue: 0.0:48:12.49.0:48:13.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(292.399)}Which is it?
+Dialogue: 0.0:48:14.22.0:48:16.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(272.402)}King or Queen?
+Dialogue: 0.0:48:17.02.0:48:19.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(218.369)}The House of the Dragon
+Dialogue: 0.0:48:17.02.0:48:19.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(153.399)}does not seem to know who rules it.
+Dialogue: 0.0:48:19.59.0:48:21.19.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(315.402)}[laughs]
+Dialogue: 0.0:48:22.53.0:48:24.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(177.402)}What's your mother's message?
+Dialogue: 0.0:48:32.07.0:48:33.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(255.402)}[breathing heavily]
+Dialogue: 0.0:48:41.25.0:48:42.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(193.402)}Where's the bloody maester?
+Dialogue: 0.0:49:07.87.0:49:10.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(254.402)}[thunder rumbling]
+Dialogue: 0.0:49:17.78.0:49:21.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(168.402)}"Remind" me of my father's oath?
+Dialogue: 0.0:49:22.89.0:49:24.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(137.402)}King Aegon at least came with an offer.
+Dialogue: 0.0:49:24.92.0:49:27.72.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(225.369)}my swords and banners
+Dialogue: 0.0:49:24.92.0:49:27.72.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(249.402)}for a marriage pact.
+Dialogue: 0.0:49:28.99.0:49:30.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(200.402)}If I do as your mother bids...
+Dialogue: 0.0:49:32.30.0:49:34.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(204.369)}which one of my daughters
+Dialogue: 0.0:49:32.30.0:49:34.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(278.402)}will you wed...
+Dialogue: 0.0:49:36.34.0:49:37.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(333.402)}boy?
+Dialogue: 0.0:49:38.50.0:49:41.60.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(179.402)}My lord... I am not free to marry.
+Dialogue: 0.0:49:43.01.0:49:44.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(238.402)}I'm already betrothed.
+Dialogue: 0.0:49:46.68.0:49:48.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(177.402)}So you come with empty hands.
+Dialogue: 0.0:49:51.18.0:49:53.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(276.402)}Go home. pup.
+Dialogue: 0.0:49:53.45.0:49:55.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(242.369)}And tell your mother
+Dialogue: 0.0:49:53.45.0:49:55.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(197.399)}that the Lord of Storm's End
+Dialogue: 0.0:49:55.69.0:50:00.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(133.369)}is not some dog that she can whistle up
+Dialogue: 0.0:49:55.69.0:50:00.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(185.402)}at need to set against her foes.
+Dialogue: 0.0:50:02.46.0:50:05.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(227.369)}I shall take your answer
+Dialogue: 0.0:50:02.46.0:50:05.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(233.402)}to the Queen. my lord.
+Dialogue: 0.0:50:07.50.0:50:08.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(323.402)}[sighs]
+Dialogue: 0.0:50:12.54.0:50:13.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(267.402)}[Aemond] Wait...
+Dialogue: 0.0:50:15.94.0:50:17.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(273.402)}my lord Strong.
+Dialogue: 0.0:50:22.38.0:50:26.72.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(251.369)}Did you really think
+Dialogue: 0.0:50:22.38.0:50:26.72.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(142.402)}that you could just fly about the realm
+Dialogue: 0.0:50:26.82.0:50:29.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(165.369)}trying to steal my brother's throne
+Dialogue: 0.0:50:26.82.0:50:29.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(297.399)}at no cost?
+Dialogue: 0.0:50:31.19.0:50:32.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(254.402)}I will not fight you.
+Dialogue: 0.0:50:33.96.0:50:36.83.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(149.402)}I came as a messenger. not a warrior.
+Dialogue: 0.0:50:36.90.0:50:38.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(174.402)}A fight would be little challenge.
+Dialogue: 0.0:50:41.63.0:50:42.83.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(343.399)}No.
+Dialogue: 0.0:50:43.70.0:50:45.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(187.402)}I want you to put out your eye.
+Dialogue: 0.0:50:48.64.0:50:49.97.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(238.402)}As payment for mine.
+Dialogue: 0.0:50:52.38.0:50:53.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(277.399)}One will serve.
+Dialogue: 0.0:50:57.72.0:50:58.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(236.402)}I would not blind you.
+Dialogue: 0.0:51:02.25.0:51:04.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(200.369)}[clicks tongue] Plan to make
+Dialogue: 0.0:51:02.25.0:51:04.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(223.402)}a gift of it to my mother.
+Dialogue: 0.0:51:08.76.0:51:09.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(343.399)}No.
+Dialogue: 0.0:51:11.03.0:51:13.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(245.369)}Then you are craven
+Dialogue: 0.0:51:11.03.0:51:13.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(254.399)}as well as a traitor.
+Dialogue: 0.0:51:13.07.0:51:15.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(305.366)}- Not here.
+Dialogue: 0.0:51:13.07.0:51:15.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(255.402)}- Give me your eye.
+Dialogue: 0.0:51:15.70.0:51:17.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(227.401)}or I will take it. bastard!
+Dialogue: 0.0:51:18.34.0:51:19.74.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(279.402)}Not in my hall!
+Dialogue: 0.0:51:20.91.0:51:22.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(206.402)}The boy came as an envoy.
+Dialogue: 0.0:51:22.78.0:51:24.74.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(130.402)}I'll not have bloodshed beneath my roof.
+Dialogue: 0.0:51:25.41.0:51:27.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(131.402)}Take Prince Lucerys back to his dragon.
+Dialogue: 0.0:51:28.41.0:51:29.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(333.399)}Now.
+Dialogue: 0.0:51:39.89.0:51:41.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(277.402)}[rain pattering]
+Dialogue: 0.0:51:42.13.0:51:43.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(254.402)}[thunder rumbling]
+Dialogue: 0.0:51:50.20.0:51:51.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(325.402)}[roars]
+Dialogue: 0.0:51:57.91.0:51:59.21.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(314.402)}[groans]
+Dialogue: 0.0:52:03.78.0:52:04.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(317.402)}[grunts]
+Dialogue: 0.0:52:13.56.0:52:15.26.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.85)}[thunder rumbling]
+Dialogue: 0.0:52:15.89.0:52:16.76.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.85)}[grunts]
+Dialogue: 0.0:52:17.50.0:52:18.40.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.85)}[growls]
+Dialogue: 0.0:52:37.02.0:52:38.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(325.402)}[roars]
+Dialogue: 0.0:52:59.87.0:53:02.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(315.402)}[growls]
+Dialogue: 0.0:53:05.98.0:53:07.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(325.402)}[roars]
+Dialogue: 0.0:53:16.82.0:53:18.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(281.402)}[Vhagar roars]
+Dialogue: 0.0:53:22.33.0:53:23.16.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(320.402)}[gasps]
+Dialogue: 0.0:53:30.40.0:53:32.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(315.369)}- [gasps]
+Dialogue: 0.0:53:30.40.0:53:32.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(320.402)}- [roars]
+Dialogue: 0.0:53:32.64.0:53:34.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(264.402)}[Aemond laughs]
+Dialogue: 0.0:53:35.01.0:53:36.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(281.402)}[Vhagar roars]
+Dialogue: 0.0:53:41.98.0:53:43.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(274.402)}[music playing]
+Dialogue: 0.0:53:43.42.0:53:44.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(320.402)}[gasps]
+Dialogue: 0.0:53:45.25.0:53:47.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(312.369)}- [grunts]
+Dialogue: 0.0:53:45.25.0:53:47.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(320.402)}- [roars]
+Dialogue: 0.0:53:47.65.0:53:48.88.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(301.402)}[inaudible]
+Dialogue: 0.0:53:49.52.0:53:50.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(301.402)}[inaudible]
+Dialogue: 0.0:53:52.39.0:53:54.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(325.402)}[roars]
+Dialogue: 0.0:53:57.26.0:53:58.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(317.402)}[grunts]
+Dialogue: 0.0:54:01.37.0:54:02.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(325.402)}[roars]
+Dialogue: 0.0:54:02.53.0:54:03.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(268.402)}[Lucerys grunts]
+Dialogue: 0.0:54:08.84.0:54:09.83.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(317.402)}[grunts]
+Dialogue: 0.0:54:12.11.0:54:13.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(325.402)}[roars]
+Dialogue: 0.0:54:13.85.0:54:15.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(315.402)}[laughs]
+Dialogue: 0.0:54:18.72.0:54:19.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(315.402)}[growls]
+Dialogue: 0.0:54:20.89.0:54:22.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(313.402)}[shrieks]
+Dialogue: 0.0:54:23.79.0:54:25.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(317.402)}[grunts]
+Dialogue: 0.0:54:25.86.0:54:28.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(271.402)}[Vhagar growls]
+Dialogue: 0.0:54:32.46.0:54:34.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(325.402)}[roars]
+Dialogue: 0.0:54:37.04.0:54:38.26.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(274.402)}[music playing]
+Dialogue: 0.0:55:08.47.0:55:12.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(133.369)}[Aemond in English] No. no. no. no. no!
+Dialogue: 0.0:55:08.47.0:55:12.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(272.402)}No. Vhagar! No!
+Dialogue: 0.0:55:12.97.0:55:13.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(238.402)}[speaking in Valyrian]
+Dialogue: 0.0:55:13.91.0:55:15.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(166.402)}[in English] Serve me. Vhagar! No!
+Dialogue: 0.0:55:15.27.0:55:16.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(238.402)}[speaking in Valyrian]
+Dialogue: 0.0:55:25.98.0:55:27.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(325.402)}[roars]
+Dialogue: 0.0:55:34.46.0:55:35.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(255.402)}[breathing heavily]
+Dialogue: 0.0:55:38.76.0:55:41.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(270.402)}Vhagar! No! No.
+Dialogue: 0.0:55:41.97.0:55:43.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(325.402)}[roars]
+Dialogue: 0.0:55:49.04.0:55:51.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(243.402)}[vibrato intensifying]
+Dialogue: 0.0:56:01.12.0:56:02.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(227.402)}[somber music playing]
+Dialogue: 0.0:56:55.94.0:56:57.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(223.402)}[inaudible conversation]
+Dialogue: 0.0:57:06.89.0:57:08.88.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(213.402)}[somber music continues]
+Dialogue: 0.0:57:48.73.0:57:50.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(198.402)}[instrumental music playing]
