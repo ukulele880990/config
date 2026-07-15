@@ -1,0 +1,1047 @@
+WEBVTT
+
+﻿[Script Info]
+Title: Default file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 720
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Audio File: 
+Video File: 
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+
+[V4+ Styles]
+Format: Name. Fontname. Fontsize. PrimaryColour. SecondaryColour. OutlineColour. BackColour. Bold. Italic. Underline. StrikeOut. ScaleX. ScaleY. Spacing. Angle. BorderStyle. Outline. Shadow. Alignment. MarginL. MarginR. MarginV. Encoding
+Style: Dialogue1.Tahoma.32.&H00FDFDFD.&H000000FF.&H1F000000.&HC7000000.0.0.0.0.100.100.0.0.1.1.4.1.7.2.60.60.15.1
+Style: Dialogue2.Tahoma.36.&H00FDFDFD.&H000000FF.&H1F000000.&HC7000000.0.0.0.0.100.100.0.0.1.1.4.1.7.2.60.60.15.1
+
+[Events]
+Format: Layer. Start. End. Style. Name. MarginL. MarginR. MarginV. Effect. Text
+Dialogue: 0.0:02:00.35.0:02:01.72.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(329.402)}Lord.
+Dialogue: 0.0:02:02.99.0:02:04.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(214.402)}cast your light upon us.
+Dialogue: 0.0:02:05.05.0:02:07.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(209.402)}Lord of Light. defend us.
+Dialogue: 0.0:02:10.29.0:02:12.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(248.399)}Show us the truth.
+Dialogue: 0.0:02:12.36.0:02:16.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(143.365)}Strike this man down if he is guilty.
+Dialogue: 0.0:02:12.36.0:02:16.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(121.402)}Give strength to his sword if he is true.
+Dialogue: 0.0:02:17.53.0:02:20.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(174.402)}Lord of Light. give us wisdom.
+Dialogue: 0.0:02:25.94.0:02:29.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(124.402)}for the night is dark and full of terrors.
+Dialogue: 0.0:02:30.01.0:02:32.74.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(122.402)}For the night is dark and full of terrors.
+Dialogue: 0.0:03:54.80.0:03:56.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(303.399)}Get back.
+Dialogue: 0.0:04:24.96.0:04:30.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(95.402)}Guilty. Guilty. Guilty. Guilty. Guilty. Guilty.
+Dialogue: 0.0:04:30.20.0:04:34.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(95.402)}Guilty. Guilty. Guilty. Guilty. Guilty. Guilty.
+Dialogue: 0.0:04:34.80.0:04:36.14.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(315.365)}- Guilty.
+Dialogue: 0.0:04:34.80.0:04:36.14.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(305.399)}- Kill him!
+Dialogue: 0.0:04:54.96.0:04:57.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(141.365)}Lord. cast your light upon this man.
+Dialogue: 0.0:04:54.96.0:04:57.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(279.403)}your servant.
+Dialogue: 0.0:04:57.46.0:05:00.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(109.365)}Bring him back from death and darkness.
+Dialogue: 0.0:04:57.46.0:05:00.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(251.399)}Restore his flame.
+Dialogue: 0.0:05:01.70.0:05:03.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(122.402)}For the night is dark and full of terrors.
+Dialogue: 0.0:05:03.73.0:05:05.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(283.365)}- Lord. cast...
+Dialogue: 0.0:05:03.73.0:05:05.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(285.402)}- Arya. don't!
+Dialogue: 0.0:05:06.07.0:05:08.23.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(101.402)}Bring him back from death and darkness...
+Dialogue: 0.0:05:09.07.0:05:12.97.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(188.402)}No! Let go of me! Let me go!
+Dialogue: 0.0:05:13.04.0:05:16.14.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(185.365)}Looks like their god likes me
+Dialogue: 0.0:05:13.04.0:05:16.14.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(177.402)}more than your butcher's boy.
+Dialogue: 0.0:05:16.21.0:05:17.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(286.399)}Burn in hell!
+Dialogue: 0.0:05:18.21.0:05:20.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(317.399)}He will.
+Dialogue: 0.0:05:24.12.0:05:26.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(275.402)}But not today.
+Dialogue: 0.0:05:49.85.0:05:53.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(202.365)}Orell says there are crows
+Dialogue: 0.0:05:49.85.0:05:53.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(225.402)}patrolling on the Wall.
+Dialogue: 0.0:05:53.25.0:05:54.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(217.402)}Tell me what you know.
+Dialogue: 0.0:05:55.68.0:05:59.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(204.365)}There are four to a patrol.
+Dialogue: 0.0:05:55.68.0:05:59.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(88.402)}two builders to check for structural damage.
+Dialogue: 0.0:05:59.55.0:06:02.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(148.365)}- two rangers to watch for enemies.
+Dialogue: 0.0:05:59.55.0:06:02.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(139.402)}- How often do these patrols go out?
+Dialogue: 0.0:06:04.23.0:06:06.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(309.399)}It varies.
+Dialogue: 0.0:06:06.13.0:06:08.53.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(198.362)}If I knew where on the Wall
+Dialogue: 0.0:06:06.13.0:06:08.53.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(154.402)}we were heading. I could tell you.
+Dialogue: 0.0:06:08.60.0:06:09.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(215.399)}You'd like to know that.
+Dialogue: 0.0:06:13.70.0:06:15.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(123.402)}There are 19 castles guarding the Wall.
+Dialogue: 0.0:06:17.44.0:06:19.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(216.402)}How many are manned?
+Dialogue: 0.0:06:20.48.0:06:22.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(322.399)}Three.
+Dialogue: 0.0:06:22.08.0:06:23.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(254.399)}You sure of that?
+Dialogue: 0.0:06:26.38.0:06:27.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(279.399)}Which three?
+Dialogue: 0.0:06:30.79.0:06:31.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(281.399)}Castle Black.
+Dialogue: 0.0:06:32.62.0:06:34.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(250.402)}Aye. Castle Black.
+Dialogue: 0.0:06:34.32.0:06:35.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(178.402)}Everyone knows Castle Black.
+Dialogue: 0.0:06:36.22.0:06:37.85.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(271.399)}Which others?
+Dialogue: 0.0:06:43.47.0:06:47.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(228.365)}Eastwatch-by-the-Sea
+Dialogue: 0.0:06:43.47.0:06:47.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(217.399)}and the Shadow Tower.
+Dialogue: 0.0:06:50.91.0:06:52.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(121.402)}How many men remain in Castle Black?
+Dialogue: 0.0:06:52.91.0:06:54.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(282.362)}- A thousand.
+Dialogue: 0.0:06:52.91.0:06:54.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(329.399)}- Liar.
+Dialogue: 0.0:06:56.81.0:06:58.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(93.402)}What happens to your eagle after I kill you?
+Dialogue: 0.0:06:58.91.0:07:01.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(249.365)}Does he drift away
+Dialogue: 0.0:06:58.91.0:07:01.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(177.402)}like a kite with his strings cut.
+Dialogue: 0.0:07:02.12.0:07:05.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(108.365)}- or does he just flop dead to the ground?
+Dialogue: 0.0:07:02.12.0:07:05.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(273.399)}- He's no crow.
+Dialogue: 0.0:07:05.19.0:07:07.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(160.365)}Just 'cause you want him inside.
+Dialogue: 0.0:07:05.19.0:07:07.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(175.402)}you don't make him one of us.
+Dialogue: 0.0:07:07.72.0:07:09.19.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(234.402)}I'm not afraid of you.
+Dialogue: 0.0:07:16.56.0:07:18.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(272.402)}I like you. boy.
+Dialogue: 0.0:07:19.33.0:07:24.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(242.365)}But if you lie to me.
+Dialogue: 0.0:07:19.33.0:07:24.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(104.402)}I'll pull your guts out through your throat.
+Dialogue: 0.0:07:27.04.0:07:29.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(256.399)}A thousand men.
+Dialogue: 0.0:07:34.52.0:07:36.85.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(189.402)}We'll find out soon enough.
+Dialogue: 0.0:07:44.13.0:07:45.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(174.402)}I don't need you to protect me.
+Dialogue: 0.0:07:45.83.0:07:47.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(251.402)}Of course you do.
+Dialogue: 0.0:07:47.40.0:07:49.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(211.365)}Who stopped Rattleshirt
+Dialogue: 0.0:07:47.40.0:07:49.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(123.402)}when he was about to cut your throat?
+Dialogue: 0.0:07:49.97.0:07:51.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(148.402)}Who vouched for you with Mance?
+Dialogue: 0.0:07:52.83.0:07:54.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(189.402)}It seems you owe me a debt.
+Dialogue: 0.0:07:56.27.0:07:58.74.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(280.362)}- Give it back.
+Dialogue: 0.0:07:56.27.0:07:58.74.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(269.402)}- Well. I stole it.
+Dialogue: 0.0:07:58.81.0:08:02.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(306.362)}It's mine.
+Dialogue: 0.0:07:58.81.0:08:02.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(160.402)}If you want it. come steal it back.
+Dialogue: 0.0:08:04.41.0:08:05.97.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(314.402)}Ygritte!
+Dialogue: 0.0:08:07.38.0:08:09.28.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(314.402)}Ygritte!
+Dialogue: 0.0:08:13.02.0:08:15.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(236.402)}Ygritte! Seven hells.
+Dialogue: 0.0:08:16.02.0:08:17.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(314.402)}Ygritte!
+Dialogue: 0.0:08:21.33.0:08:25.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(147.402)}Is Orell right? Are you still a crow?
+Dialogue: 0.0:08:27.37.0:08:29.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(182.402)}It's time you proved yourself.
+Dialogue: 0.0:08:31.04.0:08:33.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(311.365)}- Ygritte.
+Dialogue: 0.0:08:31.04.0:08:33.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(216.399)}- You swore some vows.
+Dialogue: 0.0:08:35.28.0:08:36.54.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(216.402)}I want you to break 'em.
+Dialogue: 0.0:08:39.85.0:08:41.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(233.402)}I want you to see me.
+Dialogue: 0.0:08:44.82.0:08:46.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(302.399)}All of me.
+Dialogue: 0.0:09:00.74.0:09:02.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(275.399)}We shouldn't.
+Dialogue: 0.0:09:04.94.0:09:06.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(291.399)}We should.
+Dialogue: 0.0:09:26.13.0:09:31.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(197.365)}Why are you still dressed?
+Dialogue: 0.0:09:26.13.0:09:31.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(175.402)}You know nothing. Jon Snow.
+Dialogue: 0.0:09:46.18.0:09:50.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(131.402)}That thing you did with your mouth...
+Dialogue: 0.0:09:51.99.0:09:54.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(147.362)}Is that what lords do to their ladies
+Dialogue: 0.0:09:51.99.0:09:54.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(279.399)}in the South?
+Dialogue: 0.0:09:55.22.0:09:58.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(282.362)}I don't know.
+Dialogue: 0.0:09:55.22.0:09:58.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(140.402)}I just wanted to kiss you there is all.
+Dialogue: 0.0:10:00.50.0:10:01.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(228.399)}You seemed to like it.
+Dialogue: 0.0:10:01.63.0:10:04.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(240.402)}Aye. I liked it some.
+Dialogue: 0.0:10:04.07.0:10:06.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(227.402)}Who taught you that?
+Dialogue: 0.0:10:06.07.0:10:08.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(141.402)}There's been no one else. Only you.
+Dialogue: 0.0:10:08.87.0:10:12.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(205.399)}A maid. You were a maid.
+Dialogue: 0.0:10:13.07.0:10:15.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(159.402)}I was a man of the Night's Watch.
+Dialogue: 0.0:10:17.28.0:10:19.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(149.402)}How about you? Were you a maid?
+Dialogue: 0.0:10:19.35.0:10:20.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(240.402)}What do you think?
+Dialogue: 0.0:10:20.75.0:10:23.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(275.362)}- Who was he?
+Dialogue: 0.0:10:20.75.0:10:23.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(289.402)}- Just a boy.
+Dialogue: 0.0:10:23.85.0:10:26.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(150.402)}He came trading with his brothers.
+Dialogue: 0.0:10:26.42.0:10:29.88.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(218.362)}He had red hair like me.
+Dialogue: 0.0:10:26.42.0:10:29.88.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(237.402)}Kissed by fire. But...
+Dialogue: 0.0:10:31.73.0:10:35.60.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(199.402)}He was weak. Not like you.
+Dialogue: 0.0:10:36.20.0:10:39.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(224.362)}That was the first one.
+Dialogue: 0.0:10:36.20.0:10:39.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(168.402)}Then there was this Thenn boy.
+Dialogue: 0.0:10:39.97.0:10:42.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(241.365)}Spoke no Common.
+Dialogue: 0.0:10:39.97.0:10:42.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(107.402)}but. Gods. he was built like a mammoth...
+Dialogue: 0.0:10:43.04.0:10:46.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(116.402)}Yeah. thanks. I think I've heard enough.
+Dialogue: 0.0:10:49.21.0:10:50.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(241.402)}We'd best get back.
+Dialogue: 0.0:10:50.88.0:10:52.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(293.399)}Tormund...
+Dialogue: 0.0:10:55.68.0:10:57.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(203.402)}I'm not done with you yet.
+Dialogue: 0.0:11:04.66.0:11:06.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(109.402)}How long's it been since you had a bath?
+Dialogue: 0.0:11:22.91.0:11:24.74.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(252.402)}Let's not go back.
+Dialogue: 0.0:11:26.28.0:11:28.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(178.402)}Let's stay here a while longer.
+Dialogue: 0.0:11:31.65.0:11:34.65.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(78.402)}I don't ever want to leave this cave. Jon Snow.
+Dialogue: 0.0:11:36.52.0:11:38.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(307.399)}Not ever.
+Dialogue: 0.0:11:49.34.0:11:50.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(268.402)}I want my gold.
+Dialogue: 0.0:11:50.64.0:11:53.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(196.365)}It says clearly on that note.
+Dialogue: 0.0:11:50.64.0:11:53.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(143.402)}you'll be paid when the war is over.
+Dialogue: 0.0:11:53.71.0:11:56.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(113.402)}Piss on that! You're nothing but thieves.
+Dialogue: 0.0:11:56.08.0:11:59.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(179.362)}We're outlaws. Outlaws steal.
+Dialogue: 0.0:11:56.08.0:11:59.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.402)}You're lucky we didn't kill you.
+Dialogue: 0.0:11:59.78.0:12:02.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(244.365)}Come try it. archer.
+Dialogue: 0.0:11:59.78.0:12:02.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(143.402)}I'll shove those arrows up your ass.
+Dialogue: 0.0:12:02.62.0:12:04.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(233.365)}You can't let him go.
+Dialogue: 0.0:12:02.62.0:12:04.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(189.402)}He's a murderer. He's guilty.
+Dialogue: 0.0:12:04.99.0:12:06.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(221.402)}Not in the eyes of God.
+Dialogue: 0.0:12:06.55.0:12:07.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(294.362)}- You can't!
+Dialogue: 0.0:12:06.55.0:12:07.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(304.402)}- Enough!
+Dialogue: 0.0:12:08.29.0:12:10.19.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(159.402)}The judgment isn't ours to make.
+Dialogue: 0.0:12:13.36.0:12:17.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(179.365)}Go in peace. Sandor Clegane.
+Dialogue: 0.0:12:13.36.0:12:17.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(106.402)}The Lord of Light isn't done with you yet.
+Dialogue: 0.0:12:23.10.0:12:24.23.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(215.402)}Riders coming through!
+Dialogue: 0.0:12:36.62.0:12:37.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(265.402)}The Kingslayer.
+Dialogue: 0.0:12:38.05.0:12:39.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(323.399)}Down!
+Dialogue: 0.0:12:39.22.0:12:40.85.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(268.402)}On your knees.
+Dialogue: 0.0:12:41.42.0:12:44.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(124.402)}Lord Bolton. I give you the Kingslayer.
+Dialogue: 0.0:12:46.83.0:12:47.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(241.402)}Pick him up. Locke.
+Dialogue: 0.0:12:54.80.0:12:56.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(242.399)}You've lost a hand.
+Dialogue: 0.0:12:56.20.0:12:59.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(197.402)}No. my lord. he has it here.
+Dialogue: 0.0:13:02.28.0:13:04.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(262.365)}- Take this away.
+Dialogue: 0.0:13:02.28.0:13:04.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(227.399)}- Send it to his father?
+Dialogue: 0.0:13:04.58.0:13:07.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(214.365)}You'll hold your tongue
+Dialogue: 0.0:13:04.58.0:13:07.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(200.402)}unless you want to lose it.
+Dialogue: 0.0:13:07.65.0:13:08.74.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(285.399)}Cut her free.
+Dialogue: 0.0:13:08.95.0:13:12.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(238.365)}Apologies. my lady.
+Dialogue: 0.0:13:08.95.0:13:12.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(158.402)}You're under my protection now.
+Dialogue: 0.0:13:12.59.0:13:15.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(239.402)}Thank you. my lord.
+Dialogue: 0.0:13:18.39.0:13:20.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(144.402)}Find suitable rooms for our guests.
+Dialogue: 0.0:13:21.36.0:13:22.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(256.402)}We'll speak later.
+Dialogue: 0.0:13:24.90.0:13:26.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(284.399)}Lord Bolton.
+Dialogue: 0.0:13:30.17.0:13:31.97.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(174.402)}Is there word from the capital?
+Dialogue: 0.0:13:33.37.0:13:34.74.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(241.399)}You haven't heard?
+Dialogue: 0.0:13:36.34.0:13:38.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(184.365)}Stannis Baratheon laid siege
+Dialogue: 0.0:13:36.34.0:13:38.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.402)}to King's Landing.
+Dialogue: 0.0:13:39.11.0:13:44.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(193.365)}Sailed into Blackwater Bay.
+Dialogue: 0.0:13:39.11.0:13:44.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(101.402)}Stormed the gates with thousands of men.
+Dialogue: 0.0:13:46.15.0:13:47.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(254.402)}And your sister...
+Dialogue: 0.0:13:53.33.0:13:55.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(243.402)}How can I put this?
+Dialogue: 0.0:13:57.50.0:13:59.16.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(281.399)}Your sister...
+Dialogue: 0.0:14:00.84.0:14:02.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(260.399)}Is alive and well.
+Dialogue: 0.0:14:03.04.0:14:05.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(174.402)}Your father's forces prevailed.
+Dialogue: 0.0:14:06.97.0:14:09.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(238.399)}Ser Jaime isn't well.
+Dialogue: 0.0:14:10.08.0:14:11.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(236.402)}Take him to Qyburn.
+Dialogue: 0.0:14:30.87.0:14:33.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(295.362)}- Will I die?
+Dialogue: 0.0:14:30.87.0:14:33.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(336.399)}- No.
+Dialogue: 0.0:14:33.57.0:14:36.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(194.365)}The corruption has spread.
+Dialogue: 0.0:14:33.57.0:14:36.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(205.402)}I fear it must be cut away.
+Dialogue: 0.0:14:36.97.0:14:40.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(252.362)}The safest course
+Dialogue: 0.0:14:36.97.0:14:40.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(144.399)}would be to take the whole arm off.
+Dialogue: 0.0:14:40.11.0:14:41.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(266.402)}Then you'll die.
+Dialogue: 0.0:14:44.38.0:14:46.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(245.399)}You're no maester.
+Dialogue: 0.0:14:47.01.0:14:48.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(234.402)}Where's your chain?
+Dialogue: 0.0:14:49.72.0:14:51.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(183.402)}The Citadel stripped me of it.
+Dialogue: 0.0:14:51.55.0:14:56.65.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(138.365)}They found some of my experiments
+Dialogue: 0.0:14:51.55.0:14:56.65.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(304.399)}too bold.
+Dialogue: 0.0:14:56.72.0:15:00.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(196.365)}I can leave your upper arm.
+Dialogue: 0.0:14:56.72.0:15:00.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(193.402)}make the cut at your elbow.
+Dialogue: 0.0:15:00.46.0:15:02.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(131.402)}I don't need my right hand to kill you.
+Dialogue: 0.0:15:05.23.0:15:07.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(167.402)}I can take away the rotting flesh
+Dialogue: 0.0:15:07.80.0:15:11.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(143.365)}and try and burn out the corruption
+Dialogue: 0.0:15:07.80.0:15:11.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(250.402)}with boiling wine.
+Dialogue: 0.0:15:12.81.0:15:14.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.402)}With any luck. that will suffice.
+Dialogue: 0.0:15:15.48.0:15:17.31.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(176.402)}You'll need milk of the poppy.
+Dialogue: 0.0:15:18.51.0:15:20.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(225.365)}- No milk of the poppy.
+Dialogue: 0.0:15:18.51.0:15:20.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(243.402)}- There will be pain.
+Dialogue: 0.0:15:21.38.0:15:23.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(290.362)}- I'll scream.
+Dialogue: 0.0:15:21.38.0:15:23.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(242.402)}- Quite a bit of pain.
+Dialogue: 0.0:15:23.95.0:15:25.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(253.402)}I'll scream loudly.
+Dialogue: 0.0:16:00.96.0:16:02.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(280.399)}Lord Baelish.
+Dialogue: 0.0:16:02.69.0:16:04.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(287.399)}Your Grace.
+Dialogue: 0.0:16:04.13.0:16:07.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(123.365)}- I wonder if I might ask you for a favor.
+Dialogue: 0.0:16:04.13.0:16:07.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(216.402)}- Of course. Your Grace.
+Dialogue: 0.0:16:07.40.0:16:10.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(202.365)}I believe that House Tyrell
+Dialogue: 0.0:16:07.40.0:16:10.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(81.399)}don't hold the crown's best interests at heart.
+Dialogue: 0.0:16:11.03.0:16:15.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(197.365)}I see. And have you shared
+Dialogue: 0.0:16:11.03.0:16:15.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(144.402)}these suspicions with Lord Tywin?
+Dialogue: 0.0:16:15.77.0:16:18.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(194.365)}My father's a practical man.
+Dialogue: 0.0:16:15.77.0:16:18.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(234.402)}He appreciates facts.
+Dialogue: 0.0:16:18.44.0:16:21.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(133.402)}Myself. I often find them a hindrance.
+Dialogue: 0.0:16:21.08.0:16:24.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(84.365)}And he appreciates those who aid his family.
+Dialogue: 0.0:16:21.08.0:16:24.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(252.402)}as you well know.
+Dialogue: 0.0:16:24.31.0:16:29.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(79.365)}He's almost as generous to those who help us
+Dialogue: 0.0:16:24.31.0:16:29.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(82.402)}as he is unpleasant towards those who don't.
+Dialogue: 0.0:16:29.08.0:16:31.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(126.365)}You have a good working relationship
+Dialogue: 0.0:16:29.08.0:16:31.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(261.402)}with the Tyrells.
+Dialogue: 0.0:16:31.59.0:16:34.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(170.365)}I thought you might look into it
+Dialogue: 0.0:16:31.59.0:16:34.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(189.402)}before you leave the capital.
+Dialogue: 0.0:16:34.66.0:16:36.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(244.365)}- I shall do my best.
+Dialogue: 0.0:16:34.66.0:16:36.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(288.402)}- Thank you.
+Dialogue: 0.0:16:36.66.0:16:40.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(139.365)}And your best will prove better than
+Dialogue: 0.0:16:36.66.0:16:40.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(122.402)}when I asked you to locate Arya Stark?
+Dialogue: 0.0:16:40.36.0:16:41.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(218.402)}I assure you that it will.
+Dialogue: 0.0:16:49.14.0:16:51.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(201.365)}Gods. boy. that's enough.
+Dialogue: 0.0:16:49.14.0:16:51.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(230.399)}We're not in a tavern.
+Dialogue: 0.0:16:51.84.0:16:53.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(253.365)}- Pardon. my lady.
+Dialogue: 0.0:16:51.84.0:16:53.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(247.402)}- No need to speak.
+Dialogue: 0.0:16:53.14.0:16:55.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(165.402)}Are there any figs? Fetch some.
+Dialogue: 0.0:16:55.34.0:16:58.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(166.365)}I always take figs midafternoon.
+Dialogue: 0.0:16:55.34.0:16:58.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(190.402)}They help move the bowels.
+Dialogue: 0.0:16:59.45.0:17:01.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(158.399)}To what do I owe this summons?
+Dialogue: 0.0:17:01.15.0:17:03.14.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(151.402)}Thank you for seeing me. my lady.
+Dialogue: 0.0:17:03.22.0:17:05.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(178.365)}I had hoped we might discuss
+Dialogue: 0.0:17:03.22.0:17:05.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(219.399)}a few financial matters.
+Dialogue: 0.0:17:05.42.0:17:09.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(212.365)}I climbed all those steps
+Dialogue: 0.0:17:05.42.0:17:09.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(182.399)}to discuss financial matters?
+Dialogue: 0.0:17:09.19.0:17:11.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(225.365)}It's the royal wedding.
+Dialogue: 0.0:17:09.19.0:17:11.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(128.402)}I'm told you had a hand in planning it.
+Dialogue: 0.0:17:11.89.0:17:13.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(303.402)}Naturally.
+Dialogue: 0.0:17:13.59.0:17:15.65.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(100.402)}It's shaping up to be a very involved affair.
+Dialogue: 0.0:17:15.96.0:17:19.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(115.365)}- The word "extravagant" has been used.
+Dialogue: 0.0:17:15.96.0:17:19.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(131.402)}- What good is the word "extravagant"
+Dialogue: 0.0:17:19.53.0:17:21.97.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(256.362)}if it can't be used
+Dialogue: 0.0:17:19.53.0:17:21.97.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(182.402)}to describe a royal wedding?
+Dialogue: 0.0:17:22.04.0:17:23.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(247.362)}- I understand that.
+Dialogue: 0.0:17:22.04.0:17:23.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(319.399)}- Good.
+Dialogue: 0.0:17:23.94.0:17:28.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(123.365)}But. as Master of Coin. it falls upon me
+Dialogue: 0.0:17:23.94.0:17:28.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(146.399)}to calculate the cost for the crown.
+Dialogue: 0.0:17:28.14.0:17:30.67.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(169.402)}As of now. it's a huge expense.
+Dialogue: 0.0:17:30.75.0:17:31.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(327.399)}And?
+Dialogue: 0.0:17:32.51.0:17:35.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(170.402)}And we're at war. Lady Olenna.
+Dialogue: 0.0:17:35.72.0:17:37.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(214.402)}Oh. I'd nearly forgotten.
+Dialogue: 0.0:17:38.05.0:17:41.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(164.365)}- And maintaining supply lines...
+Dialogue: 0.0:17:38.05.0:17:41.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(133.402)}- I can't think how it slipped my mind.
+Dialogue: 0.0:17:41.22.0:17:45.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(179.365)}What is it. 12.000 infantrymen
+Dialogue: 0.0:17:41.22.0:17:45.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(170.402)}the Tyrell family has supplied?
+Dialogue: 0.0:17:45.63.0:17:50.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(118.402)}1.800 mounted lances. 2.000 in support.
+Dialogue: 0.0:17:50.23.0:17:53.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(220.365)}Provisions. so this city
+Dialogue: 0.0:17:50.23.0:17:53.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(209.402)}might survive the winter.
+Dialogue: 0.0:17:53.23.0:17:54.67.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(192.399)}A million bushels of wheat.
+Dialogue: 0.0:17:54.74.0:17:58.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(196.362)}Half a million bushels each
+Dialogue: 0.0:17:54.74.0:17:58.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(216.402)}of barley. oats. and rye.
+Dialogue: 0.0:17:58.41.0:18:01.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(145.402)}20.000 head of cattle. 50.000 sheep.
+Dialogue: 0.0:18:01.78.0:18:04.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(184.362)}You don't have to lecture me
+Dialogue: 0.0:18:01.78.0:18:04.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(208.402)}about wartime expenses.
+Dialogue: 0.0:18:04.35.0:18:06.21.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(191.402)}I'm quite familiar with them.
+Dialogue: 0.0:18:06.28.0:18:07.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(97.402)}And we are grateful for your contributions.
+Dialogue: 0.0:18:07.98.0:18:10.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(235.365)}which are necessary
+Dialogue: 0.0:18:07.98.0:18:10.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(159.402)}for the preservation of the realm.
+Dialogue: 0.0:18:10.65.0:18:12.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(224.402)}As is a royal wedding.
+Dialogue: 0.0:18:12.85.0:18:15.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(223.365)}The people are hungry
+Dialogue: 0.0:18:12.85.0:18:15.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(215.402)}for more than just food.
+Dialogue: 0.0:18:15.32.0:18:16.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(213.402)}They crave distractions.
+Dialogue: 0.0:18:16.89.0:18:20.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(179.365)}And if we don't provide them.
+Dialogue: 0.0:18:16.89.0:18:20.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(216.402)}they'll create their own.
+Dialogue: 0.0:18:20.13.0:18:25.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(151.365)}And their distractions are likely to
+Dialogue: 0.0:18:20.13.0:18:25.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(159.402)}end with us being torn to pieces.
+Dialogue: 0.0:18:25.07.0:18:28.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(170.365)}A royal wedding is much safer.
+Dialogue: 0.0:18:25.07.0:18:28.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.402)}Wouldn't you say?
+Dialogue: 0.0:18:28.87.0:18:30.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(313.399)}I would.
+Dialogue: 0.0:18:30.61.0:18:34.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(205.365)}And traditionally paid for
+Dialogue: 0.0:18:30.61.0:18:34.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(245.402)}by the royal family.
+Dialogue: 0.0:18:36.01.0:18:40.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(122.365)}I was told you were drunk. impertinent.
+Dialogue: 0.0:18:36.01.0:18:40.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(191.402)}and thoroughly debauched.
+Dialogue: 0.0:18:40.45.0:18:44.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(128.365)}Imagine my disappointment at finding
+Dialogue: 0.0:18:40.45.0:18:44.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(124.402)}nothing but a browbeaten bookkeeper.
+Dialogue: 0.0:18:46.75.0:18:48.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(131.402)}Where did you go for them. Volantis?
+Dialogue: 0.0:18:50.42.0:18:51.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(298.365)}- My lady...
+Dialogue: 0.0:18:50.42.0:18:51.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(273.402)}- Oh. very well.
+Dialogue: 0.0:18:52.26.0:18:55.99.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(138.365)}I won't have it said that House Tyrell
+Dialogue: 0.0:18:52.26.0:18:55.99.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(220.402)}refuses to play its part.
+Dialogue: 0.0:18:56.06.0:18:59.26.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(253.365)}We'll pay for half.
+Dialogue: 0.0:18:56.06.0:18:59.26.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(96.402)}and the celebrations will go on as planned.
+Dialogue: 0.0:19:00.33.0:19:02.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(248.362)}- Is that sufficient?
+Dialogue: 0.0:19:00.33.0:19:02.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(247.402)}- Quite. Thank you.
+Dialogue: 0.0:19:02.37.0:19:04.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(100.402)}Very good. then. That's settled. Good day.
+Dialogue: 0.0:19:07.98.0:19:09.60.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(280.399)}Give me that.
+Dialogue: 0.0:19:14.75.0:19:16.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(233.402)}What are you doing?
+Dialogue: 0.0:19:17.75.0:19:20.65.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(151.365)}- Just mending Lord Beric's armor.
+Dialogue: 0.0:19:17.75.0:19:20.65.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(322.402)}- Why?
+Dialogue: 0.0:19:22.12.0:19:24.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(259.365)}I'm going to stay
+Dialogue: 0.0:19:22.12.0:19:24.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(170.399)}and smith for the Brotherhood.
+Dialogue: 0.0:19:24.56.0:19:26.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(205.402)}Have you lost your mind?
+Dialogue: 0.0:19:26.63.0:19:29.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(138.365)}When the Lannisters find this place.
+Dialogue: 0.0:19:26.63.0:19:29.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(147.402)}you think they'll spare the smiths?
+Dialogue: 0.0:19:29.86.0:19:31.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(204.402)}They'll cave your head in.
+Dialogue: 0.0:19:31.27.0:19:33.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(223.365)}They wanted to kill me
+Dialogue: 0.0:19:31.27.0:19:33.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(132.402)}long before I joined the Brotherhood.
+Dialogue: 0.0:19:34.04.0:19:35.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(248.399)}You don't have to.
+Dialogue: 0.0:19:36.20.0:19:39.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(169.402)}I want to. They need good men.
+Dialogue: 0.0:19:39.37.0:19:42.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(192.365)}Robb needs good men. too.
+Dialogue: 0.0:19:39.37.0:19:42.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(211.402)}We're leaving tomorrow.
+Dialogue: 0.0:19:42.68.0:19:44.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(262.365)}- And then you...
+Dialogue: 0.0:19:42.68.0:19:44.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(245.399)}- What? Serve him?
+Dialogue: 0.0:19:46.25.0:19:48.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(179.402)}I've served men my entire life.
+Dialogue: 0.0:19:49.32.0:19:53.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(122.365)}I served Master Mott at King's Landing.
+Dialogue: 0.0:19:49.32.0:19:53.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(183.399)}and he sold me to the Watch.
+Dialogue: 0.0:19:53.65.0:19:54.99.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(158.402)}I served Lord Tywin at Harrenhal.
+Dialogue: 0.0:19:55.06.0:19:58.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(232.365)}wondering every day
+Dialogue: 0.0:19:55.06.0:19:58.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(200.402)}if I'd get tortured or killed.
+Dialogue: 0.0:19:59.59.0:20:02.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(250.365)}- I'm done serving.
+Dialogue: 0.0:19:59.59.0:20:02.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(95.402)}- You just said you were serving Lord Beric.
+Dialogue: 0.0:20:04.07.0:20:07.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(97.402)}He may be their leader. but they chose him.
+Dialogue: 0.0:20:08.10.0:20:10.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(108.402)}These men are brothers. They're a family.
+Dialogue: 0.0:20:12.81.0:20:14.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(221.402)}I've never had a family.
+Dialogue: 0.0:20:17.48.0:20:19.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(238.402)}I can be your family.
+Dialogue: 0.0:20:22.82.0:20:26.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(193.365)}You wouldn't be my family.
+Dialogue: 0.0:20:22.82.0:20:26.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(239.402)}You'd be "my lady."
+Dialogue: 0.0:20:45.67.0:20:47.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(315.399)}Willem.
+Dialogue: 0.0:20:50.31.0:20:51.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(314.399)}Willem!
+Dialogue: 0.0:20:54.65.0:20:57.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(256.362)}- Is this a rescue?
+Dialogue: 0.0:20:54.65.0:20:57.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(202.399)}- Lannister filth! Take him!
+Dialogue: 0.0:20:58.05.0:21:02.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(189.365)}Please. I didn't do anything.
+Dialogue: 0.0:20:58.05.0:21:02.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(204.402)}I'm just a squire. Please...
+Dialogue: 0.0:21:15.34.0:21:16.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(275.402)}Bring them in.
+Dialogue: 0.0:21:32.99.0:21:34.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(247.399)}Is that all of them?
+Dialogue: 0.0:21:37.36.0:21:39.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(254.365)}It took five of you
+Dialogue: 0.0:21:37.36.0:21:39.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(159.402)}to murder two unarmed squires?
+Dialogue: 0.0:21:39.76.0:21:43.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(138.402)}Not murder. Your Grace. Vengeance.
+Dialogue: 0.0:21:43.26.0:21:44.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(285.402)}Vengeance?
+Dialogue: 0.0:21:46.10.0:21:48.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(159.402)}Those boys didn't kill your sons.
+Dialogue: 0.0:21:48.70.0:21:51.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(146.365)}I saw Harrion die on the battlefield.
+Dialogue: 0.0:21:48.70.0:21:51.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(274.399)}and Torrhen...
+Dialogue: 0.0:21:51.37.0:21:53.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(158.402)}Was strangled by the Kingslayer.
+Dialogue: 0.0:21:53.57.0:21:55.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(245.365)}- They were his kin.
+Dialogue: 0.0:21:53.57.0:21:55.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(256.402)}- They were boys!
+Dialogue: 0.0:21:58.05.0:21:59.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(278.399)}Look at them.
+Dialogue: 0.0:22:01.58.0:22:02.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(160.402)}Tell your mother to look at them.
+Dialogue: 0.0:22:03.38.0:22:05.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(182.399)}She killed them as much as I.
+Dialogue: 0.0:22:05.45.0:22:09.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(123.365)}My mother had nothing to do with this.
+Dialogue: 0.0:22:05.45.0:22:09.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(221.402)}This was your treason.
+Dialogue: 0.0:22:09.92.0:22:11.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(160.402)}It's treason to free your enemies.
+Dialogue: 0.0:22:12.36.0:22:15.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(182.365)}In war. you kill your enemies.
+Dialogue: 0.0:22:12.36.0:22:15.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(117.402)}Did your father not teach you that. boy?
+Dialogue: 0.0:22:17.00.0:22:18.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(296.399)}Leave him.
+Dialogue: 0.0:22:23.10.0:22:24.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(333.402)}Aye.
+Dialogue: 0.0:22:25.51.0:22:26.97.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(229.402)}Leave me to the King.
+Dialogue: 0.0:22:27.04.0:22:30.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.365)}He wants to give me a scolding
+Dialogue: 0.0:22:27.04.0:22:30.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(223.399)}before he sets me free.
+Dialogue: 0.0:22:31.88.0:22:37.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(155.362)}That's how he deals with treason.
+Dialogue: 0.0:22:31.88.0:22:37.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(225.402)}Our King in the North.
+Dialogue: 0.0:22:37.82.0:22:38.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(240.399)}Or should I call him
+Dialogue: 0.0:22:40.12.0:22:42.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(177.402)}the King Who Lost the North?
+Dialogue: 0.0:22:45.96.0:22:49.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(133.365)}Escort Lord Karstark to the dungeon.
+Dialogue: 0.0:22:45.96.0:22:49.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(276.402)}Hang the rest.
+Dialogue: 0.0:22:50.00.0:22:52.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(199.365)}Mercy! I didn't kill anyone.
+Dialogue: 0.0:22:50.00.0:22:52.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(178.402)}I only watched for the guards.
+Dialogue: 0.0:22:52.97.0:22:57.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.365)}This one was only the watcher.
+Dialogue: 0.0:22:52.97.0:22:57.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(79.402)}Hang him last. so he can watch the others die.
+Dialogue: 0.0:22:57.47.0:23:03.74.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(118.365)}Please! Please. no. They made me do it!
+Dialogue: 0.0:22:57.47.0:23:03.74.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(173.402)}They made me! They made me!
+Dialogue: 0.0:23:11.65.0:23:14.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(155.399)}Word of this can't leave Riverrun.
+Dialogue: 0.0:23:14.12.0:23:17.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(123.365)}They were Tywin Lannister's nephews.
+Dialogue: 0.0:23:14.12.0:23:17.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(170.402)}The Lannisters pay their debts.
+Dialogue: 0.0:23:17.83.0:23:20.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(157.365)}- They never stop talking about it.
+Dialogue: 0.0:23:17.83.0:23:20.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(146.402)}- Would you make me a liar as well?
+Dialogue: 0.0:23:21.03.0:23:22.83.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(239.402)}It wouldn't be lying.
+Dialogue: 0.0:23:22.90.0:23:26.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(141.365)}We will bury them and remain silent
+Dialogue: 0.0:23:22.90.0:23:26.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(232.399)}until the war is done.
+Dialogue: 0.0:23:26.33.0:23:27.67.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(201.402)}I'm not fighting for justice
+Dialogue: 0.0:23:27.74.0:23:30.67.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(229.365)}if I don't serve justice
+Dialogue: 0.0:23:27.74.0:23:30.67.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(203.402)}to murderers in my ranks.
+Dialogue: 0.0:23:30.94.0:23:32.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(210.402)}no matter how highborn.
+Dialogue: 0.0:23:34.64.0:23:36.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(278.399)}He has to die.
+Dialogue: 0.0:23:36.28.0:23:41.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(186.362)}The Karstarks are Northmen.
+Dialogue: 0.0:23:36.28.0:23:41.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(101.402)}They won't forgive the killing of their lord.
+Dialogue: 0.0:23:41.25.0:23:46.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(236.365)}Your mother's right.
+Dialogue: 0.0:23:41.25.0:23:46.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(78.402)}If you do this. the Karstarks will abandon you.
+Dialogue: 0.0:23:46.09.0:23:48.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(185.399)}You tended to their wounds.
+Dialogue: 0.0:23:48.52.0:23:51.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(85.402)}You brought them supper. Now they're dead.
+Dialogue: 0.0:23:51.09.0:23:54.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.365)}And more boys will keep dying
+Dialogue: 0.0:23:51.09.0:23:54.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(232.399)}until this war is over.
+Dialogue: 0.0:23:54.43.0:23:56.19.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(159.399)}You need Karstark men to end it.
+Dialogue: 0.0:23:57.10.0:23:59.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(130.402)}Spare his life. Keep him as a hostage.
+Dialogue: 0.0:23:59.60.0:24:00.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(294.402)}A hostage.
+Dialogue: 0.0:24:02.04.0:24:06.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(76.365)}Tell the Karstarks that as long as they're loyal.
+Dialogue: 0.0:24:02.04.0:24:06.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(226.399)}he will not be harmed.
+Dialogue: 0.0:24:32.20.0:24:37.10.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(109.365)}The blood of the First Men flows through
+Dialogue: 0.0:24:32.20.0:24:37.10.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(162.402)}my veins as much as yours. boy.
+Dialogue: 0.0:24:38.51.0:24:41.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(133.402)}I fought the Mad King for your father.
+Dialogue: 0.0:24:41.71.0:24:43.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(216.402)}I fought Joffrey for you.
+Dialogue: 0.0:24:44.58.0:24:48.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(172.402)}We are kin. Stark and Karstark.
+Dialogue: 0.0:24:48.68.0:24:52.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(117.365)}That didn't stop you from betraying me.
+Dialogue: 0.0:24:48.68.0:24:52.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(197.402)}and it won't save you now.
+Dialogue: 0.0:24:52.89.0:24:58.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(205.362)}I don't want it to save me.
+Dialogue: 0.0:24:52.89.0:24:58.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(82.402)}I want it to haunt you to the end of your days.
+Dialogue: 0.0:25:00.23.0:25:02.16.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(269.402)}Kneel. my lord.
+Dialogue: 0.0:25:11.11.0:25:15.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(151.402)}Rickard Karstark. Lord of Karhold.
+Dialogue: 0.0:25:15.21.0:25:18.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(170.365)}here. in sight of gods and men.
+Dialogue: 0.0:25:15.21.0:25:18.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(230.402)}I sentence you to die.
+Dialogue: 0.0:25:19.18.0:25:21.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.402)}Would you speak a final word?
+Dialogue: 0.0:25:22.65.0:25:26.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(225.362)}Kill me and be cursed.
+Dialogue: 0.0:25:22.65.0:25:26.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(210.402)}You are no king of mine.
+Dialogue: 0.0:25:42.44.0:25:44.10.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(314.402)}Joffrey.
+Dialogue: 0.0:25:44.94.0:25:46.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(318.399)}Cersei.
+Dialogue: 0.0:25:48.74.0:25:50.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(294.402)}Ilyn Payne.
+Dialogue: 0.0:25:52.25.0:25:54.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(296.402)}Ser Meryn.
+Dialogue: 0.0:25:57.42.0:25:59.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(290.399)}The Hound.
+Dialogue: 0.0:26:03.02.0:26:04.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(146.402)}What are you going to do with me?
+Dialogue: 0.0:26:04.96.0:26:09.23.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(145.365)}At first light we'll ride for Riverrun.
+Dialogue: 0.0:26:04.96.0:26:09.23.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(203.399)}Your brother's there now.
+Dialogue: 0.0:26:09.73.0:26:13.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(124.365)}He'll make a contribution to our cause.
+Dialogue: 0.0:26:09.73.0:26:13.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(225.402)}and you can go home.
+Dialogue: 0.0:26:13.77.0:26:16.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(141.402)}I'm a hostage and you're selling me.
+Dialogue: 0.0:26:16.40.0:26:17.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(207.402)}Don't think of it that way.
+Dialogue: 0.0:26:17.91.0:26:20.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(250.365)}- But it is that way.
+Dialogue: 0.0:26:17.91.0:26:20.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(330.399)}- It is.
+Dialogue: 0.0:26:20.81.0:26:23.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(285.362)}- And it isn't.
+Dialogue: 0.0:26:20.81.0:26:23.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.399)}- More is than isn't.
+Dialogue: 0.0:26:25.51.0:26:28.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(206.365)}Beric admired your father
+Dialogue: 0.0:26:25.51.0:26:28.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(219.402)}a great deal. you know.
+Dialogue: 0.0:26:28.72.0:26:30.65.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(89.402)}He wanted to refuse your ransom altogether.
+Dialogue: 0.0:26:30.72.0:26:33.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(238.365)}- So. why don't you?
+Dialogue: 0.0:26:30.72.0:26:33.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.402)}- We need the gold.
+Dialogue: 0.0:26:46.30.0:26:47.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(212.402)}Do I frighten you. child?
+Dialogue: 0.0:26:48.10.0:26:49.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(341.399)}No.
+Dialogue: 0.0:26:52.81.0:26:57.54.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(86.365)}You're angry with me. and I don't blame you.
+Dialogue: 0.0:26:52.81.0:26:57.54.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(129.402)}but letting him go was the right thing.
+Dialogue: 0.0:26:58.05.0:27:00.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(117.402)}I have more reason to want him hanged.
+Dialogue: 0.0:27:00.18.0:27:02.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(214.365)}- I thought he killed you.
+Dialogue: 0.0:27:00.18.0:27:02.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(313.399)}- He did.
+Dialogue: 0.0:27:02.68.0:27:04.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(299.399)}But how...
+Dialogue: 0.0:27:04.72.0:27:08.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(210.365)}Thoros. how many times
+Dialogue: 0.0:27:04.72.0:27:08.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(192.402)}have you brought me back?
+Dialogue: 0.0:27:09.16.0:27:14.72.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(100.365)}It's the Lord of Light who brings you back.
+Dialogue: 0.0:27:09.16.0:27:14.72.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(88.402)}I'm just the lucky drunk who says the words.
+Dialogue: 0.0:27:14.80.0:27:17.23.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(248.365)}- How many times?
+Dialogue: 0.0:27:14.80.0:27:17.23.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(280.402)}- Five. I think.
+Dialogue: 0.0:27:17.30.0:27:18.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.402)}No. this makes six.
+Dialogue: 0.0:27:19.67.0:27:20.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(338.399)}Six.
+Dialogue: 0.0:27:20.73.0:27:22.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(121.399)}There was the first time. The Mountain.
+Dialogue: 0.0:27:24.10.0:27:25.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(299.399)}Show her.
+Dialogue: 0.0:27:25.87.0:27:27.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(175.402)}Lance right through the chest.
+Dialogue: 0.0:27:29.18.0:27:31.54.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(166.402)}Then I was stabbed in the belly.
+Dialogue: 0.0:27:31.61.0:27:33.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(159.399)}Then it was an arrow in the back.
+Dialogue: 0.0:27:33.35.0:27:35.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(218.399)}And that ax in the side.
+Dialogue: 0.0:27:35.78.0:27:39.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.365)}Then the Lannisters caught me
+Dialogue: 0.0:27:35.78.0:27:39.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(183.399)}and executed me for treason.
+Dialogue: 0.0:27:40.92.0:27:42.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(113.402)}Was it a hanging or a dagger in the eye?
+Dialogue: 0.0:27:42.82.0:27:45.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(173.399)}Both. Fuckers couldn't decide.
+Dialogue: 0.0:27:46.86.0:27:48.26.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(200.399)}And the Hound makes six.
+Dialogue: 0.0:27:49.03.0:27:50.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(102.402)}Second time I've been killed by a Clegane.
+Dialogue: 0.0:27:50.93.0:27:52.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(213.402)}You'd think you'd learn.
+Dialogue: 0.0:27:54.54.0:27:57.10.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(135.402)}It's not getting any easier. you know.
+Dialogue: 0.0:27:57.47.0:27:59.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(318.399)}I know.
+Dialogue: 0.0:27:59.24.0:28:01.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(217.402)}Every time I come back.
+Dialogue: 0.0:28:02.04.0:28:03.14.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(281.399)}I'm a bit less.
+Dialogue: 0.0:28:05.15.0:28:07.14.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(164.402)}Pieces of you get chipped away.
+Dialogue: 0.0:28:09.15.0:28:10.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(86.402)}Could you bring back a man without a head?
+Dialogue: 0.0:28:13.72.0:28:16.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(211.399)}Not six times. Just once.
+Dialogue: 0.0:28:17.76.0:28:19.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(138.402)}I don't think it works that way. child.
+Dialogue: 0.0:28:24.77.0:28:31.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(172.365)}He was a good man. Ned Stark.
+Dialogue: 0.0:28:24.77.0:28:31.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(183.402)}He's at rest now. somewhere.
+Dialogue: 0.0:28:32.17.0:28:34.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(136.402)}I would never wish my life upon him.
+Dialogue: 0.0:28:35.04.0:28:36.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(313.399)}I would.
+Dialogue: 0.0:28:39.55.0:28:41.14.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(284.399)}You're alive.
+Dialogue: 0.0:28:46.52.0:28:49.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(176.402)}Lord. cast your light upon me.
+Dialogue: 0.0:28:50.22.0:28:53.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(194.399)}Protect me in the darkness.
+Dialogue: 0.0:28:53.83.0:28:56.23.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(243.402)}Burn away my sins.
+Dialogue: 0.0:28:57.40.0:29:00.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.402)}Help me serve you.
+Dialogue: 0.0:29:00.67.0:29:02.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(244.402)}Use me as you will.
+Dialogue: 0.0:29:05.34.0:29:09.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(122.402)}For the night is dark and full of terrors.
+Dialogue: 0.0:29:21.36.0:29:24.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(192.365)}I have prayed day and night
+Dialogue: 0.0:29:21.36.0:29:24.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(223.402)}for you to come to me.
+Dialogue: 0.0:29:26.06.0:29:27.99.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(311.402)}My lady.
+Dialogue: 0.0:29:28.06.0:29:29.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(214.399)}I meant to come sooner.
+Dialogue: 0.0:29:31.10.0:29:34.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(283.362)}- The battle...
+Dialogue: 0.0:29:31.10.0:29:34.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(152.402)}- I know of your troubles. my King.
+Dialogue: 0.0:29:34.17.0:29:36.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(86.402)}The Lady Melisandre has told me everything.
+Dialogue: 0.0:29:37.57.0:29:39.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(268.402)}Yes. of course.
+Dialogue: 0.0:29:48.68.0:29:53.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(116.365)}You mustn't despair. Your claim is true.
+Dialogue: 0.0:29:48.68.0:29:53.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(222.399)}You will be victorious.
+Dialogue: 0.0:29:53.49.0:29:54.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(238.399)}I believed that once.
+Dialogue: 0.0:29:54.96.0:30:00.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(157.365)}You are the One God's champion
+Dialogue: 0.0:29:54.96.0:30:00.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(144.399)}and the finest man I've ever known.
+Dialogue: 0.0:30:00.53.0:30:01.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(317.402)}Selyse.
+Dialogue: 0.0:30:04.50.0:30:06.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(207.399)}I've broken a sacred vow.
+Dialogue: 0.0:30:10.57.0:30:11.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(291.399)}I've sinned.
+Dialogue: 0.0:30:11.84.0:30:14.67.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(336.362)}- No.
+Dialogue: 0.0:30:11.84.0:30:14.67.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(247.402)}- I've wronged you.
+Dialogue: 0.0:30:15.08.0:30:16.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(244.402)}I have shamed you.
+Dialogue: 0.0:30:16.51.0:30:18.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(203.402)}You're doing God's work.
+Dialogue: 0.0:30:18.35.0:30:19.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(222.399)}You don't understand.
+Dialogue: 0.0:30:26.32.0:30:28.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(250.399)}The Red Woman...
+Dialogue: 0.0:30:30.56.0:30:31.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(222.402)}The Lady Melisandre...
+Dialogue: 0.0:30:31.66.0:30:32.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(263.402)}I know. Stannis.
+Dialogue: 0.0:30:34.56.0:30:37.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(86.402)}The Lady Melisandre has told me everything.
+Dialogue: 0.0:30:37.96.0:30:42.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(102.365)}No act done in service of the Lord of Light
+Dialogue: 0.0:30:37.96.0:30:42.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(254.399)}can ever be a sin.
+Dialogue: 0.0:30:43.84.0:30:46.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(247.402)}When she told me.
+Dialogue: 0.0:30:47.27.0:30:51.21.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(269.402)}I wept with joy.
+Dialogue: 0.0:31:02.09.0:31:05.65.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(241.402)}Oh. my sweet boys.
+Dialogue: 0.0:31:07.13.0:31:12.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(221.402)}Petyr. Tommard. Edric.
+Dialogue: 0.0:31:14.33.0:31:20.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(229.365)}I thank God every day
+Dialogue: 0.0:31:14.33.0:31:20.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(178.402)}for bringing Melisandre to us.
+Dialogue: 0.0:31:20.61.0:31:22.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(238.402)}She gave you a son.
+Dialogue: 0.0:31:25.31.0:31:27.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(299.402)}I gave you
+Dialogue: 0.0:31:28.62.0:31:30.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(304.365)}- nothing.
+Dialogue: 0.0:31:28.62.0:31:30.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(263.399)}- That's not true.
+Dialogue: 0.0:31:35.62.0:31:38.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(142.402)}So. you've come to see her as well?
+Dialogue: 0.0:31:40.69.0:31:42.53.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(255.399)}There is no need.
+Dialogue: 0.0:31:44.10.0:31:46.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(88.402)}You must keep away from such distractions.
+Dialogue: 0.0:31:46.70.0:31:47.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(243.402)}She's my daughter.
+Dialogue: 0.0:31:50.40.0:31:51.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(257.399)}I want to see her.
+Dialogue: 0.0:31:54.71.0:31:58.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(268.365)}You are a king.
+Dialogue: 0.0:31:54.71.0:31:58.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(169.402)}You don't need my permission.
+Dialogue: 0.0:32:04.32.0:32:08.85.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(314.362)}The sea
+Dialogue: 0.0:32:04.32.0:32:08.85.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(274.402)}I know. I know
+Dialogue: 0.0:32:09.36.0:32:11.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(296.402)}Oh. oh. oh
+Dialogue: 0.0:32:12.23.0:32:14.85.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(228.399)}The birds have scales
+Dialogue: 0.0:32:15.33.0:32:17.99.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(223.402)}And the fish take wing
+Dialogue: 0.0:32:18.40.0:32:20.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(274.402)}I know. I know
+Dialogue: 0.0:32:21.57.0:32:24.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(296.402)}Oh. oh. oh
+Dialogue: 0.0:32:24.60.0:32:25.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(310.399)}Shireen.
+Dialogue: 0.0:32:26.01.0:32:27.53.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(318.399)}Father!
+Dialogue: 0.0:32:35.78.0:32:37.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(148.402)}You've grown since I last saw you.
+Dialogue: 0.0:32:38.05.0:32:39.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(150.402)}Mother said you fought in a battle.
+Dialogue: 0.0:32:41.52.0:32:42.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(281.402)}Did you win?
+Dialogue: 0.0:32:44.26.0:32:45.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(341.399)}No.
+Dialogue: 0.0:32:46.56.0:32:48.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(98.402)}Did the Onion Knight come back with you?
+Dialogue: 0.0:32:50.23.0:32:53.72.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(202.402)}He did. He fought bravely.
+Dialogue: 0.0:32:53.80.0:32:55.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(197.399)}He hasn't come to visit me.
+Dialogue: 0.0:32:56.00.0:32:58.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(136.365)}He said he'd bring me back a present
+Dialogue: 0.0:32:56.00.0:32:58.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(261.402)}from the capital.
+Dialogue: 0.0:32:58.77.0:33:00.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(198.402)}He won't be visiting. child.
+Dialogue: 0.0:33:00.41.0:33:02.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(206.402)}Why not? He's my friend.
+Dialogue: 0.0:33:02.88.0:33:04.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(327.399)}Look.
+Dialogue: 0.0:33:12.05.0:33:13.65.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(236.399)}He made this for me.
+Dialogue: 0.0:33:14.19.0:33:17.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(180.362)}But don't tell Mother I have it.
+Dialogue: 0.0:33:14.19.0:33:17.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(288.399)}It's a secret.
+Dialogue: 0.0:33:18.16.0:33:20.53.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(131.402)}Mother doesn't like the Onion Knight.
+Dialogue: 0.0:33:23.16.0:33:25.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(229.399)}Ser Davos is a traitor.
+Dialogue: 0.0:33:27.13.0:33:30.26.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(95.402)}He's rotting in a dungeon cell for his crime.
+Dialogue: 0.0:33:39.78.0:33:41.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(264.402)}Best forget him.
+Dialogue: 0.0:33:53.59.0:33:56.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(132.399)}Not so hard. You'll scrub the skin off.
+Dialogue: 0.0:33:56.56.0:33:59.16.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(199.365)}- What are you doing here?
+Dialogue: 0.0:33:56.56.0:33:59.16.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(274.399)}- I need a bath.
+Dialogue: 0.0:33:59.67.0:34:01.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(201.402)}Help me out of these rags.
+Dialogue: 0.0:34:08.74.0:34:09.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(284.402)}Now get out.
+Dialogue: 0.0:34:24.16.0:34:25.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(237.399)}There's another tub.
+Dialogue: 0.0:34:26.46.0:34:28.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(221.399)}This one suits me fine.
+Dialogue: 0.0:34:41.37.0:34:44.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.402)}Don't worry. I'm not interested.
+Dialogue: 0.0:34:46.45.0:34:48.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(234.402)}If I faint. pull me out.
+Dialogue: 0.0:34:49.18.0:34:52.28.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(132.362)}I don't intend to be the first Lannister
+Dialogue: 0.0:34:49.18.0:34:52.28.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(244.399)}to die in a bathtub.
+Dialogue: 0.0:34:52.42.0:34:54.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(164.402)}Why should I care how you die?
+Dialogue: 0.0:34:54.15.0:34:56.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(131.402)}You swore a solemn vow. remember?
+Dialogue: 0.0:34:57.42.0:35:00.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(195.365)}You're supposed to get me
+Dialogue: 0.0:34:57.42.0:35:00.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(168.402)}to King's Landing in one piece.
+Dialogue: 0.0:35:01.73.0:35:03.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(216.402)}Not going so well. is it?
+Dialogue: 0.0:35:05.13.0:35:06.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(223.365)}No wonder Renly died.
+Dialogue: 0.0:35:05.13.0:35:06.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(217.402)}with you guarding him.
+Dialogue: 0.0:35:17.08.0:35:19.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(164.402)}That was unworthy. Forgive me.
+Dialogue: 0.0:35:19.81.0:35:21.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(132.365)}- You protected me better than most...
+Dialogue: 0.0:35:19.81.0:35:21.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(235.402)}- Don't you mock me.
+Dialogue: 0.0:35:21.98.0:35:23.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(263.402)}I'm apologizing.
+Dialogue: 0.0:35:25.85.0:35:29.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(134.402)}I'm sick of fighting. Let's call a truce.
+Dialogue: 0.0:35:29.09.0:35:30.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(172.399)}You need trust to have a truce.
+Dialogue: 0.0:35:32.83.0:35:34.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(295.402)}I trust you.
+Dialogue: 0.0:35:41.80.0:35:44.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(189.399)}There it is. There's the look.
+Dialogue: 0.0:35:45.37.0:35:48.74.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(104.402)}I've seen it for 17 years. on face after face.
+Dialogue: 0.0:35:49.64.0:35:51.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(240.402)}You all despise me.
+Dialogue: 0.0:35:52.01.0:35:55.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(209.402)}Kingslayer. Oathbreaker.
+Dialogue: 0.0:35:56.65.0:35:58.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(227.399)}A man without honor.
+Dialogue: 0.0:36:04.79.0:36:07.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(202.362)}- You've heard of wildfire?
+Dialogue: 0.0:36:04.79.0:36:07.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(293.399)}- Of course.
+Dialogue: 0.0:36:07.63.0:36:10.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(141.402)}The Mad King was obsessed with it.
+Dialogue: 0.0:36:10.43.0:36:13.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.402)}He loved to watch people burn.
+Dialogue: 0.0:36:13.57.0:36:18.23.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(101.365)}the way their skin blackened and blistered
+Dialogue: 0.0:36:13.57.0:36:18.23.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(195.399)}and melted off their bones.
+Dialogue: 0.0:36:18.30.0:36:22.54.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(176.362)}He burned lords he didn't like.
+Dialogue: 0.0:36:18.30.0:36:22.54.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(129.402)}He burned Hands who disobeyed him.
+Dialogue: 0.0:36:22.61.0:36:25.67.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(114.402)}He burned anyone who was against him.
+Dialogue: 0.0:36:27.91.0:36:30.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(78.402)}Before long. half the country was against him.
+Dialogue: 0.0:36:33.85.0:36:36.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(172.402)}Aerys saw traitors everywhere.
+Dialogue: 0.0:36:37.76.0:36:43.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(202.365)}so he had his pyromancer
+Dialogue: 0.0:36:37.76.0:36:43.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(115.402)}place caches of wildfire all over the city.
+Dialogue: 0.0:36:44.83.0:36:48.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(199.365)}beneath the Sept of Baelor
+Dialogue: 0.0:36:44.83.0:36:48.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(177.399)}and the slums of Flea Bottom.
+Dialogue: 0.0:36:48.37.0:36:51.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(168.402)}Under houses. stables. taverns.
+Dialogue: 0.0:36:52.04.0:36:54.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(155.402)}Even beneath the Red Keep itself.
+Dialogue: 0.0:36:56.88.0:37:02.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(147.402)}Finally. the day of reckoning came.
+Dialogue: 0.0:37:02.52.0:37:07.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(110.365)}Robert Baratheon marched on the capital
+Dialogue: 0.0:37:02.52.0:37:07.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(175.402)}after his victory at the Trident.
+Dialogue: 0.0:37:07.15.0:37:12.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(201.365)}But my father arrived first.
+Dialogue: 0.0:37:07.15.0:37:12.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(101.402)}with the whole Lannister army at his back.
+Dialogue: 0.0:37:12.36.0:37:16.16.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(188.365)}promising to defend the city
+Dialogue: 0.0:37:12.36.0:37:16.16.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(247.402)}against the rebels.
+Dialogue: 0.0:37:18.60.0:37:23.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(160.365)}I knew my father better than that.
+Dialogue: 0.0:37:18.60.0:37:23.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(94.402)}He's never been one to pick the losing side.
+Dialogue: 0.0:37:24.34.0:37:26.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(187.402)}I told the Mad King as much.
+Dialogue: 0.0:37:26.74.0:37:30.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(142.402)}I urged him to surrender peacefully.
+Dialogue: 0.0:37:30.78.0:37:32.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(166.402)}But the King didn't listen to me.
+Dialogue: 0.0:37:34.01.0:37:36.21.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(211.365)}He didn't listen to Varys.
+Dialogue: 0.0:37:34.01.0:37:36.21.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(222.399)}who tried to warn him.
+Dialogue: 0.0:37:36.28.0:37:40.28.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(100.402)}But he did listen to Grand Maester Pycelle.
+Dialogue: 0.0:37:40.99.0:37:43.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(218.402)}that gray. sunken cunt.
+Dialogue: 0.0:37:44.82.0:37:47.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(119.402)}"You can trust the Lannisters." he said.
+Dialogue: 0.0:37:49.50.0:37:53.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(152.365)}"The Lannisters have always been
+Dialogue: 0.0:37:49.50.0:37:53.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(198.399)}true friends of the crown."
+Dialogue: 0.0:37:56.07.0:38:00.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(207.365)}So. we opened the gates.
+Dialogue: 0.0:37:56.07.0:38:00.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(178.402)}and my father sacked the city.
+Dialogue: 0.0:38:01.71.0:38:07.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(169.365)}Once again. I came to the King.
+Dialogue: 0.0:38:01.71.0:38:07.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(201.402)}begging him to surrender.
+Dialogue: 0.0:38:11.45.0:38:16.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(109.402)}He told me to bring him my father's head.
+Dialogue: 0.0:38:17.69.0:38:21.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(149.402)}Then he turned to his pyromancer.
+Dialogue: 0.0:38:23.06.0:38:25.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(211.402)}"Burn them all." he said.
+Dialogue: 0.0:38:26.60.0:38:31.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(195.362)}"Burn them in their homes.
+Dialogue: 0.0:38:26.60.0:38:31.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(207.399)}Burn them in their beds."
+Dialogue: 0.0:38:33.17.0:38:37.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(173.402)}Tell me. if your precious Renly
+Dialogue: 0.0:38:37.91.0:38:40.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(121.402)}commanded you to kill your own father
+Dialogue: 0.0:38:40.85.0:38:45.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(127.365)}and stand by while thousands of men.
+Dialogue: 0.0:38:40.85.0:38:45.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(147.402)}women. and children burned alive.
+Dialogue: 0.0:38:45.92.0:38:47.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(209.402)}would you have done it?
+Dialogue: 0.0:38:48.99.0:38:50.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(130.402)}Would you have kept your oath then?
+Dialogue: 0.0:38:54.69.0:38:57.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(181.402)}First. I killed the pyromancer.
+Dialogue: 0.0:38:58.33.0:39:02.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(118.402)}And then. when the King turned to flee.
+Dialogue: 0.0:39:03.00.0:39:05.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(170.402)}I drove my sword into his back.
+Dialogue: 0.0:39:06.44.0:39:10.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(166.365)}"Burn them all." he kept saying.
+Dialogue: 0.0:39:06.44.0:39:10.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(263.399)}"Burn them all."
+Dialogue: 0.0:39:11.21.0:39:13.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(168.402)}I don't think he expected to die.
+Dialogue: 0.0:39:15.18.0:39:20.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(142.399)}He meant to burn with the rest of us
+Dialogue: 0.0:39:20.79.0:39:23.22.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(270.402)}and rise again.
+Dialogue: 0.0:39:23.29.0:39:26.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(78.402)}reborn as a dragon to turn his enemies to ash.
+Dialogue: 0.0:39:30.96.0:39:34.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(190.362)}I slit his throat to make sure
+Dialogue: 0.0:39:30.96.0:39:34.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(243.402)}that didn't happen.
+Dialogue: 0.0:39:38.47.0:39:41.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(154.399)}That's where Ned Stark found me.
+Dialogue: 0.0:39:43.18.0:39:44.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(272.399)}If this is true...
+Dialogue: 0.0:39:46.01.0:39:47.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(188.402)}Why didn't you tell anyone?
+Dialogue: 0.0:39:49.98.0:39:51.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(169.402)}Why didn't you tell Lord Stark?
+Dialogue: 0.0:39:51.85.0:39:52.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(321.399)}Stark?
+Dialogue: 0.0:39:53.35.0:40:00.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(148.399)}You think the honorable Ned Stark
+Dialogue: 0.0:40:00.13.0:40:02.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(210.402)}wanted to hear my side?
+Dialogue: 0.0:40:03.40.0:40:08.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(239.365)}He judged me guilty
+Dialogue: 0.0:40:03.40.0:40:08.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.402)}the moment he set eyes on me.
+Dialogue: 0.0:40:12.37.0:40:17.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(97.402)}By what right does the wolf judge the lion?
+Dialogue: 0.0:40:18.71.0:40:20.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(267.365)}- By what right?
+Dialogue: 0.0:40:18.71.0:40:20.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(288.402)}- Help! Help!
+Dialogue: 0.0:40:20.41.0:40:22.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(264.402)}The Kingslayer!
+Dialogue: 0.0:40:23.48.0:40:27.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(206.402)}Jaime. My name is Jaime.
+Dialogue: 0.0:40:31.06.0:40:34.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(160.402)}Onion Knight. Ser Onion Knight.
+Dialogue: 0.0:40:35.90.0:40:38.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(100.402)}Princess? Gods. what are you doing here?
+Dialogue: 0.0:40:39.30.0:40:40.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(253.362)}- You'll wake Bert.
+Dialogue: 0.0:40:39.30.0:40:40.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(323.399)}- Bert?
+Dialogue: 0.0:40:41.23.0:40:46.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(90.365)}He's the fat one. He's on guard duty tonight.
+Dialogue: 0.0:40:41.23.0:40:46.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(132.402)}He likes to drink wine and sleep a lot.
+Dialogue: 0.0:40:46.24.0:40:48.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(224.365)}Go back to your room.
+Dialogue: 0.0:40:46.24.0:40:48.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(163.402)}You're not supposed to be here.
+Dialogue: 0.0:40:48.94.0:40:50.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(230.365)}- If your father knew...
+Dialogue: 0.0:40:48.94.0:40:50.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(196.402)}- He said you were a traitor.
+Dialogue: 0.0:40:51.58.0:40:52.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(305.402)}Are you?
+Dialogue: 0.0:40:53.61.0:40:54.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(294.402)}I am. child.
+Dialogue: 0.0:40:56.18.0:40:59.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(160.365)}I disobeyed my king. your father.
+Dialogue: 0.0:40:56.18.0:40:59.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(180.402)}and now I'm paying the price.
+Dialogue: 0.0:41:00.35.0:41:02.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(180.402)}I don't care. You're my friend.
+Dialogue: 0.0:41:02.39.0:41:05.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(167.365)}You must get bored down here.
+Dialogue: 0.0:41:02.39.0:41:05.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(159.402)}I brought you something to read.
+Dialogue: 0.0:41:06.49.0:41:11.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(153.365)}It's about Aegon and his dragons.
+Dialogue: 0.0:41:06.49.0:41:11.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(88.402)}Aegon used to live here. Did you know that?
+Dialogue: 0.0:41:11.10.0:41:12.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(133.365)}- And the Targaryens built this castle.
+Dialogue: 0.0:41:11.10.0:41:12.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(330.402)}- Aye.
+Dialogue: 0.0:41:13.03.0:41:15.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(283.365)}- So they did.
+Dialogue: 0.0:41:13.03.0:41:15.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(107.402)}- You can hide the book under your cloak.
+Dialogue: 0.0:41:15.84.0:41:17.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(146.402)}It's a good one. I'll bring you more.
+Dialogue: 0.0:41:17.97.0:41:20.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(87.402)}Thank you. my lady. I'm sure it's a fine book.
+Dialogue: 0.0:41:20.87.0:41:22.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(222.362)}- but it's wasted on me.
+Dialogue: 0.0:41:20.87.0:41:22.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(312.399)}- Take it.
+Dialogue: 0.0:41:22.98.0:41:24.54.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(287.399)}I have more.
+Dialogue: 0.0:41:26.08.0:41:27.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.402)}My lady. I can't read the words.
+Dialogue: 0.0:41:28.58.0:41:30.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(294.399)}You can't?
+Dialogue: 0.0:41:30.68.0:41:33.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(279.365)}I'll teach you.
+Dialogue: 0.0:41:30.68.0:41:33.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(90.402)}I'll come when Bert's on duty and teach you.
+Dialogue: 0.0:41:33.12.0:41:35.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(287.362)}- No. No. No.
+Dialogue: 0.0:41:33.12.0:41:35.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(232.402)}- It's easy. It'll be fun.
+Dialogue: 0.0:41:35.19.0:41:36.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(280.399)}Go. We can't.
+Dialogue: 0.0:41:36.72.0:41:39.99.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(84.402)}Why not? What will they do. lock us in cells?
+Dialogue: 0.0:41:46.70.0:41:48.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(167.362)}- I wouldn't know where to start.
+Dialogue: 0.0:41:46.70.0:41:48.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(250.402)}- At the beginning.
+Dialogue: 0.0:41:50.14.0:41:51.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(226.402)}This word is "Aegon."
+Dialogue: 0.0:41:51.84.0:41:56.21.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(166.365)}When you see "A." "E." and "G"
+Dialogue: 0.0:41:51.84.0:41:56.21.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(251.402)}together like that.
+Dialogue: 0.0:41:56.28.0:41:58.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(236.402)}it sounds like "egg."
+Dialogue: 0.0:41:58.18.0:41:59.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.399)}And the title of the whole book
+Dialogue: 0.0:41:59.85.0:42:04.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(131.365)}is An History of Aegon the Conqueror
+Dialogue: 0.0:41:59.85.0:42:04.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.402)}and His Conquest of Westeros.
+Dialogue: 0.0:42:16.60.0:42:18.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(214.402)}It was a bitch of a siege.
+Dialogue: 0.0:42:18.53.0:42:20.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(97.402)}You were first through the breach at Pyke?
+Dialogue: 0.0:42:20.43.0:42:21.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(286.399)}The second.
+Dialogue: 0.0:42:21.97.0:42:25.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(185.365)}Thoros of Myr went in alone.
+Dialogue: 0.0:42:21.97.0:42:25.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(155.402)}waving that flaming sword of his.
+Dialogue: 0.0:42:26.11.0:42:28.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(164.402)}Thoros of Myr. Bloody madman.
+Dialogue: 0.0:42:28.84.0:42:31.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(135.402)}Robert knighted you after the battle?
+Dialogue: 0.0:42:31.94.0:42:33.67.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(189.402)}Proudest moment of my life.
+Dialogue: 0.0:42:33.75.0:42:36.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(230.365)}One knee in the dust.
+Dialogue: 0.0:42:33.75.0:42:36.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(153.402)}the King's sword on my shoulder.
+Dialogue: 0.0:42:36.75.0:42:37.74.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(223.402)}listening to the words.
+Dialogue: 0.0:42:37.82.0:42:41.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(192.365)}"In the name of the Warrior.
+Dialogue: 0.0:42:37.82.0:42:41.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(204.402)}I charge you to be brave."
+Dialogue: 0.0:42:42.22.0:42:44.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.362)}All I could think of
+Dialogue: 0.0:42:42.22.0:42:44.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(186.402)}was how badly I had to piss.
+Dialogue: 0.0:42:46.16.0:42:48.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(173.402)}In full plate metal for 16 hours.
+Dialogue: 0.0:42:48.90.0:42:50.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(231.362)}Never occurred to me
+Dialogue: 0.0:42:48.90.0:42:50.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(206.402)}till the fighting was over.
+Dialogue: 0.0:42:50.80.0:42:54.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(179.365)}I was very nearly the first man
+Dialogue: 0.0:42:50.80.0:42:54.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(134.402)}knighted to piss on the King's boots.
+Dialogue: 0.0:42:55.94.0:42:57.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(189.402)}Robert would have laughed.
+Dialogue: 0.0:42:58.37.0:43:00.53.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(142.402)}He was a good man. a great warrior.
+Dialogue: 0.0:43:02.71.0:43:04.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(242.402)}And a terrible king.
+Dialogue: 0.0:43:04.58.0:43:07.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(218.365)}I burned away my years
+Dialogue: 0.0:43:04.58.0:43:07.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(202.402)}fighting for terrible kings.
+Dialogue: 0.0:43:07.85.0:43:09.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(238.362)}- You swore an oath.
+Dialogue: 0.0:43:07.85.0:43:09.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(330.399)}- Yes.
+Dialogue: 0.0:43:09.58.0:43:14.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(137.365)}And a man of honor keeps his vows.
+Dialogue: 0.0:43:09.58.0:43:14.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(115.402)}even if he's serving a drunk or a lunatic.
+Dialogue: 0.0:43:14.79.0:43:17.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(141.402)}Just once in my life before it's over.
+Dialogue: 0.0:43:17.89.0:43:20.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(273.362)}I want to know
+Dialogue: 0.0:43:17.89.0:43:20.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(161.402)}what it's like to serve with pride.
+Dialogue: 0.0:43:20.86.0:43:22.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(160.402)}to fight for someone I believe in.
+Dialogue: 0.0:43:23.76.0:43:25.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(224.402)}Do you believe in her?
+Dialogue: 0.0:43:28.33.0:43:29.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(253.402)}With all my heart.
+Dialogue: 0.0:43:35.41.0:43:36.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(237.399)}These are the ones?
+Dialogue: 0.0:43:36.64.0:43:38.67.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(192.402)}Yes. Khaleesi. The officers.
+Dialogue: 0.0:43:40.91.0:43:42.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(186.399)}You did not choose this life.
+Dialogue: 0.0:43:43.78.0:43:47.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(202.365)}But you are free men now.
+Dialogue: 0.0:43:43.78.0:43:47.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(126.399)}And free men make their own choices.
+Dialogue: 0.0:43:48.69.0:43:52.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(148.365)}Have you selected your own leader
+Dialogue: 0.0:43:48.69.0:43:52.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(199.402)}from amongst your ranks?
+Dialogue: 0.0:43:57.40.0:43:58.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(233.402)}Remove your helmet.
+Dialogue: 0.0:44:06.61.0:44:07.97.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(215.399)}This one has the honor.
+Dialogue: 0.0:44:08.14.0:44:09.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(239.402)}What is your name?
+Dialogue: 0.0:44:10.01.0:44:11.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(289.402)}Grey Worm.
+Dialogue: 0.0:44:12.48.0:44:13.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(289.402)}Grey Worm.
+Dialogue: 0.0:44:14.88.0:44:18.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(115.365)}All Unsullied boys are given new names
+Dialogue: 0.0:44:14.88.0:44:18.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(248.402)}when they are cut.
+Dialogue: 0.0:44:18.75.0:44:21.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(163.402)}Grey Worm. Red Flea. Black Rat.
+Dialogue: 0.0:44:21.52.0:44:24.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(116.402)}Names that remind them what they are...
+Dialogue: 0.0:44:25.19.0:44:26.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(313.399)}Vermin.
+Dialogue: 0.0:44:30.06.0:44:32.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(223.365)}From this day forward.
+Dialogue: 0.0:44:30.06.0:44:32.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(155.402)}you will choose your own names.
+Dialogue: 0.0:44:33.23.0:44:36.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(161.365)}You will tell your fellow soldiers
+Dialogue: 0.0:44:33.23.0:44:36.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(266.399)}to do the same.
+Dialogue: 0.0:44:37.07.0:44:38.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(180.402)}Throw away your slave name.
+Dialogue: 0.0:44:39.27.0:44:41.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(110.365)}Choose the name your parents gave you.
+Dialogue: 0.0:44:39.27.0:44:41.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(283.402)}or any other.
+Dialogue: 0.0:44:42.71.0:44:46.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(185.402)}A name that gives you pride.
+Dialogue: 0.0:44:48.11.0:44:51.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(184.365)}"Grey Worm" gives me pride.
+Dialogue: 0.0:44:48.11.0:44:51.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(252.402)}It is a lucky name.
+Dialogue: 0.0:44:52.39.0:44:55.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(188.362)}The name this one was born
+Dialogue: 0.0:44:52.39.0:44:55.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(257.399)}with was cursed.
+Dialogue: 0.0:44:55.49.0:44:59.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(147.362)}That was the name he had when he
+Dialogue: 0.0:44:55.49.0:44:59.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(232.399)}was taken as a slave.
+Dialogue: 0.0:45:00.96.0:45:05.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(115.402)}But Grey Worm is the name this one had
+Dialogue: 0.0:45:05.16.0:45:09.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(106.402)}the day Daenerys Stormborn set him free.
+Dialogue: 0.0:45:13.87.0:45:15.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(179.402)}King Robert wanted her dead.
+Dialogue: 0.0:45:15.91.0:45:19.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(174.362)}Of course he wanted her dead.
+Dialogue: 0.0:45:15.91.0:45:19.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(125.402)}She's a Targaryen. The last Targaryen.
+Dialogue: 0.0:45:20.61.0:45:23.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(124.365)}I suppose no one on the Small Council
+Dialogue: 0.0:45:20.61.0:45:23.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(201.402)}could speak sense to him.
+Dialogue: 0.0:45:23.52.0:45:26.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(158.362)}- I didn't sit on the Small Council.
+Dialogue: 0.0:45:23.52.0:45:26.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(332.399)}- No?
+Dialogue: 0.0:45:26.22.0:45:28.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(182.362)}Doesn't the Lord Commander
+Dialogue: 0.0:45:26.22.0:45:28.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(160.402)}of the Kingsguard traditionally...
+Dialogue: 0.0:45:28.59.0:45:29.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(250.402)}Traditionally. yes.
+Dialogue: 0.0:45:29.89.0:45:32.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(127.362)}but I killed a dozen of Robert's friends
+Dialogue: 0.0:45:29.89.0:45:32.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(235.402)}during his rebellion.
+Dialogue: 0.0:45:34.96.0:45:38.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(119.365)}He didn't want advice on how to govern
+Dialogue: 0.0:45:34.96.0:45:38.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(83.402)}from a man who had fought for the Mad King.
+Dialogue: 0.0:45:39.03.0:45:40.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(206.402)}Can't say I minded much.
+Dialogue: 0.0:45:41.73.0:45:43.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(198.402)}I always hated the politics.
+Dialogue: 0.0:45:44.00.0:45:45.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(185.402)}Yeah. I imagine I would. too.
+Dialogue: 0.0:45:45.97.0:45:50.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(186.365)}Hours spent jabbering about
+Dialogue: 0.0:45:45.97.0:45:50.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(89.402)}backstabbings and betrayals the world over.
+Dialogue: 0.0:45:54.91.0:45:58.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(94.365)}Still. she'll have to wade through that muck
+Dialogue: 0.0:45:54.91.0:45:58.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(110.402)}if she wants to rule the Seven Kingdoms.
+Dialogue: 0.0:45:58.75.0:46:02.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(158.365)}She'll have good men around her
+Dialogue: 0.0:45:58.75.0:46:02.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(143.402)}to advise her. men with experience.
+Dialogue: 0.0:46:02.52.0:46:06.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(152.365)}- Which men do you have in mind?
+Dialogue: 0.0:46:02.52.0:46:06.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(129.402)}- Forgive me for what I'm about to say.
+Dialogue: 0.0:46:07.03.0:46:09.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(167.365)}but your reputation in Westeros
+Dialogue: 0.0:46:07.03.0:46:09.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(192.402)}has suffered over the years.
+Dialogue: 0.0:46:10.26.0:46:13.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(218.362)}It suffered for a reason.
+Dialogue: 0.0:46:10.26.0:46:13.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(219.402)}I sold men into slavery.
+Dialogue: 0.0:46:14.33.0:46:17.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(112.365)}I don't know if your presence by her side
+Dialogue: 0.0:46:14.33.0:46:17.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(126.402)}will help our cause when we go home.
+Dialogue: 0.0:46:17.97.0:46:19.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(291.399)}Our cause?
+Dialogue: 0.0:46:20.01.0:46:22.60.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(202.365)}Forgive me. Ser Barristan.
+Dialogue: 0.0:46:20.01.0:46:22.60.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(128.402)}but I was busy defending the Khaleesi
+Dialogue: 0.0:46:22.68.0:46:25.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(163.365)}against King Robert's assassins
+Dialogue: 0.0:46:22.68.0:46:25.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(119.402)}while you were still bowing to the man.
+Dialogue: 0.0:46:26.05.0:46:28.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(124.402)}We both want her to rule. Am I wrong?
+Dialogue: 0.0:46:29.82.0:46:33.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(146.365)}You only joined us a few days ago.
+Dialogue: 0.0:46:29.82.0:46:33.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(167.402)}I can't speak to your intentions.
+Dialogue: 0.0:46:33.55.0:46:36.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(169.402)}If we're truly her loyal servants.
+Dialogue: 0.0:46:36.09.0:46:41.22.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(126.365)}we will do whatever needs to be done.
+Dialogue: 0.0:46:36.09.0:46:41.22.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(121.402)}no matter the cost. no matter our pride.
+Dialogue: 0.0:46:41.29.0:46:46.10.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(152.362)}You're not Lord Commander here.
+Dialogue: 0.0:46:41.29.0:46:46.10.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(206.402)}You're just another exile.
+Dialogue: 0.0:46:46.73.0:46:48.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(131.402)}And I take my orders from the Queen.
+Dialogue: 0.0:46:57.08.0:46:58.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(280.399)}Come to bed.
+Dialogue: 0.0:46:58.34.0:46:59.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(266.402)}You were right.
+Dialogue: 0.0:47:00.95.0:47:02.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(215.402)}The Karstarks are gone.
+Dialogue: 0.0:47:03.35.0:47:05.28.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(219.399)}Almost half our forces.
+Dialogue: 0.0:47:05.95.0:47:09.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(91.365)}Tywin Lannister knows what he needs to do
+Dialogue: 0.0:47:05.95.0:47:09.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(240.399)}to make us unravel.
+Dialogue: 0.0:47:10.22.0:47:11.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(309.402)}Nothing.
+Dialogue: 0.0:47:12.46.0:47:14.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(299.402)}Only wait.
+Dialogue: 0.0:47:14.66.0:47:15.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(280.399)}Don't let him.
+Dialogue: 0.0:47:17.10.0:47:20.53.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(121.402)}What can I do? Attack King's Landing?
+Dialogue: 0.0:47:21.07.0:47:24.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(165.365)}There's nothing he'd like better.
+Dialogue: 0.0:47:21.07.0:47:24.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(222.402)}He'd crush us in a day.
+Dialogue: 0.0:47:26.01.0:47:27.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(235.399)}We could ride north.
+Dialogue: 0.0:47:27.67.0:47:30.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(120.365)}Take your land back from the Greyjoys.
+Dialogue: 0.0:47:27.67.0:47:30.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(240.399)}Wait out the winter.
+Dialogue: 0.0:47:30.98.0:47:32.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(189.402)}Winter could last five years.
+Dialogue: 0.0:47:32.91.0:47:34.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(134.402)}Once my bannermen are home again.
+Dialogue: 0.0:47:34.65.0:47:37.14.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(252.365)}sitting by the fire.
+Dialogue: 0.0:47:34.65.0:47:37.14.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(183.402)}surrounded by their families.
+Dialogue: 0.0:47:37.22.0:47:40.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(81.402)}warm and safe. they'll never ride south again.
+Dialogue: 0.0:47:40.95.0:47:44.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(144.365)}When I gathered my lords together.
+Dialogue: 0.0:47:40.95.0:47:44.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(181.402)}we had a purpose. a mission.
+Dialogue: 0.0:47:44.32.0:47:47.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(93.402)}Now we're like a band of bickering children.
+Dialogue: 0.0:47:49.50.0:47:51.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(202.402)}Give them a new purpose.
+Dialogue: 0.0:47:51.53.0:47:52.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(321.399)}What?
+Dialogue: 0.0:47:55.53.0:47:59.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(282.362)}I don't know.
+Dialogue: 0.0:47:55.53.0:47:59.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(132.399)}I don't even know where Winterfell is.
+Dialogue: 0.0:48:02.38.0:48:04.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(330.399)}Here.
+Dialogue: 0.0:48:07.68.0:48:09.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(265.399)}And we're here.
+Dialogue: 0.0:48:09.55.0:48:10.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(256.402)}King's Landing...
+Dialogue: 0.0:48:17.79.0:48:19.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(295.399)}What is it?
+Dialogue: 0.0:48:22.66.0:48:25.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(119.399)}I can't force them to meet us in the field
+Dialogue: 0.0:48:25.93.0:48:28.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(223.362)}and I can't attack them
+Dialogue: 0.0:48:25.93.0:48:28.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(211.402)}where they're strongest.
+Dialogue: 0.0:48:28.60.0:48:30.16.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(120.402)}but I can attack them where they're not.
+Dialogue: 0.0:48:32.24.0:48:34.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(150.402)}And Casterly Rock can't run away.
+Dialogue: 0.0:48:36.71.0:48:39.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(85.402)}I'm going to take their home away from them.
+Dialogue: 0.0:48:40.78.0:48:42.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(271.402)}Can you do it?
+Dialogue: 0.0:48:42.82.0:48:45.88.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(146.365)}I need men to replace the Karstarks
+Dialogue: 0.0:48:42.82.0:48:45.88.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(236.399)}who marched home.
+Dialogue: 0.0:48:46.45.0:48:48.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(108.402)}There is only one person in this kingdom
+Dialogue: 0.0:48:48.42.0:48:51.88.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(226.365)}with that kind of army
+Dialogue: 0.0:48:48.42.0:48:51.88.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(81.402)}who hasn't already sided with the Lannisters.
+Dialogue: 0.0:48:53.43.0:48:55.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(206.365)}The man whose daughter
+Dialogue: 0.0:48:53.43.0:48:55.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(208.402)}I was supposed to marry.
+Dialogue: 0.0:48:57.13.0:48:58.60.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(283.402)}Walder Frey.
+Dialogue: 0.0:49:07.94.0:49:09.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(186.402)}He's such a splendid fighter.
+Dialogue: 0.0:49:10.54.0:49:13.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(123.402)}Do you have any idea when we might...
+Dialogue: 0.0:49:14.38.0:49:16.85.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(256.365)}I'll plant the seed
+Dialogue: 0.0:49:14.38.0:49:16.85.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(138.402)}as soon as Joffrey and I are married.
+Dialogue: 0.0:49:16.92.0:49:18.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(220.402)}It should grow quickly.
+Dialogue: 0.0:49:18.52.0:49:22.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(201.365)}Joffrey won't let me leave.
+Dialogue: 0.0:49:18.52.0:49:22.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(94.402)}He's got too many reasons to keep me here.
+Dialogue: 0.0:49:23.19.0:49:25.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(193.402)}And only one to let you go.
+Dialogue: 0.0:49:27.03.0:49:28.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(204.402)}Because it will please me.
+Dialogue: 0.0:49:28.99.0:49:30.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(317.402)}Squire.
+Dialogue: 0.0:49:34.40.0:49:35.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(259.402)}Well fought. ser.
+Dialogue: 0.0:49:35.84.0:49:37.53.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(250.402)}That was no fight.
+Dialogue: 0.0:49:37.60.0:49:38.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(256.402)}I don't know you.
+Dialogue: 0.0:49:38.84.0:49:41.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(219.402)}Olyver. if it please you.
+Dialogue: 0.0:49:43.48.0:49:46.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(189.365)}I should like to see you spar
+Dialogue: 0.0:49:43.48.0:49:46.47.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(200.402)}with a proper partner. ser.
+Dialogue: 0.0:49:54.39.0:49:55.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(241.402)}How did you know?
+Dialogue: 0.0:49:55.65.0:49:57.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(286.399)}Know what?
+Dialogue: 0.0:49:58.99.0:50:00.72.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(258.399)}That I wanted to.
+Dialogue: 0.0:50:00.79.0:50:02.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(304.402)}My lord...
+Dialogue: 0.0:50:07.07.0:50:08.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(106.402)}I'll have you know I'm to be married soon.
+Dialogue: 0.0:50:08.40.0:50:11.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(226.365)}and even my intended
+Dialogue: 0.0:50:08.40.0:50:11.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(196.402)}hasn't the slightest notion.
+Dialogue: 0.0:50:11.64.0:50:14.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(158.402)}They rarely do. in my experience.
+Dialogue: 0.0:50:14.57.0:50:17.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(83.402)}You have a good deal of experience. do you?
+Dialogue: 0.0:50:18.21.0:50:19.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(241.399)}With the husbands.
+Dialogue: 0.0:50:29.05.0:50:30.99.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(230.402)}That didn't take long.
+Dialogue: 0.0:50:31.66.0:50:33.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(201.402)}Well. it took long enough.
+Dialogue: 0.0:50:35.23.0:50:38.22.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(173.365)}It seems our Knight of Flowers
+Dialogue: 0.0:50:35.23.0:50:38.22.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(228.402)}is engaged to be wed.
+Dialogue: 0.0:50:38.30.0:50:39.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(325.399)}Is he?
+Dialogue: 0.0:50:40.07.0:50:41.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(323.399)}And...
+Dialogue: 0.0:50:42.20.0:50:44.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(230.402)}Who's the lucky girl?
+Dialogue: 0.0:50:44.54.0:50:47.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(78.402)}She may not be the grandest ship in the world
+Dialogue: 0.0:50:47.67.0:50:49.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(276.402)}or the fastest.
+Dialogue: 0.0:50:50.78.0:50:52.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(268.399)}but she's mine.
+Dialogue: 0.0:50:55.78.0:50:59.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(202.365)}I've always wanted a ship.
+Dialogue: 0.0:50:55.78.0:50:59.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(239.399)}Now I want a dozen.
+Dialogue: 0.0:51:00.09.0:51:02.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(254.365)}- Strange. isn't it?
+Dialogue: 0.0:51:00.09.0:51:02.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(303.399)}- What is?
+Dialogue: 0.0:51:02.62.0:51:04.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.402)}It doesn't matter what we want.
+Dialogue: 0.0:51:04.82.0:51:07.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(272.365)}once we get it.
+Dialogue: 0.0:51:04.82.0:51:07.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(178.402)}then we want something else.
+Dialogue: 0.0:51:11.33.0:51:13.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(229.399)}Your hair is different.
+Dialogue: 0.0:51:14.03.0:51:15.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(331.399)}Is it?
+Dialogue: 0.0:51:15.90.0:51:17.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(162.402)}Lady Margaery wears it that way.
+Dialogue: 0.0:51:17.34.0:51:19.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(186.402)}Many ladies wear it this way.
+Dialogue: 0.0:51:20.14.0:51:23.67.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(251.365)}I have good news.
+Dialogue: 0.0:51:20.14.0:51:23.67.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(192.402)}I'll be leaving the city soon.
+Dialogue: 0.0:51:23.74.0:51:25.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(137.402)}You still want me to come with you?
+Dialogue: 0.0:51:25.11.0:51:28.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(157.365)}It's not a question of what I want.
+Dialogue: 0.0:51:25.11.0:51:28.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(247.402)}It's what you want.
+Dialogue: 0.0:51:29.42.0:51:30.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(156.402)}You want to go home. don't you?
+Dialogue: 0.0:51:31.15.0:51:33.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(170.402)}Of course. More than anything.
+Dialogue: 0.0:51:35.69.0:51:38.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(137.402)}But maybe it would be better to wait.
+Dialogue: 0.0:51:39.69.0:51:43.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(77.365)}I've been thinking how dangerous it would be.
+Dialogue: 0.0:51:39.69.0:51:43.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(192.402)}Not just for me. but for you.
+Dialogue: 0.0:51:44.90.0:51:48.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(232.362)}You've been so kind.
+Dialogue: 0.0:51:44.90.0:51:48.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(92.402)}I'd feel terrible if anything happened to you.
+Dialogue: 0.0:51:49.97.0:51:53.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(163.365)}I can't tell you how touched I am
+Dialogue: 0.0:51:49.97.0:51:53.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(168.402)}by your concern for my welfare.
+Dialogue: 0.0:51:55.91.0:51:58.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(91.402)}I hope you know that I'm your friend. Sansa.
+Dialogue: 0.0:51:59.14.0:52:00.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(259.399)}Your true friend.
+Dialogue: 0.0:52:01.01.0:52:02.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(249.402)}I do. Lord Baelish.
+Dialogue: 0.0:52:02.48.0:52:04.88.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(321.365)}- Petyr.
+Dialogue: 0.0:52:02.48.0:52:04.88.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(321.402)}- Petyr.
+Dialogue: 0.0:52:04.98.0:52:09.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.365)}If you wish to stay.
+Dialogue: 0.0:52:04.98.0:52:09.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(186.402)}then of course you will stay.
+Dialogue: 0.0:52:15.03.0:52:17.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(164.402)}We'll speak again when I return.
+Dialogue: 0.0:52:30.64.0:52:32.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(290.399)}You're late.
+Dialogue: 0.0:52:33.08.0:52:34.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(215.402)}What's she doing here?
+Dialogue: 0.0:52:35.58.0:52:37.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(163.402)}Our business concerns her. too.
+Dialogue: 0.0:52:37.82.0:52:39.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(340.399)}Sit.
+Dialogue: 0.0:52:41.32.0:52:45.99.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(176.365)}You'll be pleased to learn that
+Dialogue: 0.0:52:41.32.0:52:45.99.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(103.402)}after one conversation with Olenna Tyrell.
+Dialogue: 0.0:52:46.59.0:52:50.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(237.362)}I've saved the crown
+Dialogue: 0.0:52:46.59.0:52:50.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(111.402)}hundreds of thousands on this wedding.
+Dialogue: 0.0:52:50.93.0:52:53.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(232.362)}Never mind that now.
+Dialogue: 0.0:52:50.93.0:52:53.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(105.402)}We have something important to discuss.
+Dialogue: 0.0:52:53.63.0:52:55.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(247.362)}I'm Master of Coin.
+Dialogue: 0.0:52:53.63.0:52:55.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(192.402)}Saving money is important.
+Dialogue: 0.0:52:57.10.0:53:00.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(90.402)}Stop that. You're making me uncomfortable.
+Dialogue: 0.0:53:00.34.0:53:03.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(190.362)}Your sister has learned that
+Dialogue: 0.0:53:00.34.0:53:03.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(188.402)}your new friends the Tyrells
+Dialogue: 0.0:53:03.41.0:53:06.31.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(76.402)}are plotting to marry Sansa Stark to Ser Loras.
+Dialogue: 0.0:53:06.81.0:53:09.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(183.402)}Very well. She's a lovely girl.
+Dialogue: 0.0:53:10.38.0:53:14.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(138.365)}Missing some of Loras' favorite bits.
+Dialogue: 0.0:53:10.38.0:53:14.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(189.402)}but I'm sure they'll make do.
+Dialogue: 0.0:53:14.09.0:53:16.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(164.365)}- Your jokes are not appreciated.
+Dialogue: 0.0:53:14.09.0:53:16.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(213.402)}- It wasn't my best. but...
+Dialogue: 0.0:53:16.82.0:53:19.88.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(170.365)}I bring them into the royal fold.
+Dialogue: 0.0:53:16.82.0:53:19.88.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(174.402)}and this is how they repay me.
+Dialogue: 0.0:53:19.96.0:53:22.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(134.365)}by trying to steal the key to the North
+Dialogue: 0.0:53:19.96.0:53:22.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(244.399)}out from under me.
+Dialogue: 0.0:53:23.30.0:53:27.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(177.365)}Sansa is the key to the North?
+Dialogue: 0.0:53:23.30.0:53:27.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(84.399)}I seem to remember she has an older brother.
+Dialogue: 0.0:53:27.43.0:53:29.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(146.399)}The Karstarks have marched home.
+Dialogue: 0.0:53:29.37.0:53:32.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(123.365)}The Young Wolf has lost half his army.
+Dialogue: 0.0:53:29.37.0:53:32.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(218.402)}His days are numbered.
+Dialogue: 0.0:53:32.94.0:53:35.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(94.402)}Theon Greyjoy murdered both his brothers.
+Dialogue: 0.0:53:35.51.0:53:38.88.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(81.402)}That makes Sansa Stark the heir to Winterfell.
+Dialogue: 0.0:53:39.48.0:53:42.74.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.362)}and I am not about
+Dialogue: 0.0:53:39.48.0:53:42.74.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.402)}to hand her over to the Tyrells.
+Dialogue: 0.0:53:42.82.0:53:45.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(85.402)}The Tyrell army is helping us to win this war.
+Dialogue: 0.0:53:45.68.0:53:47.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(92.402)}Do you really think it's wise to refuse them?
+Dialogue: 0.0:53:47.89.0:53:49.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(114.402)}There's nothing to refuse. This is a plot.
+Dialogue: 0.0:53:50.29.0:53:52.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(167.402)}Plots are not public knowledge.
+Dialogue: 0.0:53:52.62.0:53:56.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(117.365)}And the Tyrells won't carry this one out
+Dialogue: 0.0:53:52.62.0:53:56.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(185.402)}until after Joffrey's wedding.
+Dialogue: 0.0:53:56.63.0:54:00.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(242.362)}We need to act first
+Dialogue: 0.0:53:56.63.0:54:00.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(183.399)}and kill this union in its crib.
+Dialogue: 0.0:54:00.53.0:54:04.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(207.362)}- And how do we do that?
+Dialogue: 0.0:54:00.53.0:54:04.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(106.399)}- We find Sansa Stark a different husband.
+Dialogue: 0.0:54:04.10.0:54:06.60.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(289.362)}- Wonderful.
+Dialogue: 0.0:54:04.10.0:54:06.60.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(300.402)}- Yes. it is.
+Dialogue: 0.0:54:14.71.0:54:17.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.362)}- You can't mean it.
+Dialogue: 0.0:54:14.71.0:54:17.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(270.399)}- I can and I do.
+Dialogue: 0.0:54:17.35.0:54:22.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(90.365)}Joffrey's made this poor girl's life miserable
+Dialogue: 0.0:54:17.35.0:54:22.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(119.402)}since the day he took her father's head.
+Dialogue: 0.0:54:23.02.0:54:25.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(184.365)}Now she's finally free of him.
+Dialogue: 0.0:54:23.02.0:54:25.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(213.402)}and you give her to me?
+Dialogue: 0.0:54:25.69.0:54:28.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(196.365)}- That's cruel. even for you.
+Dialogue: 0.0:54:25.69.0:54:28.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(146.402)}- Do you intend on mistreating her?
+Dialogue: 0.0:54:29.39.0:54:32.23.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(118.365)}The girl's happiness is not my concern.
+Dialogue: 0.0:54:29.39.0:54:32.23.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(299.405)}nor yours.
+Dialogue: 0.0:54:32.30.0:54:33.60.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(278.399)}She's a child!
+Dialogue: 0.0:54:33.67.0:54:36.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(184.365)}She's flowered. I assure you.
+Dialogue: 0.0:54:33.67.0:54:36.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(131.402)}She and I have discussed it at length.
+Dialogue: 0.0:54:36.47.0:54:39.67.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(154.365)}There. you see? You will wed her.
+Dialogue: 0.0:54:36.47.0:54:39.67.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(173.402)}bed her. and put a child in her.
+Dialogue: 0.0:54:40.27.0:54:41.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(181.402)}Surely you're capable of that.
+Dialogue: 0.0:54:41.64.0:54:42.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(266.399)}And if I refuse?
+Dialogue: 0.0:54:43.01.0:54:45.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(193.362)}You wanted to be rewarded
+Dialogue: 0.0:54:43.01.0:54:45.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(220.402)}for your valor in battle.
+Dialogue: 0.0:54:45.98.0:54:50.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(186.362)}Sansa Stark is a finer reward
+Dialogue: 0.0:54:45.98.0:54:50.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(148.402)}than you could ever dare hope for.
+Dialogue: 0.0:54:50.12.0:54:52.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(157.402)}And it is past time you were wed.
+Dialogue: 0.0:54:52.32.0:54:53.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(298.399)}I was wed.
+Dialogue: 0.0:54:55.25.0:54:56.88.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(212.402)}Or don't you remember?
+Dialogue: 0.0:54:59.42.0:55:00.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(276.402)}Only too well.
+Dialogue: 0.0:55:02.06.0:55:06.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(101.365)}You should be thanking the Gods for this.
+Dialogue: 0.0:55:02.06.0:55:06.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(172.402)}This is more than you deserve.
+Dialogue: 0.0:55:06.97.0:55:10.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(127.402)}Tyrion will do as he's bid. As will you.
+Dialogue: 0.0:55:12.74.0:55:14.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(239.402)}What do you mean?
+Dialogue: 0.0:55:14.47.0:55:16.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(219.402)}You'll marry Ser Loras.
+Dialogue: 0.0:55:18.91.0:55:21.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(299.362)}- I will not.
+Dialogue: 0.0:55:18.91.0:55:21.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(170.402)}- The boy is heir to Highgarden.
+Dialogue: 0.0:55:21.15.0:55:23.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(186.365)}Tyrion will secure the North.
+Dialogue: 0.0:55:21.15.0:55:23.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(199.402)}you will secure the Reach.
+Dialogue: 0.0:55:23.68.0:55:26.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(255.365)}- No. I won't do it.
+Dialogue: 0.0:55:23.68.0:55:26.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(274.402)}- Yes. you will.
+Dialogue: 0.0:55:26.79.0:55:29.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(250.362)}You're still fertile.
+Dialogue: 0.0:55:26.79.0:55:29.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(141.402)}You need to marry again and breed.
+Dialogue: 0.0:55:29.15.0:55:31.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(107.402)}I am Queen Regent. not some broodmare.
+Dialogue: 0.0:55:31.26.0:55:32.72.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(235.402)}You're my daughter!
+Dialogue: 0.0:55:34.09.0:55:37.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(198.365)}You will do as I command.
+Dialogue: 0.0:55:34.09.0:55:37.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.402)}and you will marry Loras Tyrell
+Dialogue: 0.0:55:38.36.0:55:42.23.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(113.365)}and put an end to the disgusting rumors
+Dialogue: 0.0:55:38.36.0:55:42.23.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(196.402)}about you once and for all.
+Dialogue: 0.0:55:43.27.0:55:46.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(100.365)}- Father. don't make me do it again. please.
+Dialogue: 0.0:55:43.27.0:55:46.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.399)}- Not another word.
+Dialogue: 0.0:55:47.97.0:55:49.10.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(286.402)}My children.
+Dialogue: 0.0:55:51.64.0:55:54.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(132.365)}You've disgraced the Lannister name
+Dialogue: 0.0:55:51.64.0:55:54.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(264.402)}for far too long.
