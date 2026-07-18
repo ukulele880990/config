@@ -1,0 +1,2131 @@
+WEBVTT
+
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 0
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name. Fontname. Fontsize. PrimaryColour. SecondaryColour. OutlineColour. BackColour. Bold. Italic. Underline. StrikeOut. ScaleX. ScaleY. Spacing. Angle. BorderStyle. Outline. Shadow. Alignment. MarginL. MarginR. MarginV. Encoding
+Style: 1.85:1 BS.Arial.16.&H0000FFFF.&H0000FFFF.&H00000000.&H00000000.0.0.0.0.100.100.0.0.1.1.0.2.2.2.10.10.3.1
+Style: Title 2.Arial.18.&H0021F7FF.&H0021F7FF.&H00000000.&H00000000.0.0.0.0.100.100.0.0.1.0.5.0.0.2.20.20.30.1
+
+[Events]
+Format: Layer. Start. End. Style. Name. MarginL. MarginR. MarginV. Effect. Text
+Dialogue: 0.0:00:36.50.0:00:38.27.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I said you wanna be startin' somethin'  ♫{\i0}
+Dialogue: 0.0:00:38.33.0:00:40.07.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You got to be startin' somethin'  ♫{\i0}
+Dialogue: 0.0:00:40.14.0:00:41.91.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I said you wanna be startin' somethin'  ♫{\i0}
+Dialogue: 0.0:00:41.97.0:00:43.61.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You got to be startin' somethin'  ♫{\i0}
+Dialogue: 0.0:00:43.67.0:00:45.44.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  It's too high to get over  ♫{\i0}
+Dialogue: 0.0:00:45.51.0:00:47.14.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You're too low to get under  ♫{\i0}
+Dialogue: 0.0:00:47.21.0:00:49.01.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You're stuck in the middle  ♫{\i0}
+Dialogue: 0.0:00:49.08.0:00:50.81.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  And the pain is thunder  ♫{\i0}
+Dialogue: 0.0:00:50.88.0:00:52.52.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  It's too high to get over  ♫{\i0}
+Dialogue: 0.0:00:52.58.0:00:54.25.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You're too low to get under  ♫{\i0}
+Dialogue: 0.0:00:54.32.0:00:55.95.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You're stuck in the middle  ♫{\i0}
+Dialogue: 0.0:00:56.02.0:00:57.65.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  And the pain is thunder  ♫{\i0}
+Dialogue: 0.0:00:57.72.0:00:59.59.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I took my baby to the doctor  ♫{\i0}
+Dialogue: 0.0:00:59.66.0:01:01.49.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  With a fever. but nothin' he found  ♫{\i0}
+Dialogue: 0.0:01:01.56.0:01:02.99.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  By the time this hit the street  ♫{\i0}
+Dialogue: 0.0:01:03.06.0:01:04.86.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  They said she had a breakdown  ♫{\i0}
+Dialogue: 0.0:01:04.93.0:01:06.70.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Someone's always tryin'  ♫{\i0}
+Dialogue: 0.0:01:06.76.0:01:10.20.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  To start my baby cryin'. talkin'. squealin'. lyin'  ♫{\i0}
+Dialogue: 0.0:01:10.27.0:01:12.13.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Sayin' you just want to be startin' somethin'  ♫{\i0}
+Dialogue: 0.0:01:12.20.0:01:13.84.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I said you wanna be startin' somethin'  ♫{\i0}
+Dialogue: 0.0:01:13.90.0:01:15.54.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You got to be startin' somethin'  ♫{\i0}
+Dialogue: 0.0:01:15.61.0:01:17.27.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I said you wanna be startin' somethin'  ♫{\i0}
+Dialogue: 0.0:01:17.34.0:01:19.17.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You got to be startin' somethin'  ♫{\i0}
+Dialogue: 0.0:01:33.30.0:01:37.46.Title 2..0.0.0..{\an2\c&Hccffff&}Created by {\c&H33ffff&\b1}Sailor420{\b0}{\c}        {\c&Hccffff&}Enjoy single-line sub
+Dialogue: 0.0:01:38.46.0:01:43.57.1.85:1 BS..0.0.0..Michael. Michael. Michael!
+Dialogue: 0.0:02:26.91.0:02:28.58.1.85:1 BS..0.0.0..Mike.
+Dialogue: 0.0:02:30.65.0:02:31.65.1.85:1 BS..0.0.0..Get back in line.
+Dialogue: 0.0:02:38.29.0:02:39.45.1.85:1 BS..0.0.0..All right. Come on. now.
+Dialogue: 0.0:02:39.52.0:02:40.59.1.85:1 BS..0.0.0..We're gonna take it from the top.
+Dialogue: 0.0:02:42.83.0:02:44.43.1.85:1 BS..0.0.0..And get it right this time.
+Dialogue: 0.0:02:44.49.0:02:47.30.1.85:1 BS..0.0.0..One. two. three. four.
+Dialogue: 0.0:02:52.97.0:02:55.30.1.85:1 BS..0.0.0..Stop!
+Dialogue: 0.0:02:55.37.0:02:56.94.1.85:1 BS..0.0.0..Breathe together!
+Dialogue: 0.0:02:57.01.0:02:59.34.1.85:1 BS..0.0.0..You got to feel it. You hear?
+Dialogue: 0.0:03:00.18.0:03:01.41.1.85:1 BS..0.0.0..Take it from the top.
+Dialogue: 0.0:03:01.48.0:03:04.08.1.85:1 BS..0.0.0..One. two. three. four.
+Dialogue: 0.0:03:07.18.0:03:09.32.1.85:1 BS..0.0.0..Michael. I need you to look at me.
+Dialogue: 0.0:03:15.12.0:03:16.56.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Fairy tales  ♫{\i0}
+Dialogue: 0.0:03:16.63.0:03:17.93.1.85:1 BS..0.0.0..Michael. eyes. Up here.
+Dialogue: 0.0:03:17.99.0:03:20.66.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Fairy tales  ♫{\i0}
+Dialogue: 0.0:03:20.73.0:03:23.67.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I don't enjoy  ♫{\i0}
+Dialogue: 0.0:03:25.74.0:03:28.10.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Fairy tales  ♫{\i0}
+Dialogue: 0.0:03:28.17.0:03:29.34.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  And wishful dreams  ♫{\i0}
+Dialogue: 0.0:03:29.40.0:03:31.41.1.85:1 BS..0.0.0..Michael. I'm gonna need your eyeline. At me.
+Dialogue: 0.0:03:31.47.0:03:33.84.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Are broken toys  ♫{\i0}
+Dialogue: 0.0:03:33.91.0:03:35.95.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  'Cause I'm a big boy now  ♫{\i0}
+Dialogue: 0.0:03:36.01.0:03:37.71.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Big boy  ♫{\i0}
+Dialogue: 0.0:03:37.78.0:03:39.25.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  That's a looking for  ♫{\i0}
+Dialogue: 0.0:03:39.31.0:03:41.12.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Big boy. ooh  ♫{\i0}
+Dialogue: 0.0:03:41.18.0:03:43.49.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Someone to love  ♫{\i0}
+Dialogue: 0.0:03:44.25.0:03:45.92.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Oh. yeah  ♫{\i0}
+Dialogue: 0.0:03:48.06.0:03:49.36.1.85:1 BS..0.0.0..All right. I think that's good.
+Dialogue: 0.0:03:49.42.0:03:50.96.1.85:1 BS..0.0.0..All right. all right. all right.
+Dialogue: 0.0:03:51.03.0:03:52.63.1.85:1 BS..0.0.0..Y'all did all right.
+Dialogue: 0.0:03:52.70.0:03:54.70.1.85:1 BS..0.0.0..It's gonna feel better when you get it right.
+Dialogue: 0.0:04:09.01.0:04:14.45.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Oh. how happy you have made me  ♫{\i0}
+Dialogue: 0.0:04:14.52.0:04:19.16.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Oh. how happy you have made me  ♫{\i0}
+Dialogue: 0.0:04:19.22.0:04:22.66.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I have kissed your lips...  ♫{\i0}
+Dialogue: 0.0:04:22.73.0:04:24.49.1.85:1 BS..0.0.0..Eat your food. please.
+Dialogue: 0.0:04:24.56.0:04:26.06.1.85:1 BS..0.0.0..Stop!
+Dialogue: 0.0:04:26.13.0:04:27.63.1.85:1 BS..0.0.0..Mikey. why are you playing with your food?
+Dialogue: 0.0:04:27.70.0:04:28.87.1.85:1 BS..0.0.0..You need to stop playing with it.
+Dialogue: 0.0:04:28.93.0:04:30.37.1.85:1 BS..0.0.0..Come on. You know he never eats.
+Dialogue: 0.0:04:30.43.0:04:32.54.1.85:1 BS..0.0.0..- Shut up. La Toya.  - You shut up.
+Dialogue: 0.0:04:32.60.0:04:34.04.1.85:1 BS..0.0.0..La Toya. I was not talking to you
+Dialogue: 0.0:04:36.57.0:04:38.21.1.85:1 BS..0.0.0..Look. I made a face.
+Dialogue: 0.0:04:38.27.0:04:39.81.1.85:1 BS..0.0.0..I see. baby. but you need to eat.
+Dialogue: 0.0:04:39.88.0:04:41.18.1.85:1 BS..0.0.0..That's a real work of art.
+Dialogue: 0.0:04:41.24.0:04:43.15.1.85:1 BS..0.0.0..All right. now. listen up. boys.
+Dialogue: 0.0:04:44.85.0:04:46.82.1.85:1 BS..0.0.0..I know you would never let me down.
+Dialogue: 0.0:04:48.05.0:04:49.22.1.85:1 BS..0.0.0..And I...
+Dialogue: 0.0:04:50.59.0:04:52.26.1.85:1 BS..0.0.0..I think you're ready.
+Dialogue: 0.0:04:53.29.0:04:55.99.1.85:1 BS..0.0.0..So. I've booked us a few gigs.
+Dialogue: 0.0:04:56.06.0:04:58.26.1.85:1 BS..0.0.0..We start in Illinois tomorrow. Two shows a night.
+Dialogue: 0.0:04:59.76.0:05:03.17.1.85:1 BS..0.0.0..Wait. Joseph. we don't need to work them that hard.
+Dialogue: 0.0:05:03.23.0:05:05.77.1.85:1 BS..0.0.0..Work? They don't know the first thing about work.
+Dialogue: 0.0:05:05.84.0:05:07.07.1.85:1 BS..0.0.0..I understand that. but they have school.
+Dialogue: 0.0:05:07.14.0:05:08.64.1.85:1 BS..0.0.0..Let me tell you something.
+Dialogue: 0.0:05:09.57.0:05:11.37.1.85:1 BS..0.0.0..In this life.
+Dialogue: 0.0:05:11.44.0:05:13.81.1.85:1 BS..0.0.0..you're either a winner or you're a loser.
+Dialogue: 0.0:05:14.48.0:05:15.78.1.85:1 BS..0.0.0..You hear me?
+Dialogue: 0.0:05:15.85.0:05:18.48.1.85:1 BS..0.0.0..Y'all some poor Black kids from Gary. Indiana.
+Dialogue: 0.0:05:19.82.0:05:22.08.1.85:1 BS..0.0.0..Shit. ain't nothing gonna be handed to you.
+Dialogue: 0.0:05:22.15.0:05:24.62.1.85:1 BS..0.0.0..But you got to fight for it.
+Dialogue: 0.0:05:24.69.0:05:26.42.1.85:1 BS..0.0.0..Y'all want to work in the steel mill like me
+Dialogue: 0.0:05:26.49.0:05:28.09.1.85:1 BS..0.0.0..- for rest of your days?  - No. sir.
+Dialogue: 0.0:05:28.16.0:05:30.16.1.85:1 BS..0.0.0..Yeah. because I sure as hell don't.
+Dialogue: 0.0:05:33.96.0:05:35.53.1.85:1 BS..0.0.0..Unless you work harder...
+Dialogue: 0.0:05:36.36.0:05:38.03.1.85:1 BS..0.0.0..harder than anyone else.
+Dialogue: 0.0:05:39.67.0:05:41.34.1.85:1 BS..0.0.0..this is your life.
+Dialogue: 0.0:05:44.14.0:05:45.41.1.85:1 BS..0.0.0..Y'all willing to fight for it?
+Dialogue: 0.0:05:45.47.0:05:46.47.1.85:1 BS..0.0.0..Yes. sir.
+Dialogue: 0.0:05:46.54.0:05:47.61.1.85:1 BS..0.0.0..I need to hear you a little louder.
+Dialogue: 0.0:05:47.68.0:05:48.81.1.85:1 BS..0.0.0..Y'all willing to fight for it?
+Dialogue: 0.0:05:48.88.0:05:49.98.1.85:1 BS..0.0.0..Yes. sir.
+Dialogue: 0.0:05:51.81.0:05:53.22.1.85:1 BS..0.0.0..Now. I want you to reach out.
+Dialogue: 0.0:05:53.28.0:05:55.28.1.85:1 BS..0.0.0..like you're about to touch that wall. but not quite.
+Dialogue: 0.0:05:55.35.0:05:57.79.1.85:1 BS..0.0.0..Like this. all right. Reach out. Come on.
+Dialogue: 0.0:05:57.85.0:05:59.82.1.85:1 BS..0.0.0..But don't touch it.
+Dialogue: 0.0:05:59.89.0:06:02.26.1.85:1 BS..0.0.0..All right. Good. That's it.
+Dialogue: 0.0:06:02.33.0:06:03.83.1.85:1 BS..0.0.0..Keep your arms up. Keep your arms up.
+Dialogue: 0.0:06:03.89.0:06:06.80.1.85:1 BS..0.0.0..Now. I want you to look at that wall.
+Dialogue: 0.0:06:06.86.0:06:07.96.1.85:1 BS..0.0.0..All right.
+Dialogue: 0.0:06:08.90.0:06:10.83.1.85:1 BS..0.0.0..Close your eyes.
+Dialogue: 0.0:06:10.90.0:06:12.57.1.85:1 BS..0.0.0..We're gonna reach out together...
+Dialogue: 0.0:06:14.14.0:06:15.34.1.85:1 BS..0.0.0..as one.
+Dialogue: 0.0:06:17.24.0:06:18.88.1.85:1 BS..0.0.0..As a family.
+Dialogue: 0.0:06:20.21.0:06:21.31.1.85:1 BS..0.0.0..No more Jackie...
+Dialogue: 0.0:06:22.58.0:06:23.98.1.85:1 BS..0.0.0..Tito...
+Dialogue: 0.0:06:24.05.0:06:25.48.1.85:1 BS..0.0.0..Jermaine...
+Dialogue: 0.0:06:25.55.0:06:26.95.1.85:1 BS..0.0.0..Marlon...
+Dialogue: 0.0:06:27.02.0:06:28.25.1.85:1 BS..0.0.0..and Michael.
+Dialogue: 0.0:06:31.02.0:06:32.69.1.85:1 BS..0.0.0..From now on...
+Dialogue: 0.0:06:35.16.0:06:37.86.1.85:1 BS..0.0.0..you're the Jackson 5.
+Dialogue: 0.0:06:41.30.0:06:45.27.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Now when I look at you  ♫{\i0}
+Dialogue: 0.0:06:45.33.0:06:49.17.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  All my love come running through  ♫{\i0}
+Dialogue: 0.0:06:49.24.0:06:51.77.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You've changed and it's showing  ♫{\i0}
+Dialogue: 0.0:06:53.04.0:06:54.68.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  My love for you is growing  ♫{\i0}
+Dialogue: 0.0:06:54.74.0:06:57.58.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  My love. my love. my love is growing!  ♫{\i0}
+Dialogue: 0.0:06:57.65.0:07:00.68.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You've changed and it's showing  ♫{\i0}
+Dialogue: 0.0:07:05.89.0:07:08.12.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Yeah  ♫{\i0}
+Dialogue: 0.0:07:08.19.0:07:11.69.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Yeah. yeah. yeah. yeah. yeah. yeah. yeah  ♫{\i0}
+Dialogue: 0.0:07:13.10.0:07:14.23.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Your looks  ♫{\i0}
+Dialogue: 0.0:07:14.30.0:07:16.97.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Ooh. my honey sugar  ♫{\i0}
+Dialogue: 0.0:07:17.03.0:07:18.37.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Your eyes  ♫{\i0}
+Dialogue: 0.0:07:18.43.0:07:20.87.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Ooh. now you hypnotize  ♫{\i0}
+Dialogue: 0.0:07:36.22.0:07:38.25.1.85:1 BS..0.0.0..Tito. you were amazing.
+Dialogue: 0.0:07:38.32.0:07:39.99.1.85:1 BS..0.0.0..- Hi. boys.  - That was crazy.
+Dialogue: 0.0:07:40.06.0:07:41.56.1.85:1 BS..0.0.0..- Hi. Mother.  - Hey. Mother.
+Dialogue: 0.0:07:41.62.0:07:43.76.1.85:1 BS..0.0.0..Why don't you wash your hands and get your night clothes on?
+Dialogue: 0.0:07:43.83.0:07:46.06.1.85:1 BS..0.0.0..- It's getting late.  - Hold up. No. no. no.
+Dialogue: 0.0:07:46.13.0:07:47.43.1.85:1 BS..0.0.0..No. No. no. no. no. no. no.
+Dialogue: 0.0:07:47.50.0:07:49.23.1.85:1 BS..0.0.0..Set up your instruments. Come on.
+Dialogue: 0.0:07:49.30.0:07:50.93.1.85:1 BS..0.0.0..They have school in the morning. What do you mean?
+Dialogue: 0.0:07:51.00.0:07:52.37.1.85:1 BS..0.0.0..Ain't no time for no nighty-night and sweet dreams.
+Dialogue: 0.0:07:52.44.0:07:53.94.1.85:1 BS..0.0.0..We need to rehearse so we can get it right. Come on.
+Dialogue: 0.0:07:54.00.0:07:55.24.1.85:1 BS..0.0.0..Come on. Set them up.
+Dialogue: 0.0:07:55.30.0:07:56.94.1.85:1 BS..0.0.0..- Come on.  - Why? We're tired.
+Dialogue: 0.0:07:57.01.0:07:59.44.1.85:1 BS..0.0.0..- And-- And we did good.  - Mikey. it's fine.
+Dialogue: 0.0:07:59.51.0:08:00.58.1.85:1 BS..0.0.0..You tired?
+Dialogue: 0.0:08:00.64.0:08:02.71.1.85:1 BS..0.0.0..And you think you did good?
+Dialogue: 0.0:08:02.78.0:08:04.08.1.85:1 BS..0.0.0..Is that right. Michael?
+Dialogue: 0.0:08:04.15.0:08:05.58.1.85:1 BS..0.0.0..Yes. Joseph.
+Dialogue: 0.0:08:05.65.0:08:06.95.1.85:1 BS..0.0.0..We did good.
+Dialogue: 0.0:08:07.95.0:08:09.48.1.85:1 BS..0.0.0..Michael. come over here. Come here.
+Dialogue: 0.0:08:11.42.0:08:13.36.1.85:1 BS..0.0.0..You lookin' at me like I ain't talking to you?
+Dialogue: 0.0:08:13.42.0:08:16.03.1.85:1 BS..0.0.0..Boy. you come over here when I call!
+Dialogue: 0.0:08:20.00.0:08:21.06.1.85:1 BS..0.0.0..What?
+Dialogue: 0.0:08:21.13.0:08:22.93.1.85:1 BS..0.0.0..My opinion don't matter around here...
+Dialogue: 0.0:08:23.00.0:08:24.13.1.85:1 BS..0.0.0..boy?
+Dialogue: 0.0:08:27.64.0:08:29.71.1.85:1 BS..0.0.0..- Joseph. stop it.  - You gonna mind me. boy!
+Dialogue: 0.0:08:38.15.0:08:40.88.1.85:1 BS..0.0.0..We'll rehearse until you get it right.
+Dialogue: 0.0:08:42.45.0:08:45.02.1.85:1 BS..0.0.0..In this life. you're either a winner...
+Dialogue: 0.0:08:46.22.0:08:48.62.1.85:1 BS..0.0.0..- Or a loser.  - That's right.
+Dialogue: 0.0:08:48.69.0:08:50.29.1.85:1 BS..0.0.0..You gonna cry? Go on and cry.
+Dialogue: 0.0:08:51.23.0:08:52.76.1.85:1 BS..0.0.0..Go on. big nose.
+Dialogue: 0.0:08:52.83.0:08:53.86.1.85:1 BS..0.0.0..Set it up.
+Dialogue: 0.0:09:10.21.0:09:12.05.1.85:1 BS..0.0.0..Michael. it's Mother.
+Dialogue: 0.0:09:25.73.0:09:28.70.1.85:1 BS..0.0.0.."Old foes slowly circle each other
+Dialogue: 0.0:09:28.76.0:09:30.53.1.85:1 BS..0.0.0.."for a long moment.
+Dialogue: 0.0:09:30.60.0:09:32.03.1.85:1 BS..0.0.0.."Neither spoke.
+Dialogue: 0.0:09:32.10.0:09:35.67.1.85:1 BS..0.0.0.."Captain Hook met his fate in the jaws of his old enemy.
+Dialogue: 0.0:09:35.74.0:09:37.51.1.85:1 BS..0.0.0.."the Crocodile.
+Dialogue: 0.0:09:37.57.0:09:40.71.1.85:1 BS..0.0.0.."Neverland was finally free."
+Dialogue: 0.0:09:49.59.0:09:51.56.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Five. six...{\i0}
+Dialogue: 0.0:09:51.62.0:09:54.39.1.85:1 BS..0.0.0..Five. six. seven. eight.
+Dialogue: 0.0:10:00.90.0:10:03.23.1.85:1 BS..0.0.0..Michael. keep your eyes right here. Michael. right here.
+Dialogue: 0.0:10:03.30.0:10:08.57.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Stand! In the end. you'll still be you  ♫{\i0}
+Dialogue: 0.0:10:08.64.0:10:10.67.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  One that's done all the things  ♫{\i0}
+Dialogue: 0.0:10:10.74.0:10:12.71.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You set out to do  ♫{\i0}
+Dialogue: 0.0:10:12.78.0:10:15.71.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Stand!. there's a cross  ♫{\i0}
+Dialogue: 0.0:10:15.78.0:10:18.21.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  For you to bear  ♫{\i0}
+Dialogue: 0.0:10:18.28.0:10:23.72.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Things to go through if you're going anywhere  ♫{\i0}
+Dialogue: 0.0:10:23.79.0:10:27.36.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Everybody say. stand!  ♫{\i0}
+Dialogue: 0.0:10:27.42.0:10:31.49.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  For the things you know are right  ♫{\i0}
+Dialogue: 0.0:10:31.56.0:10:33.90.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  It's the truth that the truth  ♫{\i0}
+Dialogue: 0.0:10:33.96.0:10:35.90.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Makes them uptight  ♫{\i0}
+Dialogue: 0.0:10:35.97.0:10:37.40.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Stand!  ♫{\i0}
+Dialogue: 0.0:10:37.47.0:10:41.24.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  All the things you want are real  ♫{\i0}
+Dialogue: 0.0:10:41.30.0:10:42.54.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  It's just you  ♫{\i0}
+Dialogue: 0.0:10:42.61.0:10:46.31.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  To complete and there is no deal  ♫{\i0}
+Dialogue: 0.0:10:47.61.0:10:49.45.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Yeah. yeah. yeah  ♫{\i0}
+Dialogue: 0.0:10:49.51.0:10:52.28.1.85:1 BS..0.0.0..Try it. Marlon.
+Dialogue: 0.0:10:55.82.0:10:58.02.1.85:1 BS..0.0.0..Sharp. That's it. Get those arms up.
+Dialogue: 0.0:10:58.09.0:11:00.22.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Stand  ♫{\i0}
+Dialogue: 0.0:11:00.29.0:11:01.79.1.85:1 BS..0.0.0..That's the audience. Right here. right here.
+Dialogue: 0.0:11:09.47.0:11:11.60.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Stand  ♫{\i0}
+Dialogue: 0.0:11:11.67.0:11:13.54.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Yeah. yeah. yeah. yeah. yeah. yeah. yeah. yeah  ♫{\i0}
+Dialogue: 0.0:11:13.60.0:11:15.64.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Yeah. yeah. yeah  ♫{\i0}
+Dialogue: 0.0:11:18.01.0:11:19.21.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Stand!  ♫{\i0}
+Dialogue: 0.0:11:19.28.0:11:21.65.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  They will try to make you crawl  ♫{\i0}
+Dialogue: 0.0:11:23.81.0:11:27.42.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  And they know what they're saying makes no sense at all  ♫{\i0}
+Dialogue: 0.0:11:27.48.0:11:29.22.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Stand!  ♫{\i0}
+Dialogue: 0.0:11:29.29.0:11:32.42.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't you know that you are free?  ♫{\i0}
+Dialogue: 0.0:11:34.02.0:11:39.16.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Well. at least in your mind if you want to be  ♫{\i0}
+Dialogue: 0.0:11:39.23.0:11:41.67.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Everybody say  ♫{\i0}
+Dialogue: 0.0:11:41.73.0:11:43.57.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Oh! Ha!  ♫{\i0}
+Dialogue: 0.0:11:43.63.0:11:47.74.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Yeah. yeah. yeah. yeah. yeah. yeah. yeah. yeah  ♫{\i0}
+Dialogue: 0.0:11:47.80.0:11:49.91.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Yeah. yeah. yeah. yeah  ♫{\i0}
+Dialogue: 0.0:11:52.61.0:11:53.98.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Yeah. yeah. yeah. yeah  ♫{\i0}
+Dialogue: 0.0:11:54.04.0:11:55.08.1.85:1 BS..0.0.0..That's it.
+Dialogue: 0.0:11:55.14.0:11:56.55.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Yeah. yeah. yeah  ♫{\i0}
+Dialogue: 0.0:11:59.75.0:12:01.08.1.85:1 BS..0.0.0..Whoo!
+Dialogue: 0.0:12:01.15.0:12:04.42.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Losing you would end my life. you see  ♫{\i0}
+Dialogue: 0.0:12:04.49.0:12:08.36.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Because you mean that much to me  ♫{\i0}
+Dialogue: 0.0:12:08.42.0:12:11.79.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You could have told me yourself  ♫{\i0}
+Dialogue: 0.0:12:11.86.0:12:14.20.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  That you love somebody else  ♫{\i0}
+Dialogue: 0.0:12:14.26.0:12:17.17.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Instead I heard it through the grapevine  ♫{\i0}
+Dialogue: 0.0:12:17.23.0:12:20.84.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Oh. not much longer would you be mine  ♫{\i0}
+Dialogue: 0.0:12:20.90.0:12:22.84.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't you know that I heard it  ♫{\i0}
+Dialogue: 0.0:12:22.91.0:12:24.14.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Yes. I heard it  ♫{\i0}
+Dialogue: 0.0:12:24.21.0:12:25.77.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Oh!  ♫{\i0}
+Dialogue: 0.0:12:25.84.0:12:29.04.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Just about to. about to. about to lose my mind. oh  ♫{\i0}
+Dialogue: 0.0:12:34.08.0:12:35.82.1.85:1 BS..0.0.0..Thank you so much.
+Dialogue: 0.0:12:35.88.0:12:37.79.1.85:1 BS..0.0.0..We gonna get ready to take a little break.
+Dialogue: 0.0:12:37.85.0:12:39.29.1.85:1 BS..0.0.0..So. I want to introduce you all
+Dialogue: 0.0:12:39.36.0:12:41.29.1.85:1 BS..0.0.0..to some handsome young fellas.
+Dialogue: 0.0:12:41.36.0:12:43.79.1.85:1 BS..0.0.0..Now. ladies. don't let them break your hearts.
+Dialogue: 0.0:12:43.86.0:12:45.06.1.85:1 BS..0.0.0..Ladies and gentlemen.
+Dialogue: 0.0:12:45.13.0:12:47.73.1.85:1 BS..0.0.0..let's give it up for the Jackson 5!
+Dialogue: 0.0:12:51.74.0:12:53.37.1.85:1 BS..0.0.0..- Hi. boys.  - Hi.
+Dialogue: 0.0:12:55.24.0:12:56.34.1.85:1 BS..0.0.0..He's adorable.
+Dialogue: 0.0:12:56.41.0:12:58.64.1.85:1 BS..0.0.0..Come on. Come on. come on.
+Dialogue: 0.0:13:11.25.0:13:15.32.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Ooh-ooh. ooh-ooh  ♫{\i0}
+Dialogue: 0.0:13:16.56.0:13:18.56.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Never can say goodbye  ♫{\i0}
+Dialogue: 0.0:13:18.63.0:13:19.93.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Never can say goodbye. girl  ♫{\i0}
+Dialogue: 0.0:13:20.00.0:13:21.73.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  No. no. no. I  ♫{\i0}
+Dialogue: 0.0:13:21.80.0:13:24.27.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Never can say goodbye  ♫{\i0}
+Dialogue: 0.0:13:24.33.0:13:26.54.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Never can say goodbye. girl  ♫{\i0}
+Dialogue: 0.0:13:26.60.0:13:29.44.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Even though the pain and heartache  ♫{\i0}
+Dialogue: 0.0:13:29.51.0:13:32.17.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Seems to follow me wherever I go  ♫{\i0}
+Dialogue: 0.0:13:32.24.0:13:35.41.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Though I try and try to hide my feelings  ♫{\i0}
+Dialogue: 0.0:13:35.48.0:13:37.41.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  They always seem to show  ♫{\i0}
+Dialogue: 0.0:13:37.48.0:13:40.95.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  When you try to say you're leaving me  ♫{\i0}
+Dialogue: 0.0:13:41.02.0:13:43.55.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  And I always have to say no  ♫{\i0}
+Dialogue: 0.0:13:43.62.0:13:46.19.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  Tell me why  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Tell me why...  ♫{\i0}
+Dialogue: 0.0:13:46.79.0:13:48.02.1.85:1 BS..0.0.0..You like my boys?
+Dialogue: 0.0:13:49.12.0:13:50.43.1.85:1 BS..0.0.0..Are you their manager?
+Dialogue: 0.0:13:52.16.0:13:54.23.1.85:1 BS..0.0.0..Joseph Jackson.
+Dialogue: 0.0:13:54.30.0:13:56.93.1.85:1 BS..0.0.0..Suzanne de Passe from Motown.
+Dialogue: 0.0:13:58.27.0:14:01.04.1.85:1 BS..0.0.0..Motown?
+Dialogue: 0.0:14:01.10.0:14:03.11.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Every time I think I've had enough  ♫{\i0}
+Dialogue: 0.0:14:03.17.0:14:06.38.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  And start heading for the door  ♫{\i0}
+Dialogue: 0.0:14:06.44.0:14:08.55.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  There's a very strange vibration...  ♫{\i0}
+Dialogue: 0.0:14:08.61.0:14:10.71.1.85:1 BS..0.0.0..That's God-given talent right there.
+Dialogue: 0.0:14:12.48.0:14:13.55.1.85:1 BS..0.0.0..Perfect pitch.
+Dialogue: 0.0:14:14.45.0:14:15.69.1.85:1 BS..0.0.0..Perfect pitch?
+Dialogue: 0.0:14:17.15.0:14:19.12.1.85:1 BS..0.0.0..We ain't there yet.
+Dialogue: 0.0:14:19.19.0:14:20.46.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Tell me why  ♫{\i0}
+Dialogue: 0.0:14:20.52.0:14:22.26.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  Is it so  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Is it so...  ♫{\i0}
+Dialogue: 0.0:14:22.32.0:14:25.06.1.85:1 BS..0.0.0..The things he could do with that voice.
+Dialogue: 0.0:14:25.13.0:14:27.00.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I never can say goodbye. girl  ♫{\i0}
+Dialogue: 0.0:14:27.06.0:14:28.83.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I never can say goodbye. girl  ♫{\i0}
+Dialogue: 0.0:14:28.90.0:14:30.47.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  No. no. no  ♫{\i0}
+Dialogue: 0.0:14:30.53.0:14:32.97.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  No. no  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Never can say goodbye  ♫{\i0}
+Dialogue: 0.0:14:35.24.0:14:36.67.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  No. no. no...  ♫{\i0}
+Dialogue: 0.0:14:36.74.0:14:39.41.1.85:1 BS..0.0.0..I'll be in touch. Mr. Jackson.
+Dialogue: 0.0:14:39.48.0:14:42.28.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I never can say goodbye  ♫{\i0}
+Dialogue: 0.0:14:42.34.0:14:45.11.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I never can say goodbye. girl  ♫{\i0}
+Dialogue: 0.0:14:45.18.0:14:48.35.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I never can say goodbye  ♫{\i0}
+Dialogue: 0.0:14:58.43.0:15:00.50.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  The best things in life are free  ♫{\i0}
+Dialogue: 0.0:15:00.56.0:15:03.47.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  But you can give them to the birds and bees  ♫{\i0}
+Dialogue: 0.0:15:03.53.0:15:05.77.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I need money  ♫{\i0}
+Dialogue: 0.0:15:05.84.0:15:08.87.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  That's what I want  ♫{\i0}
+Dialogue: 0.0:15:08.94.0:15:10.31.1.85:1 BS..0.0.0..- Boys. look alive.  - Hi. Mr. Gordy.
+Dialogue: 0.0:15:10.37.0:15:11.84.1.85:1 BS..0.0.0..- Mr. Gordy's here.  - Suzanne.
+Dialogue: 0.0:15:11.91.0:15:13.04.1.85:1 BS..0.0.0..Boys. good to see you again.
+Dialogue: 0.0:15:13.11.0:15:14.54.1.85:1 BS..0.0.0..Y'all been learning the song we gave you?
+Dialogue: 0.0:15:14.61.0:15:15.85.1.85:1 BS..0.0.0..Practicing night and day.
+Dialogue: 0.0:15:15.91.0:15:17.15.1.85:1 BS..0.0.0..We'll start with Michael.
+Dialogue: 0.0:15:19.58.0:15:21.18.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Let me tell you now  ♫{\i0}
+Dialogue: 0.0:15:25.42.0:15:27.49.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  When I had you to myself  ♫{\i0}
+Dialogue: 0.0:15:27.56.0:15:29.46.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I didn't want you around  ♫{\i0}
+Dialogue: 0.0:15:31.09.0:15:32.36.1.85:1 BS..0.0.0..Michael. um.
+Dialogue: 0.0:15:33.10.0:15:34.40.1.85:1 BS..0.0.0..you're moving too much.
+Dialogue: 0.0:15:34.46.0:15:36.47.1.85:1 BS..0.0.0..{\c&H38d832&\i1}All right. here we go.{\i0}
+Dialogue: 0.0:15:56.95.0:15:59.72.1.85:1 BS..0.0.0..Uh. Michael. you're doing it again.
+Dialogue: 0.0:15:59.79.0:16:01.36.1.85:1 BS..0.0.0..Take a step closer to the microphone.
+Dialogue: 0.0:16:01.42.0:16:04.26.1.85:1 BS..0.0.0..{\c&H38d832&\i1}That's it. And I'm gonna need you to keep your feet still.{\i0}
+Dialogue: 0.0:16:04.33.0:16:05.83.1.85:1 BS..0.0.0..{\c&H38d832&\i1}You understand me?{\i0}
+Dialogue: 0.0:16:05.90.0:16:07.53.1.85:1 BS..0.0.0..Give me the same lead up.
+Dialogue: 0.0:16:10.30.0:16:11.60.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Here we go.{\i0}
+Dialogue: 0.0:16:24.91.0:16:27.18.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Let me tell you now  ♫{\i0}
+Dialogue: 0.0:16:31.32.0:16:36.12.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  When I had you to myself I didn't want you around  ♫{\i0}
+Dialogue: 0.0:16:36.19.0:16:37.89.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Those pretty faces always made you  ♫{\i0}
+Dialogue: 0.0:16:37.96.0:16:39.16.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Stand out in a crowd  ♫{\i0}
+Dialogue: 0.0:16:39.23.0:16:40.90.1.85:1 BS..0.0.0..- Let me talk to him.  - No. he's just getting it.
+Dialogue: 0.0:16:40.96.0:16:42.06.1.85:1 BS..0.0.0..I just need five minutes.
+Dialogue: 0.0:16:42.13.0:16:43.57.1.85:1 BS..0.0.0..Say. Joseph. why don't you worry
+Dialogue: 0.0:16:43.63.0:16:45.33.1.85:1 BS..0.0.0..about keeping the boys on schedule. huh?
+Dialogue: 0.0:16:46.13.0:16:47.60.1.85:1 BS..0.0.0..We got this over here.
+Dialogue: 0.0:16:50.84.0:16:55.65.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Oh. baby. give me one more chance  ♫{\i0}
+Dialogue: 0.0:16:55.71.0:17:00.55.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Won't you please let me back in your heart?  ♫{\i0}
+Dialogue: 0.0:17:00.62.0:17:02.22.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Oh. darling I was blind...  ♫{\i0}
+Dialogue: 0.0:17:02.28.0:17:05.22.1.85:1 BS..0.0.0..What did I tell you?
+Dialogue: 0.0:17:05.29.0:17:09.79.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  But now. since I see you in his arms  ♫{\i0}
+Dialogue: 0.0:17:09.86.0:17:14.53.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  When I  ♫{\i0}
+Dialogue: 0.0:17:15.80.0:17:19.74.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Had you  ♫{\i0}
+Dialogue: 0.0:17:19.80.0:17:26.41.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I treated you bad  ♫{\i0}
+Dialogue: 0.0:17:26.48.0:17:32.02.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  And wrong. my dear. and. girl. since  ♫{\i0}
+Dialogue: 0.0:17:32.08.0:17:37.09.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Since you went away  ♫{\i0}
+Dialogue: 0.0:17:37.15.0:17:41.82.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't you know I sit around  ♫{\i0}
+Dialogue: 0.0:17:41.89.0:17:46.16.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  With my head hanging down  ♫{\i0}
+Dialogue: 0.0:17:46.23.0:17:52.27.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  And I wonder who's loving you  ♫{\i0}
+Dialogue: 0.0:17:53.17.0:17:57.51.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I. I. I. I...  ♫{\i0}
+Dialogue: 0.0:17:58.94.0:18:00.51.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Let me tell you something. son.{\i0}
+Dialogue: 0.0:18:01.88.0:18:04.45.1.85:1 BS..0.0.0..I've been doing this a long time.
+Dialogue: 0.0:18:04.51.0:18:07.45.1.85:1 BS..0.0.0..I've never heard a voice quite like yours.
+Dialogue: 0.0:18:07.52.0:18:10.05.1.85:1 BS..0.0.0..You sang that song better than Smokey himself.
+Dialogue: 0.0:18:10.95.0:18:12.12.1.85:1 BS..0.0.0..Really?
+Dialogue: 0.0:18:13.62.0:18:14.62.1.85:1 BS..0.0.0..You're special.
+Dialogue: 0.0:18:16.03.0:18:17.43.1.85:1 BS..0.0.0..You have something to say.
+Dialogue: 0.0:18:18.43.0:18:20.86.1.85:1 BS..0.0.0..That's rare. Michael.
+Dialogue: 0.0:18:20.93.0:18:22.90.1.85:1 BS..0.0.0..Yeah. this is the fader. Come on. try it.
+Dialogue: 0.0:18:22.97.0:18:25.84.1.85:1 BS..0.0.0..Move it up. This fader goes up and down
+Dialogue: 0.0:18:25.90.0:18:27.14.1.85:1 BS..0.0.0..- and it sets the levels...  - Wow.
+Dialogue: 0.0:18:27.20.0:18:28.54.1.85:1 BS..0.0.0..to the volume.
+Dialogue: 0.0:18:28.61.0:18:31.07.1.85:1 BS..0.0.0..It can make your voice sound... ...louder...
+Dialogue: 0.0:18:31.14.0:18:32.41.1.85:1 BS..0.0.0.....or softer.
+Dialogue: 0.0:18:32.47.0:18:33.84.1.85:1 BS..0.0.0..- All right?  - Yeah.
+Dialogue: 0.0:18:33.91.0:18:36.24.1.85:1 BS..0.0.0..And these knobs up here. that's for your EQ.
+Dialogue: 0.0:18:36.31.0:18:37.41.1.85:1 BS..0.0.0..What's EQ?
+Dialogue: 0.0:18:37.48.0:18:39.28.1.85:1 BS..0.0.0..Equalization.
+Dialogue: 0.0:18:39.35.0:18:40.65.1.85:1 BS..0.0.0..You see. when we record.
+Dialogue: 0.0:18:40.72.0:18:42.15.1.85:1 BS..0.0.0..we split things up in track. right?
+Dialogue: 0.0:18:42.22.0:18:44.15.1.85:1 BS..0.0.0..Excuse me. uh... Time to go. Michael.
+Dialogue: 0.0:18:44.22.0:18:45.66.1.85:1 BS..0.0.0..Mr. Gordy's a very busy man.
+Dialogue: 0.0:18:45.72.0:18:47.52.1.85:1 BS..0.0.0..I'm sure you've taken up enough of his time.
+Dialogue: 0.0:18:50.83.0:18:52.10.1.85:1 BS..0.0.0..Go ahead on. Michael.
+Dialogue: 0.0:18:52.16.0:18:54.40.1.85:1 BS..0.0.0..I can show you this stuff some other time. right?
+Dialogue: 0.0:18:54.46.0:18:57.10.1.85:1 BS..0.0.0..- Okay. Mr. Gordy. Thank you.  - All right. Mm-hmm.
+Dialogue: 0.0:18:57.17.0:19:00.14.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I Want You Back  ♫{\i0}
+Dialogue: 0.0:19:07.01.0:19:08.24.1.85:1 BS..0.0.0..Hey. Michael.
+Dialogue: 0.0:19:08.31.0:19:10.08.1.85:1 BS..0.0.0..You can ask me anything...
+Dialogue: 0.0:19:10.75.0:19:12.25.1.85:1 BS..0.0.0..anytime you want.
+Dialogue: 0.0:19:24.26.0:19:26.10.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  A. B. C  ♫{\i0}
+Dialogue: 0.0:19:26.16.0:19:28.30.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  Easy as one. two. three  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  One. two. three  ♫{\i0}
+Dialogue: 0.0:19:28.36.0:19:30.60.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  Ah. simple as Do-Re-Mi  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Do-Re-Mi  ♫{\i0}
+Dialogue: 0.0:19:30.67.0:19:32.94.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  A. B. C. one. two. three  ♫{\i0}
+Dialogue: 0.0:19:33.00.0:19:34.77.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  Baby. you and me. girl  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  You and me  ♫{\i0}
+Dialogue: 0.0:19:34.84.0:19:36.54.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  A. B. C  ♫{\i0}
+Dialogue: 0.0:19:36.61.0:19:38.44.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  Easy as one. two. three  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  One. two. three  ♫{\i0}
+Dialogue: 0.0:19:38.51.0:19:40.64.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  Ah. simple as Do-Re-Mi  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Do-Re-Mi  ♫{\i0}
+Dialogue: 0.0:19:40.71.0:19:42.95.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  A. B. C. one. two. three  ♫{\i0}
+Dialogue: 0.0:19:43.01.0:19:44.41.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  Baby. you and me. girl  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  You and me  ♫{\i0}
+Dialogue: 0.0:19:44.48.0:19:46.28.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Come on and love me just a little bit...  ♫{\i0}
+Dialogue: 0.0:19:46.35.0:19:48.38.1.85:1 BS..0.0.0..All right. so. how old are you?
+Dialogue: 0.0:19:48.45.0:19:49.45.1.85:1 BS..0.0.0..Ten.
+Dialogue: 0.0:19:49.52.0:19:51.75.1.85:1 BS..0.0.0..No. you're not ten. You're eight.
+Dialogue: 0.0:19:51.82.0:19:53.09.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Come on. come on. come on  ♫{\i0}
+Dialogue: 0.0:19:53.16.0:19:54.29.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Let me show you what it's all about  ♫{\i0}
+Dialogue: 0.0:19:54.36.0:19:56.32.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Reading. writing. arithmetic  ♫{\i0}
+Dialogue: 0.0:19:56.39.0:19:58.66.1.85:1 BS..0.0.0..In this business. you can make up just about anything.
+Dialogue: 0.0:19:58.73.0:19:59.96.1.85:1 BS..0.0.0..especially your age.
+Dialogue: 0.0:20:00.03.0:20:01.80.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Your education ain't complete  ♫{\i0}
+Dialogue: 0.0:20:01.86.0:20:04.30.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  Teachers gonna show you  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Show you. show you  ♫{\i0}
+Dialogue: 0.0:20:04.37.0:20:05.77.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  How to get an "A"  ♫{\i0}
+Dialogue: 0.0:20:08.00.0:20:09.44.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You add the two  ♫{\i0}
+Dialogue: 0.0:20:09.51.0:20:11.57.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Listen to me. baby. that's all you gotta do  ♫{\i0}
+Dialogue: 0.0:20:11.64.0:20:13.81.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  Oh. A. B. C  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  A. B. C  ♫{\i0}
+Dialogue: 0.0:20:13.88.0:20:16.31.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  It's easy as one. two. three  ♫{\i0}
+Dialogue: 0.0:20:16.38.0:20:18.51.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  Ah. simple as Do-Re-Mi  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Do-Re-Mi  ♫{\i0}
+Dialogue: 0.0:20:18.58.0:20:20.98.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  A. B. C. one. two. three  ♫{\i0}
+Dialogue: 0.0:20:21.05.0:20:22.95.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  Baby. you and me. girl  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  You and me  ♫{\i0}
+Dialogue: 0.0:20:25.25.0:20:27.26.1.85:1 BS..0.0.0..Michael! How old are you?
+Dialogue: 0.0:20:27.32.0:20:29.26.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  Sing a simple melody  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Do-Re-Mi  ♫{\i0}
+Dialogue: 0.0:20:29.32.0:20:31.43.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  A. B. C. that's how easy...  ♫{\i0}
+Dialogue: 0.0:20:31.49.0:20:33.16.1.85:1 BS..0.0.0..I'm. uh. I'm eight. sir.
+Dialogue: 0.0:20:39.37.0:20:41.34.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Sit down. girl  ♫{\i0}
+Dialogue: 0.0:20:41.40.0:20:44.11.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I think I love ya  ♫{\i0}
+Dialogue: 0.0:20:44.17.0:20:48.44.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  No. get up. girl. show me what you can do  ♫{\i0}
+Dialogue: 0.0:20:48.51.0:20:50.18.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Shake it. shake it. baby  ♫{\i0}
+Dialogue: 0.0:20:50.25.0:20:53.02.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Come on now. shake it. shake it. baby  ♫{\i0}
+Dialogue: 0.0:20:57.69.0:21:00.19.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Ooh-ooh. A. B. C. baby  ♫{\i0}
+Dialogue: 0.0:21:00.26.0:21:02.79.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Nah nah. Do-Re-Mi. baby  ♫{\i0}
+Dialogue: 0.0:21:02.86.0:21:06.29.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Ow! That's how easy love can be  ♫{\i0}
+Dialogue: 0.0:21:11.43.0:21:14.24.1.85:1 BS..0.0.0..I have been reading about the Serengeti.
+Dialogue: 0.0:21:14.30.0:21:18.98.1.85:1 BS..0.0.0..Learning about all different types of lions. tigers.
+Dialogue: 0.0:21:19.04.0:21:22.18.1.85:1 BS..0.0.0..monkeys. giraffes.
+Dialogue: 0.0:21:22.25.0:21:25.72.1.85:1 BS..0.0.0..One day. you and I will have more friends to play with.
+Dialogue: 0.0:21:25.78.0:21:27.88.1.85:1 BS..0.0.0..Wouldn't that be fun?
+Dialogue: 0.0:21:27.95.0:21:30.09.1.85:1 BS..0.0.0..Look at this picture. You like it?
+Dialogue: 0.0:21:32.96.0:21:34.96.1.85:1 BS..0.0.0..Come on. Michael. Joseph wants you.
+Dialogue: 0.0:21:37.13.0:21:39.93.1.85:1 BS..0.0.0..And make sure you put your rat in the cage this time.
+Dialogue: 0.0:21:40.00.0:21:41.63.1.85:1 BS..0.0.0..It's disgusting.
+Dialogue: 0.0:21:43.73.0:21:44.90.1.85:1 BS..0.0.0..Come on now.
+Dialogue: 0.0:21:47.64.0:21:48.94.1.85:1 BS..0.0.0..Meet Bill Bray.
+Dialogue: 0.0:21:49.01.0:21:51.14.1.85:1 BS..0.0.0..He's your new head of security. all right?
+Dialogue: 0.0:21:51.21.0:21:52.64.1.85:1 BS..0.0.0..Now. he's gonna be around a lot.
+Dialogue: 0.0:21:53.51.0:21:54.94.1.85:1 BS..0.0.0..Make sure you mind him.
+Dialogue: 0.0:21:56.51.0:21:58.51.1.85:1 BS..0.0.0..Nice to meet you. Mr. Bray.
+Dialogue: 0.0:21:58.58.0:22:00.58.1.85:1 BS..0.0.0..It's very nice to meet you. too. young man.
+Dialogue: 0.0:22:00.65.0:22:01.82.1.85:1 BS..0.0.0..You can call me Bill. okay?
+Dialogue: 0.0:22:02.65.0:22:03.75.1.85:1 BS..0.0.0..Okay. Bill.
+Dialogue: 0.0:22:04.59.0:22:05.66.1.85:1 BS..0.0.0..All right.
+Dialogue: 0.0:22:08.29.0:22:10.36.1.85:1 BS..0.0.0..Guard him with your life.
+Dialogue: 0.0:22:11.79.0:22:15.03.1.85:1 BS..0.0.0..Michael! You're missing the best part.
+Dialogue: 0.0:22:39.62.0:22:41.12.1.85:1 BS..0.0.0..And llamas have three stomachs.
+Dialogue: 0.0:22:41.19.0:22:42.66.1.85:1 BS..0.0.0..so they can digest their food
+Dialogue: 0.0:22:42.73.0:22:44.56.1.85:1 BS..0.0.0..because all they eat is vegetables.
+Dialogue: 0.0:22:44.63.0:22:46.93.1.85:1 BS..0.0.0..And they're really smart. very intelligent creatures.
+Dialogue: 0.0:22:47.00.0:22:50.00.1.85:1 BS..0.0.0..And best of all. they never ever bite.
+Dialogue: 0.0:22:50.07.0:22:51.77.1.85:1 BS..0.0.0..That's what you said about the rats.
+Dialogue: 0.0:22:51.83.0:22:53.77.1.85:1 BS..0.0.0..No. really. Llamas never bite.
+Dialogue: 0.0:22:53.84.0:22:56.27.1.85:1 BS..0.0.0..They only spit when they're agitated.
+Dialogue: 0.0:22:56.34.0:22:57.61.1.85:1 BS..0.0.0..So. you want me to bring some
+Dialogue: 0.0:22:57.67.0:23:00.18.1.85:1 BS..0.0.0..spitting. agitated animal into my house?
+Dialogue: 0.0:23:00.24.0:23:02.28.1.85:1 BS..0.0.0..He'll live outside. Come on. please.
+Dialogue: 0.0:23:02.35.0:23:03.75.1.85:1 BS..0.0.0..- Please say yes.  - No.
+Dialogue: 0.0:23:03.81.0:23:06.78.1.85:1 BS..0.0.0..- I'll look after him.  - Absolutely not. Michael.
+Dialogue: 0.0:23:06.85.0:23:08.78.1.85:1 BS..0.0.0..Mother has enough things to worry about.
+Dialogue: 0.0:23:08.85.0:23:10.32.1.85:1 BS..0.0.0..And you don't need another pet.
+Dialogue: 0.0:23:10.39.0:23:11.92.1.85:1 BS..0.0.0..They're not my pets.
+Dialogue: 0.0:23:11.99.0:23:13.59.1.85:1 BS..0.0.0..They're my friends.
+Dialogue: 0.0:23:17.36.0:23:19.00.1.85:1 BS..0.0.0..Well...
+Dialogue: 0.0:23:22.00.0:23:24.43.1.85:1 BS..0.0.0..I do understand that.
+Dialogue: 0.0:23:24.50.0:23:26.27.1.85:1 BS..0.0.0..But don't you want to meet real friends.
+Dialogue: 0.0:23:26.34.0:23:28.34.1.85:1 BS..0.0.0..like. kids your own age?
+Dialogue: 0.0:23:29.91.0:23:31.74.1.85:1 BS..0.0.0..I would like that for you.
+Dialogue: 0.0:23:33.44.0:23:37.15.1.85:1 BS..0.0.0..I do sometimes. but I'm not like the other kids.
+Dialogue: 0.0:23:37.21.0:23:40.48.1.85:1 BS..0.0.0..They don't treat me like a real person.
+Dialogue: 0.0:23:40.55.0:23:42.45.1.85:1 BS..0.0.0..And all they want to do is stare
+Dialogue: 0.0:23:42.52.0:23:44.12.1.85:1 BS..0.0.0..and take pictures of me.
+Dialogue: 0.0:23:51.76.0:23:54.06.1.85:1 BS..0.0.0..Well. you look at me. Michael.
+Dialogue: 0.0:23:55.93.0:23:59.67.1.85:1 BS..0.0.0..I knew you were different the moment you were born.
+Dialogue: 0.0:23:59.74.0:24:02.17.1.85:1 BS..0.0.0..I knew you were different from your brothers.
+Dialogue: 0.0:24:02.24.0:24:04.47.1.85:1 BS..0.0.0..and that's okay.
+Dialogue: 0.0:24:04.54.0:24:07.14.1.85:1 BS..0.0.0..You have a very special light.
+Dialogue: 0.0:24:08.24.0:24:10.25.1.85:1 BS..0.0.0..And you know what Jehovah says.
+Dialogue: 0.0:24:10.31.0:24:13.18.1.85:1 BS..0.0.0..He says. "Let your light shine
+Dialogue: 0.0:24:13.25.0:24:15.58.1.85:1 BS..0.0.0.."unto the world."
+Dialogue: 0.0:24:15.65.0:24:17.65.1.85:1 BS..0.0.0..Now. you let your light shine.
+Dialogue: 0.0:24:18.99.0:24:20.82.1.85:1 BS..0.0.0..Do you understand me?
+Dialogue: 0.0:24:22.56.0:24:24.09.1.85:1 BS..0.0.0..Yeah.
+Dialogue: 0.0:24:24.16.0:24:27.23.1.85:1 BS..0.0.0..Don't you ever let anyone take that away from you.
+Dialogue: 0.0:24:28.63.0:24:30.47.1.85:1 BS..0.0.0..Not even yourself.
+Dialogue: 0.0:24:33.30.0:24:34.54.1.85:1 BS..0.0.0..Come here.
+Dialogue: 0.0:24:40.58.0:24:42.51.1.85:1 BS..0.0.0..{\c&H38d832&\i1}The next song we're gonna do{\i0}
+Dialogue: 0.0:24:42.58.0:24:45.25.1.85:1 BS..0.0.0..{\c&H38d832&\i1}is one of our favorites. You guys ready?{\i0}
+Dialogue: 0.0:24:52.09.0:24:58.09.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You and I must make a pact  ♫{\i0}
+Dialogue: 0.0:24:58.16.0:25:03.83.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  We must bring salvation back  ♫{\i0}
+Dialogue: 0.0:25:05.13.0:25:09.27.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Where there is love  ♫{\i0}
+Dialogue: 0.0:25:09.34.0:25:12.78.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  I'll be there  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  I'll be there  ♫{\i0}
+Dialogue: 0.0:25:16.38.0:25:20.48.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I'll be there to protect you  ♫{\i0}
+Dialogue: 0.0:25:20.58.0:25:21.82.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Yeah. baby  ♫{\i0}
+Dialogue: 0.0:25:21.88.0:25:24.22.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  With an unselfish love  ♫{\i0}
+Dialogue: 0.0:25:24.29.0:25:26.82.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  That respects you  ♫{\i0}
+Dialogue: 0.0:25:26.89.0:25:27.99.1.85:1 BS..0.0.0..Michael!
+Dialogue: 0.0:25:28.06.0:25:32.50.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Just call my name  ♫{\i0}
+Dialogue: 0.0:25:32.56.0:25:34.90.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  And I'll be there  ♫{\i0}
+Dialogue: 0.0:25:35.97.0:25:39.17.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  And. oh  ♫{\i0}
+Dialogue: 0.0:25:39.24.0:25:43.14.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I'll be there to comfort you  ♫{\i0}
+Dialogue: 0.0:25:43.21.0:25:46.44.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Build my world of dreams around you  ♫{\i0}
+Dialogue: 0.0:25:46.51.0:25:50.68.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I'm so glad that I found you. baby  ♫{\i0}
+Dialogue: 0.0:25:50.75.0:25:54.45.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I'll be there with a love that's strong  ♫{\i0}
+Dialogue: 0.0:25:54.52.0:25:56.52.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I'll be your strength  ♫{\i0}
+Dialogue: 0.0:25:57.52.0:26:02.16.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I'll keep holding on. ooh  ♫{\i0}
+Dialogue: 0.0:26:03.93.0:26:06.70.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Yes. I will  ♫{\i0}
+Dialogue: 0.0:26:06.76.0:26:09.83.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  Yes. I will  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  If you should ever find  ♫{\i0}
+Dialogue: 0.0:26:09.90.0:26:13.30.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Someone new  ♫{\i0}
+Dialogue: 0.0:26:13.37.0:26:15.84.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I know he'd better be  ♫{\i0}
+Dialogue: 0.0:26:15.91.0:26:18.54.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Good to you  ♫{\i0}
+Dialogue: 0.0:26:20.28.0:26:24.01.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  'Cause if he doesn't then  ♫{\i0}
+Dialogue: 0.0:26:24.08.0:26:26.12.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I'll be there  ♫{\i0}
+Dialogue: 0.0:26:26.18.0:26:28.22.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I'll be there  ♫{\i0}
+Dialogue: 0.0:26:28.28.0:26:31.89.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't you know. baby. yeah. yeah  ♫{\i0}
+Dialogue: 0.0:26:31.95.0:26:35.79.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I'll be there  ♫{\i0}
+Dialogue: 0.0:26:37.73.0:26:41.57.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I'll be there...  ♫{\i0}
+Dialogue: 0.0:26:47.74.0:26:51.24.1.85:1 BS..0.0.0..Shedding the past. embracing freedom...
+Dialogue: 0.0:26:52.37.0:26:54.61.1.85:1 BS..0.0.0..That's your album right there. brother.
+Dialogue: 0.0:26:58.28.0:26:59.88.1.85:1 BS..0.0.0..That's what people want.
+Dialogue: 0.0:27:01.25.0:27:02.85.1.85:1 BS..0.0.0..Pure escapism. Quincy.
+Dialogue: 0.0:27:02.92.0:27:04.55.1.85:1 BS..0.0.0..- That's it.  - Yeah.
+Dialogue: 0.0:27:08.72.0:27:10.09.1.85:1 BS..0.0.0..So...
+Dialogue: 0.0:27:10.16.0:27:13.26.1.85:1 BS..0.0.0..how are you gonna tell your father about a solo album?
+Dialogue: 0.0:27:16.30.0:27:18.40.1.85:1 BS..0.0.0..Breaking away from the family...
+Dialogue: 0.0:27:18.47.0:27:20.24.1.85:1 BS..0.0.0..He's not gonna like that.
+Dialogue: 0.0:27:23.31.0:27:25.07.1.85:1 BS..0.0.0..I'm not a kid anymore. Q.
+Dialogue: 0.0:27:27.41.0:27:28.81.1.85:1 BS..0.0.0..I'm gonna look him straight in the eye.
+Dialogue: 0.0:27:31.15.0:27:32.58.1.85:1 BS..0.0.0..Tell him to his face.
+Dialogue: 0.0:27:39.19.0:27:40.52.1.85:1 BS..0.0.0..I need you to
+Dialogue: 0.0:27:40.59.0:27:43.46.1.85:1 BS..0.0.0..tell my father that the solo album
+Dialogue: 0.0:27:43.53.0:27:44.86.1.85:1 BS..0.0.0..was your idea.
+Dialogue: 0.0:27:52.37.0:27:53.47.1.85:1 BS..0.0.0..Okay.
+Dialogue: 0.0:27:54.60.0:27:55.61.1.85:1 BS..0.0.0..Okay.
+Dialogue: 0.0:27:56.87.0:27:58.31.1.85:1 BS..0.0.0..I'm gonna have a drink.
+Dialogue: 0.0:27:58.37.0:28:02.65.1.85:1 BS..0.0.0..Michael. we love you doing a solo album.
+Dialogue: 0.0:28:02.71.0:28:05.38.1.85:1 BS..0.0.0..Honestly. that's why we signed you all to Epic.
+Dialogue: 0.0:28:05.45.0:28:07.98.1.85:1 BS..0.0.0..No disrespect to your family. but...
+Dialogue: 0.0:28:08.05.0:28:09.95.1.85:1 BS..0.0.0.....this is what we were hoping for.
+Dialogue: 0.0:28:10.02.0:28:11.29.1.85:1 BS..0.0.0..Great.
+Dialogue: 0.0:28:11.35.0:28:12.96.1.85:1 BS..0.0.0..I just... I think it'll be better
+Dialogue: 0.0:28:13.02.0:28:14.29.1.85:1 BS..0.0.0..coming from you guys.
+Dialogue: 0.0:28:14.36.0:28:16.63.1.85:1 BS..0.0.0..Anything we can do to help. Michael.
+Dialogue: 0.0:28:16.69.0:28:19.63.1.85:1 BS..0.0.0..So. tell us about the album.
+Dialogue: 0.0:28:19.70.0:28:23.23.1.85:1 BS..0.0.0..Okay. Well. this album. it's really important to me.
+Dialogue: 0.0:28:23.30.0:28:24.57.1.85:1 BS..0.0.0..I just...
+Dialogue: 0.0:28:24.63.0:28:26.50.1.85:1 BS..0.0.0..I need the freedom to write the music and lyrics
+Dialogue: 0.0:28:26.57.0:28:28.77.1.85:1 BS..0.0.0..that pop into my head.
+Dialogue: 0.0:28:28.84.0:28:31.24.1.85:1 BS..0.0.0..You know. to express myself creatively.
+Dialogue: 0.0:28:31.31.0:28:33.71.1.85:1 BS..0.0.0..I want a whole new sound. a whole new me.
+Dialogue: 0.0:28:34.48.0:28:36.41.1.85:1 BS..0.0.0..Quincy Jones producing.
+Dialogue: 0.0:28:36.48.0:28:39.01.1.85:1 BS..0.0.0..Rod Temperton. he's working on songs right now.
+Dialogue: 0.0:28:40.25.0:28:42.85.1.85:1 BS..0.0.0..It sounds terrific. Michael.
+Dialogue: 0.0:28:42.92.0:28:44.79.1.85:1 BS..0.0.0..Consider it done.
+Dialogue: 0.0:28:46.66.0:28:48.76.1.85:1 BS..0.0.0..{\c&H38d832&\i1}So. we feel like Michael doing a solo album{\i0}
+Dialogue: 0.0:28:48.82.0:28:50.66.1.85:1 BS..0.0.0..{\c&H38d832&\i1}would be really great for the label{\i0}
+Dialogue: 0.0:28:50.73.0:28:53.03.1.85:1 BS..0.0.0..and. more importantly.
+Dialogue: 0.0:28:53.10.0:28:54.86.1.85:1 BS..0.0.0..for the Jackson brand.
+Dialogue: 0.0:28:54.93.0:28:58.03.1.85:1 BS..0.0.0..They could help each other with PR and merchandising
+Dialogue: 0.0:28:58.10.0:29:00.24.1.85:1 BS..0.0.0..and feed each other. you know?
+Dialogue: 0.0:29:01.54.0:29:03.44.1.85:1 BS..0.0.0..Feed. Sure.
+Dialogue: 0.0:29:07.71.0:29:11.28.1.85:1 BS..0.0.0..So. I guess you're okay with all this.
+Dialogue: 0.0:29:12.52.0:29:14.05.1.85:1 BS..0.0.0..Of course. gentlemen.
+Dialogue: 0.0:29:14.12.0:29:16.59.1.85:1 BS..0.0.0..Whatever's good for Michael is great for me.
+Dialogue: 0.0:29:19.12.0:29:20.99.1.85:1 BS..0.0.0..And if there's anything you need. don't hesitate to--
+Dialogue: 0.0:29:21.06.0:29:22.69.1.85:1 BS..0.0.0..Only thing is...
+Dialogue: 0.0:29:24.73.0:29:27.16.1.85:1 BS..0.0.0..Michael can do whatever he wants in his spare time.
+Dialogue: 0.0:29:27.23.0:29:29.47.1.85:1 BS..0.0.0..so long as he continues to work with his brothers.
+Dialogue: 0.0:29:32.03.0:29:34.47.1.85:1 BS..0.0.0..He... I'm sorry?
+Dialogue: 0.0:29:34.54.0:29:36.41.1.85:1 BS..0.0.0..I own his ass from 9:00 to 5:00.
+Dialogue: 0.0:29:36.47.0:29:38.41.1.85:1 BS..0.0.0..After that. it's up to him.
+Dialogue: 0.0:29:38.47.0:29:42.51.1.85:1 BS..0.0.0..If he wants to cut an album at midnight. so fine with me.
+Dialogue: 0.0:29:42.58.0:29:45.78.1.85:1 BS..0.0.0..As long as he's at that microphone at 9:00 a.m. sharp.
+Dialogue: 0.0:29:46.98.0:29:49.62.1.85:1 BS..0.0.0..That's what works around here. My house.
+Dialogue: 0.0:29:50.49.0:29:53.02.1.85:1 BS..0.0.0..Understood.
+Dialogue: 0.0:29:53.09.0:29:56.53.1.85:1 BS..0.0.0..I appreciate you gentlemen stopping by. Shows respect.
+Dialogue: 0.0:29:56.59.0:29:58.43.1.85:1 BS..0.0.0..- Our pleasure. Joe.  - Yeah.
+Dialogue: 0.0:30:14.84.0:30:17.85.1.85:1 BS..0.0.0..I'm so excited to start recording with Q tonight.
+Dialogue: 0.0:30:17.91.0:30:19.85.1.85:1 BS..0.0.0..I wish you could come.
+Dialogue: 0.0:30:19.92.0:30:22.55.1.85:1 BS..0.0.0..I'm a little nervous. but more excited.
+Dialogue: 0.0:30:22.62.0:30:24.35.1.85:1 BS..0.0.0..Definitely more excited.
+Dialogue: 0.0:30:24.42.0:30:26.42.1.85:1 BS..0.0.0..I just have all these ideas in my head
+Dialogue: 0.0:30:26.49.0:30:28.73.1.85:1 BS..0.0.0..just constantly flowing.
+Dialogue: 0.0:30:28.79.0:30:30.43.1.85:1 BS..0.0.0..I just got to get them out.
+Dialogue: 0.0:30:31.19.0:30:32.29.1.85:1 BS..0.0.0..You know?
+Dialogue: 0.0:30:36.50.0:30:38.54.1.85:1 BS..0.0.0..You get some sleep. Louie.
+Dialogue: 0.0:30:38.60.0:30:41.20.1.85:1 BS..0.0.0..I'll be back in the morning. I'll tell you all about it.
+Dialogue: 0.0:30:50.28.0:30:52.48.1.85:1 BS..0.0.0..Are you ready. Joker? Yeah.
+Dialogue: 0.0:30:52.55.0:30:53.78.1.85:1 BS..0.0.0..Let's hit it.
+Dialogue: 0.0:30:55.85.0:30:58.39.1.85:1 BS..0.0.0..- You want me to drive?  - Not this time. Joker.
+Dialogue: 0.0:30:58.45.0:31:00.46.1.85:1 BS..0.0.0..- You sure about that?  - Next time.
+Dialogue: 0.0:31:00.52.0:31:03.16.1.85:1 BS..0.0.0..I'd rather let Louie drive.
+Dialogue: 0.0:31:06.86.0:31:08.73.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Well. take your time.{\i0}
+Dialogue: 0.0:31:08.80.0:31:10.03.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Settle in.{\i0}
+Dialogue: 0.0:31:10.73.0:31:11.97.1.85:1 BS..0.0.0..No rush.
+Dialogue: 0.0:31:12.80.0:31:14.50.1.85:1 BS..0.0.0..And. uh...
+Dialogue: 0.0:31:14.57.0:31:17.07.1.85:1 BS..0.0.0..keep these feet still.
+Dialogue: 0.0:31:21.24.0:31:23.01.1.85:1 BS..0.0.0..Oh. Q. Can you do me a favor
+Dialogue: 0.0:31:23.08.0:31:25.11.1.85:1 BS..0.0.0..and lower the lights for me. please?
+Dialogue: 0.0:31:25.18.0:31:26.58.1.85:1 BS..0.0.0..Just a little bit.
+Dialogue: 0.0:31:26.65.0:31:27.65.1.85:1 BS..0.0.0..Thanks.
+Dialogue: 0.0:31:33.76.0:31:35.29.1.85:1 BS..0.0.0..You are confident.
+Dialogue: 0.0:31:35.36.0:31:36.99.1.85:1 BS..0.0.0..You're strong.
+Dialogue: 0.0:31:38.03.0:31:39.43.1.85:1 BS..0.0.0..You are beautiful.
+Dialogue: 0.0:31:40.50.0:31:42.70.1.85:1 BS..0.0.0..You are the greatest of all time.
+Dialogue: 0.0:31:52.11.0:31:53.84.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Michael. you ready?{\i0}
+Dialogue: 0.0:32:05.45.0:32:09.19.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I'm melting  ♫{\i0}
+Dialogue: 0.0:32:09.26.0:32:11.86.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Like hot candle wax  ♫{\i0}
+Dialogue: 0.0:32:13.43.0:32:17.23.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Sensation  ♫{\i0}
+Dialogue: 0.0:32:17.30.0:32:19.70.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Lovely where we're at  ♫{\i0}
+Dialogue: 0.0:32:19.77.0:32:20.77.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Ooh!  ♫{\i0}
+Dialogue: 0.0:32:21.44.0:32:25.21.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  So let love  ♫{\i0}
+Dialogue: 0.0:32:25.27.0:32:27.61.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Take us through the hours  ♫{\i0}
+Dialogue: 0.0:32:28.98.0:32:33.08.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I won't be complaining. ah. uh  ♫{\i0}
+Dialogue: 0.0:32:33.15.0:32:37.59.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  'Cause this is love power. ooh  ♫{\i0}
+Dialogue: 0.0:32:37.65.0:32:40.16.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Keep on with the force. don't stop  ♫{\i0}
+Dialogue: 0.0:32:40.22.0:32:41.66.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't stop 'til you get enough  ♫{\i0}
+Dialogue: 0.0:32:41.72.0:32:44.06.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Keep on with the force. don't stop  ♫{\i0}
+Dialogue: 0.0:32:44.13.0:32:45.43.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't stop 'til you get enough  ♫{\i0}
+Dialogue: 0.0:32:45.49.0:32:48.16.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Keep on with the force. don't stop  ♫{\i0}
+Dialogue: 0.0:32:48.23.0:32:49.50.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't stop 'til you get enough  ♫{\i0}
+Dialogue: 0.0:32:49.57.0:32:51.87.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Keep on with the force. don't stop  ♫{\i0}
+Dialogue: 0.0:32:51.94.0:32:53.50.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't stop 'til you get enough  ♫{\i0}
+Dialogue: 0.0:33:08.32.0:33:09.45.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Ooh!  ♫{\i0}
+Dialogue: 0.0:33:17.03.0:33:18.70.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Oh. baby  ♫{\i0}
+Dialogue: 0.0:33:26.17.0:33:31.64.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Heartbreak enemy despise  ♫{\i0}
+Dialogue: 0.0:33:33.21.0:33:34.64.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Eternal  ♫{\i0}
+Dialogue: 0.0:33:37.48.0:33:41.85.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Love shines in my eyes. ooh  ♫{\i0}
+Dialogue: 0.0:33:41.92.0:33:45.49.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  So let love  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Oh. let love  ♫{\i0}
+Dialogue: 0.0:33:45.56.0:33:49.22.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Take us through the hours  ♫{\i0}
+Dialogue: 0.0:33:49.29.0:33:51.76.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I won't be complaining  ♫{\i0}
+Dialogue: 0.0:33:51.83.0:33:53.30.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  No. no  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Hoo  ♫{\i0}
+Dialogue: 0.0:33:53.36.0:33:57.80.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  'Cause your love is all right. all right. ooh  ♫{\i0}
+Dialogue: 0.0:33:57.87.0:34:00.50.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Keep on with the force. don't stop  ♫{\i0}
+Dialogue: 0.0:34:00.57.0:34:02.01.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't stop 'til you get enough  ♫{\i0}
+Dialogue: 0.0:34:02.07.0:34:04.27.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Keep on with the force. don't stop  ♫{\i0}
+Dialogue: 0.0:34:04.34.0:34:05.98.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't stop 'til you get enough  ♫{\i0}
+Dialogue: 0.0:34:06.04.0:34:08.31.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Keep on with the force. don't stop  ♫{\i0}
+Dialogue: 0.0:34:08.38.0:34:09.81.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't stop 'til you get enough  ♫{\i0}
+Dialogue: 0.0:34:09.88.0:34:12.31.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Keep on with the force. don't stop  ♫{\i0}
+Dialogue: 0.0:34:12.38.0:34:14.45.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't stop 'til you get enough  ♫{\i0}
+Dialogue: 0.0:34:14.52.0:34:16.82.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Lovely  ♫{\i0}
+Dialogue: 0.0:34:18.05.0:34:21.29.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Is the feeling now  ♫{\i0}
+Dialogue: 0.0:34:21.36.0:34:25.63.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I won't be complaining. ooh. ooh  ♫{\i0}
+Dialogue: 0.0:34:25.70.0:34:29.97.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  The force is love power  ♫{\i0}
+Dialogue: 0.0:34:30.03.0:34:32.47.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Keep on with the force. don't stop  ♫{\i0}
+Dialogue: 0.0:34:32.54.0:34:33.97.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't stop 'til you get enough  ♫{\i0}
+Dialogue: 0.0:34:34.04.0:34:36.04.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Keep on with the force. don't stop  ♫{\i0}
+Dialogue: 0.0:34:36.10.0:34:37.34.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't stop. darling  ♫{\i0}
+Dialogue: 0.0:34:37.41.0:34:38.68.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't stop 'til you get enough  ♫{\i0}
+Dialogue: 0.0:34:38.74.0:34:40.21.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Keep on with the force. don't stop  ♫{\i0}
+Dialogue: 0.0:34:40.28.0:34:42.08.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Go crazy. baby  ♫{\i0}
+Dialogue: 0.0:34:43.28.0:34:44.48.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Keep on  ♫{\i0}
+Dialogue: 0.0:34:44.55.0:34:46.28.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't stop 'til you get enough  ♫{\i0}
+Dialogue: 0.0:34:46.35.0:34:48.55.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Keep on. darling  ♫{\i0}
+Dialogue: 0.0:34:48.62.0:34:51.12.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Ah. ah. now  ♫{\i0}
+Dialogue: 0.0:34:57.89.0:34:59.46.1.85:1 BS..0.0.0..Mmm. Thank you.
+Dialogue: 0.0:35:08.37.0:35:10.21.1.85:1 BS..0.0.0..It's almost here. Hurry up!
+Dialogue: 0.0:35:12.54.0:35:14.54.1.85:1 BS..0.0.0..- What does he have going on?  - What is it this time?
+Dialogue: 0.0:35:14.61.0:35:15.98.1.85:1 BS..0.0.0..It's a surprise.
+Dialogue: 0.0:35:16.05.0:35:18.98.1.85:1 BS..0.0.0..Well. is it a car? Did you get a damn Ferrari. Michael?
+Dialogue: 0.0:35:19.05.0:35:20.22.1.85:1 BS..0.0.0..Mike. I'm going back to bed.
+Dialogue: 0.0:35:20.28.0:35:23.15.1.85:1 BS..0.0.0..Marlon. Tito. don't wake your father up.
+Dialogue: 0.0:35:25.22.0:35:26.29.1.85:1 BS..0.0.0..La Toya.
+Dialogue: 0.0:35:27.46.0:35:28.76.1.85:1 BS..0.0.0..- Do you know about this?  - Mm-mm.
+Dialogue: 0.0:35:28.83.0:35:29.86.1.85:1 BS..0.0.0..What's going on?
+Dialogue: 0.0:35:29.93.0:35:31.43.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Rockin' robin  ♫{\i0}
+Dialogue: 0.0:35:32.33.0:35:33.43.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Blow. rockin' robin...  ♫{\i0}
+Dialogue: 0.0:35:34.93.0:35:37.90.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  'Cause we're really gonna rock tonight  ♫{\i0}
+Dialogue: 0.0:35:37.97.0:35:39.00.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Every little swallow. every chickadee...  ♫{\i0}
+Dialogue: 0.0:35:39.07.0:35:40.34.1.85:1 BS..0.0.0..What you got going on. Mike?
+Dialogue: 0.0:35:41.80.0:35:43.57.1.85:1 BS..0.0.0..You'll see.
+Dialogue: 0.0:35:43.64.0:35:46.11.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  The wise old owl. the big black crow  ♫{\i0}
+Dialogue: 0.0:35:46.17.0:35:49.05.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Flappin' their wings singin' "Go. bird. go"  ♫{\i0}
+Dialogue: 0.0:36:07.53.0:36:09.93.1.85:1 BS..0.0.0..Oh. wow.
+Dialogue: 0.0:36:12.97.0:36:14.27.1.85:1 BS..0.0.0..It's okay.
+Dialogue: 0.0:36:21.11.0:36:22.38.1.85:1 BS..0.0.0..Go on.
+Dialogue: 0.0:36:22.44.0:36:24.11.1.85:1 BS..0.0.0..Aw. it's okay.
+Dialogue: 0.0:36:35.02.0:36:37.66.1.85:1 BS..0.0.0..I want you to meet my new friend. Bubbles.
+Dialogue: 0.0:36:37.73.0:36:39.60.1.85:1 BS..0.0.0..Oh.
+Dialogue: 0.0:36:39.66.0:36:42.23.1.85:1 BS..0.0.0..I rescued him from this awful place
+Dialogue: 0.0:36:42.30.0:36:44.97.1.85:1 BS..0.0.0..where they do testing on animals.
+Dialogue: 0.0:36:45.03.0:36:47.27.1.85:1 BS..0.0.0..Welcome to the family.
+Dialogue: 0.0:36:47.34.0:36:50.31.1.85:1 BS..0.0.0..Michael. you do know that chimps are wild animals
+Dialogue: 0.0:36:50.37.0:36:53.74.1.85:1 BS..0.0.0..that don't belong in a house in Encino.
+Dialogue: 0.0:36:53.81.0:36:56.24.1.85:1 BS..0.0.0..Mother. I'll take good care of him.
+Dialogue: 0.0:36:56.31.0:36:57.38.1.85:1 BS..0.0.0..I will. I promise.
+Dialogue: 0.0:36:58.21.0:36:59.31.1.85:1 BS..0.0.0..Does he bite?
+Dialogue: 0.0:36:59.38.0:37:01.42.1.85:1 BS..0.0.0..Oh. no. No. he's sweet.
+Dialogue: 0.0:37:02.52.0:37:04.62.1.85:1 BS..0.0.0..But. you know. chimps...
+Dialogue: 0.0:37:04.69.0:37:05.79.1.85:1 BS..0.0.0..are sensitive. though. you know.
+Dialogue: 0.0:37:05.86.0:37:08.83.1.85:1 BS..0.0.0..to certain sounds and people.
+Dialogue: 0.0:37:08.89.0:37:11.03.1.85:1 BS..0.0.0..You know. they either hide or they attack.
+Dialogue: 0.0:37:21.77.0:37:23.61.1.85:1 BS..0.0.0..It's okay. Bubbles. It's okay.
+Dialogue: 0.0:37:24.27.0:37:25.71.1.85:1 BS..0.0.0..You're safe now.
+Dialogue: 0.0:37:28.61.0:37:30.28.1.85:1 BS..0.0.0..You want to make some music. huh?
+Dialogue: 0.0:37:38.86.0:37:40.06.1.85:1 BS..0.0.0..That's me.
+Dialogue: 0.0:37:40.12.0:37:41.96.1.85:1 BS..0.0.0..I just released my new album.
+Dialogue: 0.0:37:42.69.0:37:43.89.1.85:1 BS..0.0.0..Those are my demos.
+Dialogue: 0.0:37:43.96.0:37:45.70.1.85:1 BS..0.0.0..Don't mess that up.
+Dialogue: 0.0:37:47.30.0:37:50.20.1.85:1 BS..0.0.0..Here. I want to show you this. Look.
+Dialogue: 0.0:37:52.94.0:37:54.04.1.85:1 BS..0.0.0..Look.
+Dialogue: 0.0:37:54.90.0:37:56.11.1.85:1 BS..0.0.0..You see?
+Dialogue: 0.0:37:59.14.0:38:00.81.1.85:1 BS..0.0.0..This is Neverland.
+Dialogue: 0.0:38:00.88.0:38:02.55.1.85:1 BS..0.0.0..I come here all the time.
+Dialogue: 0.0:38:05.25.0:38:07.08.1.85:1 BS..0.0.0..It's filled with magic.
+Dialogue: 0.0:38:07.15.0:38:08.68.1.85:1 BS..0.0.0..adventure.
+Dialogue: 0.0:38:08.75.0:38:09.89.1.85:1 BS..0.0.0..pirates.
+Dialogue: 0.0:38:09.95.0:38:11.55.1.85:1 BS..0.0.0..Here. I'll help you.
+Dialogue: 0.0:38:13.06.0:38:15.06.1.85:1 BS..0.0.0..Look. the Lost Boys.
+Dialogue: 0.0:38:20.73.0:38:23.23.1.85:1 BS..0.0.0..This is my favorite page. It's Peter Pan.
+Dialogue: 0.0:38:24.17.0:38:25.47.1.85:1 BS..0.0.0..And his shadow.
+Dialogue: 0.0:38:42.48.0:38:43.82.1.85:1 BS..0.0.0..So. Michael.
+Dialogue: 0.0:38:45.35.0:38:47.22.1.85:1 BS..0.0.0..Surgeries. Have you had any surgeries
+Dialogue: 0.0:38:47.29.0:38:49.29.1.85:1 BS..0.0.0..- in the past five years?  - Mm-mm.
+Dialogue: 0.0:38:51.63.0:38:54.06.1.85:1 BS..0.0.0..What about medications? Are you taking any?
+Dialogue: 0.0:38:54.13.0:38:55.90.1.85:1 BS..0.0.0..No. ma'am.
+Dialogue: 0.0:38:55.97.0:38:57.87.1.85:1 BS..0.0.0..Just Benoquin cream for my vitiligo.
+Dialogue: 0.0:38:59.20.0:39:00.90.1.85:1 BS..0.0.0..Oh. I'm sorry.
+Dialogue: 0.0:39:00.97.0:39:03.11.1.85:1 BS..0.0.0..You know. it's much more common than people think.
+Dialogue: 0.0:39:04.37.0:39:05.81.1.85:1 BS..0.0.0..Has it spread?
+Dialogue: 0.0:39:06.68.0:39:08.08.1.85:1 BS..0.0.0..- A little bit.  - Yeah?
+Dialogue: 0.0:39:08.14.0:39:10.11.1.85:1 BS..0.0.0..Yeah. But. you know. the cream.
+Dialogue: 0.0:39:10.18.0:39:12.05.1.85:1 BS..0.0.0..it helps even out my skin tone.
+Dialogue: 0.0:39:12.11.0:39:13.58.1.85:1 BS..0.0.0..Oh. I see. yeah.
+Dialogue: 0.0:39:13.65.0:39:15.92.1.85:1 BS..0.0.0..Michael. good to see you again.
+Dialogue: 0.0:39:15.99.0:39:17.55.1.85:1 BS..0.0.0..Almost ready for you. Any. uh...
+Dialogue: 0.0:39:17.62.0:39:18.75.1.85:1 BS..0.0.0..Any last questions?
+Dialogue: 0.0:39:18.82.0:39:20.32.1.85:1 BS..0.0.0..Oh. no. I'm ready.
+Dialogue: 0.0:39:20.39.0:39:22.83.1.85:1 BS..0.0.0..All right. I need to make a few marks around the nose.
+Dialogue: 0.0:39:26.63.0:39:29.27.1.85:1 BS..0.0.0..You know. you're a pretty good-looking kid.
+Dialogue: 0.0:39:29.33.0:39:30.43.1.85:1 BS..0.0.0..You sure you want to do this?
+Dialogue: 0.0:39:30.50.0:39:33.60.1.85:1 BS..0.0.0..I'm not a kid anymore.
+Dialogue: 0.0:39:33.67.0:39:35.81.1.85:1 BS..0.0.0..And my nose is... It's too big.
+Dialogue: 0.0:39:35.87.0:39:39.01.1.85:1 BS..0.0.0..Hmm. I'm not sure that's true.
+Dialogue: 0.0:39:39.08.0:39:41.51.1.85:1 BS..0.0.0..Well. you see. my face isn't symmetrical
+Dialogue: 0.0:39:41.58.0:39:43.25.1.85:1 BS..0.0.0..for the photographs and all.
+Dialogue: 0.0:39:44.71.0:39:46.78.1.85:1 BS..0.0.0..I have to be perfect.
+Dialogue: 0.0:39:46.85.0:39:48.58.1.85:1 BS..0.0.0..Well. you're the boss.
+Dialogue: 0.0:39:49.15.0:39:50.15.1.85:1 BS..0.0.0..Just relax.
+Dialogue: 0.0:40:25.96.0:40:27.06.1.85:1 BS..0.0.0..Hey!
+Dialogue: 0.0:40:28.22.0:40:29.86.1.85:1 BS..0.0.0..What's going on. son?
+Dialogue: 0.0:40:31.73.0:40:32.80.1.85:1 BS..0.0.0..Son?
+Dialogue: 0.0:40:34.96.0:40:36.07.1.85:1 BS..0.0.0..Michael?
+Dialogue: 0.0:40:40.87.0:40:41.97.1.85:1 BS..0.0.0..Boy.
+Dialogue: 0.0:40:42.04.0:40:43.24.1.85:1 BS..0.0.0..come here.
+Dialogue: 0.0:40:52.58.0:40:54.38.1.85:1 BS..0.0.0..What?
+Dialogue: 0.0:40:54.45.0:40:55.65.1.85:1 BS..0.0.0..What in the world?
+Dialogue: 0.0:40:58.62.0:40:59.82.1.85:1 BS..0.0.0..Let me see something.
+Dialogue: 0.0:40:59.89.0:41:00.89.1.85:1 BS..0.0.0..Hey.
+Dialogue: 0.0:41:08.83.0:41:10.07.1.85:1 BS..0.0.0..Oh. my God.
+Dialogue: 0.0:41:12.47.0:41:13.57.1.85:1 BS..0.0.0..Michael.
+Dialogue: 0.0:41:14.80.0:41:16.61.1.85:1 BS..0.0.0..It's for my sinuses.
+Dialogue: 0.0:41:48.34.0:41:54.31.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I guess I'll always be a dreamer  ♫{\i0}
+Dialogue: 0.0:41:56.05.0:42:02.28.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Dreaming my life away. dreaming my life away  ♫{\i0}
+Dialogue: 0.0:42:04.35.0:42:12.33.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  And nothing comes but sleep. to a dreamer  ♫{\i0}
+Dialogue: 0.0:42:12.40.0:42:19.17.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  And when you wake up the dream is gone away  ♫{\i0}
+Dialogue: 0.0:42:22.00.0:42:24.01.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Maybe I should get a nose job.{\i0}
+Dialogue: 0.0:42:26.71.0:42:28.71.1.85:1 BS..0.0.0..- You think so?  - Yes. I do.
+Dialogue: 0.0:42:29.98.0:42:31.78.1.85:1 BS..0.0.0..Muscles says. "Everybody does it."
+Dialogue: 0.0:42:31.85.0:42:33.78.1.85:1 BS..0.0.0..- Mm-hmm.  - All the big stars.
+Dialogue: 0.0:42:33.85.0:42:36.02.1.85:1 BS..0.0.0..All our favorite ones.
+Dialogue: 0.0:42:36.09.0:42:37.35.1.85:1 BS..0.0.0..Well. it looks great.
+Dialogue: 0.0:42:38.59.0:42:40.36.1.85:1 BS..0.0.0..- Do you really think so?  - I do.
+Dialogue: 0.0:42:41.99.0:42:44.33.1.85:1 BS..0.0.0..- See. I wanted a new look.  - Oh. yeah?
+Dialogue: 0.0:42:44.39.0:42:46.96.1.85:1 BS..0.0.0..- Reinvent myself.  - Mm-hmm.
+Dialogue: 0.0:42:47.03.0:42:49.60.1.85:1 BS..0.0.0..You know. now that I'm doing my own thing and...
+Dialogue: 0.0:42:51.20.0:42:53.10.1.85:1 BS..0.0.0..I want the world to see me differently.
+Dialogue: 0.0:42:54.34.0:42:56.67.1.85:1 BS..0.0.0..Not a boy in a kid band anymore.
+Dialogue: 0.0:42:57.51.0:42:58.94.1.85:1 BS..0.0.0..Yeah.
+Dialogue: 0.0:42:59.01.0:43:01.61.1.85:1 BS..0.0.0..Look around. Michael. your fans love you.
+Dialogue: 0.0:43:03.38.0:43:04.95.1.85:1 BS..0.0.0..They're not my fans.
+Dialogue: 0.0:43:05.01.0:43:06.75.1.85:1 BS..0.0.0..They're part of my family.
+Dialogue: 0.0:43:08.38.0:43:11.29.1.85:1 BS..0.0.0..It's just time for me to start
+Dialogue: 0.0:43:11.35.0:43:12.99.1.85:1 BS..0.0.0..taking control of my own destiny.
+Dialogue: 0.0:43:13.06.0:43:14.12.1.85:1 BS..0.0.0..Mm-hmm.
+Dialogue: 0.0:43:15.09.0:43:16.19.1.85:1 BS..0.0.0..You know?
+Dialogue: 0.0:43:16.26.0:43:17.86.1.85:1 BS..0.0.0..I want to be who I want to be.
+Dialogue: 0.0:43:19.23.0:43:21.86.1.85:1 BS..0.0.0..Mikey. Joseph just called a meeting.
+Dialogue: 0.0:43:23.70.0:43:25.20.1.85:1 BS..0.0.0..Careful. he's hungry.
+Dialogue: 0.0:43:25.27.0:43:26.70.1.85:1 BS..0.0.0..How hungry?
+Dialogue: 0.0:43:26.77.0:43:29.11.1.85:1 BS..0.0.0..He's pretty hungry.
+Dialogue: 0.0:43:30.27.0:43:31.81.1.85:1 BS..0.0.0..For. like. a mouse?
+Dialogue: 0.0:43:31.87.0:43:33.71.1.85:1 BS..0.0.0..Maybe.
+Dialogue: 0.0:43:36.25.0:43:38.08.1.85:1 BS..0.0.0..{\c&H38d832&\i1}There he is! Man of the hour!{\i0}
+Dialogue: 0.0:43:38.15.0:43:39.78.1.85:1 BS..0.0.0..Man of the hour.
+Dialogue: 0.0:43:41.78.0:43:43.42.1.85:1 BS..0.0.0..Come on. sit down. Sit down.
+Dialogue: 0.0:43:47.96.0:43:50.19.1.85:1 BS..0.0.0..Ah. Now...
+Dialogue: 0.0:43:50.26.0:43:52.26.1.85:1 BS..0.0.0..you all real happy about Michael's success.
+Dialogue: 0.0:43:53.00.0:43:54.70.1.85:1 BS..0.0.0..That's lovely to see.
+Dialogue: 0.0:43:54.76.0:43:56.10.1.85:1 BS..0.0.0..It's heartwarming.
+Dialogue: 0.0:43:56.17.0:43:57.90.1.85:1 BS..0.0.0..I mean. he can go all the way.
+Dialogue: 0.0:43:57.97.0:43:58.97.1.85:1 BS..0.0.0..Right to the top.
+Dialogue: 0.0:43:59.74.0:44:00.94.1.85:1 BS..0.0.0..All by himself.
+Dialogue: 0.0:44:02.00.0:44:03.34.1.85:1 BS..0.0.0..Wouldn't that be something?
+Dialogue: 0.0:44:03.41.0:44:05.91.1.85:1 BS..0.0.0..Oh. man. Let me tell you.
+Dialogue: 0.0:44:05.98.0:44:07.34.1.85:1 BS..0.0.0..The Jackson family...
+Dialogue: 0.0:44:08.34.0:44:10.08.1.85:1 BS..0.0.0..is the brand.
+Dialogue: 0.0:44:10.15.0:44:12.18.1.85:1 BS..0.0.0..That's our Coca-Cola.
+Dialogue: 0.0:44:12.25.0:44:14.18.1.85:1 BS..0.0.0..Yeah. So we need to
+Dialogue: 0.0:44:14.25.0:44:17.19.1.85:1 BS..0.0.0..open up the store and start selling!
+Dialogue: 0.0:44:17.25.0:44:18.85.1.85:1 BS..0.0.0..Or you know what's gonna happen?
+Dialogue: 0.0:44:18.92.0:44:21.59.1.85:1 BS..0.0.0..Folks are gonna go out there and start buying some Pepsi!
+Dialogue: 0.0:44:22.96.0:44:25.46.1.85:1 BS..0.0.0..We got to get in there again and vend the wares.
+Dialogue: 0.0:44:26.50.0:44:28.63.1.85:1 BS..0.0.0..So. I've decided...
+Dialogue: 0.0:44:31.64.0:44:33.90.1.85:1 BS..0.0.0..I'm arranging a tour
+Dialogue: 0.0:44:33.97.0:44:35.27.1.85:1 BS..0.0.0..and a live album.
+Dialogue: 0.0:44:37.87.0:44:40.14.1.85:1 BS..0.0.0..Wait. how are we gonna tour without Jermaine?
+Dialogue: 0.0:44:40.21.0:44:41.38.1.85:1 BS..0.0.0..Your brother made his choice
+Dialogue: 0.0:44:41.44.0:44:43.48.1.85:1 BS..0.0.0..when we left Motown. and he stayed.
+Dialogue: 0.0:44:43.55.0:44:44.91.1.85:1 BS..0.0.0..Let him live with it.
+Dialogue: 0.0:44:44.98.0:44:49.05.1.85:1 BS..0.0.0..The point is. we need to capitalize on Michael's album.
+Dialogue: 0.0:44:49.12.0:44:51.05.1.85:1 BS..0.0.0..So. we gonna do a bunch of songs--
+Dialogue: 0.0:44:51.12.0:44:52.19.1.85:1 BS..0.0.0..Joseph. I...
+Dialogue: 0.0:44:54.16.0:44:56.59.1.85:1 BS..0.0.0..I... I need to think.
+Dialogue: 0.0:44:56.66.0:44:57.76.1.85:1 BS..0.0.0..No. sir.
+Dialogue: 0.0:44:57.83.0:44:59.56.1.85:1 BS..0.0.0..I told you what to think.
+Dialogue: 0.0:45:01.33.0:45:02.57.1.85:1 BS..0.0.0..You got a problem with that. Michael?
+Dialogue: 0.0:45:02.63.0:45:04.33.1.85:1 BS..0.0.0..We need to have a reasonable conversation
+Dialogue: 0.0:45:04.40.0:45:06.07.1.85:1 BS..0.0.0..about this. Joseph.
+Dialogue: 0.0:45:06.14.0:45:07.40.1.85:1 BS..0.0.0..You think now because you're a big
+Dialogue: 0.0:45:07.47.0:45:08.77.1.85:1 BS..0.0.0..superstar and you have this big hit album
+Dialogue: 0.0:45:08.84.0:45:10.84.1.85:1 BS..0.0.0..that you're better than everybody in this house?
+Dialogue: 0.0:45:10.91.0:45:12.11.1.85:1 BS..0.0.0..Is that it?
+Dialogue: 0.0:45:12.17.0:45:13.58.1.85:1 BS..0.0.0..You better than your brothers?
+Dialogue: 0.0:45:14.41.0:45:15.65.1.85:1 BS..0.0.0..Your mother and me?
+Dialogue: 0.0:45:16.35.0:45:17.41.1.85:1 BS..0.0.0..Is that it?
+Dialogue: 0.0:45:18.05.0:45:19.55.1.85:1 BS..0.0.0..You need to think.
+Dialogue: 0.0:45:21.69.0:45:22.95.1.85:1 BS..0.0.0..You think you're better than me. boy?
+Dialogue: 0.0:45:23.02.0:45:24.59.1.85:1 BS..0.0.0..Joseph. that is enough.
+Dialogue: 0.0:45:24.65.0:45:27.29.1.85:1 BS..0.0.0..Is that it. Michael? Huh?
+Dialogue: 0.0:45:27.36.0:45:28.66.1.85:1 BS..0.0.0..- Is that it?  - That is enough!
+Dialogue: 0.0:45:30.26.0:45:31.53.1.85:1 BS..0.0.0..Katherine. sit down.
+Dialogue: 0.0:45:37.77.0:45:38.87.1.85:1 BS..0.0.0..Let's go.
+Dialogue: 0.0:45:43.41.0:45:46.64.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Yeah. yeah. yeah. yeah  ♫{\i0}
+Dialogue: 0.0:45:48.21.0:45:51.51.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  'Cause if you don't stop  ♫{\i0}
+Dialogue: 0.0:45:51.58.0:45:52.68.1.85:1 BS..0.0.0..Where do you want to go?
+Dialogue: 0.0:45:53.35.0:45:54.95.1.85:1 BS..0.0.0..Just drive.
+Dialogue: 0.0:45:56.09.0:45:58.52.1.85:1 BS..0.0.0..Okay.
+Dialogue: 0.0:46:05.09.0:46:11.10.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I can't take it much longer  ♫{\i0}
+Dialogue: 0.0:46:12.77.0:46:15.10.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  My heart's getting weak  ♫{\i0}
+Dialogue: 0.0:46:16.64.0:46:20.31.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  It's not getting any stronger  ♫{\i0}
+Dialogue: 0.0:46:20.38.0:46:22.98.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You keep me so upset  ♫{\i0}
+Dialogue: 0.0:46:24.28.0:46:27.15.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  My head's in a whirl  ♫{\i0}
+Dialogue: 0.0:46:28.42.0:46:31.52.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  But if you want to be. yeah  ♫{\i0}
+Dialogue: 0.0:46:31.59.0:46:34.89.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Be my girl  ♫{\i0}
+Dialogue: 0.0:46:34.96.0:46:36.49.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You better stop  ♫{\i0}
+Dialogue: 0.0:46:36.56.0:46:41.56.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You're. oh  ♫{\i0}
+Dialogue: 0.0:46:43.00.0:46:44.87.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Doggin' around  ♫{\i0}
+Dialogue: 0.0:46:44.93.0:46:48.74.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You know what I'm talkin' bout. yeah. yeah. yeah  ♫{\i0}
+Dialogue: 0.0:46:50.74.0:46:52.37.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  If you don't stop  ♫{\i0}
+Dialogue: 0.0:46:52.44.0:46:56.55.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I'm gonna...  ♫{\i0}
+Dialogue: 0.0:46:56.61.0:46:59.08.1.85:1 BS..0.0.0..{\c&H38d832&\i1}I'm so sick of it. Bill. All of it.{\i0}
+Dialogue: 0.0:46:59.15.0:47:01.08.1.85:1 BS..0.0.0..Joseph's exploiting me.
+Dialogue: 0.0:47:02.48.0:47:03.69.1.85:1 BS..0.0.0..And I had a whole plan.
+Dialogue: 0.0:47:04.69.0:47:07.02.1.85:1 BS..0.0.0..Track list. the visuals.
+Dialogue: 0.0:47:08.42.0:47:10.49.1.85:1 BS..0.0.0..I wanted to do a solo tour.
+Dialogue: 0.0:47:13.33.0:47:15.90.1.85:1 BS..0.0.0..He's just... He's just ruining it all.
+Dialogue: 0.0:47:15.96.0:47:17.03.1.85:1 BS..0.0.0..He's just...
+Dialogue: 0.0:47:22.37.0:47:23.64.1.85:1 BS..0.0.0..I need my freedom.
+Dialogue: 0.0:47:25.01.0:47:26.11.1.85:1 BS..0.0.0..Well...
+Dialogue: 0.0:47:26.84.0:47:28.21.1.85:1 BS..0.0.0..You can move out.
+Dialogue: 0.0:47:30.18.0:47:31.61.1.85:1 BS..0.0.0..I'm not ready for that.
+Dialogue: 0.0:47:36.19.0:47:37.65.1.85:1 BS..0.0.0..It's not that easy.
+Dialogue: 0.0:47:37.72.0:47:40.82.1.85:1 BS..0.0.0..Life's not easy. son. I'll tell you.
+Dialogue: 0.0:47:47.16.0:47:48.80.1.85:1 BS..0.0.0..I love my family.
+Dialogue: 0.0:47:50.73.0:47:51.90.1.85:1 BS..0.0.0..I do.
+Dialogue: 0.0:47:55.34.0:47:59.14.1.85:1 BS..0.0.0..I just want to do my own thing.
+Dialogue: 0.0:47:59.21.0:48:01.48.1.85:1 BS..0.0.0..Joseph's never gonna change.
+Dialogue: 0.0:48:01.54.0:48:05.68.1.85:1 BS..0.0.0..Only thing he cares about is the Jackson family. Huh?
+Dialogue: 0.0:48:05.75.0:48:07.52.1.85:1 BS..0.0.0..And no matter what you do.
+Dialogue: 0.0:48:07.58.0:48:10.75.1.85:1 BS..0.0.0..he's only ever gonna see it as a family success.
+Dialogue: 0.0:48:11.52.0:48:13.22.1.85:1 BS..0.0.0..Get your own team.
+Dialogue: 0.0:48:14.02.0:48:15.42.1.85:1 BS..0.0.0..Get you a good lawyer.
+Dialogue: 0.0:48:16.06.0:48:17.66.1.85:1 BS..0.0.0..Think about it.
+Dialogue: 0.0:48:25.33.0:48:28.20.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Ben. the two of us  ♫{\i0}
+Dialogue: 0.0:48:29.87.0:48:32.71.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Need look no more  ♫{\i0}
+Dialogue: 0.0:48:32.78.0:48:36.28.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  We both found what we were  ♫{\i0}
+Dialogue: 0.0:48:36.35.0:48:39.85.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Looking for  ♫{\i0}
+Dialogue: 0.0:48:39.92.0:48:45.15.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  With a friend to call my own  ♫{\i0}
+Dialogue: 0.0:48:45.22.0:48:48.53.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I'll never be alone  ♫{\i0}
+Dialogue: 0.0:48:48.59.0:48:52.56.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  And you. my friend. will see  ♫{\i0}
+Dialogue: 0.0:48:52.63.0:48:55.80.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You've got a friend in me  ♫{\i0}
+Dialogue: 0.0:49:02.04.0:49:05.81.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Ben. you're always running  ♫{\i0}
+Dialogue: 0.0:49:05.88.0:49:09.41.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Here and there  ♫{\i0}
+Dialogue: 0.0:49:09.48.0:49:13.35.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You feel you're not wanted  ♫{\i0}
+Dialogue: 0.0:49:13.42.0:49:16.82.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Anywhere  ♫{\i0}
+Dialogue: 0.0:49:16.89.0:49:21.89.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  If you ever look behind  ♫{\i0}
+Dialogue: 0.0:49:21.96.0:49:25.66.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  And don't like what you find  ♫{\i0}
+Dialogue: 0.0:49:25.73.0:49:29.40.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  There's something you should know  ♫{\i0}
+Dialogue: 0.0:49:29.47.0:49:33.84.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You've got a place to go  ♫{\i0}
+Dialogue: 0.0:49:39.44.0:49:44.18.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Like Ben  ♫{\i0}
+Dialogue: 0.0:49:59.03.0:50:01.70.1.85:1 BS..0.0.0..So. we appreciate you coming in
+Dialogue: 0.0:50:01.76.0:50:05.20.1.85:1 BS..0.0.0..and we applaud your decision to seek independent counsel.
+Dialogue: 0.0:50:05.27.0:50:07.60.1.85:1 BS..0.0.0..We can assure you the most comprehensive attention
+Dialogue: 0.0:50:07.67.0:50:10.04.1.85:1 BS..0.0.0..to your entire media portfolio.
+Dialogue: 0.0:50:10.11.0:50:11.61.1.85:1 BS..0.0.0..At Hardee Barovick. we believe
+Dialogue: 0.0:50:11.67.0:50:13.11.1.85:1 BS..0.0.0..in treating our clients as family
+Dialogue: 0.0:50:13.18.0:50:15.85.1.85:1 BS..0.0.0..- and we want you to--  - I already have a family.
+Dialogue: 0.0:50:16.85.0:50:18.18.1.85:1 BS..0.0.0..Too much of one.
+Dialogue: 0.0:50:20.48.0:50:23.19.1.85:1 BS..0.0.0..I mean. the whole point's going solo. right?
+Dialogue: 0.0:50:23.25.0:50:24.99.1.85:1 BS..0.0.0..So. that means you're probably gonna
+Dialogue: 0.0:50:25.05.0:50:27.16.1.85:1 BS..0.0.0..break a few hearts over there in Encino.
+Dialogue: 0.0:50:31.06.0:50:32.90.1.85:1 BS..0.0.0..Unless I'm missing something.
+Dialogue: 0.0:50:40.40.0:50:41.57.1.85:1 BS..0.0.0..Do I know you?
+Dialogue: 0.0:50:41.64.0:50:43.14.1.85:1 BS..0.0.0..No. I don't think so.
+Dialogue: 0.0:50:43.81.0:50:45.51.1.85:1 BS..0.0.0..You sure?
+Dialogue: 0.0:50:45.58.0:50:47.98.1.85:1 BS..0.0.0..Yeah. I think I'd remember.
+Dialogue: 0.0:50:48.88.0:50:50.05.1.85:1 BS..0.0.0..Who are you?
+Dialogue: 0.0:50:50.81.0:50:52.08.1.85:1 BS..0.0.0..John Branca.
+Dialogue: 0.0:50:53.58.0:50:54.98.1.85:1 BS..0.0.0..You handle The Beach Boys.
+Dialogue: 0.0:50:55.05.0:50:56.32.1.85:1 BS..0.0.0..Yeah. I do.
+Dialogue: 0.0:50:56.39.0:50:58.35.1.85:1 BS..0.0.0..Neil Diamond. Bob Dylan. couple other guys.
+Dialogue: 0.0:50:58.42.0:50:59.66.1.85:1 BS..0.0.0..and now I work here.
+Dialogue: 0.0:51:01.02.0:51:02.29.1.85:1 BS..0.0.0..I like The Beach Boys.
+Dialogue: 0.0:51:02.36.0:51:03.43.1.85:1 BS..0.0.0..Me too.
+Dialogue: 0.0:51:03.49.0:51:05.03.1.85:1 BS..0.0.0..Brian Wilson's a genius.
+Dialogue: 0.0:51:05.09.0:51:07.10.1.85:1 BS..0.0.0..Some of the best harmonies in rock and roll.
+Dialogue: 0.0:51:11.40.0:51:13.44.1.85:1 BS..0.0.0..Do you know what I'm after. Mr. Branca?
+Dialogue: 0.0:51:13.50.0:51:15.51.1.85:1 BS..0.0.0..Sure.
+Dialogue: 0.0:51:15.57.0:51:17.34.1.85:1 BS..0.0.0..You want to be the biggest star in the world.
+Dialogue: 0.0:51:21.61.0:51:23.28.1.85:1 BS..0.0.0..Can you help make that happen?
+Dialogue: 0.0:51:24.41.0:51:25.52.1.85:1 BS..0.0.0..Yes.
+Dialogue: 0.0:51:26.92.0:51:28.22.1.85:1 BS..0.0.0..How?
+Dialogue: 0.0:51:29.42.0:51:32.69.1.85:1 BS..0.0.0..Because I believe there's no one like you.
+Dialogue: 0.0:51:34.42.0:51:35.86.1.85:1 BS..0.0.0..And there never will be.
+Dialogue: 0.0:51:44.53.0:51:45.70.1.85:1 BS..0.0.0..Mr. Jackson...
+Dialogue: 0.0:51:47.64.0:51:50.27.1.85:1 BS..0.0.0..- Mr. Jackson. I apologize--  - He's my guy.
+Dialogue: 0.0:51:55.11.0:51:56.98.1.85:1 BS..0.0.0..Can you leave us alone for a second?
+Dialogue: 0.0:51:57.98.0:51:59.21.1.85:1 BS..0.0.0..Please.
+Dialogue: 0.0:51:59.75.0:52:00.92.1.85:1 BS..0.0.0..Of course.
+Dialogue: 0.0:52:01.45.0:52:02.79.1.85:1 BS..0.0.0..Yes.
+Dialogue: 0.0:52:15.43.0:52:17.03.1.85:1 BS..0.0.0..Okay. Mr. Branca.
+Dialogue: 0.0:52:17.10.0:52:20.14.1.85:1 BS..0.0.0..Here's your first job.
+Dialogue: 0.0:52:22.27.0:52:23.91.1.85:1 BS..0.0.0..I need you to fire Joseph.
+Dialogue: 0.0:52:26.61.0:52:28.28.1.85:1 BS..0.0.0..Your dad?
+Dialogue: 0.0:52:28.34.0:52:29.78.1.85:1 BS..0.0.0..You want me to fire your dad?
+Dialogue: 0.0:52:31.15.0:52:33.15.1.85:1 BS..0.0.0..And how would you like me to do that?
+Dialogue: 0.0:52:34.12.0:52:35.18.1.85:1 BS..0.0.0..Quickly.
+Dialogue: 0.0:53:03.18.0:53:04.95.1.85:1 BS..0.0.0..- Yes.  - I think it goes...
+Dialogue: 0.0:53:05.01.0:53:06.25.1.85:1 BS..0.0.0..Button it up like this.
+Dialogue: 0.0:53:06.31.0:53:07.32.1.85:1 BS..0.0.0..- Right.  - Yeah.
+Dialogue: 0.0:53:07.38.0:53:09.82.1.85:1 BS..0.0.0..La Toya. get the hell on out of here.
+Dialogue: 0.0:53:11.29.0:53:13.62.1.85:1 BS..0.0.0..Kate. look at this.
+Dialogue: 0.0:53:13.69.0:53:14.79.1.85:1 BS..0.0.0..Will you look at this?
+Dialogue: 0.0:53:14.86.0:53:18.23.1.85:1 BS..0.0.0..The boy fired me with a piece of paper.
+Dialogue: 0.0:53:18.29.0:53:20.13.1.85:1 BS..0.0.0..A piece of paper. Couldn't even be man to man. huh?
+Dialogue: 0.0:53:20.20.0:53:22.30.1.85:1 BS..0.0.0..Look me in the eye and do it.
+Dialogue: 0.0:53:22.36.0:53:24.40.1.85:1 BS..0.0.0..That boy's gonna feel my belt when he get in here!
+Dialogue: 0.0:53:26.14.0:53:27.20.1.85:1 BS..0.0.0..No. he's not.
+Dialogue: 0.0:53:28.17.0:53:29.27.1.85:1 BS..0.0.0..Yes. the hell he is.
+Dialogue: 0.0:53:29.34.0:53:31.01.1.85:1 BS..0.0.0..No. he's not.
+Dialogue: 0.0:53:31.07.0:53:33.11.1.85:1 BS..0.0.0..What are you gonna do. beat him?
+Dialogue: 0.0:53:33.18.0:53:34.58.1.85:1 BS..0.0.0..You're gonna whoop him?
+Dialogue: 0.0:53:35.41.0:53:36.65.1.85:1 BS..0.0.0..He's grown.
+Dialogue: 0.0:53:36.71.0:53:37.98.1.85:1 BS..0.0.0..What'd you say to me?
+Dialogue: 0.0:53:41.15.0:53:43.09.1.85:1 BS..0.0.0..I said you can't do it no more.
+Dialogue: 0.0:53:44.59.0:53:45.99.1.85:1 BS..0.0.0..You can't whoop nobody.
+Dialogue: 0.0:53:47.69.0:53:49.32.1.85:1 BS..0.0.0..You can't beat nobody.
+Dialogue: 0.0:53:51.66.0:53:53.86.1.85:1 BS..0.0.0..And if you don't like it. you can leave.
+Dialogue: 0.0:53:59.33.0:54:00.94.1.85:1 BS..0.0.0..And the next time you see your son.
+Dialogue: 0.0:54:01.00.0:54:02.84.1.85:1 BS..0.0.0..you ought to thank him.
+Dialogue: 0.0:54:02.91.0:54:05.14.1.85:1 BS..0.0.0..Everything we have is because of him
+Dialogue: 0.0:54:05.21.0:54:06.71.1.85:1 BS..0.0.0..and don't you ever forget that.
+Dialogue: 0.0:54:06.78.0:54:08.81.1.85:1 BS..0.0.0..Everybody seems to forget
+Dialogue: 0.0:54:08.88.0:54:10.88.1.85:1 BS..0.0.0..that I'm the one that got us out of Gary.
+Dialogue: 0.0:54:12.78.0:54:15.02.1.85:1 BS..0.0.0..And everything I've done
+Dialogue: 0.0:54:15.85.0:54:18.02.1.85:1 BS..0.0.0..is for this family.
+Dialogue: 0.0:54:18.09.0:54:20.46.1.85:1 BS..0.0.0..You go on ahead and keep thinking that.
+Dialogue: 0.0:54:32.87.0:54:34.97.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Enjoy yourself. enjoy yourself  ♫{\i0}
+Dialogue: 0.0:54:35.04.0:54:37.04.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Enjoy yourself with me  ♫{\i0}
+Dialogue: 0.0:54:37.11.0:54:39.18.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Enjoy yourself. enjoy yourself  ♫{\i0}
+Dialogue: 0.0:54:39.24.0:54:41.38.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Enjoy yourself with me  ♫{\i0}
+Dialogue: 0.0:54:41.44.0:54:43.88.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You better enjoy yourself...  ♫{\i0}
+Dialogue: 0.0:54:51.82.0:54:53.06.1.85:1 BS..0.0.0..{\c&H38d832&\i1}You didn't go down this side.{\i0}
+Dialogue: 0.0:54:53.12.0:54:54.76.1.85:1 BS..0.0.0..- Where? This? Left?  - Left. left. left.
+Dialogue: 0.0:54:54.82.0:54:56.76.1.85:1 BS..0.0.0..Going left. All right.
+Dialogue: 0.0:54:59.46.0:55:00.76.1.85:1 BS..0.0.0..A little choo-choo train.
+Dialogue: 0.0:55:00.83.0:55:02.46.1.85:1 BS..0.0.0..I love it.
+Dialogue: 0.0:55:04.40.0:55:05.47.1.85:1 BS..0.0.0..Hi.
+Dialogue: 0.0:55:07.84.0:55:09.27.1.85:1 BS..0.0.0..So. I'm really excited.
+Dialogue: 0.0:55:09.34.0:55:10.51.1.85:1 BS..0.0.0..This looks really cool.
+Dialogue: 0.0:55:10.57.0:55:11.57.1.85:1 BS..0.0.0..- Look. it's you.  - That's you.
+Dialogue: 0.0:55:11.64.0:55:12.88.1.85:1 BS..0.0.0..I can't wait to start playing it.
+Dialogue: 0.0:55:12.94.0:55:14.04.1.85:1 BS..0.0.0..That's Michael Jackson.
+Dialogue: 0.0:55:14.11.0:55:15.34.1.85:1 BS..0.0.0..- What?  - It's Michael Jackson.
+Dialogue: 0.0:55:15.41.0:55:16.41.1.85:1 BS..0.0.0..What?
+Dialogue: 0.0:55:17.78.0:55:19.28.1.85:1 BS..0.0.0..Please excuse him.
+Dialogue: 0.0:55:19.35.0:55:22.25.1.85:1 BS..0.0.0..Are you actually. really...
+Dialogue: 0.0:55:22.92.0:55:23.95.1.85:1 BS..0.0.0..Yeah. I'm Michael. yeah.
+Dialogue: 0.0:55:24.02.0:55:25.69.1.85:1 BS..0.0.0..- Wow.  - Mom. it's...
+Dialogue: 0.0:55:25.76.0:55:27.09.1.85:1 BS..0.0.0..- I wonder...  - Oh. my God.
+Dialogue: 0.0:55:27.16.0:55:31.36.1.85:1 BS..0.0.0..I'd love an autograph. For my son. I mean.
+Dialogue: 0.0:55:31.43.0:55:33.23.1.85:1 BS..0.0.0..Of course. yeah. Um...
+Dialogue: 0.0:55:33.30.0:55:35.13.1.85:1 BS..0.0.0..He's a huge fan.
+Dialogue: 0.0:55:35.80.0:55:36.90.1.85:1 BS..0.0.0..Here.
+Dialogue: 0.0:55:36.97.0:55:39.07.1.85:1 BS..0.0.0..How about I sign this? What's your name?
+Dialogue: 0.0:55:39.14.0:55:42.31.1.85:1 BS..0.0.0..Uh. you can just make it out to Pauline.
+Dialogue: 0.0:55:42.37.0:55:43.41.1.85:1 BS..0.0.0..Mom?
+Dialogue: 0.0:55:43.47.0:55:45.14.1.85:1 BS..0.0.0..- Pauline.  - Mom?
+Dialogue: 0.0:55:45.21.0:55:47.11.1.85:1 BS..0.0.0..Mom. my name's Max. not Pauline.
+Dialogue: 0.0:55:47.18.0:55:48.58.1.85:1 BS..0.0.0..I'm not Pauline.
+Dialogue: 0.0:55:48.64.0:55:50.28.1.85:1 BS..0.0.0..Is that the new Atari game?
+Dialogue: 0.0:55:51.28.0:55:52.75.1.85:1 BS..0.0.0..- I love that.  - You've played it?
+Dialogue: 0.0:55:52.82.0:55:55.32.1.85:1 BS..0.0.0..Oh. yeah. all the time.
+Dialogue: 0.0:55:55.38.0:55:58.05.1.85:1 BS..0.0.0..Just be sure to keep toggling left when you fire.
+Dialogue: 0.0:55:58.12.0:55:59.26.1.85:1 BS..0.0.0..That's how you power up.
+Dialogue: 0.0:55:59.32.0:56:01.32.1.85:1 BS..0.0.0..Cool. Thank you.
+Dialogue: 0.0:56:01.39.0:56:02.49.1.85:1 BS..0.0.0..Of course.
+Dialogue: 0.0:56:03.33.0:56:04.56.1.85:1 BS..0.0.0..Hi.
+Dialogue: 0.0:56:04.63.0:56:06.93.1.85:1 BS..0.0.0..- Would you like an autograph?  - Yes. please.
+Dialogue: 0.0:56:07.00.0:56:08.93.1.85:1 BS..0.0.0..- What's your name?  - Monica.
+Dialogue: 0.0:56:09.00.0:56:10.90.1.85:1 BS..0.0.0..Monica. That's a pretty name.
+Dialogue: 0.0:56:10.97.0:56:11.97.1.85:1 BS..0.0.0..What do you say. baby?
+Dialogue: 0.0:56:12.03.0:56:13.17.1.85:1 BS..0.0.0..Thank you.
+Dialogue: 0.0:56:13.24.0:56:14.67.1.85:1 BS..0.0.0..We're huge fans. Michael.
+Dialogue: 0.0:56:14.74.0:56:16.34.1.85:1 BS..0.0.0..Thank you so much.
+Dialogue: 0.0:56:19.81.0:56:22.41.1.85:1 BS..0.0.0..- Thanks.  - Hey. everybody. Too cute.
+Dialogue: 0.0:56:34.22.0:56:35.26.1.85:1 BS..0.0.0..- Hey!  - Hey. Mikey!
+Dialogue: 0.0:56:35.32.0:56:36.49.1.85:1 BS..0.0.0..What's up. Mikey?
+Dialogue: 0.0:56:36.56.0:56:38.43.1.85:1 BS..0.0.0..- All right. jokers.  - What's up. Bill?
+Dialogue: 0.0:56:40.10.0:56:41.16.1.85:1 BS..0.0.0..Too short.
+Dialogue: 0.0:56:44.17.0:56:45.23.1.85:1 BS..0.0.0..Guys. look!
+Dialogue: 0.0:56:45.77.0:56:46.84.1.85:1 BS..0.0.0..I got {\c&H38d832&\i1}Twister.{\i0}
+Dialogue: 0.0:56:46.90.0:56:48.70.1.85:1 BS..0.0.0..- {\c&H38d832&\i1}Twister?{\i0}{\c}  - You want to play tonight?
+Dialogue: 0.0:56:48.77.0:56:49.81.1.85:1 BS..0.0.0..- Fucking {\c&H38d832&\i1}Twister?{\i0}{\c}  - Really?
+Dialogue: 0.0:56:49.87.0:56:51.11.1.85:1 BS..0.0.0..What we gonna do with {\c&H38d832&\i1}Twister.{\i0}{\c} man?
+Dialogue: 0.0:56:51.17.0:56:52.98.1.85:1 BS..0.0.0..Come on. It'll be like the old days.
+Dialogue: 0.0:56:53.04.0:56:54.48.1.85:1 BS..0.0.0..Would love to. Mike. but I got to be home
+Dialogue: 0.0:56:54.54.0:56:55.95.1.85:1 BS..0.0.0..with the family. I can't be playing games.
+Dialogue: 0.0:56:56.01.0:56:57.95.1.85:1 BS..0.0.0..And the rest of us are going out tonight.
+Dialogue: 0.0:56:58.01.0:56:59.62.1.85:1 BS..0.0.0..Yeah. Marlon's got a hot date.
+Dialogue: 0.0:56:59.68.0:57:00.78.1.85:1 BS..0.0.0..Yeah.
+Dialogue: 0.0:57:00.85.0:57:02.05.1.85:1 BS..0.0.0..Marlon. what time are you gonna be home?
+Dialogue: 0.0:57:02.12.0:57:03.52.1.85:1 BS..0.0.0..We could play then.
+Dialogue: 0.0:57:03.59.0:57:05.25.1.85:1 BS..0.0.0..Hey. Marlon's gonna be playing his own game of {\c&H38d832&\i1}Twister.{\i0}
+Dialogue: 0.0:57:05.32.0:57:06.69.1.85:1 BS..0.0.0..Shut up. Jackie.
+Dialogue: 0.0:57:06.76.0:57:08.56.1.85:1 BS..0.0.0..I'm always lucky.
+Dialogue: 0.0:57:08.62.0:57:10.39.1.85:1 BS..0.0.0..Yeah. right.
+Dialogue: 0.0:57:10.46.0:57:12.46.1.85:1 BS..0.0.0..- You guys are no fun anymore.  - Come on. Mikey.
+Dialogue: 0.0:57:12.53.0:57:13.73.1.85:1 BS..0.0.0..Don't be like that.
+Dialogue: 0.0:57:17.20.0:57:18.63.1.85:1 BS..0.0.0..Hey. that's cheating.
+Dialogue: 0.0:57:18.70.0:57:21.90.1.85:1 BS..0.0.0..You got red. not green.
+Dialogue: 0.0:57:25.81.0:57:27.14.1.85:1 BS..0.0.0..It's okay.
+Dialogue: 0.0:57:27.21.0:57:28.64.1.85:1 BS..0.0.0..Don't worry about it.
+Dialogue: 0.0:57:28.71.0:57:30.71.1.85:1 BS..0.0.0..It takes a long time to learn
+Dialogue: 0.0:57:30.78.0:57:33.58.1.85:1 BS..0.0.0..and I'm a professional dancer.
+Dialogue: 0.0:57:34.88.0:57:35.95.1.85:1 BS..0.0.0..You want some ice cream?
+Dialogue: 0.0:57:37.25.0:57:38.96.1.85:1 BS..0.0.0..Okay. but then I've got to go to work.
+Dialogue: 0.0:57:39.72.0:57:40.92.1.85:1 BS..0.0.0..Don't break anything.
+Dialogue: 0.0:57:41.62.0:57:43.76.1.85:1 BS..0.0.0..I'll be back.
+Dialogue: 0.0:57:43.83.0:57:46.33.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't blame it on the sunshine  ♫{\i0}
+Dialogue: 0.0:57:46.40.0:57:48.33.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't blame it on the moonlight  ♫{\i0}
+Dialogue: 0.0:57:48.40.0:57:50.57.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't blame it on the good times  ♫{\i0}
+Dialogue: 0.0:57:50.63.0:57:52.54.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Blame it on the boogie  ♫{\i0}
+Dialogue: 0.0:58:08.42.0:58:10.29.1.85:1 BS..0.0.0..I was thinking about framing this.
+Dialogue: 0.0:58:16.63.0:58:17.69.1.85:1 BS..0.0.0..Read it.
+Dialogue: 0.0:58:20.03.0:58:21.43.1.85:1 BS..0.0.0..Go on. Read it.
+Dialogue: 0.0:58:26.97.0:58:28.60.1.85:1 BS..0.0.0..Firing your own father.
+Dialogue: 0.0:58:29.71.0:58:31.37.1.85:1 BS..0.0.0..What kind of son does that?
+Dialogue: 0.0:58:37.35.0:58:39.35.1.85:1 BS..0.0.0..Michael...
+Dialogue: 0.0:58:42.28.0:58:44.29.1.85:1 BS..0.0.0..You got a lot to learn about family.
+Dialogue: 0.0:58:57.63.0:59:00.10.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Stop! Na na na!. you'd better save it  ♫{\i0}
+Dialogue: 0.0:59:00.17.0:59:04.07.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Stop. stop. stop. you'd better save it  ♫{\i0}
+Dialogue: 0.0:59:04.14.0:59:05.54.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Whoo  ♫{\i0}
+Dialogue: 0.0:59:08.41.0:59:10.85.1.85:1 BS..0.0.0..- Hi. Welcome back. Michael.  - Hi.
+Dialogue: 0.0:59:10.91.0:59:12.98.1.85:1 BS..0.0.0..Beautiful name.
+Dialogue: 0.0:59:13.05.0:59:15.42.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  When we played tag in grade school  ♫{\i0}
+Dialogue: 0.0:59:16.39.0:59:17.69.1.85:1 BS..0.0.0..This is for you.
+Dialogue: 0.0:59:19.66.0:59:21.66.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You crossed your heart you'd quit  ♫{\i0}
+Dialogue: 0.0:59:21.72.0:59:23.93.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  When we grew up. you traded  ♫{\i0}
+Dialogue: 0.0:59:23.99.0:59:25.93.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Your promise for my ring  ♫{\i0}
+Dialogue: 0.0:59:26.00.0:59:27.80.1.85:1 BS..0.0.0..Michael over here.
+Dialogue: 0.0:59:27.86.0:59:29.87.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You're doing the same old thing...  ♫{\i0}
+Dialogue: 0.0:59:29.93.0:59:33.04.1.85:1 BS..0.0.0..{\c&H38d832&\i1}You want to say that again. transistor face?{\i0}
+Dialogue: 0.0:59:33.87.0:59:35.51.1.85:1 BS..0.0.0..You watch TV?
+Dialogue: 0.0:59:35.57.0:59:38.21.1.85:1 BS..0.0.0..Yeah. Sometimes.
+Dialogue: 0.0:59:38.87.0:59:40.51.1.85:1 BS..0.0.0..You watch TV?
+Dialogue: 0.0:59:40.58.0:59:42.81.1.85:1 BS..0.0.0..Yeah.
+Dialogue: 0.0:59:42.88.0:59:44.08.1.85:1 BS..0.0.0..Cartoons.
+Dialogue: 0.0:59:44.95.0:59:46.58.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Three Stooges{\i0}{\c} a lot.
+Dialogue: 0.0:59:48.05.0:59:49.29.1.85:1 BS..0.0.0..Charlie Chaplin.
+Dialogue: 0.0:59:50.72.0:59:51.89.1.85:1 BS..0.0.0..You know who he is?
+Dialogue: 0.0:59:52.86.0:59:54.76.1.85:1 BS..0.0.0..- Duh.  - No. you don't.
+Dialogue: 0.0:59:55.59.0:59:56.89.1.85:1 BS..0.0.0..You're such a doo-doo head.
+Dialogue: 0.0:59:58.13.1:00:00.23.1.85:1 BS..0.0.0..He's wonderful. really.
+Dialogue: 0.1:00:00.30.1:00:03.20.1.85:1 BS..0.0.0..He's an actor. he's a movie director...
+Dialogue: 0.1:00:04.07.1:00:05.70.1.85:1 BS..0.0.0..and he writes songs.
+Dialogue: 0.1:00:07.97.1:00:09.81.1.85:1 BS..0.0.0..I have a dog.
+Dialogue: 0.1:00:09.87.1:00:11.71.1.85:1 BS..0.0.0..It's a dachshund.
+Dialogue: 0.1:00:11.77.1:00:14.41.1.85:1 BS..0.0.0..Mm. What's his name?
+Dialogue: 0.1:00:14.48.1:00:15.58.1.85:1 BS..0.0.0..Rudy.
+Dialogue: 0.1:00:16.38.1:00:17.48.1.85:1 BS..0.0.0..He's getting fat.
+Dialogue: 0.1:00:17.55.1:00:19.98.1.85:1 BS..0.0.0..My mom says I feed him too much.
+Dialogue: 0.1:00:20.05.1:00:22.25.1.85:1 BS..0.0.0..I love Rudy.
+Dialogue: 0.1:00:22.32.1:00:24.15.1.85:1 BS..0.0.0..Do you have any pets?
+Dialogue: 0.1:00:25.05.1:00:28.02.1.85:1 BS..0.0.0..Uh... A snake
+Dialogue: 0.1:00:28.09.1:00:29.53.1.85:1 BS..0.0.0..and a giraffe.
+Dialogue: 0.1:00:29.59.1:00:30.83.1.85:1 BS..0.0.0..No way.
+Dialogue: 0.1:00:30.89.1:00:32.09.1.85:1 BS..0.0.0..And a llama.
+Dialogue: 0.1:00:35.16.1:00:37.90.1.85:1 BS..0.0.0..And three parrots. two spiders.
+Dialogue: 0.1:00:37.97.1:00:40.27.1.85:1 BS..0.0.0..and a whole lot of dogs.
+Dialogue: 0.1:00:43.67.1:00:44.74.1.85:1 BS..0.0.0..It's got to be
+Dialogue: 0.1:00:44.81.1:00:46.31.1.85:1 BS..0.0.0..the greatest-selling album of all time.
+Dialogue: 0.1:00:47.28.1:00:49.61.1.85:1 BS..0.0.0..And not just by a Black artist
+Dialogue: 0.1:00:49.68.1:00:52.58.1.85:1 BS..0.0.0..but by any race. any color. okay?
+Dialogue: 0.1:00:52.65.1:00:55.75.1.85:1 BS..0.0.0..Then I want the largest concert tour there ever was.
+Dialogue: 0.1:00:55.82.1:00:57.35.1.85:1 BS..0.0.0..Just stadiums only.
+Dialogue: 0.1:00:57.42.1:00:58.89.1.85:1 BS..0.0.0..Just thousands and thousands of people
+Dialogue: 0.1:00:58.95.1:01:02.42.1.85:1 BS..0.0.0..just rushing into the stadiums and just all over the world.
+Dialogue: 0.1:01:02.49.1:01:05.29.1.85:1 BS..0.0.0..I also want to make short films featuring my music.
+Dialogue: 0.1:01:05.36.1:01:06.46.1.85:1 BS..0.0.0..That's ambitious.
+Dialogue: 0.1:01:06.53.1:01:07.80.1.85:1 BS..0.0.0..I can see it.
+Dialogue: 0.1:01:07.86.1:01:10.03.1.85:1 BS..0.0.0..You see it. You can do it.
+Dialogue: 0.1:01:10.10.1:01:11.93.1.85:1 BS..0.0.0..And I see it so clearly.
+Dialogue: 0.1:01:12.97.1:01:14.57.1.85:1 BS..0.0.0..Well. Walter Yetnikoff called.
+Dialogue: 0.1:01:14.64.1:01:16.47.1.85:1 BS..0.0.0..CBS wants to do a press release.
+Dialogue: 0.1:01:16.54.1:01:21.61.1.85:1 BS..0.0.0..No. No press. no interviews. no nothing.
+Dialogue: 0.1:01:21.68.1:01:23.11.1.85:1 BS..0.0.0..Well. he's not gonna like that.
+Dialogue: 0.1:01:24.18.1:01:25.95.1.85:1 BS..0.0.0..You got to handle that. Branca.
+Dialogue: 0.1:01:26.72.1:01:27.82.1.85:1 BS..0.0.0..You see...
+Dialogue: 0.1:01:28.85.1:01:30.49.1.85:1 BS..0.0.0..I want to be mysterious.
+Dialogue: 0.1:01:31.15.1:01:32.22.1.85:1 BS..0.0.0..Like-- Like Garbo.
+Dialogue: 0.1:01:33.12.1:01:34.32.1.85:1 BS..0.0.0..You know. but. uh...
+Dialogue: 0.1:01:34.39.1:01:36.93.1.85:1 BS..0.0.0..I mean. if Halley's Comet came every year.
+Dialogue: 0.1:01:36.99.1:01:39.70.1.85:1 BS..0.0.0..just year after year. would you look at it?
+Dialogue: 0.1:01:40.30.1:01:42.23.1.85:1 BS..0.0.0..You're gonna need publicity.
+Dialogue: 0.1:01:42.30.1:01:45.40.1.85:1 BS..0.0.0..What I'm gonna need is a good record that sells.
+Dialogue: 0.1:01:45.47.1:01:47.77.1.85:1 BS..0.0.0..- Nothing else matters.  - Fair enough.
+Dialogue: 0.1:01:47.84.1:01:50.74.1.85:1 BS..0.0.0..Then I suggest you start laying down some killer demos.
+Dialogue: 0.1:01:51.68.1:01:54.11.1.85:1 BS..0.0.0..Can you do that?
+Dialogue: 0.1:01:54.18.1:01:56.81.1.85:1 BS..0.0.0..Of course. I can do that.
+Dialogue: 0.1:02:00.88.1:02:02.49.1.85:1 BS..0.0.0..Hey. what are you doing. Mike?
+Dialogue: 0.1:02:02.55.1:02:03.65.1.85:1 BS..0.0.0..I'm channeling.
+Dialogue: 0.1:02:05.16.1:02:07.66.1.85:1 BS..0.0.0..I'm letting the Creator give me a song right now.
+Dialogue: 0.1:02:09.09.1:02:11.53.1.85:1 BS..0.0.0..But if I'm not here to receive these ideas.
+Dialogue: 0.1:02:12.40.1:02:14.60.1.85:1 BS..0.0.0..God might give them to Prince.
+Dialogue: 0.1:02:17.33.1:02:18.70.1.85:1 BS..0.0.0..You're ticking me off. man.
+Dialogue: 0.1:02:18.77.1:02:19.80.1.85:1 BS..0.0.0..Tito.
+Dialogue: 0.1:02:21.84.1:02:26.38.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  There ain't no reason for you to be sad. yeah  ♫{\i0}
+Dialogue: 0.1:02:28.55.1:02:30.05.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I know things can't be  ♫{\i0}
+Dialogue: 0.1:02:30.12.1:02:31.32.1.85:1 BS..0.0.0..Hello.
+Dialogue: 0.1:02:36.42.1:02:38.72.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  With a smile on your face  ♫{\i0}
+Dialogue: 0.1:02:40.13.1:02:42.29.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  With the love in your eyes  ♫{\i0}
+Dialogue: 0.1:02:42.36.1:02:43.89.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Love in your eyes  ♫{\i0}
+Dialogue: 0.1:02:43.96.1:02:46.96.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  I know you'll feel better  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Oh  ♫{\i0}
+Dialogue: 0.1:02:47.03.1:02:49.87.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You can only try  ♫{\i0}
+Dialogue: 0.1:02:49.93.1:02:51.97.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  Try to think...  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Happy  ♫{\i0}
+Dialogue: 0.1:02:52.04.1:02:54.14.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Happy. happy  ♫{\i0}
+Dialogue: 0.1:02:54.21.1:02:56.14.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  That's the only way to be  ♫{\i0}
+Dialogue: 0.1:03:07.32.1:03:08.42.1.85:1 BS..0.0.0..Yeah.
+Dialogue: 0.1:03:08.49.1:03:09.85.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Sing it to the world  ♫{\i0}
+Dialogue: 0.1:03:09.92.1:03:11.59.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Sing it all night long  ♫{\i0}
+Dialogue: 0.1:03:26.80.1:03:30.51.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Almost all of the gunfire and death over drugs and territory{\i0}
+Dialogue: 0.1:03:30.57.1:03:32.91.1.85:1 BS..0.0.0..{\c&H38d832&\i1}involves rival gangs.{\i0}
+Dialogue: 0.1:03:32.98.1:03:35.51.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Ryan Chavez reports from Los Angeles.{\i0}
+Dialogue: 0.1:03:38.32.1:03:39.35.1.85:1 BS..0.0.0..{\c&H38d832&\i1}A best friend killed{\i0}
+Dialogue: 0.1:03:39.42.1:03:41.52.1.85:1 BS..0.0.0..{\c&H38d832&\i1}by a rival gang member.{\i0}
+Dialogue: 0.1:03:41.59.1:03:44.09.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Another killed at a drive-by shooting in Sacramento.{\i0}
+Dialogue: 0.1:03:44.16.1:03:45.89.1.85:1 BS..0.0.0..{\c&H38d832&\i1}because he wore the wrong color.{\i0}
+Dialogue: 0.1:03:45.96.1:03:48.76.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Those who wear blue call themselves the Crips.{\i0}
+Dialogue: 0.1:03:48.83.1:03:50.73.1.85:1 BS..0.0.0..{\c&H38d832&\i1}the Bloods wear red.{\i0}
+Dialogue: 0.1:03:50.79.1:03:52.90.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Some. like Smokey. survive attacks.{\i0}
+Dialogue: 0.1:03:52.96.1:03:54.03.1.85:1 BS..0.0.0..{\c&H38d832&\i1}though paralyzed.{\i0}
+Dialogue: 0.1:03:54.10.1:03:55.93.1.85:1 BS..0.0.0..{\c&H38d832&\i1}People dyin' over nothing. man.{\i0}
+Dialogue: 0.1:03:56.00.1:03:57.57.1.85:1 BS..0.0.0..{\c&H38d832&\i1}All the neighborhood.{\i0}
+Dialogue: 0.1:03:57.63.1:03:58.74.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Yet. the city remains filled{\i0}
+Dialogue: 0.1:03:58.80.1:04:00.27.1.85:1 BS..0.0.0..{\c&H38d832&\i1}with warring soldiers.{\i0}
+Dialogue: 0.1:04:00.34.1:04:03.31.1.85:1 BS..0.0.0..{\c&H38d832&\i1}This is the crib to me.{\i0}
+Dialogue: 0.1:04:03.37.1:04:05.24.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Something y'all don't do. y'all don't watch out.{\i0}
+Dialogue: 0.1:04:05.31.1:04:07.11.1.85:1 BS..0.0.0..{\c&H38d832&\i1}You wouldn't die for him. would you?{\i0}
+Dialogue: 0.1:04:07.18.1:04:08.61.1.85:1 BS..0.0.0..{\c&H38d832&\i1}You're saying that now on TV.{\i0}
+Dialogue: 0.1:04:08.68.1:04:10.11.1.85:1 BS..0.0.0..{\c&H38d832&\i1}but you wouldn't die for him for real.{\i0}
+Dialogue: 0.1:04:10.18.1:04:11.48.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Yeah. I'd die for my homeboy.{\i0}
+Dialogue: 0.1:04:11.55.1:04:14.32.1.85:1 BS..0.0.0..{\c&H38d832&\i1}But as time went on.{\i0}
+Dialogue: 0.1:04:14.38.1:04:16.32.1.85:1 BS..0.0.0..{\c&H38d832&\i1}I started to get too deep in the drugs.{\i0}
+Dialogue: 0.1:04:16.42.1:04:18.59.1.85:1 BS..0.0.0..{\c&H38d832&\i1}so I started getting in trouble on the streets.{\i0}
+Dialogue: 0.1:04:18.66.1:04:20.33.1.85:1 BS..0.0.0..{\c&H38d832&\i1}So. I thought to myself.{\i0}
+Dialogue: 0.1:04:20.39.1:04:22.49.1.85:1 BS..0.0.0..{\c&H38d832&\i1}"You know. it was either this or death."{\i0}
+Dialogue: 0.1:04:22.56.1:04:25.20.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Ryan Chavez reporting from Los Angeles.{\i0}
+Dialogue: 0.1:05:17.55.1:05:18.65.1.85:1 BS..0.0.0..Hmm.
+Dialogue: 0.1:05:24.76.1:05:26.86.1.85:1 BS..0.0.0..- {\c&H38d832&\i1}Hello?{\i0}{\c}  - {\c&H38d832&\i1}Hey. Bill. it's me.{\i0}
+Dialogue: 0.1:05:26.92.1:05:28.56.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Hey. Joker. What's up?{\i0}
+Dialogue: 0.1:05:28.63.1:05:30.46.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Well. I need some help{\i0}
+Dialogue: 0.1:05:30.53.1:05:32.90.1.85:1 BS..0.0.0..{\c&H38d832&\i1}and was hoping you could pull some favors.{\i0}
+Dialogue: 0.1:05:32.96.1:05:35.37.1.85:1 BS..0.0.0..Okay. they're all at the studio.
+Dialogue: 0.1:05:35.43.1:05:36.93.1.85:1 BS..0.0.0..But they're only there because of you.
+Dialogue: 0.1:05:38.24.1:05:40.24.1.85:1 BS..0.0.0..I can't believe you're doing this.
+Dialogue: 0.1:05:40.31.1:05:42.71.1.85:1 BS..0.0.0..Music will bring people together. Bill.
+Dialogue: 0.1:05:43.31.1:05:45.21.1.85:1 BS..0.0.0..That's the point.
+Dialogue: 0.1:05:45.28.1:05:48.15.1.85:1 BS..0.0.0..And if things work out. I have a big idea.
+Dialogue: 0.1:05:55.42.1:05:58.59.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  California knows how to party  ♫{\i0}
+Dialogue: 0.1:05:59.56.1:06:03.86.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  In the city of LA  ♫{\i0}
+Dialogue: 0.1:06:03.93.1:06:07.90.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  In the city of good old Watts  ♫{\i0}
+Dialogue: 0.1:06:07.97.1:06:12.34.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  In the city. city of Compton  ♫{\i0}
+Dialogue: 0.1:06:12.40.1:06:14.14.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  They're poplocking  ♫{\i0}
+Dialogue: 0.1:06:17.31.1:06:19.71.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Dance. jazz. disco styles  ♫{\i0}
+Dialogue: 0.1:06:19.78.1:06:21.71.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  It's all on the West Coast...  ♫{\i0}
+Dialogue: 0.1:06:21.78.1:06:24.85.1.85:1 BS..0.0.0..That's Michael. Michael Jackson.
+Dialogue: 0.1:06:24.92.1:06:25.92.1.85:1 BS..0.0.0..Shit.
+Dialogue: 0.1:06:28.69.1:06:30.52.1.85:1 BS..0.0.0..That was juicy right there.
+Dialogue: 0.1:06:31.19.1:06:32.22.1.85:1 BS..0.0.0..What was that?
+Dialogue: 0.1:06:32.29.1:06:33.46.1.85:1 BS..0.0.0..This dance is called Popping. man.
+Dialogue: 0.1:06:36.13.1:06:37.23.1.85:1 BS..0.0.0..Whoo!
+Dialogue: 0.1:06:37.30.1:06:38.50.1.85:1 BS..0.0.0..Hey. and this...
+Dialogue: 0.1:06:43.47.1:06:45.27.1.85:1 BS..0.0.0..That's called the C-Walk. cuz.
+Dialogue: 0.1:06:50.51.1:06:52.28.1.85:1 BS..0.0.0..Hey. can I get an autograph?
+Dialogue: 0.1:06:55.65.1:06:57.98.1.85:1 BS..0.0.0..Whatever. cuz. Look. it's for my sister.
+Dialogue: 0.1:06:58.05.1:06:59.75.1.85:1 BS..0.0.0..Come on.
+Dialogue: 0.1:06:59.82.1:07:01.05.1.85:1 BS..0.0.0..Oh. yeah. of course.
+Dialogue: 0.1:07:01.12.1:07:03.69.1.85:1 BS..0.0.0..Afterwards. I'll sign autographs for everybody.
+Dialogue: 0.1:07:03.75.1:07:06.29.1.85:1 BS..0.0.0..I also want one. Mike.
+Dialogue: 0.1:07:06.36.1:07:08.33.1.85:1 BS..0.0.0..For sure.
+Dialogue: 0.1:07:08.39.1:07:10.40.1.85:1 BS..0.0.0..Look. I know this isn't easy for you guys.
+Dialogue: 0.1:07:10.46.1:07:12.90.1.85:1 BS..0.0.0..So I just want to thank everybody for coming.
+Dialogue: 0.1:07:12.96.1:07:14.70.1.85:1 BS..0.0.0..It's really important to me.
+Dialogue: 0.1:07:15.87.1:07:18.44.1.85:1 BS..0.0.0..You see. I think music and dance
+Dialogue: 0.1:07:18.50.1:07:20.00.1.85:1 BS..0.0.0..is what we all have in common.
+Dialogue: 0.1:07:22.01.1:07:23.84.1.85:1 BS..0.0.0..That's a universal language.
+Dialogue: 0.1:07:25.84.1:07:27.05.1.85:1 BS..0.0.0..And we can change the world.
+Dialogue: 0.1:07:27.91.1:07:29.35.1.85:1 BS..0.0.0..- I believe that.  - Word.
+Dialogue: 0.1:07:30.52.1:07:31.68.1.85:1 BS..0.0.0..Sounds good.
+Dialogue: 0.1:07:33.38.1:07:35.22.1.85:1 BS..0.0.0..Let's work on that together.
+Dialogue: 0.1:07:46.33.1:07:48.67.1.85:1 BS..0.0.0..Bam! Bam! Bam! Yep.
+Dialogue: 0.1:07:53.04.1:07:54.77.1.85:1 BS..0.0.0..Bam! Bam! Bam!
+Dialogue: 0.1:08:02.68.1:08:04.52.1.85:1 BS..0.0.0..Keep going.
+Dialogue: 0.1:08:04.58.1:08:07.55.1.85:1 BS..0.0.0..Yeah. let's... Let's work on that part.
+Dialogue: 0.1:08:07.62.1:08:10.22.1.85:1 BS..0.0.0..Right now. let's just forget about the arms. It's...
+Dialogue: 0.1:08:10.29.1:08:12.16.1.85:1 BS..0.0.0..Shouldn't be too forced.
+Dialogue: 0.1:08:12.22.1:08:13.89.1.85:1 BS..0.0.0..It's natural. It's a flow.
+Dialogue: 0.1:08:15.89.1:08:16.96.1.85:1 BS..0.0.0..All together.
+Dialogue: 0.1:08:18.60.1:08:19.60.1.85:1 BS..0.0.0..Ooh!
+Dialogue: 0.1:08:22.03.1:08:23.73.1.85:1 BS..0.0.0..See?
+Dialogue: 0.1:08:23.80.1:08:25.80.1.85:1 BS..0.0.0..- It's in unison. you know.  - Yes.
+Dialogue: 0.1:08:25.87.1:08:27.47.1.85:1 BS..0.0.0..Think of. uh...
+Dialogue: 0.1:08:27.54.1:08:28.74.1.85:1 BS..0.0.0..Like a school of fish.
+Dialogue: 0.1:08:28.81.1:08:30.01.1.85:1 BS..0.0.0..You all move together.
+Dialogue: 0.1:08:30.07.1:08:32.68.1.85:1 BS..0.0.0..- You know what I mean?  - Yeah. Sure.
+Dialogue: 0.1:08:32.74.1:08:34.38.1.85:1 BS..0.0.0..I'm gonna try something.
+Dialogue: 0.1:08:35.28.1:08:36.71.1.85:1 BS..0.0.0..Just got an idea.
+Dialogue: 0.1:08:38.48.1:08:40.32.1.85:1 BS..0.0.0..Bill. can you bring my jacket. please?
+Dialogue: 0.1:08:41.39.1:08:43.52.1.85:1 BS..0.0.0..I want to try something while we...
+Dialogue: 0.1:08:43.59.1:08:45.26.1.85:1 BS..0.0.0..travel down this ways.
+Dialogue: 0.1:08:46.16.1:08:47.59.1.85:1 BS..0.0.0..The jacket...
+Dialogue: 0.1:08:49.23.1:08:50.39.1.85:1 BS..0.0.0..- Thank you.  - Yeah.
+Dialogue: 0.1:08:52.56.1:08:54.37.1.85:1 BS..0.0.0..Let's do it again. I'm gonna break out and do something
+Dialogue: 0.1:08:54.43.1:08:57.03.1.85:1 BS..0.0.0..but continue with that... with that flow.
+Dialogue: 0.1:09:01.67.1:09:02.91.1.85:1 BS..0.0.0..Ooh!
+Dialogue: 0.1:09:09.28.1:09:10.58.1.85:1 BS..0.0.0..Yeah. I like it.
+Dialogue: 0.1:09:13.52.1:09:15.59.1.85:1 BS..0.0.0..Yeah!
+Dialogue: 0.1:09:17.46.1:09:18.69.1.85:1 BS..0.0.0..What do you guys think?
+Dialogue: 0.1:09:20.36.1:09:21.63.1.85:1 BS..0.0.0..That was tight. bro.
+Dialogue: 0.1:09:22.63.1:09:23.93.1.85:1 BS..0.0.0..Feels good?
+Dialogue: 0.1:09:23.99.1:09:25.10.1.85:1 BS..0.0.0..All right.
+Dialogue: 0.1:09:27.30.1:09:28.93.1.85:1 BS..0.0.0..I want to try it with music now.
+Dialogue: 0.1:09:29.43.1:09:30.43.1.85:1 BS..0.0.0..Yeah.
+Dialogue: 0.1:09:33.17.1:09:36.37.1.85:1 BS..0.0.0..In fact. I want to put you all in my short film.
+Dialogue: 0.1:09:37.81.1:09:39.74.1.85:1 BS..0.0.0..Yeah!
+Dialogue: 0.1:09:39.81.1:09:42.31.1.85:1 BS..0.0.0..Let's crank it up. please. I want to feel it.
+Dialogue: 0.1:09:46.22.1:09:49.45.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Showin' how funky and strong is your fight  ♫{\i0}
+Dialogue: 0.1:09:49.52.1:09:52.76.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  It doesn't matter who's wrong or right  ♫{\i0}
+Dialogue: 0.1:09:52.82.1:09:55.26.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  Just beat it  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Beat it  ♫{\i0}
+Dialogue: 0.1:09:55.33.1:09:56.76.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  Beat it  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Beat it  ♫{\i0}
+Dialogue: 0.1:09:56.83.1:09:59.96.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  No one wants to be defeated  ♫{\i0}
+Dialogue: 0.1:10:00.03.1:10:03.47.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Showin' how funky and strong is your fight  ♫{\i0}
+Dialogue: 0.1:10:03.53.1:10:06.77.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  It doesn't matter who's wrong or right  ♫{\i0}
+Dialogue: 0.1:10:06.84.1:10:08.07.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Just beat it  ♫{\i0}
+Dialogue: 0.1:10:08.14.1:10:09.77.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Beat it. beat it. beat it...  ♫{\i0}
+Dialogue: 0.1:10:09.84.1:10:12.01.1.85:1 BS..0.0.0..You know. CBS wants you
+Dialogue: 0.1:10:12.08.1:10:13.38.1.85:1 BS..0.0.0..to call the album "Michael Jackson."
+Dialogue: 0.1:10:16.21.1:10:17.65.1.85:1 BS..0.0.0..Too egocentric.
+Dialogue: 0.1:10:17.71.1:10:19.92.1.85:1 BS..0.0.0..Louder!
+Dialogue: 0.1:10:19.98.1:10:21.35.1.85:1 BS..0.0.0..Go straight into funky
+Dialogue: 0.1:10:21.42.1:10:23.99.1.85:1 BS..0.0.0..and let that ooze into the rest of the chorus. You dig?
+Dialogue: 0.1:10:24.06.1:10:26.59.1.85:1 BS..0.0.0..Okay. I'll try that.
+Dialogue: 0.1:10:26.66.1:10:29.19.1.85:1 BS..0.0.0..{\c&H38d832&\i1}You're on the cover of the damn album.{\i0}
+Dialogue: 0.1:10:29.26.1:10:30.96.1.85:1 BS..0.0.0..You're singing on every song.
+Dialogue: 0.1:10:31.03.1:10:32.30.1.85:1 BS..0.0.0..A little more.
+Dialogue: 0.1:10:32.36.1:10:34.27.1.85:1 BS..0.0.0..Don't kid a kidder now.
+Dialogue: 0.1:11:04.03.1:11:05.20.1.85:1 BS..0.0.0..Now that's rock and roll.
+Dialogue: 0.1:11:05.26.1:11:06.80.1.85:1 BS..0.0.0..That's some Van Halen shit.
+Dialogue: 0.1:11:06.86.1:11:09.97.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  Beat it. beat it  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Beat it. beat it  ♫{\i0}
+Dialogue: 0.1:11:10.03.1:11:13.30.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  No one wants to be defeated  ♫{\i0}
+Dialogue: 0.1:11:13.37.1:11:16.74.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Showin' how funky and strong is your fight  ♫{\i0}
+Dialogue: 0.1:11:16.81.1:11:18.48.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  It doesn't matter  ♫{\i0}
+Dialogue: 0.1:11:18.54.1:11:20.08.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Who's wrong or right  ♫{\i0}
+Dialogue: 0.1:11:20.14.1:11:22.15.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  Just beat it  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Beat it...  ♫{\i0}
+Dialogue: 0.1:11:22.21.1:11:23.51.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Not you. my Marie-Antoinette.{\i0}
+Dialogue: 0.1:11:23.58.1:11:25.82.1.85:1 BS..0.0.0..{\c&H38d832&\i1}for I will give you eternal life.{\i0}
+Dialogue: 0.1:12:21.31.1:12:23.11.1.85:1 BS..0.0.0..Can we stop a sec?
+Dialogue: 0.1:12:23.17.1:12:25.08.1.85:1 BS..0.0.0..Cut! Cut!
+Dialogue: 0.1:12:25.14.1:12:26.64.1.85:1 BS..0.0.0..That was great. You guys were perfect.
+Dialogue: 0.1:12:26.71.1:12:29.18.1.85:1 BS..0.0.0..Just keep warm. Stretch out for a second.
+Dialogue: 0.1:12:31.62.1:12:32.72.1.85:1 BS..0.0.0..Hey.
+Dialogue: 0.1:12:32.78.1:12:34.92.1.85:1 BS..0.0.0..Is the camera supposed to move in there?
+Dialogue: 0.1:12:34.98.1:12:38.16.1.85:1 BS..0.0.0..Uh... I-- I can ask John.
+Dialogue: 0.1:12:38.22.1:12:40.83.1.85:1 BS..0.0.0..Is there a particular thing you're looking for? Or...
+Dialogue: 0.1:12:40.89.1:12:43.46.1.85:1 BS..0.0.0..Yeah. I'm just worried we're not getting the feet.
+Dialogue: 0.1:12:43.53.1:12:45.10.1.85:1 BS..0.0.0..You know. Fred Astaire would always say.
+Dialogue: 0.1:12:45.16.1:12:46.83.1.85:1 BS..0.0.0.."You've got to get the whole body."
+Dialogue: 0.1:12:46.90.1:12:49.07.1.85:1 BS..0.0.0..You know. that's how the audience feels the dance.
+Dialogue: 0.1:12:49.13.1:12:51.04.1.85:1 BS..0.0.0..- Right. right.  - Um...
+Dialogue: 0.1:12:52.04.1:12:54.14.1.85:1 BS..0.0.0..Can you ask John just to try that?
+Dialogue: 0.1:12:54.21.1:12:55.97.1.85:1 BS..0.0.0..- Just for one take?  - Yeah. you got it. Yeah.
+Dialogue: 0.1:12:56.04.1:12:57.24.1.85:1 BS..0.0.0..- Thank you.  - Yeah.
+Dialogue: 0.1:13:01.58.1:13:02.85.1.85:1 BS..0.0.0..So. instead of moving in.
+Dialogue: 0.1:13:02.91.1:13:04.88.1.85:1 BS..0.0.0..he wants the camera to move out to see the feet.
+Dialogue: 0.1:13:06.08.1:13:07.25.1.85:1 BS..0.0.0..Okay.
+Dialogue: 0.1:13:07.32.1:13:09.15.1.85:1 BS..0.0.0..Okay. Michael. we're gonna pull back.
+Dialogue: 0.1:13:09.22.1:13:10.82.1.85:1 BS..0.0.0..We're gonna hold you head to toe.
+Dialogue: 0.1:13:10.92.1:13:11.96.1.85:1 BS..0.0.0..- okay?  - Perfect.
+Dialogue: 0.1:13:12.02.1:13:13.19.1.85:1 BS..0.0.0..- All right.  - Thank you.
+Dialogue: 0.1:13:13.26.1:13:15.59.1.85:1 BS..0.0.0..Okay. everybody. back to first positions. please!
+Dialogue: 0.1:13:17.19.1:13:19.20.1.85:1 BS..0.0.0..Quiet all around. please. Lock it up!
+Dialogue: 0.1:13:19.26.1:13:21.83.1.85:1 BS..0.0.0..- Whoo!  - All right. sound ready.
+Dialogue: 0.1:13:22.60.1:13:24.17.1.85:1 BS..0.0.0..Camera set!
+Dialogue: 0.1:13:24.24.1:13:26.77.1.85:1 BS..0.0.0..- Slate?  - Go.
+Dialogue: 0.1:13:29.54.1:13:31.21.1.85:1 BS..0.0.0..Okay. playback!!
+Dialogue: 0.1:13:32.11.1:13:34.55.1.85:1 BS..0.0.0..And... action!
+Dialogue: 0.1:14:26.43.1:14:30.84.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  'Cause this is thriller. thriller night  ♫{\i0}
+Dialogue: 0.1:14:30.90.1:14:33.00.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  And no one's gonna save you  ♫{\i0}
+Dialogue: 0.1:14:33.07.1:14:34.77.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  From the beast about to strike  ♫{\i0}
+Dialogue: 0.1:14:34.84.1:14:39.38.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You know it's thriller. thriller night  ♫{\i0}
+Dialogue: 0.1:14:39.44.1:14:41.08.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You're fighting for your life  ♫{\i0}
+Dialogue: 0.1:14:41.15.1:14:43.75.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Inside a killer. thriller  ♫{\i0}
+Dialogue: 0.1:14:43.81.1:14:47.59.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Thriller. thriller night  ♫{\i0}
+Dialogue: 0.1:14:47.65.1:14:49.02.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  'Cause I can thrill you  ♫{\i0}
+Dialogue: 0.1:14:49.09.1:14:52.52.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  More than any ghoul would ever dare try  ♫{\i0}
+Dialogue: 0.1:14:52.59.1:14:54.09.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Ooh-ooh  ♫{\i0}
+Dialogue: 0.1:14:55.59.1:14:58.23.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  So let me hold you tight and share a  ♫{\i0}
+Dialogue: 0.1:14:58.30.1:15:00.30.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Killer. thriller. ow!  ♫{\i0}
+Dialogue: 0.1:15:00.36.1:15:03.30.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Ow! Tonight  ♫{\i0}
+Dialogue: 0.1:15:03.37.1:15:07.81.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  'Cause this is thriller. thriller night  ♫{\i0}
+Dialogue: 0.1:15:07.87.1:15:09.31.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Girl. I can thrill you  ♫{\i0}
+Dialogue: 0.1:15:09.37.1:15:12.91.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  More than any ghoul would ever dare try  ♫{\i0}
+Dialogue: 0.1:15:12.98.1:15:15.81.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Ooh-ooh  ♫{\i0}
+Dialogue: 0.1:15:15.88.1:15:18.48.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  So let me hold you tight and share a  ♫{\i0}
+Dialogue: 0.1:15:18.55.1:15:20.28.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Killer. thriller. ow!  ♫{\i0}
+Dialogue: 0.1:15:35.47.1:15:38.57.1.85:1 BS..0.0.0..What can I say. guys. except congratulations.
+Dialogue: 0.1:15:38.64.1:15:41.64.1.85:1 BS..0.0.0..Album's amazing. Everyone's buying.
+Dialogue: 0.1:15:41.71.1:15:44.34.1.85:1 BS..0.0.0..Pop charts. R&B charts.
+Dialogue: 0.1:15:44.41.1:15:46.78.1.85:1 BS..0.0.0..If this kid did a duet with Reba.
+Dialogue: 0.1:15:46.84.1:15:48.85.1.85:1 BS..0.0.0..we'd own the goddamn country charts.
+Dialogue: 0.1:15:50.02.1:15:53.75.1.85:1 BS..0.0.0..Thanks. Walter. Thanks so much.
+Dialogue: 0.1:15:53.82.1:15:58.19.1.85:1 BS..0.0.0..Michael. everyone at the CBS family is so proud of you.
+Dialogue: 0.1:15:58.89.1:16:01.86.1.85:1 BS..0.0.0..I'm proud of you. Now...
+Dialogue: 0.1:16:01.93.1:16:06.83.1.85:1 BS..0.0.0..What can I do for you. my son? Your wish is my command.
+Dialogue: 0.1:16:06.90.1:16:10.10.1.85:1 BS..0.0.0..Well. I'm really happy with the sales of {\c&H38d832&\i1}Thriller.{\i0}
+Dialogue: 0.1:16:10.87.1:16:11.94.1.85:1 BS..0.0.0..But...
+Dialogue: 0.1:16:15.61.1:16:17.31.1.85:1 BS..0.0.0..Branca.
+Dialogue: 0.1:16:17.37.1:16:18.88.1.85:1 BS..0.0.0..We're happy with the sales.
+Dialogue: 0.1:16:18.94.1:16:20.68.1.85:1 BS..0.0.0..but there's still something we need to do.
+Dialogue: 0.1:16:20.74.1:16:23.01.1.85:1 BS..0.0.0..- promotion-wise.  - Hmm.
+Dialogue: 0.1:16:23.08.1:16:25.28.1.85:1 BS..0.0.0..We need to get his videos on MTV.
+Dialogue: 0.1:16:26.25.1:16:28.29.1.85:1 BS..0.0.0..MTV? Ay. ay. ay. Not possible.
+Dialogue: 0.1:16:28.35.1:16:30.32.1.85:1 BS..0.0.0..The videos are masterpieces.
+Dialogue: 0.1:16:30.39.1:16:31.76.1.85:1 BS..0.0.0..You haven't even seen {\c&H38d832&\i1}Thriller{\i0}{\c} yet.
+Dialogue: 0.1:16:31.82.1:16:33.19.1.85:1 BS..0.0.0..it's gonna blow your mind.
+Dialogue: 0.1:16:33.26.1:16:35.66.1.85:1 BS..0.0.0..And they will promote the record like nothing else.
+Dialogue: 0.1:16:35.73.1:16:38.03.1.85:1 BS..0.0.0..And if we get into heavy rotation on MTV.
+Dialogue: 0.1:16:38.10.1:16:39.60.1.85:1 BS..0.0.0..the sky's the limit.
+Dialogue: 0.1:16:39.66.1:16:41.70.1.85:1 BS..0.0.0..And you know that.
+Dialogue: 0.1:16:41.77.1:16:44.67.1.85:1 BS..0.0.0..MTV almost never plays Black artists.
+Dialogue: 0.1:16:44.74.1:16:46.24.1.85:1 BS..0.0.0..I don't know why.
+Dialogue: 0.1:16:46.30.1:16:48.07.1.85:1 BS..0.0.0..Maybe they don't want to scare the shit out of the white kids
+Dialogue: 0.1:16:48.14.1:16:49.47.1.85:1 BS..0.0.0..in the suburbs.
+Dialogue: 0.1:16:49.54.1:16:52.18.1.85:1 BS..0.0.0..Walter. I made this record for everybody.
+Dialogue: 0.1:16:52.24.1:16:54.35.1.85:1 BS..0.0.0..White and Black.
+Dialogue: 0.1:16:54.41.1:16:58.02.1.85:1 BS..0.0.0..We feel like Michael's videos deserve to be seen.
+Dialogue: 0.1:16:58.08.1:17:00.42.1.85:1 BS..0.0.0..Michael. let me tell you something.
+Dialogue: 0.1:17:00.48.1:17:03.59.1.85:1 BS..0.0.0..I'm a proud Black artist. Walter.
+Dialogue: 0.1:17:03.65.1:17:06.19.1.85:1 BS..0.0.0..I will not be shoved to the back of any bus
+Dialogue: 0.1:17:06.26.1:17:08.66.1.85:1 BS..0.0.0..by MTV or anyone.
+Dialogue: 0.1:17:13.63.1:17:16.73.1.85:1 BS..0.0.0..Believe me. John. I have tried.
+Dialogue: 0.1:17:18.40.1:17:19.77.1.85:1 BS..0.0.0..With love. Walter...
+Dialogue: 0.1:17:21.44.1:17:22.84.1.85:1 BS..0.0.0..please try harder.
+Dialogue: 0.1:17:30.15.1:17:32.02.1.85:1 BS..0.0.0..Sally. honey. can you get me Bob Pittman
+Dialogue: 0.1:17:32.08.1:17:34.35.1.85:1 BS..0.0.0..over at MTV right now?
+Dialogue: 0.1:17:34.42.1:17:36.59.1.85:1 BS..0.0.0..And tell that schmuck to drop everything
+Dialogue: 0.1:17:36.65.1:17:39.09.1.85:1 BS..0.0.0..and take my call right the hell now.
+Dialogue: 0.1:17:39.16.1:17:41.03.1.85:1 BS..0.0.0..- Of course.  - Thank you.
+Dialogue: 0.1:17:53.94.1:17:54.94.1.85:1 BS..0.0.0..So. Michael.
+Dialogue: 0.1:17:55.01.1:17:56.54.1.85:1 BS..0.0.0..- are you enjoying New York?  - Yeah.
+Dialogue: 0.1:17:56.61.1:17:57.91.1.85:1 BS..0.0.0..Listen. I can get you tickets
+Dialogue: 0.1:17:57.98.1:18:01.81.1.85:1 BS..0.0.0..to {\c&H38d832&\i1}Marcel Marceau on Broadway{\i0}{\c} . front row.
+Dialogue: 0.1:18:01.88.1:18:03.65.1.85:1 BS..0.0.0..You know what? Better still. second row.
+Dialogue: 0.1:18:03.71.1:18:05.15.1.85:1 BS..0.0.0..You don't want to be in the front row for them.
+Dialogue: 0.1:18:05.22.1:18:07.09.1.85:1 BS..0.0.0..Those French artists. they're not so big
+Dialogue: 0.1:18:07.15.1:18:08.59.1.85:1 BS..0.0.0..on showering. you know what I mean?
+Dialogue: 0.1:18:08.65.1:18:11.09.1.85:1 BS..0.0.0..It's like Pepe LePew. but without so much talking.
+Dialogue: 0.1:18:11.16.1:18:12.69.1.85:1 BS..0.0.0..You know. I have a burp coming
+Dialogue: 0.1:18:12.76.1:18:14.83.1.85:1 BS..0.0.0..because I just had Coca-Cola like an asshole.
+Dialogue: 0.1:18:15.46.1:18:16.56.1.85:1 BS..0.0.0..Sally!
+Dialogue: 0.1:18:20.20.1:18:21.43.1.85:1 BS..0.0.0..Bob.
+Dialogue: 0.1:18:21.50.1:18:23.33.1.85:1 BS..0.0.0..Thank you for taking my call.
+Dialogue: 0.1:18:23.97.1:18:25.07.1.85:1 BS..0.0.0..Listen...
+Dialogue: 0.1:18:27.64.1:18:29.74.1.85:1 BS..0.0.0..I need you to run {\c&H38d832&\i1}Billie Jean{\i0}{\c} for me.
+Dialogue: 0.1:18:30.47.1:18:32.31.1.85:1 BS..0.0.0..I know. Uh. I know.
+Dialogue: 0.1:18:33.54.1:18:34.98.1.85:1 BS..0.0.0..But here's the problem with that.
+Dialogue: 0.1:18:35.05.1:18:37.28.1.85:1 BS..0.0.0..I don't give a shit. I don't give two shits.
+Dialogue: 0.1:18:37.35.1:18:38.95.1.85:1 BS..0.0.0..I don't even give three shits.
+Dialogue: 0.1:18:39.02.1:18:40.62.1.85:1 BS..0.0.0..So. you run {\c&H38d832&\i1}Billie Jean{\i0}{\c} for me.
+Dialogue: 0.1:18:40.68.1:18:42.25.1.85:1 BS..0.0.0..and you run it all the time.
+Dialogue: 0.1:18:44.49.1:18:47.26.1.85:1 BS..0.0.0..Okay. Bob. let me put it another way.
+Dialogue: 0.1:18:47.32.1:18:50.26.1.85:1 BS..0.0.0..If you don't play {\c&H38d832&\i1}Billie Jean{\i0}{\c} in the next 10 minutes.
+Dialogue: 0.1:18:50.33.1:18:52.43.1.85:1 BS..0.0.0..I'm gonna pull every CBS artist
+Dialogue: 0.1:18:52.50.1:18:54.83.1.85:1 BS..0.0.0..from your lineup. okay?
+Dialogue: 0.1:18:54.90.1:18:56.77.1.85:1 BS..0.0.0..Bruce Springsteen. Cheap Trick.
+Dialogue: 0.1:18:56.83.1:18:59.17.1.85:1 BS..0.0.0..Charlie Daniels. Billy Joel.
+Dialogue: 0.1:18:59.24.1:19:01.84.1.85:1 BS..0.0.0..Cyndi Lauper. Bob Dylan.
+Dialogue: 0.1:19:01.91.1:19:04.51.1.85:1 BS..0.0.0..You can put them all in a plastic bag.
+Dialogue: 0.1:19:04.58.1:19:07.01.1.85:1 BS..0.0.0..cover the plastic bag in Crisco.
+Dialogue: 0.1:19:07.08.1:19:09.21.1.85:1 BS..0.0.0..and then shove them up your ass.
+Dialogue: 0.1:19:09.95.1:19:11.62.1.85:1 BS..0.0.0..Yeah. your butthole.
+Dialogue: 0.1:19:11.68.1:19:14.25.1.85:1 BS..0.0.0..We are no longer in business.
+Dialogue: 0.1:19:32.54.1:19:33.87.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Michael Jackson's{\i0}{\c} Thriller
+Dialogue: 0.1:19:33.94.1:19:36.97.1.85:1 BS..0.0.0..{\c&H38d832&\i1}has sold 25 million records and counting.{\i0}
+Dialogue: 0.1:19:37.04.1:19:38.54.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Michael Jackson is redefining{\i0}
+Dialogue: 0.1:19:38.61.1:19:40.51.1.85:1 BS..0.0.0..{\c&H38d832&\i1}what it means to be a superstar.{\i0}
+Dialogue: 0.1:19:40.58.1:19:41.81.1.85:1 BS..0.0.0..{\c&H38d832&\i1}He's single-handedly{\i0}
+Dialogue: 0.1:19:41.88.1:19:43.75.1.85:1 BS..0.0.0..{\c&H38d832&\i1}revitalized the music business.{\i0}
+Dialogue: 0.1:19:43.81.1:19:45.75.1.85:1 BS..0.0.0..{\c&H38d832&\i1}With each spin of{\i0}{\c} Billie Jean {\c&H38d832&\i1}on the radio.{\i0}
+Dialogue: 0.1:19:45.82.1:19:48.32.1.85:1 BS..0.0.0..{\c&H38d832&\i1}we are witnessing a rise of an artist...{\i0}
+Dialogue: 0.1:19:48.39.1:19:49.69.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Add up the numbers. He is one{\i0}
+Dialogue: 0.1:19:49.75.1:19:51.39.1.85:1 BS..0.0.0..{\c&H38d832&\i1}of the most popular entertainers of all time.{\i0}
+Dialogue: 0.1:19:51.46.1:19:52.92.1.85:1 BS..0.0.0..{\c&H38d832&\i1}and these days. that means that{\i0}
+Dialogue: 0.1:19:52.99.1:19:56.26.1.85:1 BS..0.0.0..{\c&H38d832&\i1}he's also a one-man financial empire.{\i0}
+Dialogue: 0.1:19:56.33.1:20:00.43.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  She was more like a beauty queen from a movie scene  ♫{\i0}
+Dialogue: 0.1:20:00.50.1:20:01.73.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I said. "Don't mind  ♫{\i0}
+Dialogue: 0.1:20:01.80.1:20:06.07.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  "But what do you mean I am the one  ♫{\i0}
+Dialogue: 0.1:20:06.14.1:20:09.37.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  "Who will dance on the floor in the round?"  ♫{\i0}
+Dialogue: 0.1:20:10.97.1:20:14.25.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  She said I am the one  ♫{\i0}
+Dialogue: 0.1:20:14.31.1:20:17.45.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Who will dance on the floor in the round?  ♫{\i0}
+Dialogue: 0.1:20:21.25.1:20:23.59.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  She told me her name was Billie Jean  ♫{\i0}
+Dialogue: 0.1:20:23.65.1:20:25.29.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  As she caused a scene  ♫{\i0}
+Dialogue: 0.1:20:25.39.1:20:27.39.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Then every head turned with eyes  ♫{\i0}
+Dialogue: 0.1:20:27.46.1:20:30.76.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  That dreamed of being the one  ♫{\i0}
+Dialogue: 0.1:20:30.83.1:20:33.96.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Who will dance on the floor in the round?  ♫{\i0}
+Dialogue: 0.1:20:37.17.1:20:41.14.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  People always told me "Be careful what you do  ♫{\i0}
+Dialogue: 0.1:20:41.21.1:20:42.44.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  "And don't go around  ♫{\i0}
+Dialogue: 0.1:20:42.51.1:20:44.14.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  "Breakin' young girls' hearts"  ♫{\i0}
+Dialogue: 0.1:20:44.21.1:20:45.41.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Hee-hee  ♫{\i0}
+Dialogue: 0.1:20:45.48.1:20:47.31.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  But she came and stood right by me  ♫{\i0}
+Dialogue: 0.1:20:47.38.1:20:49.58.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Just the smell of sweet perfume  ♫{\i0}
+Dialogue: 0.1:20:49.65.1:20:53.15.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  This happened much too soon. she called me to her room  ♫{\i0}
+Dialogue: 0.1:20:53.22.1:20:54.38.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Hey-ey-ey  ♫{\i0}
+Dialogue: 0.1:20:54.45.1:20:57.16.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Billie Jean is not my lover  ♫{\i0}
+Dialogue: 0.1:20:57.22.1:20:58.69.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Whoo!  ♫{\i0}
+Dialogue: 0.1:20:58.76.1:21:02.63.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  She's just a girl who claims that I am the one  ♫{\i0}
+Dialogue: 0.1:21:03.79.1:21:06.83.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  But the kid is not my son  ♫{\i0}
+Dialogue: 0.1:21:06.90.1:21:08.40.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  No. no  ♫{\i0}
+Dialogue: 0.1:21:08.47.1:21:10.50.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  She says I am the one  ♫{\i0}
+Dialogue: 0.1:21:10.57.1:21:11.77.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Oh. baby  ♫{\i0}
+Dialogue: 0.1:21:11.84.1:21:16.61.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  But the kid is not my son. no  ♫{\i0}
+Dialogue: 0.1:21:16.67.1:21:18.68.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Hee-hee-hee  ♫{\i0}
+Dialogue: 0.1:21:19.81.1:21:21.21.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Oh!  ♫{\i0}
+Dialogue: 0.1:21:22.18.1:21:23.41.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Ooh!  ♫{\i0}
+Dialogue: 0.1:21:41.53.1:21:44.64.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  She says I am the one  ♫{\i0}
+Dialogue: 0.1:21:44.70.1:21:47.44.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  But the kid is not my son  ♫{\i0}
+Dialogue: 0.1:21:47.50.1:21:49.94.1.85:1 BS..0.0.0..Michael! Michael! Michael!
+Dialogue: 0.1:21:50.01.1:21:51.64.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  She says I am the one  ♫{\i0}
+Dialogue: 0.1:21:51.71.1:21:53.71.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You know what you did  ♫{\i0}
+Dialogue: 0.1:21:53.78.1:21:55.71.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  She says he is my son  ♫{\i0}
+Dialogue: 0.1:21:55.78.1:21:58.22.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Breakin' my heart. babe  ♫{\i0}
+Dialogue: 0.1:21:58.28.1:22:00.02.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  She says I am the one  ♫{\i0}
+Dialogue: 0.1:22:00.08.1:22:04.12.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Yeah. yeah. Billie Jean is not my lover. uh  ♫{\i0}
+Dialogue: 0.1:22:04.19.1:22:08.13.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Yeah. Billie Jean is not my lover. uh  ♫{\i0}
+Dialogue: 0.1:22:08.19.1:22:12.33.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Yeah. Billie Jean is not my lover. uh  ♫{\i0}
+Dialogue: 0.1:22:12.40.1:22:15.00.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Yeah. Billie Jean is not my  ♫{\i0}
+Dialogue: 0.1:22:15.07.1:22:16.90.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't call me Billie Jean  ♫{\i0}
+Dialogue: 0.1:22:19.07.1:22:21.07.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  She stumbled onto the scene  ♫{\i0}
+Dialogue: 0.1:22:40.26.1:22:41.99.1.85:1 BS..0.0.0..Mr. Gordy. over here.
+Dialogue: 0.1:22:43.26.1:22:44.56.1.85:1 BS..0.0.0..Where is he?
+Dialogue: 0.1:22:44.63.1:22:46.83.1.85:1 BS..0.0.0..There he is. There he is. Come on.
+Dialogue: 0.1:22:46.90.1:22:49.10.1.85:1 BS..0.0.0..Are you kidding me? That was brilliant. Michael.
+Dialogue: 0.1:22:49.17.1:22:50.77.1.85:1 BS..0.0.0..Oh. you shook the world with that performance.
+Dialogue: 0.1:22:50.83.1:22:51.90.1.85:1 BS..0.0.0..Oh. my goodness.
+Dialogue: 0.1:22:51.97.1:22:53.20.1.85:1 BS..0.0.0..I'm supposed to stay on my toes longer.
+Dialogue: 0.1:22:53.27.1:22:54.87.1.85:1 BS..0.0.0..Michael. I'm so proud of you.
+Dialogue: 0.1:22:54.94.1:22:56.57.1.85:1 BS..0.0.0..Everyone is talking about it.
+Dialogue: 0.1:22:58.11.1:22:59.41.1.85:1 BS..0.0.0..That was beyond.
+Dialogue: 0.1:22:59.48.1:23:01.25.1.85:1 BS..0.0.0..Y'all see that out tonight? Y'all see that?
+Dialogue: 0.1:23:01.31.1:23:03.25.1.85:1 BS..0.0.0..Oh. come on. y'all did your thang!
+Dialogue: 0.1:23:03.31.1:23:05.88.1.85:1 BS..0.0.0..That's my son! That's my son.
+Dialogue: 0.1:23:05.95.1:23:08.35.1.85:1 BS..0.0.0..A regular money-making machine.
+Dialogue: 0.1:23:10.09.1:23:11.72.1.85:1 BS..0.0.0..- We'll catch you later. Mike.  - Yeah.
+Dialogue: 0.1:23:11.79.1:23:13.99.1.85:1 BS..0.0.0..- Yeah. bye. Mike.  - It's okay. Mother.
+Dialogue: 0.1:23:17.16.1:23:19.10.1.85:1 BS..0.0.0..Just couldn't give him one night. huh?
+Dialogue: 0.1:23:21.20.1:23:22.20.1.85:1 BS..0.0.0..What?
+Dialogue: 0.1:23:25.27.1:23:28.11.1.85:1 BS..0.0.0..{\c&H38d832&\i1}So. now let me get this straight. Don.{\i0}
+Dialogue: 0.1:23:28.17.1:23:31.08.1.85:1 BS..0.0.0..Ten. 11 or 12? How many was it you have?
+Dialogue: 0.1:23:31.14.1:23:35.61.1.85:1 BS..0.0.0..That's 13 of the current world champions that I've promoted.
+Dialogue: 0.1:23:35.68.1:23:38.72.1.85:1 BS..0.0.0..We got 110 fighters in our stable right now.
+Dialogue: 0.1:23:38.78.1:23:40.72.1.85:1 BS..0.0.0..But I'm gonna tell you this. all right?
+Dialogue: 0.1:23:40.78.1:23:43.02.1.85:1 BS..0.0.0..The big business that's gonna be booming?
+Dialogue: 0.1:23:43.99.1:23:45.86.1.85:1 BS..0.0.0..The lightweight class.
+Dialogue: 0.1:23:45.92.1:23:48.56.1.85:1 BS..0.0.0..I'm gonna take those young stars all the way to the top.
+Dialogue: 0.1:23:48.63.1:23:50.76.1.85:1 BS..0.0.0..- Yeah. you are.  - Yeah.
+Dialogue: 0.1:23:50.83.1:23:53.73.1.85:1 BS..0.0.0..- Life is good. my friend.  - Yes. it is.
+Dialogue: 0.1:23:53.80.1:23:54.97.1.85:1 BS..0.0.0..Yes. it is.
+Dialogue: 0.1:23:55.03.1:23:57.07.1.85:1 BS..0.0.0..Those Cubans. straight from Castro himself.
+Dialogue: 0.1:23:57.14.1:23:58.84.1.85:1 BS..0.0.0..- All right.  - Yes.
+Dialogue: 0.1:23:58.90.1:24:01.17.1.85:1 BS..0.0.0..- Oh. yes.  - Yes.
+Dialogue: 0.1:24:01.24.1:24:02.84.1.85:1 BS..0.0.0..Now...
+Dialogue: 0.1:24:02.91.1:24:04.74.1.85:1 BS..0.0.0..What did you want to talk to me about?
+Dialogue: 0.1:24:08.98.1:24:11.52.1.85:1 BS..0.0.0..Have you thought about getting into the music business?
+Dialogue: 0.1:24:11.58.1:24:14.49.1.85:1 BS..0.0.0..- Crossover-type thing?  - I don't follow you.
+Dialogue: 0.1:24:15.75.1:24:17.65.1.85:1 BS..0.0.0..Well. I'm about to take
+Dialogue: 0.1:24:17.72.1:24:19.26.1.85:1 BS..0.0.0..- my boys on a world tour.  - Hmm.
+Dialogue: 0.1:24:19.32.1:24:21.09.1.85:1 BS..0.0.0..You know. we're gonna start with North America.
+Dialogue: 0.1:24:21.16.1:24:22.79.1.85:1 BS..0.0.0..- You know. stadiums only.  - Hmm.
+Dialogue: 0.1:24:22.86.1:24:24.30.1.85:1 BS..0.0.0..You know. the biggest.
+Dialogue: 0.1:24:24.36.1:24:27.10.1.85:1 BS..0.0.0..It's time to show the world that the Jacksons are back.
+Dialogue: 0.1:24:27.17.1:24:29.37.1.85:1 BS..0.0.0..- Right on. Okay.  - And bigger than ever.
+Dialogue: 0.1:24:29.43.1:24:30.70.1.85:1 BS..0.0.0..You've seen them sales on {\c&H38d832&\i1}Thriller.{\i0}
+Dialogue: 0.1:24:30.77.1:24:31.94.1.85:1 BS..0.0.0..- Huh?  - Mm-hmm.
+Dialogue: 0.1:24:32.00.1:24:33.37.1.85:1 BS..0.0.0..People are gonna be climbing the walls.
+Dialogue: 0.1:24:36.61.1:24:38.44.1.85:1 BS..0.0.0..Is Michael gonna be there?
+Dialogue: 0.1:24:43.18.1:24:44.35.1.85:1 BS..0.0.0..Of course Michael's gonna be there.
+Dialogue: 0.1:24:44.42.1:24:46.02.1.85:1 BS..0.0.0..Hmm. That's good to hear.
+Dialogue: 0.1:24:47.02.1:24:48.92.1.85:1 BS..0.0.0..Now. what's in it for me?
+Dialogue: 0.1:24:51.86.1:24:53.49.1.85:1 BS..0.0.0..I've been watching you. Don.
+Dialogue: 0.1:24:53.56.1:24:56.23.1.85:1 BS..0.0.0..- I watch you like a hawk.  - Hmm.
+Dialogue: 0.1:24:56.29.1:24:57.99.1.85:1 BS..0.0.0..I love the way you promote your fighters.
+Dialogue: 0.1:24:58.06.1:25:00.36.1.85:1 BS..0.0.0..- Uh-huh.  - You're the king of marketing.
+Dialogue: 0.1:25:00.43.1:25:02.67.1.85:1 BS..0.0.0..You know. I just. uh. I think that you and I.
+Dialogue: 0.1:25:02.73.1:25:04.57.1.85:1 BS..0.0.0..if we came together. we could. uh...
+Dialogue: 0.1:25:06.47.1:25:08.01.1.85:1 BS..0.0.0..We could form a good partnership.
+Dialogue: 0.1:25:08.07.1:25:09.17.1.85:1 BS..0.0.0..Me and you?
+Dialogue: 0.1:25:09.24.1:25:10.48.1.85:1 BS..0.0.0..I'll cut you a good deal.
+Dialogue: 0.1:25:11.81.1:25:13.04.1.85:1 BS..0.0.0..I like deals.
+Dialogue: 0.1:25:19.88.1:25:21.09.1.85:1 BS..0.0.0..I need...
+Dialogue: 0.1:25:21.75.1:25:23.15.1.85:1 BS..0.0.0..this for my boys.
+Dialogue: 0.1:25:23.99.1:25:25.32.1.85:1 BS..0.0.0..I need it.
+Dialogue: 0.1:25:25.39.1:25:27.59.1.85:1 BS..0.0.0..You know. I think they deserve
+Dialogue: 0.1:25:27.66.1:25:29.49.1.85:1 BS..0.0.0..the Rolls-Royce of sponsorships.
+Dialogue: 0.1:25:29.56.1:25:33.00.1.85:1 BS..0.0.0..I mean. merchandising. marketing. you hear me?
+Dialogue: 0.1:25:33.06.1:25:34.70.1.85:1 BS..0.0.0..I mean. it's got to be huge.
+Dialogue: 0.1:25:34.76.1:25:36.27.1.85:1 BS..0.0.0..And only you and I could do it.
+Dialogue: 0.1:25:38.20.1:25:39.44.1.85:1 BS..0.0.0..It'll be called...
+Dialogue: 0.1:25:40.27.1:25:42.57.1.85:1 BS..0.0.0..- "The Victory Tour."  - Hmm.
+Dialogue: 0.1:25:45.48.1:25:49.71.1.85:1 BS..0.0.0..I may have something for you.
+Dialogue: 0.1:25:49.78.1:25:52.55.1.85:1 BS..0.0.0..Pepsi. They want to get back in the game.
+Dialogue: 0.1:25:52.62.1:25:54.45.1.85:1 BS..0.0.0..Michael could be the face of the brand.
+Dialogue: 0.1:25:54.52.1:25:56.45.1.85:1 BS..0.0.0..do some commercials.
+Dialogue: 0.1:25:56.52.1:25:58.62.1.85:1 BS..0.0.0..All right.
+Dialogue: 0.1:25:58.69.1:26:00.19.1.85:1 BS..0.0.0..- I can see it.  - Yeah.
+Dialogue: 0.1:26:02.19.1:26:03.59.1.85:1 BS..0.0.0..But you wouldn't be bullshitting me.
+Dialogue: 0.1:26:03.66.1:26:05.10.1.85:1 BS..0.0.0..would you. Joe?
+Dialogue: 0.1:26:06.66.1:26:09.10.1.85:1 BS..0.0.0..Because if you can't get Michael...
+Dialogue: 0.1:26:20.34.1:26:22.81.1.85:1 BS..0.0.0..I love it! Now. that's my favorite part.
+Dialogue: 0.1:26:29.39.1:26:31.06.1.85:1 BS..0.0.0..I'm gonna leave it to you. Michael.
+Dialogue: 0.1:26:31.12.1:26:32.22.1.85:1 BS..0.0.0..You can't go yet.
+Dialogue: 0.1:26:32.29.1:26:34.03.1.85:1 BS..0.0.0..No. I'm going to bed. I'm tired.
+Dialogue: 0.1:26:34.09.1:26:35.83.1.85:1 BS..0.0.0..You got to stay for the ending. That's the best part.
+Dialogue: 0.1:26:35.89.1:26:38.93.1.85:1 BS..0.0.0..Your mother is tired. baby.
+Dialogue: 0.1:26:39.00.1:26:41.63.1.85:1 BS..0.0.0..Do me a favor. Make sure you turn the lights off?
+Dialogue: 0.1:26:41.70.1:26:43.57.1.85:1 BS..0.0.0..- Night. mother.  - Good night.
+Dialogue: 0.1:27:19.94.1:27:21.17.1.85:1 BS..0.0.0..Why are you here?
+Dialogue: 0.1:27:22.27.1:27:24.28.1.85:1 BS..0.0.0..What? Can't a father visit his son?
+Dialogue: 0.1:27:26.78.1:27:29.81.1.85:1 BS..0.0.0..Biggest-selling record of all time
+Dialogue: 0.1:27:29.88.1:27:31.88.1.85:1 BS..0.0.0..from a poor kid from Gary.
+Dialogue: 0.1:27:32.58.1:27:33.58.1.85:1 BS..0.0.0..Who would have thought?
+Dialogue: 0.1:27:34.62.1:27:36.95.1.85:1 BS..0.0.0..Me. I thought.
+Dialogue: 0.1:27:42.76.1:27:43.86.1.85:1 BS..0.0.0..Come here.
+Dialogue: 0.1:27:45.30.1:27:47.10.1.85:1 BS..0.0.0..Joseph. I know you want something.
+Dialogue: 0.1:27:52.04.1:27:53.24.1.85:1 BS..0.0.0..Michael...
+Dialogue: 0.1:27:55.24.1:27:57.44.1.85:1 BS..0.0.0..I'm gonna need you to tour with your brothers.
+Dialogue: 0.1:27:59.04.1:28:01.55.1.85:1 BS..0.0.0..Now. I let you do that album by yourself.
+Dialogue: 0.1:28:02.71.1:28:04.45.1.85:1 BS..0.0.0..I'm gonna need you to do this for me.
+Dialogue: 0.1:28:06.32.1:28:07.42.1.85:1 BS..0.0.0..For your family.
+Dialogue: 0.1:28:09.09.1:28:11.26.1.85:1 BS..0.0.0..I'm not a child anymore. Joseph.
+Dialogue: 0.1:28:12.49.1:28:14.06.1.85:1 BS..0.0.0..- And you're not my manager.  - Here we go.
+Dialogue: 0.1:28:14.13.1:28:16.26.1.85:1 BS..0.0.0..I have to start living my own life.
+Dialogue: 0.1:28:18.26.1:28:19.46.1.85:1 BS..0.0.0..On my own.
+Dialogue: 0.1:28:20.50.1:28:22.17.1.85:1 BS..0.0.0..Just like everyone else.
+Dialogue: 0.1:28:22.23.1:28:23.97.1.85:1 BS..0.0.0..You ain't like everyone else.
+Dialogue: 0.1:28:26.97.1:28:28.04.1.85:1 BS..0.0.0..So. you're trying to tell me
+Dialogue: 0.1:28:28.11.1:28:29.81.1.85:1 BS..0.0.0..you want to be treated like an adult?
+Dialogue: 0.1:28:30.97.1:28:32.41.1.85:1 BS..0.0.0..All right.
+Dialogue: 0.1:28:32.48.1:28:36.15.1.85:1 BS..0.0.0..You want to see what the world is like
+Dialogue: 0.1:28:37.35.1:28:39.32.1.85:1 BS..0.0.0..without a family that protects you.
+Dialogue: 0.1:28:40.75.1:28:43.15.1.85:1 BS..0.0.0..Without a family that...
+Dialogue: 0.1:28:44.16.1:28:46.29.1.85:1 BS..0.0.0..understands you.
+Dialogue: 0.1:28:46.36.1:28:49.76.1.85:1 BS..0.0.0..Nobody else will understand you outside this place.
+Dialogue: 0.1:28:49.83.1:28:52.73.1.85:1 BS..0.0.0..There you'll be with all the money in the world.
+Dialogue: 0.1:28:52.80.1:28:54.70.1.85:1 BS..0.0.0..surrounded by people who'll say "yes"
+Dialogue: 0.1:28:55.60.1:28:58.00.1.85:1 BS..0.0.0..to everything.
+Dialogue: 0.1:28:59.30.1:29:00.50.1.85:1 BS..0.0.0..Is that what you want?
+Dialogue: 0.1:29:05.28.1:29:06.61.1.85:1 BS..0.0.0..What kind of sense that make?
+Dialogue: 0.1:29:14.79.1:29:15.99.1.85:1 BS..0.0.0..I'm gonna...
+Dialogue: 0.1:29:16.69.1:29:18.62.1.85:1 BS..0.0.0..call Don King
+Dialogue: 0.1:29:18.69.1:29:20.52.1.85:1 BS..0.0.0..and tell him you're doing a tour.
+Dialogue: 0.1:29:23.16.1:29:25.13.1.85:1 BS..0.0.0..I know you don't want to let your family down.
+Dialogue: 0.1:29:56.53.1:29:59.03.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You're a whole new generation  ♫{\i0}
+Dialogue: 0.1:29:59.10.1:30:00.96.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You're lovin' what you do  ♫{\i0}
+Dialogue: 0.1:30:01.03.1:30:03.03.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Put a Pepsi in the motion  ♫{\i0}
+Dialogue: 0.1:30:03.10.1:30:05.37.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  That choice is up to you. hey-ey  ♫{\i0}
+Dialogue: 0.1:30:05.44.1:30:07.37.1.85:1 BS..0.0.0..Cut! Cut! Cut! Cut!
+Dialogue: 0.1:30:10.34.1:30:12.68.1.85:1 BS..0.0.0..All right. here's what I need. I'm thinking...
+Dialogue: 0.1:30:14.28.1:30:16.95.1.85:1 BS..0.0.0..I move the camera in while you're up here.
+Dialogue: 0.1:30:17.01.1:30:19.85.1.85:1 BS..0.0.0..I need to get a close up of you at the top.
+Dialogue: 0.1:30:19.92.1:30:22.12.1.85:1 BS..0.0.0..so just feel the camera as you come down.
+Dialogue: 0.1:30:22.19.1:30:23.85.1.85:1 BS..0.0.0..- Okay.  - Okay. great. All right.
+Dialogue: 0.1:30:23.92.1:30:26.19.1.85:1 BS..0.0.0..Okay. everybody.
+Dialogue: 0.1:30:26.26.1:30:29.26.1.85:1 BS..0.0.0..Here we go. What is this? What do we got? Take six?
+Dialogue: 0.1:30:30.06.1:30:31.46.1.85:1 BS..0.0.0..Lucky six. Lucky six.
+Dialogue: 0.1:30:31.53.1:30:33.16.1.85:1 BS..0.0.0..Here we go. Energy. everybody!
+Dialogue: 0.1:30:33.23.1:30:35.73.1.85:1 BS..0.0.0..You love the Jacksons. You love the Jacksons.
+Dialogue: 0.1:30:35.80.1:30:37.64.1.85:1 BS..0.0.0..You love Pepsi. Let's go!
+Dialogue: 0.1:30:38.87.1:30:40.47.1.85:1 BS..0.0.0..A marker!
+Dialogue: 0.1:30:40.54.1:30:42.57.1.85:1 BS..0.0.0..B mark!
+Dialogue: 0.1:30:42.64.1:30:43.74.1.85:1 BS..0.0.0..C mark.
+Dialogue: 0.1:30:43.81.1:30:45.44.1.85:1 BS..0.0.0..And playback.
+Dialogue: 0.1:31:18.91.1:31:20.01.1.85:1 BS..0.0.0..Michael!
+Dialogue: 0.1:31:21.65.1:31:22.81.1.85:1 BS..0.0.0..What happened?
+Dialogue: 0.1:31:23.98.1:31:25.68.1.85:1 BS..0.0.0..- Mike. are you okay?  - Back up!
+Dialogue: 0.1:31:25.75.1:31:28.12.1.85:1 BS..0.0.0..- Bill. get him out of here!  - Here. Michael!
+Dialogue: 0.1:31:29.99.1:31:31.92.1.85:1 BS..0.0.0..Hey. you're gonna be okay. okay? You're gonna be okay.
+Dialogue: 0.1:31:31.99.1:31:33.46.1.85:1 BS..0.0.0..Come on. Mike. Clear a path!
+Dialogue: 0.1:31:36.83.1:31:39.90.1.85:1 BS..0.0.0..Out of my way! Michael. I'm coming!
+Dialogue: 0.1:31:39.96.1:31:42.27.1.85:1 BS..0.0.0..Get back! Get out of my way! Clear a path!
+Dialogue: 0.1:31:42.33.1:31:44.47.1.85:1 BS..0.0.0..Get back! Get back!
+Dialogue: 0.1:31:45.64.1:31:48.47.1.85:1 BS..0.0.0..Clear a path! Move! Move. please!
+Dialogue: 0.1:31:48.54.1:31:49.87.1.85:1 BS..0.0.0..Michael!
+Dialogue: 0.1:31:51.28.1:31:52.48.1.85:1 BS..0.0.0..Excuse me!
+Dialogue: 0.1:32:22.91.1:32:24.68.1.85:1 BS..0.0.0..Hey. Kate. come on.
+Dialogue: 0.1:32:27.01.1:32:28.95.1.85:1 BS..0.0.0..- Hey. I need to talk to you.  - Sir.
+Dialogue: 0.1:32:29.01.1:32:30.65.1.85:1 BS..0.0.0..I'm his father. Joseph Jackson.
+Dialogue: 0.1:32:30.71.1:32:32.25.1.85:1 BS..0.0.0..This is his mother. Katherine.
+Dialogue: 0.1:32:32.32.1:32:34.12.1.85:1 BS..0.0.0..- Hi. It's good to meet you.  - Very nice to meet you.
+Dialogue: 0.1:32:34.18.1:32:35.45.1.85:1 BS..0.0.0..Thank you.
+Dialogue: 0.1:32:35.52.1:32:37.99.1.85:1 BS..0.0.0..Well. your son is in stable condition.
+Dialogue: 0.1:32:38.06.1:32:39.46.1.85:1 BS..0.0.0..- All right.  - All right?
+Dialogue: 0.1:32:39.52.1:32:41.83.1.85:1 BS..0.0.0..And. uh. we're trying to bring his heart rate down.
+Dialogue: 0.1:32:41.89.1:32:43.26.1.85:1 BS..0.0.0..but he's in a lot of pain.
+Dialogue: 0.1:32:44.73.1:32:46.16.1.85:1 BS..0.0.0..Okay. When will he recover?
+Dialogue: 0.1:32:46.23.1:32:48.20.1.85:1 BS..0.0.0..It's too soon to tell.
+Dialogue: 0.1:32:48.27.1:32:50.27.1.85:1 BS..0.0.0..It's gonna be a long road. all right?
+Dialogue: 0.1:32:50.33.1:32:53.34.1.85:1 BS..0.0.0..He has third-degree burns and substantial nerve damage.
+Dialogue: 0.1:32:55.44.1:32:57.17.1.85:1 BS..0.0.0..Okay.
+Dialogue: 0.1:32:57.24.1:33:00.34.1.85:1 BS..0.0.0..Do you think he'll ever be able to perform again?
+Dialogue: 0.1:33:00.41.1:33:01.85.1.85:1 BS..0.0.0..Ever?
+Dialogue: 0.1:33:01.91.1:33:03.28.1.85:1 BS..0.0.0..Joseph.
+Dialogue: 0.1:33:06.75.1:33:09.99.1.85:1 BS..0.0.0..Mr. Jackson. your son almost died.
+Dialogue: 0.1:33:10.06.1:33:11.39.1.85:1 BS..0.0.0..I know that.
+Dialogue: 0.1:33:11.46.1:33:13.42.1.85:1 BS..0.0.0..Well. if that fire had caught his clothes.
+Dialogue: 0.1:33:13.49.1:33:16.36.1.85:1 BS..0.0.0..or burned over to his face and eyes. he wouldn't be here.
+Dialogue: 0.1:33:16.43.1:33:18.40.1.85:1 BS..0.0.0..I know my boy.
+Dialogue: 0.1:33:18.46.1:33:20.36.1.85:1 BS..0.0.0..And the only thing that's gonna heal him
+Dialogue: 0.1:33:20.43.1:33:22.27.1.85:1 BS..0.0.0..is by getting back on that stage.
+Dialogue: 0.1:33:23.37.1:33:25.00.1.85:1 BS..0.0.0..That's where he lives.
+Dialogue: 0.1:33:25.07.1:33:26.67.1.85:1 BS..0.0.0..I understand that. sir.
+Dialogue: 0.1:33:26.74.1:33:28.11.1.85:1 BS..0.0.0..- But it's gonna be a while.  - Do you? All right.
+Dialogue: 0.1:33:28.17.1:33:31.01.1.85:1 BS..0.0.0..Yes. I do. But. Mr. Jackson...
+Dialogue: 0.1:33:31.08.1:33:33.58.1.85:1 BS..0.0.0..he's gonna need your support to get there.
+Dialogue: 0.1:33:33.64.1:33:35.08.1.85:1 BS..0.0.0..I'm sorry.
+Dialogue: 0.1:33:41.72.1:33:44.42.1.85:1 BS..0.0.0..It's unlikely that will grow back.
+Dialogue: 0.1:33:44.49.1:33:47.63.1.85:1 BS..0.0.0..You'll need surgery to laser the scar tissue
+Dialogue: 0.1:33:47.69.1:33:51.33.1.85:1 BS..0.0.0..and stretch part of the scalp over the burn.
+Dialogue: 0.1:33:51.40.1:33:54.67.1.85:1 BS..0.0.0..All right? We'll insert an implant to protect the scalp.
+Dialogue: 0.1:33:54.73.1:33:56.57.1.85:1 BS..0.0.0..Will I have to wear a wig?
+Dialogue: 0.1:33:56.63.1:33:58.14.1.85:1 BS..0.0.0..Well. right there on top.
+Dialogue: 0.1:34:00.57.1:34:02.94.1.85:1 BS..0.0.0..What kind of wig? Like. a full wig?
+Dialogue: 0.1:34:03.01.1:34:04.27.1.85:1 BS..0.0.0..Hard to say.
+Dialogue: 0.1:34:04.34.1:34:06.61.1.85:1 BS..0.0.0..There are prosthetic hair weaves we can try.
+Dialogue: 0.1:34:06.68.1:34:08.11.1.85:1 BS..0.0.0..but we won't know until we see
+Dialogue: 0.1:34:08.18.1:34:10.68.1.85:1 BS..0.0.0..how the surgery goes next week.
+Dialogue: 0.1:34:10.75.1:34:13.15.1.85:1 BS..0.0.0..Michael! Michael! Michael!
+Dialogue: 0.1:34:18.09.1:34:20.22.1.85:1 BS..0.0.0..You'll. um...
+Dialogue: 0.1:34:20.29.1:34:22.43.1.85:1 BS..0.0.0..You'll have to stay on the Demerol for a while.
+Dialogue: 0.1:34:22.49.1:34:24.90.1.85:1 BS..0.0.0..I don't want to take medication.
+Dialogue: 0.1:34:24.96.1:34:26.40.1.85:1 BS..0.0.0..I have to be honest. Mr. Jackson.
+Dialogue: 0.1:34:26.46.1:34:28.60.1.85:1 BS..0.0.0..you're gonna need them.
+Dialogue: 0.1:34:28.67.1:34:30.93.1.85:1 BS..0.0.0..We have to replace the implant periodically.
+Dialogue: 0.1:34:31.00.1:34:33.07.1.85:1 BS..0.0.0..The nerves are exposed up there.
+Dialogue: 0.1:34:33.14.1:34:34.84.1.85:1 BS..0.0.0..You'll be in a lot of pain.
+Dialogue: 0.1:34:37.71.1:34:40.34.1.85:1 BS..0.0.0..I'll let you rest. but I'll be back later.
+Dialogue: 0.1:34:43.71.1:34:47.15.1.85:1 BS..0.0.0..Michael! Michael! Michael!
+Dialogue: 0.1:34:48.79.1:34:50.16.1.85:1 BS..0.0.0..You see the number of people
+Dialogue: 0.1:34:50.22.1:34:52.46.1.85:1 BS..0.0.0..who have already gathered outside the hospital.
+Dialogue: 0.1:34:52.52.1:34:54.06.1.85:1 BS..0.0.0..If that isn't a testament
+Dialogue: 0.1:34:54.13.1:34:55.59.1.85:1 BS..0.0.0..to the star power of Michael Jackson.
+Dialogue: 0.1:34:55.66.1:34:56.79.1.85:1 BS..0.0.0..I don't know what is.
+Dialogue: 0.1:34:56.86.1:34:57.96.1.85:1 BS..0.0.0..The fans say they won't go back
+Dialogue: 0.1:34:58.03.1:34:59.96.1.85:1 BS..0.0.0..until Michael Jackson's all right.
+Dialogue: 0.1:35:02.13.1:35:03.57.1.85:1 BS..0.0.0..All right.
+Dialogue: 0.1:35:03.63.1:35:05.60.1.85:1 BS..0.0.0..All right. Joker.
+Dialogue: 0.1:35:05.67.1:35:07.11.1.85:1 BS..0.0.0..Got all your favorites.
+Dialogue: 0.1:35:07.17.1:35:08.94.1.85:1 BS..0.0.0..Golden Temple. they send their love.
+Dialogue: 0.1:35:09.01.1:35:10.11.1.85:1 BS..0.0.0..Got some Mexican.
+Dialogue: 0.1:35:10.18.1:35:11.18.1.85:1 BS..0.0.0..Golden Temple's your favorite. Michael.
+Dialogue: 0.1:35:11.24.1:35:12.48.1.85:1 BS..0.0.0..Chinese. Some fried chicken.
+Dialogue: 0.1:35:12.54.1:35:14.41.1.85:1 BS..0.0.0..Even got these little red candies you like.
+Dialogue: 0.1:35:15.98.1:35:19.52.1.85:1 BS..0.0.0..Thanks. Bill. You can just leave it there.
+Dialogue: 0.1:35:19.58.1:35:20.82.1.85:1 BS..0.0.0..I'm not hungry.
+Dialogue: 0.1:35:21.69.1:35:23.19.1.85:1 BS..0.0.0..Oh. Okay.
+Dialogue: 0.1:35:26.89.1:35:28.33.1.85:1 BS..0.0.0..I'll leave you all to it.
+Dialogue: 0.1:35:28.39.1:35:31.03.1.85:1 BS..0.0.0..- Okay. Thank you. Bill.  - Mm-hmm.
+Dialogue: 0.1:35:58.96.1:36:00.39.1.85:1 BS..0.0.0..I'm sorry. Michael.
+Dialogue: 0.1:36:04.73.1:36:06.53.1.85:1 BS..0.0.0..I should have protected you.
+Dialogue: 0.1:36:08.13.1:36:11.64.1.85:1 BS..0.0.0..Mother. I don't want to discuss this right now.
+Dialogue: 0.1:36:12.90.1:36:13.97.1.85:1 BS..0.0.0..Okay.
+Dialogue: 0.1:36:20.74.1:36:22.25.1.85:1 BS..0.0.0..No one can stop Joseph.
+Dialogue: 0.1:36:25.92.1:36:26.98.1.85:1 BS..0.0.0..Nobody.
+Dialogue: 0.1:36:35.73.1:36:38.26.1.85:1 BS..0.0.0..You just know that. no matter what happens.
+Dialogue: 0.1:36:39.13.1:36:41.07.1.85:1 BS..0.0.0..I'm gonna be here for you...
+Dialogue: 0.1:36:42.07.1:36:43.57.1.85:1 BS..0.0.0..always.
+Dialogue: 0.1:36:46.80.1:36:48.17.1.85:1 BS..0.0.0..I should get some rest now. Mother.
+Dialogue: 0.1:37:12.70.1:37:14.33.1.85:1 BS..0.0.0..It's not your fault.
+Dialogue: 0.1:37:36.99.1:37:39.36.1.85:1 BS..0.0.0..We all need you. Michael!
+Dialogue: 0.1:38:15.03.1:38:16.39.1.85:1 BS..0.0.0..How are you feeling?
+Dialogue: 0.1:38:17.03.1:38:18.33.1.85:1 BS..0.0.0..I'm okay.
+Dialogue: 0.1:38:18.40.1:38:21.07.1.85:1 BS..0.0.0..You know. I'm still in a lot of pain.
+Dialogue: 0.1:38:22.20.1:38:24.50.1.85:1 BS..0.0.0..But the doctors say I'm healing. So...
+Dialogue: 0.1:38:24.57.1:38:25.74.1.85:1 BS..0.0.0..Well. that's good news.
+Dialogue: 0.1:38:26.67.1:38:28.34.1.85:1 BS..0.0.0..All these kids here...
+Dialogue: 0.1:38:29.71.1:38:31.01.1.85:1 BS..0.0.0..They won't fully heal
+Dialogue: 0.1:38:31.08.1:38:33.41.1.85:1 BS..0.0.0..and there's burns all over their bodies.
+Dialogue: 0.1:38:34.18.1:38:35.58.1.85:1 BS..0.0.0..It just breaks my heart.
+Dialogue: 0.1:38:36.55.1:38:37.85.1.85:1 BS..0.0.0..It truly does.
+Dialogue: 0.1:38:40.32.1:38:42.02.1.85:1 BS..0.0.0..You know. it got me thinking...
+Dialogue: 0.1:38:43.79.1:38:46.49.1.85:1 BS..0.0.0..I need to do more for them.
+Dialogue: 0.1:38:46.56.1:38:48.79.1.85:1 BS..0.0.0..How much are we getting for the accident.
+Dialogue: 0.1:38:48.86.1:38:51.46.1.85:1 BS..0.0.0..It should be around seven figures.
+Dialogue: 0.1:38:51.53.1:38:54.37.1.85:1 BS..0.0.0..I need every penny donated to the burn center here.
+Dialogue: 0.1:38:55.60.1:38:57.70.1.85:1 BS..0.0.0..Please. you got to make that happen.
+Dialogue: 0.1:38:57.77.1:38:58.80.1.85:1 BS..0.0.0..Yeah. of course.
+Dialogue: 0.1:39:02.11.1:39:03.81.1.85:1 BS..0.0.0..I'm getting really sleepy.
+Dialogue: 0.1:39:05.81.1:39:07.08.1.85:1 BS..0.0.0..These pain meds.
+Dialogue: 0.1:39:10.65.1:39:11.68.1.85:1 BS..0.0.0..You get some rest
+Dialogue: 0.1:39:11.75.1:39:13.72.1.85:1 BS..0.0.0..and I'll come check on you tomorrow.
+Dialogue: 0.1:39:14.99.1:39:15.99.1.85:1 BS..0.0.0..Okay.
+Dialogue: 0.1:39:18.62.1:39:20.09.1.85:1 BS..0.0.0..Did you bring that?
+Dialogue: 0.1:39:20.16.1:39:22.79.1.85:1 BS..0.0.0..Oh. the mouse. yeah. That's from me.
+Dialogue: 0.1:39:23.96.1:39:25.50.1.85:1 BS..0.0.0..- I love that.  - Good.
+Dialogue: 0.1:39:26.76.1:39:27.76.1.85:1 BS..0.0.0..Thank you. Branca.
+Dialogue: 0.1:39:27.83.1:39:29.10.1.85:1 BS..0.0.0..- I'll see you tomorrow.  - See you.
+Dialogue: 0.1:39:31.07.1:39:33.24.1.85:1 BS..0.0.0..{\c&H38d832&\i1}If that boy doesn't go on tour.{\i0}
+Dialogue: 0.1:39:34.14.1:39:36.34.1.85:1 BS..0.0.0..everything we have falls apart.
+Dialogue: 0.1:39:36.41.1:39:40.51.1.85:1 BS..0.0.0..I'm talking deals. sponsorships. our reputation.
+Dialogue: 0.1:39:40.58.1:39:42.28.1.85:1 BS..0.0.0..Everything. Everything just gone.
+Dialogue: 0.1:39:42.35.1:39:43.68.1.85:1 BS..0.0.0..Everything here.
+Dialogue: 0.1:39:45.15.1:39:47.75.1.85:1 BS..0.0.0..The boys won't be able to tour anymore.
+Dialogue: 0.1:39:47.82.1:39:49.59.1.85:1 BS..0.0.0..Not without Michael.
+Dialogue: 0.1:39:49.65.1:39:52.16.1.85:1 BS..0.0.0..Your son just got out of ICU.
+Dialogue: 0.1:39:55.23.1:39:56.56.1.85:1 BS..0.0.0..Michael never wanted to do
+Dialogue: 0.1:39:56.63.1:39:57.93.1.85:1 BS..0.0.0..The Victory Tour to begin with.
+Dialogue: 0.1:39:58.00.1:40:00.63.1.85:1 BS..0.0.0..You planned this entire thing behind his back.
+Dialogue: 0.1:40:12.44.1:40:15.38.1.85:1 BS..0.0.0..When are you gonna realize he's on his own path?
+Dialogue: 0.1:40:18.22.1:40:20.65.1.85:1 BS..0.0.0..And sometimes. you need to get out of the way.
+Dialogue: 0.1:40:24.29.1:40:26.19.1.85:1 BS..0.0.0..Otherwise. you're gonna lose him.
+Dialogue: 0.1:40:29.49.1:40:31.13.1.85:1 BS..0.0.0..What about the other boys?
+Dialogue: 0.1:40:32.20.1:40:34.03.1.85:1 BS..0.0.0..They'll find their own path.
+Dialogue: 0.1:40:50.15.1:40:51.58.1.85:1 BS..0.0.0..{\c&H38d832&\i1}You know something. Bill?{\i0}
+Dialogue: 0.1:40:51.65.1:40:53.02.1.85:1 BS..0.0.0..What's that?
+Dialogue: 0.1:40:53.08.1:40:54.79.1.85:1 BS..0.0.0..God's been very good to me.
+Dialogue: 0.1:40:54.85.1:40:56.69.1.85:1 BS..0.0.0..That he has.
+Dialogue: 0.1:40:57.82.1:40:59.96.1.85:1 BS..0.0.0..Not just the accident.
+Dialogue: 0.1:41:00.02.1:41:02.43.1.85:1 BS..0.0.0..You know. I... I almost died...
+Dialogue: 0.1:41:04.06.1:41:05.83.1.85:1 BS..0.0.0..but I was given a second chance.
+Dialogue: 0.1:41:06.86.1:41:08.07.1.85:1 BS..0.0.0..Yeah. well...
+Dialogue: 0.1:41:09.10.1:41:10.60.1.85:1 BS..0.0.0..God gave you a gift. son.
+Dialogue: 0.1:41:12.04.1:41:13.44.1.85:1 BS..0.0.0..A platform...
+Dialogue: 0.1:41:14.54.1:41:16.37.1.85:1 BS..0.0.0..to reach the whole world.
+Dialogue: 0.1:41:18.08.1:41:19.51.1.85:1 BS..0.0.0..I can't ignore that.
+Dialogue: 0.1:41:22.11.1:41:23.21.1.85:1 BS..0.0.0..No.
+Dialogue: 0.1:41:26.22.1:41:28.05.1.85:1 BS..0.0.0..I have to shine my light.
+Dialogue: 0.1:41:28.95.1:41:31.22.1.85:1 BS..0.0.0..Spread love and joy.
+Dialogue: 0.1:41:32.89.1:41:34.09.1.85:1 BS..0.0.0..To heal.
+Dialogue: 0.1:41:39.40.1:41:40.43.1.85:1 BS..0.0.0..Yeah.
+Dialogue: 0.1:41:43.13.1:41:44.57.1.85:1 BS..0.0.0..That's my destiny.
+Dialogue: 0.1:41:46.77.1:41:48.91.1.85:1 BS..0.0.0..I truly believe that.
+Dialogue: 0.1:41:48.97.1:41:51.74.1.85:1 BS..0.0.0..Well. why don't we focus on getting you healthy first?
+Dialogue: 0.1:41:51.81.1:41:53.88.1.85:1 BS..0.0.0..Then we can do all those things you need to do.
+Dialogue: 0.1:41:53.94.1:41:55.05.1.85:1 BS..0.0.0..I'm gonna do the tour.
+Dialogue: 0.1:41:56.55.1:41:57.61.1.85:1 BS..0.0.0..Are you sure?
+Dialogue: 0.1:41:58.45.1:41:59.65.1.85:1 BS..0.0.0..For my family.
+Dialogue: 0.1:42:01.75.1:42:03.25.1.85:1 BS..0.0.0..But then I'm ready. Bill.
+Dialogue: 0.1:42:08.46.1:42:10.26.1.85:1 BS..0.0.0..I'm gonna look him straight in the eye.
+Dialogue: 0.1:42:11.06.1:42:12.46.1.85:1 BS..0.0.0..This is my life.
+Dialogue: 0.1:42:15.57.1:42:16.77.1.85:1 BS..0.0.0..My path.
+Dialogue: 0.1:42:21.47.1:42:22.51.1.85:1 BS..0.0.0..Mine.
+Dialogue: 0.1:42:44.96.1:42:46.80.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Okay. let's go out there and tear that stage up.{\i0}
+Dialogue: 0.1:42:46.86.1:42:48.13.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Yeah.{\i0}
+Dialogue: 0.1:42:48.20.1:42:49.30.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Give the audience what they deserve.{\i0}
+Dialogue: 0.1:42:49.37.1:42:50.97.1.85:1 BS..0.0.0..- Yeah.  - The best show ever.
+Dialogue: 0.1:42:52.10.1:42:53.80.1.85:1 BS..0.0.0..{\c&H38d832&\i1}I told you what to think.{\i0}
+Dialogue: 0.1:42:54.97.1:42:56.64.1.85:1 BS..0.0.0..I love you guys.
+Dialogue: 0.1:42:56.71.1:42:58.41.1.85:1 BS..0.0.0..{\c&H38d832&\i1}You ain't like everyone else.{\i0}
+Dialogue: 0.1:42:58.48.1:43:00.21.1.85:1 BS..0.0.0..{\c&H38d832&\i1}You think you're better than me. boy?{\i0}
+Dialogue: 0.1:43:00.28.1:43:01.88.1.85:1 BS..0.0.0..- Love you. too. Mike.  - I really do.
+Dialogue: 0.1:43:01.95.1:43:03.81.1.85:1 BS..0.0.0..Love you. too. Mike.
+Dialogue: 0.1:43:03.88.1:43:05.48.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Nobody else will understand you{\i0}
+Dialogue: 0.1:43:05.55.1:43:07.72.1.85:1 BS..0.0.0..{\c&H38d832&\i1}outside this place.{\i0}
+Dialogue: 0.1:43:07.78.1:43:11.42.1.85:1 BS..0.0.0..The Jacksons on three. One. two. three...
+Dialogue: 0.1:43:11.49.1:43:12.49.1.85:1 BS..0.0.0..Jacksons!
+Dialogue: 0.1:43:14.19.1:43:16.26.1.85:1 BS..0.0.0..{\c&H38d832&\i1}After I give these boys a rest.{\i0}
+Dialogue: 0.1:43:16.33.1:43:18.30.1.85:1 BS..0.0.0..{\c&H38d832&\i1}I'm planning an international tour.{\i0}
+Dialogue: 0.1:43:18.36.1:43:19.73.1.85:1 BS..0.0.0..{\c&H38d832&\i1}With Michael?{\i0}
+Dialogue: 0.1:43:19.80.1:43:23.17.1.85:1 BS..0.0.0..Yeah. we're gonna hit all the big arenas and stadiums.
+Dialogue: 0.1:43:23.23.1:43:25.57.1.85:1 BS..0.0.0..This is just the beginning of The Victory Tour.
+Dialogue: 0.1:43:25.64.1:43:26.80.1.85:1 BS..0.0.0..You got more shows?
+Dialogue: 0.1:43:26.87.1:43:29.17.1.85:1 BS..0.0.0..Yeah. we gonna hit every continent.
+Dialogue: 0.1:43:29.24.1:43:32.44.1.85:1 BS..0.0.0..But. first of all. we're going to Paris. London. Tokyo.
+Dialogue: 0.1:43:32.51.1:43:35.08.1.85:1 BS..0.0.0..South Africa. You name it. we gonna be there.
+Dialogue: 0.1:43:35.15.1:43:38.02.1.85:1 BS..0.0.0..This is gonna be the biggest anyone has ever seen.
+Dialogue: 0.1:43:45.99.1:43:47.16.1.85:1 BS..0.0.0..Shh! Shh!
+Dialogue: 0.1:43:52.36.1:43:54.10.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Reaching out  ♫{\i0}
+Dialogue: 0.1:43:55.73.1:43:58.37.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Across the nighttime  ♫{\i0}
+Dialogue: 0.1:43:58.44.1:44:00.87.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  The city winks a sleepless eye  ♫{\i0}
+Dialogue: 0.1:44:03.57.1:44:06.31.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Hear her voice  ♫{\i0}
+Dialogue: 0.1:44:06.38.1:44:09.45.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Shake my window  ♫{\i0}
+Dialogue: 0.1:44:09.51.1:44:13.68.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Sweet seducing sighs  ♫{\i0}
+Dialogue: 0.1:44:14.45.1:44:15.95.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Get me out  ♫{\i0}
+Dialogue: 0.1:44:17.62.1:44:20.06.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Into the nighttime  ♫{\i0}
+Dialogue: 0.1:44:20.12.1:44:22.73.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Four walls won't hold me tonight  ♫{\i0}
+Dialogue: 0.1:44:22.79.1:44:23.89.1.85:1 BS..0.0.0..Shh. shh!
+Dialogue: 0.1:44:25.60.1:44:30.70.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  If this town is just an apple  ♫{\i0}
+Dialogue: 0.1:44:30.77.1:44:35.04.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Then let me take a bite  ♫{\i0}
+Dialogue: 0.1:44:35.11.1:44:38.88.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  If they say. "Why? Why?"  ♫{\i0}
+Dialogue: 0.1:44:38.94.1:44:41.51.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Tell 'em that it's human nature  ♫{\i0}
+Dialogue: 0.1:44:41.58.1:44:46.02.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Why? Why?. does he do me that way?  ♫{\i0}
+Dialogue: 0.1:44:46.08.1:44:49.52.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  If they say. "Why? Why?"  ♫{\i0}
+Dialogue: 0.1:44:49.59.1:44:52.22.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Tell 'em that it's human nature  ♫{\i0}
+Dialogue: 0.1:44:52.29.1:44:57.06.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Why? Why?. does he do me that way?  ♫{\i0}
+Dialogue: 0.1:44:57.99.1:44:59.56.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Reaching out  ♫{\i0}
+Dialogue: 0.1:45:01.30.1:45:03.37.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  To touch a stranger  ♫{\i0}
+Dialogue: 0.1:45:03.43.1:45:06.34.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Electric eyes are everywhere  ♫{\i0}
+Dialogue: 0.1:45:06.40.1:45:07.67.1.85:1 BS..0.0.0..Shh. shh!
+Dialogue: 0.1:45:08.47.1:45:10.31.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  See that girl  ♫{\i0}
+Dialogue: 0.1:45:11.41.1:45:14.18.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  She knows I'm watching  ♫{\i0}
+Dialogue: 0.1:45:14.25.1:45:18.22.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  She likes the way I stare  ♫{\i0}
+Dialogue: 0.1:45:18.28.1:45:22.05.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  If they say. "Why? Why?"  ♫{\i0}
+Dialogue: 0.1:45:22.12.1:45:24.59.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Tell 'em that it's human nature  ♫{\i0}
+Dialogue: 0.1:45:24.66.1:45:29.26.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Why? Why?. does he do me that way?  ♫{\i0}
+Dialogue: 0.1:45:29.33.1:45:32.80.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  If they say. "Why? Why?"  ♫{\i0}
+Dialogue: 0.1:45:32.86.1:45:35.40.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Tell 'em that it's human nature  ♫{\i0}
+Dialogue: 0.1:45:35.47.1:45:39.30.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Why? Why?. does he do me that way?  ♫{\i0}
+Dialogue: 0.1:45:40.34.1:45:42.67.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I like living this way  ♫{\i0}
+Dialogue: 0.1:45:42.74.1:45:45.38.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I like loving this way  ♫{\i0}
+Dialogue: 0.1:45:51.28.1:45:55.89.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  That way! Oh. why?  ♫{\i0}
+Dialogue: 0.1:45:56.79.1:46:00.49.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  That way! Oh. why?  ♫{\i0}
+Dialogue: 0.1:46:02.69.1:46:04.40.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Reaching out  ♫{\i0}
+Dialogue: 0.1:46:14.07.1:46:15.14.1.85:1 BS..0.0.0..Shh! Shh!
+Dialogue: 0.1:46:16.07.1:46:17.14.1.85:1 BS..0.0.0..Shh! Shh!
+Dialogue: 0.1:46:17.51.1:46:18.51.1.85:1 BS..0.0.0..Shh! Shh!
+Dialogue: 0.1:46:18.58.1:46:20.41.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Into the nighttime  ♫{\i0}
+Dialogue: 0.1:46:26.82.1:46:29.75.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I'm dreaming of the street  ♫{\i0}
+Dialogue: 0.1:46:29.82.1:46:31.02.1.85:1 BS..0.0.0..Everybody sing.
+Dialogue: 0.1:46:31.09.1:46:32.49.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  If they say  ♫{\i0}
+Dialogue: 0.1:46:32.56.1:46:34.79.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Why? Why?  ♫{\i0}
+Dialogue: 0.1:46:34.86.1:46:37.63.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Tell 'em that it's human nature  ♫{\i0}
+Dialogue: 0.1:46:37.70.1:46:39.76.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Why? Why?  ♫{\i0}
+Dialogue: 0.1:46:39.83.1:46:41.37.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Does he do me that way?  ♫{\i0}
+Dialogue: 0.1:46:41.43.1:46:42.83.1.85:1 BS..0.0.0..Everybody!
+Dialogue: 0.1:46:42.90.1:46:45.00.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Why? Why?  ♫{\i0}
+Dialogue: 0.1:46:45.07.1:46:47.87.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Tell 'em that it's human nature  ♫{\i0}
+Dialogue: 0.1:46:47.94.1:46:50.31.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Why? Why?  ♫{\i0}
+Dialogue: 0.1:46:50.37.1:46:52.21.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Does he do me that way?  ♫{\i0}
+Dialogue: 0.1:46:52.28.1:46:55.95.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  If they say "Why? Why? Why? Why?"  ♫{\i0}
+Dialogue: 0.1:46:56.01.1:46:58.45.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Ooh. tell them  ♫{\i0}
+Dialogue: 0.1:47:01.05.1:47:03.19.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Does he do me that way?  ♫{\i0}
+Dialogue: 0.1:47:03.25.1:47:06.82.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  If they say "Why? Why? Why? Why?"  ♫{\i0}
+Dialogue: 0.1:47:06.89.1:47:10.06.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Ooh. tell them  ♫{\i0}
+Dialogue: 0.1:47:10.13.1:47:14.17.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Hey!. does he do me that way?  ♫{\i0}
+Dialogue: 0.1:47:14.23.1:47:16.50.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I like living this way  ♫{\i0}
+Dialogue: 0.1:47:16.57.1:47:22.17.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  That way! Oh. why?  ♫{\i0}
+Dialogue: 0.1:47:22.24.1:47:26.61.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  That way! Oh. why?  ♫{\i0}
+Dialogue: 0.1:48:10.25.1:48:12.02.1.85:1 BS..0.0.0..Good job. everybody.
+Dialogue: 0.1:48:12.09.1:48:13.59.1.85:1 BS..0.0.0..Did you see that?
+Dialogue: 0.1:48:14.66.1:48:15.96.1.85:1 BS..0.0.0..Did you hear them?
+Dialogue: 0.1:48:27.87.1:48:29.24.1.85:1 BS..0.0.0..One more.
+Dialogue: 0.1:48:29.31.1:48:31.28.1.85:1 BS..0.0.0..You hear that crowd?
+Dialogue: 0.1:48:31.34.1:48:32.78.1.85:1 BS..0.0.0..How you feeling. LA?
+Dialogue: 0.1:48:34.35.1:48:36.05.1.85:1 BS..0.0.0..How you doing out there?
+Dialogue: 0.1:49:03.07.1:49:04.41.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Ooh. ah!{\i0}
+Dialogue: 0.1:49:04.48.1:49:06.98.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Ooh. my honey  ♫{\i0}
+Dialogue: 0.1:49:07.04.1:49:09.98.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You got me workin' day and night. ah. ah  ♫{\i0}
+Dialogue: 0.1:49:11.15.1:49:13.82.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  But what is love. girl  ♫{\i0}
+Dialogue: 0.1:49:13.88.1:49:17.02.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  If I'm always out of sight. whoo!  ♫{\i0}
+Dialogue: 0.1:49:17.09.1:49:18.29.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  That's why  ♫{\i0}
+Dialogue: 0.1:49:18.36.1:49:21.46.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You got me workin' day and night  ♫{\i0}
+Dialogue: 0.1:49:21.53.1:49:23.36.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  And I'll be workin'  ♫{\i0}
+Dialogue: 0.1:49:23.43.1:49:25.10.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  From sun up to midnight  ♫{\i0}
+Dialogue: 0.1:49:25.16.1:49:27.10.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You got me workin'. workin' day and night  ♫{\i0}
+Dialogue: 0.1:49:27.16.1:49:28.50.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Hold on  ♫{\i0}
+Dialogue: 0.1:49:28.57.1:49:30.37.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You got me workin'. workin' day and night  ♫{\i0}
+Dialogue: 0.1:49:30.43.1:49:31.80.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I'm getting tired  ♫{\i0}
+Dialogue: 0.1:49:31.87.1:49:34.14.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You got me workin'. workin' day and night  ♫{\i0}
+Dialogue: 0.1:49:34.20.1:49:35.54.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Hold on. Mama  ♫{\i0}
+Dialogue: 0.1:49:35.61.1:49:37.71.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You got me workin'. workin' day and night  ♫{\i0}
+Dialogue: 0.1:49:37.78.1:49:38.98.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Ooh. ah!  ♫{\i0}
+Dialogue: 0.1:49:54.36.1:49:56.66.1.85:1 BS..0.0.0..I'd like to say thank you
+Dialogue: 0.1:49:56.73.1:49:59.90.1.85:1 BS..0.0.0..for six terrific nights here at Dodger Stadium.
+Dialogue: 0.1:49:59.96.1:50:02.00.1.85:1 BS..0.0.0..Also want to thank the entire band.
+Dialogue: 0.1:50:02.07.1:50:04.27.1.85:1 BS..0.0.0..They've been incredible. And most of all...
+Dialogue: 0.1:50:05.40.1:50:07.14.1.85:1 BS..0.0.0..I want to thank my brothers...
+Dialogue: 0.1:50:09.37.1:50:11.21.1.85:1 BS..0.0.0..and you fans.
+Dialogue: 0.1:50:29.79.1:50:31.40.1.85:1 BS..0.0.0..Bring it down. Bring it down.
+Dialogue: 0.1:50:33.00.1:50:34.87.1.85:1 BS..0.0.0..Bring it down. the music. Bring it.
+Dialogue: 0.1:50:37.50.1:50:38.74.1.85:1 BS..0.0.0..Listen up.
+Dialogue: 0.1:50:40.40.1:50:41.57.1.85:1 BS..0.0.0..I'd like to say...
+Dialogue: 0.1:50:43.61.1:50:45.74.1.85:1 BS..0.0.0..this is our last and final tour.
+Dialogue: 0.1:50:51.52.1:50:54.39.1.85:1 BS..0.0.0..That this is our farewell tour!
+Dialogue: 0.1:50:54.45.1:50:58.62.1.85:1 BS..0.0.0..Michael! Michael! Michael!
+Dialogue: 0.1:50:58.69.1:50:59.89.1.85:1 BS..0.0.0..You've all been wonderful.
+Dialogue: 0.1:50:59.96.1:51:01.03.1.85:1 BS..0.0.0..It's been a long 20 years.
+Dialogue: 0.1:51:01.09.1:51:03.49.1.85:1 BS..0.0.0..Michael! Michael! Michael!
+Dialogue: 0.1:51:07.16.1:51:09.57.1.85:1 BS..0.0.0..And we love you all.
+Dialogue: 0.1:51:09.63.1:51:11.74.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Whoo! And that's why  ♫{\i0}
+Dialogue: 0.1:51:11.80.1:51:15.04.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You got me workin' day and night  ♫{\i0}
+Dialogue: 0.1:51:15.11.1:51:16.91.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  And I'll be workin'  ♫{\i0}
+Dialogue: 0.1:51:16.97.1:51:18.64.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  From sun up to midnight  ♫{\i0}
+Dialogue: 0.1:51:18.71.1:51:20.61.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You got me workin'. workin' day and night  ♫{\i0}
+Dialogue: 0.1:51:20.68.1:51:22.05.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Hold on  ♫{\i0}
+Dialogue: 0.1:51:22.11.1:51:24.05.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You got me workin'. workin' day and night  ♫{\i0}
+Dialogue: 0.1:51:24.12.1:51:25.58.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I'm so tired  ♫{\i0}
+Dialogue: 0.1:51:25.65.1:51:27.38.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You got me workin'. workin' day and night  ♫{\i0}
+Dialogue: 0.1:51:27.45.1:51:29.09.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Hold on. Mama  ♫{\i0}
+Dialogue: 0.1:51:29.15.1:51:31.22.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You got me workin'. workin' day and night  ♫{\i0}
+Dialogue: 0.1:51:31.29.1:51:32.49.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Ooh. ah!  ♫{\i0}
+Dialogue: 0.1:51:56.01.1:51:58.02.1.85:1 BS..0.0.0..Good night! I love you!
+Dialogue: 0.1:51:58.08.1:51:59.35.1.85:1 BS..0.0.0..We love you!
+Dialogue: 0.1:52:19.50.1:52:21.44.1.85:1 BS..0.0.0..We love you. Los Angeles!
+Dialogue: 0.1:52:26.24.1:52:28.25.1.85:1 BS..0.0.0..You guys are beautiful!
+Dialogue: 0.1:52:38.19.1:52:39.59.1.85:1 BS..0.0.0..Good night. LA!
+Dialogue: 0.1:52:42.06.1:52:43.19.1.85:1 BS..0.0.0..Thank you!
+Dialogue: 0.1:52:44.46.1:52:45.70.1.85:1 BS..0.0.0..Michael!
+Dialogue: 0.1:52:45.76.1:52:47.80.1.85:1 BS..0.0.0..Why the hell did you say that? What'd you say?
+Dialogue: 0.1:52:47.87.1:52:49.10.1.85:1 BS..0.0.0..You said we're done?
+Dialogue: 0.1:52:50.14.1:52:52.07.1.85:1 BS..0.0.0..We're not done till I say we're done.
+Dialogue: 0.1:52:55.31.1:52:57.94.1.85:1 BS..0.0.0..Michael! Let's talk about this!
+Dialogue: 0.1:52:59.54.1:53:01.41.1.85:1 BS..0.0.0..- Hey. Joe.  - I'm still your father!
+Dialogue: 0.1:53:01.48.1:53:03.41.1.85:1 BS..0.0.0..It's over.
+Dialogue: 0.1:53:03.48.1:53:06.92.1.85:1 BS..0.0.0..Michael! Michael! Michael!
+Dialogue: 0.1:53:23.80.1:53:27.30.1.85:1 BS..0.0.0..Michael! Michael! Michael!
+Dialogue: 0.1:54:14.15.1:54:18.06.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Your butt is mine. gon' tell you right. ah  ♫{\i0}
+Dialogue: 0.1:54:18.12.1:54:22.83.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Just show your face in broad daylight. ah  ♫{\i0}
+Dialogue: 0.1:54:22.89.1:54:26.73.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I'm telling you on who I feel. ah  ♫{\i0}
+Dialogue: 0.1:54:26.80.1:54:30.24.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Gonna hurt your mind. don't shoot to kill  ♫{\i0}
+Dialogue: 0.1:54:30.30.1:54:33.07.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Shamone. shamone  ♫{\i0}
+Dialogue: 0.1:54:33.14.1:54:35.54.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Lay it on me. ah. all right  ♫{\i0}
+Dialogue: 0.1:54:39.18.1:54:43.28.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I'm givin' you on count to three. ah  ♫{\i0}
+Dialogue: 0.1:54:43.35.1:54:47.42.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  To show your stuff or let it be. ah  ♫{\i0}
+Dialogue: 0.1:54:47.48.1:54:51.26.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I'm tellin' you. just watch your mouth. ah  ♫{\i0}
+Dialogue: 0.1:54:51.32.1:54:55.69.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I know your game. what you're about. ah  ♫{\i0}
+Dialogue: 0.1:54:55.76.1:54:57.66.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Well. they say the sky's the limit  ♫{\i0}
+Dialogue: 0.1:54:57.73.1:54:59.80.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  And to me that's really true. ah  ♫{\i0}
+Dialogue: 0.1:54:59.86.1:55:01.60.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  But my friend. you have seen nothing  ♫{\i0}
+Dialogue: 0.1:55:01.67.1:55:04.77.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Just wait 'til I get through. because I'm bad  ♫{\i0}
+Dialogue: 0.1:55:04.84.1:55:06.00.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I'm bad. shamone  ♫{\i0}
+Dialogue: 0.1:55:06.07.1:55:07.60.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Bad. bad. really. really bad  ♫{\i0}
+Dialogue: 0.1:55:07.67.1:55:08.84.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Yeah. you know I'm bad  ♫{\i0}
+Dialogue: 0.1:55:08.91.1:55:10.34.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  I'm bad  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Bad. bad  ♫{\i0}
+Dialogue: 0.1:55:10.41.1:55:11.88.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  You know it  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Really. really bad  ♫{\i0}
+Dialogue: 0.1:55:11.94.1:55:13.88.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  You know I'm bad. I'm bad  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Bad. bad  ♫{\i0}
+Dialogue: 0.1:55:13.94.1:55:16.81.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  Shamone. you know  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Really. really bad  ♫{\i0}
+Dialogue: 0.1:55:16.88.1:55:18.65.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  And the whole world has to answer right now  ♫{\i0}
+Dialogue: 0.1:55:18.72.1:55:20.78.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Just to tell you once again. who's bad?  ♫{\i0}
+Dialogue: 0.1:55:29.06.1:55:30.99.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  The word is out  ♫{\i0}
+Dialogue: 0.1:55:31.06.1:55:32.70.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You're doing it wrong  ♫{\i0}
+Dialogue: 0.1:55:32.76.1:55:37.40.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Gon' lock you up before too long  ♫{\i0}
+Dialogue: 0.1:55:37.47.1:55:41.34.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Your lyin' eyes gon' tell you right. ah  ♫{\i0}
+Dialogue: 0.1:55:41.41.1:55:45.51.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  So listen up. don't make a fight. ah  ♫{\i0}
+Dialogue: 0.1:55:45.58.1:55:49.71.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Your talk is cheap. you're not a man. ah  ♫{\i0}
+Dialogue: 0.1:55:49.78.1:55:54.19.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You're throwin' stones to hide your hands  ♫{\i0}
+Dialogue: 0.1:55:54.25.1:55:55.99.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Well. they say the sky's the limit  ♫{\i0}
+Dialogue: 0.1:55:56.05.1:55:58.06.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  And to me that's really true. ah  ♫{\i0}
+Dialogue: 0.1:55:58.12.1:56:00.33.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  But my friend. you have seen nothing  ♫{\i0}
+Dialogue: 0.1:56:00.39.1:56:03.23.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Just wait 'til I get through. because I'm bad  ♫{\i0}
+Dialogue: 0.1:56:03.29.1:56:04.66.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I'm bad. shamone  ♫{\i0}
+Dialogue: 0.1:56:04.73.1:56:06.23.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Bad. bad. really. really bad  ♫{\i0}
+Dialogue: 0.1:56:06.30.1:56:07.50.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Yeah. you know I'm bad  ♫{\i0}
+Dialogue: 0.1:56:07.56.1:56:09.00.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  I'm bad  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Bad. bad  ♫{\i0}
+Dialogue: 0.1:56:09.07.1:56:10.53.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  You know it  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Really. really bad  ♫{\i0}
+Dialogue: 0.1:56:10.60.1:56:12.74.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  You know I'm bad. I'm bad  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Bad. bad  ♫{\i0}
+Dialogue: 0.1:56:12.80.1:56:14.77.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  You know it. you know  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Really. really bad  ♫{\i0}
+Dialogue: 0.1:56:14.84.1:56:16.71.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  And the whole world has to answer right now  ♫{\i0}
+Dialogue: 0.1:56:16.77.1:56:19.24.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Just to tell you once again. who's bad?  ♫{\i0}
+Dialogue: 0.1:56:26.48.1:56:27.92.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Ow!  ♫{\i0}
+Dialogue: 0.1:56:35.43.1:56:36.43.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Whoo!  ♫{\i0}
+Dialogue: 0.1:56:43.87.1:56:45.90.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  We can change the world tomorrow  ♫{\i0}
+Dialogue: 0.1:56:45.97.1:56:47.74.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  This could be a better place  ♫{\i0}
+Dialogue: 0.1:56:47.80.1:56:49.77.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  If you don't like what I'm sayin'  ♫{\i0}
+Dialogue: 0.1:56:49.84.1:56:53.11.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Then won't you slap my face?. because I'm bad  ♫{\i0}
+Dialogue: 0.1:56:53.18.1:56:54.75.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I'm bad. shamone  ♫{\i0}
+Dialogue: 0.1:56:54.81.1:56:55.95.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Bad. bad. really. really bad  ♫{\i0}
+Dialogue: 0.1:56:56.01.1:56:57.28.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Yeah. you know I'm bad  ♫{\i0}
+Dialogue: 0.1:56:57.35.1:56:58.78.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  I'm bad  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Bad. bad  ♫{\i0}
+Dialogue: 0.1:56:58.85.1:56:59.95.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  You know it  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Really. really bad  ♫{\i0}
+Dialogue: 0.1:57:00.02.1:57:01.25.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Yeah. you know I'm bad  ♫{\i0}
+Dialogue: 0.1:57:01.32.1:57:02.95.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  I'm bad  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Bad. bad  ♫{\i0}
+Dialogue: 0.1:57:03.02.1:57:04.89.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  You know it. you know  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Really. really bad  ♫{\i0}
+Dialogue: 0.1:57:04.96.1:57:06.96.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  And the whole world has to answer right now  ♫{\i0}
+Dialogue: 0.1:57:07.03.1:57:08.13.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Just to tell you once again  ♫{\i0}
+Dialogue: 0.1:57:08.19.1:57:09.63.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Yeah. you know I'm bad  ♫{\i0}
+Dialogue: 0.1:57:09.69.1:57:11.10.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  I'm bad  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Bad. bad  ♫{\i0}
+Dialogue: 0.1:57:11.16.1:57:12.73.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  Shamone  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Really. really bad  ♫{\i0}
+Dialogue: 0.1:57:12.80.1:57:14.83.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You know I'm bad I'm bad. bad  ♫{\i0}
+Dialogue: 0.1:57:14.90.1:57:16.93.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Really. really bad. really. really bad  ♫{\i0}
+Dialogue: 0.1:57:17.00.1:57:19.10.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  You know. you know  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Bad. bad  ♫{\i0}
+Dialogue: 0.1:57:19.17.1:57:21.17.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  You know. come on  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Really. really bad  ♫{\i0}
+Dialogue: 0.1:57:21.24.1:57:23.07.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  And the whole world has to answer right now  ♫{\i0}
+Dialogue: 0.1:57:23.14.1:57:24.98.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Just to tell you once again  ♫{\i0}
+Dialogue: 0.1:57:25.04.1:57:27.64.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  You know I'm bad  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Bad. bad  ♫{\i0}
+Dialogue: 0.1:57:27.71.1:57:29.21.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Really. really bad  ♫{\i0}
+Dialogue: 0.1:57:30.31.1:57:31.92.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Bad. bad  ♫{\i0}
+Dialogue: 0.1:57:31.98.1:57:33.68.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Really. really bad  ♫{\i0}
+Dialogue: 0.1:57:33.75.1:57:35.95.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  You know. you know  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Bad. bad  ♫{\i0}
+Dialogue: 0.1:57:36.02.1:57:37.46.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Really. really bad  ♫{\i0}
+Dialogue: 0.1:57:37.52.1:57:39.69.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  And the whole world has to answer right now  ♫{\i0}
+Dialogue: 0.1:57:39.76.1:57:41.46.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Just to tell you once again. who's bad?  ♫{\i0}
+Dialogue: 0.1:57:41.53.1:57:42.76.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Who's bad?  ♫{\i0}
+Dialogue: 0.1:58:04.28.1:58:06.45.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  When I had you to myself  ♫{\i0}
+Dialogue: 0.1:58:06.52.1:58:08.35.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I didn't want you around  ♫{\i0}
+Dialogue: 0.1:58:08.42.1:58:10.82.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Those pretty faces always made you  ♫{\i0}
+Dialogue: 0.1:58:10.89.1:58:12.89.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Stand out in a crowd  ♫{\i0}
+Dialogue: 0.1:58:12.96.1:58:15.13.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  But someone picked you from the bunch  ♫{\i0}
+Dialogue: 0.1:58:15.19.1:58:17.26.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  One glance was all it took  ♫{\i0}
+Dialogue: 0.1:58:17.33.1:58:19.56.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Now it's much too late for me  ♫{\i0}
+Dialogue: 0.1:58:19.63.1:58:21.83.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  To take a second look  ♫{\i0}
+Dialogue: 0.1:58:21.90.1:58:24.84.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Oh. baby. give me one more chance  ♫{\i0}
+Dialogue: 0.1:58:24.90.1:58:26.07.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  To show you that I love you  ♫{\i0}
+Dialogue: 0.1:58:26.14.1:58:29.21.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Won't you please let me  ♫{\i0}
+Dialogue: 0.1:58:29.27.1:58:30.58.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Back in your heart?  ♫{\i0}
+Dialogue: 0.1:58:30.64.1:58:33.54.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Oh. darlin'. I was blind to let you go  ♫{\i0}
+Dialogue: 0.1:58:33.61.1:58:34.81.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Let you go. baby  ♫{\i0}
+Dialogue: 0.1:58:34.88.1:58:38.08.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  But now since I see you  ♫{\i0}
+Dialogue: 0.1:58:38.15.1:58:39.65.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I want you back  ♫{\i0}
+Dialogue: 0.1:58:39.72.1:58:41.19.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  Yes. I do now  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  I want you back  ♫{\i0}
+Dialogue: 0.1:58:41.25.1:58:42.89.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  Ooh. ooh. baby  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  A. B. C  ♫{\i0}
+Dialogue: 0.1:58:42.95.1:58:44.49.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Everybody clap your hands! Come on!{\i0}
+Dialogue: 0.1:58:44.56.1:58:46.56.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  One. two. three  ♫{\i0}
+Dialogue: 0.1:58:46.62.1:58:48.86.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Do-Re-Mi. a. B. C  ♫{\i0}
+Dialogue: 0.1:58:48.93.1:58:51.16.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  That's how easy love can be  ♫{\i0}
+Dialogue: 0.1:59:03.41.1:59:09.21.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You and I must make a pact  ♫{\i0}
+Dialogue: 0.1:59:09.28.1:59:14.75.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  We must bring salvation back  ♫{\i0}
+Dialogue: 0.1:59:16.09.1:59:20.29.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Where there is love  ♫{\i0}
+Dialogue: 0.1:59:20.36.1:59:25.76.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  I'll be there  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  I'll be there  ♫{\i0}
+Dialogue: 0.1:59:27.27.1:59:32.47.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I'll reach out my hand to you  ♫{\i0}
+Dialogue: 0.1:59:33.67.1:59:39.78.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I'll have faith in all you do  ♫{\i0}
+Dialogue: 0.1:59:39.84.1:59:43.98.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  Just call my name  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Just call my name  ♫{\i0}
+Dialogue: 0.1:59:44.05.1:59:48.05.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  And I'll be there  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  I'll be there  ♫{\i0}
+Dialogue: 0.1:59:48.12.1:59:51.62.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't you know. baby. yeah. yeah  ♫{\i0}
+Dialogue: 0.1:59:51.69.1:59:55.66.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I'll be there  ♫{\i0}
+Dialogue: 0.1:59:55.73.1:59:57.56.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Everybody sing!{\i0}
+Dialogue: 0.1:59:57.63.2:00:01.83.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I'll be there  ♫{\i0}
+Dialogue: 0.2:00:03.37.2:00:06.50.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Just call my name  ♫{\i0}
+Dialogue: 0.2:00:06.57.2:00:10.97.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  I'll be there  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  I'll be there  ♫{\i0}
+Dialogue: 0.2:00:11.04.2:00:13.88.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Just look over your shoulders. honey  ♫{\i0}
+Dialogue: 0.2:00:15.25.2:00:18.08.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I'll be there  ♫{\i0}
+Dialogue: 0.2:00:18.15.2:00:21.19.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  Everybody sing. yeah  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Oh. sing it baby  ♫{\i0}
+Dialogue: 0.2:00:21.25.2:00:24.75.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I'll be there  ♫{\i0}
+Dialogue: 0.2:00:27.09.2:00:31.50.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Just call my name  ♫{\i0}
+Dialogue: 0.2:00:31.56.2:00:38.54.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  And I'll...  ♫{\i0}
+Dialogue: 0.2:00:41.37.2:00:43.64.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Be there  ♫{\i0}
+Dialogue: 0.2:00:46.84.2:00:48.21.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Ow!  ♫{\i0}
+Dialogue: 0.2:00:56.75.2:00:58.99.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Live in sin  ♫{\i0}
+Dialogue: 0.2:00:59.06.2:01:03.19.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Ten years ago on this day. my heart was yearnin'  ♫{\i0}
+Dialogue: 0.2:01:03.26.2:01:07.20.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I promised I would never ever be returning  ♫{\i0}
+Dialogue: 0.2:01:07.27.2:01:11.64.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Where my baby broke my heart and left me yearnin'  ♫{\i0}
+Dialogue: 0.2:01:11.70.2:01:14.01.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Hee  ♫{\i0}
+Dialogue: 0.2:01:14.07.2:01:17.31.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  As we walked into the room. there were faces  ♫{\i0}
+Dialogue: 0.2:01:17.38.2:01:19.64.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Starin'. glarin'. tearin' through me  ♫{\i0}
+Dialogue: 0.2:01:22.55.2:01:25.02.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Someone said. "Welcome to your doom"  ♫{\i0}
+Dialogue: 0.2:01:25.08.2:01:26.72.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Then they smiled with eyes  ♫{\i0}
+Dialogue: 0.2:01:26.78.2:01:29.09.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  That looked as if they knew me  ♫{\i0}
+Dialogue: 0.2:01:29.15.2:01:32.19.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  This is scarin' me  ♫{\i0}
+Dialogue: 0.2:01:32.26.2:01:34.59.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  We walked up the stairs still concealin' gloom  ♫{\i0}
+Dialogue: 0.2:01:34.66.2:01:36.76.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  There were two girls sittin' in my room  ♫{\i0}
+Dialogue: 0.2:01:36.86.2:01:39.00.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  She walked up to my face. said. "This is the place"  ♫{\i0}
+Dialogue: 0.2:01:39.06.2:01:40.93.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You said. "Meet you right here at noon"  ♫{\i0}
+Dialogue: 0.2:01:41.00.2:01:44.44.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  This is Heartbreak Hotel  ♫{\i0}
+Dialogue: 0.2:01:44.50.2:01:45.74.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Everybody!{\i0}
+Dialogue: 0.2:01:45.80.2:01:49.17.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Heartbreak Hotel  ♫{\i0}
+Dialogue: 0.2:01:49.24.2:01:53.51.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Welcome to. heartbreak Hotel  ♫{\i0}
+Dialogue: 0.2:01:53.58.2:01:58.52.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  This place is. heartbreak Hotel  ♫{\i0}
+Dialogue: 0.2:01:58.58.2:02:00.92.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Hope is dead  ♫{\i0}
+Dialogue: 0.2:02:00.98.2:02:05.26.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  She thought that I had cheated for another lover  ♫{\i0}
+Dialogue: 0.2:02:05.32.2:02:09.53.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I turn my back to see that I am undercover  ♫{\i0}
+Dialogue: 0.2:02:09.59.2:02:13.80.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Now I can't convince this girl there ain't no other  ♫{\i0}
+Dialogue: 0.2:02:13.86.2:02:16.10.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Hee  ♫{\i0}
+Dialogue: 0.2:02:16.17.2:02:18.47.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Someone's evil to hurt my soul  ♫{\i0}
+Dialogue: 0.2:02:18.54.2:02:19.80.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Every smile's a trial  ♫{\i0}
+Dialogue: 0.2:02:19.87.2:02:22.94.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Thought in beguile to hurt me  ♫{\i0}
+Dialogue: 0.2:02:25.28.2:02:27.48.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Then the man next door had told  ♫{\i0}
+Dialogue: 0.2:02:27.55.2:02:29.95.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  "She's been here in tears for 15 years."  ♫{\i0}
+Dialogue: 0.2:02:30.01.2:02:32.45.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  This is scarin' me  ♫{\i0}
+Dialogue: 0.2:02:32.52.2:02:34.22.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Ooh  ♫{\i0}
+Dialogue: 0.2:02:34.29.2:02:36.82.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  We came to this place. where the vicious dwell  ♫{\i0}
+Dialogue: 0.2:02:36.89.2:02:39.06.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Found that wicked women run this strange hotel  ♫{\i0}
+Dialogue: 0.2:02:39.12.2:02:41.29.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  There was Sefra and Sue. every girl that I knew  ♫{\i0}
+Dialogue: 0.2:02:41.36.2:02:43.16.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  And my baby said. "Love is through"  ♫{\i0}
+Dialogue: 0.2:02:43.23.2:02:46.63.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  This is Heartbreak Hotel  ♫{\i0}
+Dialogue: 0.2:02:46.70.2:02:48.10.1.85:1 BS..0.0.0..{\c&H38d832&\i1}Everybody!{\i0}
+Dialogue: 0.2:02:48.17.2:02:51.84.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Heartbreak Hotel  ♫{\i0}
+Dialogue: 0.2:02:51.90.2:02:55.97.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  So evil. Heartbreak Hotel  ♫{\i0}
+Dialogue: 0.2:02:56.04.2:03:00.34.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  This place is. heartbreak Hotel  ♫{\i0}
+Dialogue: 0.2:03:00.41.2:03:04.28.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  Someone stabbed my heart  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Heartbreak Hotel  ♫{\i0}
+Dialogue: 0.2:03:04.35.2:03:06.12.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  This is Heartbreak Hotel  ♫{\i0}
+Dialogue: 0.2:03:06.18.2:03:09.12.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Heartbreak Hotel  ♫{\i0}
+Dialogue: 0.2:03:09.19.2:03:13.42.1.85:1 BS..0.0.0..- {\c&H6699ff&\i1}♫  Ten years ago today  ♫{\i0}{\c}  - {\c&H6699ff&\i1}♫  Heartbreak Hotel  ♫{\i0}
+Dialogue: 0.2:03:13.49.2:03:15.09.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  This is Heartbreak Hotel  ♫{\i0}
+Dialogue: 0.2:03:15.16.2:03:18.23.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Heartbreak Hotel  ♫{\i0}
+Dialogue: 0.2:03:34.68.2:03:37.21.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  You know I was wondering  ♫{\i0}
+Dialogue: 0.2:03:37.28.2:03:39.52.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  If you could keep on  ♫{\i0}
+Dialogue: 0.2:03:39.58.2:03:44.16.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Because the force has got a lot of power  ♫{\i0}
+Dialogue: 0.2:03:44.22.2:03:48.36.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  And it makes me feel like... it makes me feel like  ♫{\i0}
+Dialogue: 0.2:03:48.43.2:03:49.63.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Ooh  ♫{\i0}
+Dialogue: 0.2:03:56.80.2:03:58.54.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Oh. baby  ♫{\i0}
+Dialogue: 0.2:03:59.44.2:04:03.21.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Keep on with the force  ♫{\i0}
+Dialogue: 0.2:04:05.44.2:04:08.98.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Heartbreak  ♫{\i0}
+Dialogue: 0.2:04:09.05.2:04:12.05.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Enemy despise  ♫{\i0}
+Dialogue: 0.2:04:13.25.2:04:17.05.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Eternal  ♫{\i0}
+Dialogue: 0.2:04:17.12.2:04:21.09.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Love shines in my eyes. ooh  ♫{\i0}
+Dialogue: 0.2:04:21.16.2:04:25.06.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  So let love  ♫{\i0}
+Dialogue: 0.2:04:25.13.2:04:28.70.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Take us through the hours  ♫{\i0}
+Dialogue: 0.2:04:28.77.2:04:30.90.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I won't be complainin'  ♫{\i0}
+Dialogue: 0.2:04:32.90.2:04:37.37.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  'Cause your love is. all right. all right  ♫{\i0}
+Dialogue: 0.2:04:37.44.2:04:39.78.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Keep on with the force. don't stop  ♫{\i0}
+Dialogue: 0.2:04:39.84.2:04:41.41.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't stop 'til you get enough  ♫{\i0}
+Dialogue: 0.2:04:41.48.2:04:43.95.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Keep on with the force. don't stop  ♫{\i0}
+Dialogue: 0.2:04:44.01.2:04:45.52.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't stop 'til you get enough  ♫{\i0}
+Dialogue: 0.2:04:45.58.2:04:47.95.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Keep on with the force. don't stop  ♫{\i0}
+Dialogue: 0.2:04:48.02.2:04:49.45.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't stop 'til you get enough  ♫{\i0}
+Dialogue: 0.2:04:49.52.2:04:51.96.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Keep on with the force. don't stop  ♫{\i0}
+Dialogue: 0.2:04:52.02.2:04:53.69.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't stop 'til you get enough  ♫{\i0}
+Dialogue: 0.2:05:08.61.2:05:09.87.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Ooh  ♫{\i0}
+Dialogue: 0.2:05:16.98.2:05:19.48.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Oh. baby  ♫{\i0}
+Dialogue: 0.2:05:19.55.2:05:23.32.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Keep on with the force  ♫{\i0}
+Dialogue: 0.2:05:25.82.2:05:29.33.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Heartbreak  ♫{\i0}
+Dialogue: 0.2:05:29.39.2:05:32.36.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Enemy despise  ♫{\i0}
+Dialogue: 0.2:05:33.53.2:05:37.33.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Eternal  ♫{\i0}
+Dialogue: 0.2:05:37.40.2:05:41.41.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Love shines in my eyes. ooh  ♫{\i0}
+Dialogue: 0.2:05:41.47.2:05:45.34.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  So let love  ♫{\i0}
+Dialogue: 0.2:05:45.41.2:05:49.08.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Take us through the hours  ♫{\i0}
+Dialogue: 0.2:05:49.15.2:05:51.68.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I won't be complainin'  ♫{\i0}
+Dialogue: 0.2:05:51.75.2:05:53.18.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Ooh  ♫{\i0}
+Dialogue: 0.2:05:53.25.2:05:57.79.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  'Cause your love is. all right. all right  ♫{\i0}
+Dialogue: 0.2:05:57.86.2:06:00.16.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Keep on with the force. don't stop  ♫{\i0}
+Dialogue: 0.2:06:00.22.2:06:01.79.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't stop 'til you get enough  ♫{\i0}
+Dialogue: 0.2:06:01.86.2:06:04.36.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Keep on with the force. don't stop  ♫{\i0}
+Dialogue: 0.2:06:04.43.2:06:05.86.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't stop 'til you get enough  ♫{\i0}
+Dialogue: 0.2:06:05.93.2:06:08.33.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Keep on with the force. don't stop  ♫{\i0}
+Dialogue: 0.2:06:08.40.2:06:09.83.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't stop 'til you get enough  ♫{\i0}
+Dialogue: 0.2:06:09.90.2:06:12.34.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Keep on with the force. don't stop  ♫{\i0}
+Dialogue: 0.2:06:12.40.2:06:14.10.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't stop 'til you get enough  ♫{\i0}
+Dialogue: 0.2:06:14.17.2:06:17.54.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Lovely  ♫{\i0}
+Dialogue: 0.2:06:17.61.2:06:21.15.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Is the feelin' now  ♫{\i0}
+Dialogue: 0.2:06:21.21.2:06:23.81.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  I won't be complainin'  ♫{\i0}
+Dialogue: 0.2:06:23.88.2:06:25.22.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Ooh  ♫{\i0}
+Dialogue: 0.2:06:25.28.2:06:29.52.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  The force is love power  ♫{\i0}
+Dialogue: 0.2:06:29.59.2:06:32.19.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Keep on with the force. don't stop  ♫{\i0}
+Dialogue: 0.2:06:32.26.2:06:33.69.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't stop 'til you get enough  ♫{\i0}
+Dialogue: 0.2:06:33.76.2:06:36.36.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Keep on with the force. don't stop  ♫{\i0}
+Dialogue: 0.2:06:36.43.2:06:37.73.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't stop 'til you get enough  ♫{\i0}
+Dialogue: 0.2:06:37.80.2:06:39.96.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Keep on with the force. don't stop  ♫{\i0}
+Dialogue: 0.2:06:40.03.2:06:41.87.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't. baby  ♫{\i0}
+Dialogue: 0.2:06:41.93.2:06:44.30.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Keep on with the force. don't stop  ♫{\i0}
+Dialogue: 0.2:06:44.37.2:06:45.87.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't stop 'til you get enough  ♫{\i0}
+Dialogue: 0.2:06:45.94.2:06:48.14.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Keep on. darlin'  ♫{\i0}
+Dialogue: 0.2:06:48.21.2:06:49.91.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Don't stop 'til you get enough  ♫{\i0}
+Dialogue: 0.2:06:49.97.2:06:51.04.1.85:1 BS..0.0.0..{\c&H6699ff&\i1}♫  Keep on  ♫{\i0}
