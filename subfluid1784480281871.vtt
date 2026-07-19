@@ -1,0 +1,1211 @@
+WEBVTT
+
+﻿[Script Info]
+Title: Default file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 720
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Audio File: 
+Video File: 
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+
+[V4+ Styles]
+Format: Name. Fontname. Fontsize. PrimaryColour. SecondaryColour. OutlineColour. BackColour. Bold. Italic. Underline. StrikeOut. ScaleX. ScaleY. Spacing. Angle. BorderStyle. Outline. Shadow. Alignment. MarginL. MarginR. MarginV. Encoding
+Style: Dialogue1.Tahoma.32.&H00FDFDFD.&H000000FF.&H1F000000.&HC7000000.0.0.0.0.100.100.0.0.1.1.4.1.7.2.60.60.15.1
+Style: Dialogue3.Tahoma.36.&H00FDFDFD.&H000000FF.&H1F000000.&HC7000000.0.0.0.0.100.100.0.0.1.1.4.1.7.2.60.60.15.1
+Style: Dialogue2.Tahoma.36.&H00FDFDFD.&H000000FF.&H1F000000.&HC7000000.0.0.0.0.100.100.0.0.1.1.4.1.7.2.60.60.15.1
+
+[Events]
+Format: Layer. Start. End. Style. Name. MarginL. MarginR. MarginV. Effect. Text
+Dialogue: 0.0:00:01.06.0:00:02.05.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(183.395)\i1}My name is Dylan Reinhart.{\i0}
+Dialogue: 0.0:00:02.20.0:00:06.33.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(129.357)\i1}Not too long ago. I was an operative{\i0}
+Dialogue: 0.0:00:02.20.0:00:06.33.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(129.395)\i1}in the CIA known as Agent Reinhart.{\i0}
+Dialogue: 0.0:00:06.47.0:00:08.27.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(219.357)\i1}When I left the Agency{\i0}
+Dialogue: 0.0:00:06.47.0:00:08.27.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(226.395)\i1}and started teaching.{\i0}
+Dialogue: 0.0:00:08.40.0:00:10.34.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(173.392)\i1}I became Professor Reinhart.{\i0}
+Dialogue: 0.0:00:10.47.0:00:12.67.Dialogue3.Unknown.0000.0000.0000..{\an5\pos(361.85)\i1}I wrote a book{\i0}
+Dialogue: 0.0:00:10.47.0:00:12.67.Dialogue3.Unknown.0000.0000.0000..{\an5\pos(360.125)\i1}about abnormal behavior and criminals.{\i0}
+Dialogue: 0.0:00:12.81.0:00:17.41.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(119.354)\i1}which was so successful a serial killer{\i0}
+Dialogue: 0.0:00:12.81.0:00:17.41.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(157.392)\i1}used it as clues for his murders.{\i0}
+Dialogue: 0.0:00:17.55.0:00:19.95.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(196.354)\i1}That's when the New York{\i0}
+Dialogue: 0.0:00:17.55.0:00:19.95.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(121.395)\i1}Police Department reached out to me{\i0}
+Dialogue: 0.0:00:20.08.0:00:21.45.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(172.395)\i1}to help catch him. which I did.{\i0}
+Dialogue: 0.0:00:21.58.0:00:24.35.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(254.357)\i1}so they hired me{\i0}
+Dialogue: 0.0:00:21.58.0:00:24.35.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(137.392)\i1}and I became Consultant Reinhart.{\i0}
+Dialogue: 0.0:00:24.49.0:00:26.25.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(126.395)\i1}So now I'm working with this woman.{\i0}
+Dialogue: 0.0:00:26.39.0:00:30.26.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(177.354)\i1}Detective Lizzie Needham of{\i0}
+Dialogue: 0.0:00:26.39.0:00:30.26.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(120.395)\i1}the homicide division. catching killers.{\i0}
+Dialogue: 0.0:00:30.39.0:00:31.88.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(165.392)\i1}Looks like I need a new name.{\i0}
+Dialogue: 0.0:00:32.03.0:00:33.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(244.357)}Don't they call you
+Dialogue: 0.0:00:32.03.0:00:33.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(212.395)}Professor Psychopath?
+Dialogue: 0.0:00:37.10.0:00:38.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(232.357)}Hey. it's me.
+Dialogue: 0.0:00:37.10.0:00:38.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(258.395)\i1}Hey.{\i0}
+Dialogue: 0.0:00:38.73.0:00:41.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(273.354)}I need a favor
+Dialogue: 0.0:00:38.73.0:00:41.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(184.395)}and you're not gonna like it.
+Dialogue: 0.0:00:41.30.0:00:44.10.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(232.354)\i1}- Uh-oh. What now?{\i0}
+Dialogue: 0.0:00:41.30.0:00:44.10.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(217.392)}- Tell Dad I can't meet.
+Dialogue: 0.0:00:44.24.0:00:47.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(229.354)}Tell him I have a test
+Dialogue: 0.0:00:44.24.0:00:47.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(207.395)}and. uh. I need to study.
+Dialogue: 0.0:00:47.48.0:00:49.97.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(211.395)\i1}Why? What's going on?{\i0}
+Dialogue: 0.0:00:50.11.0:00:52.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(223.357)}Don't worry. I promise
+Dialogue: 0.0:00:50.11.0:00:52.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(155.395)}I'll tell him what's going on soon.
+Dialogue: 0.0:00:52.95.0:00:55.47.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(166.395)\i1}What's going on? Are you OK?{\i0}
+Dialogue: 0.0:00:55.62.0:00:57.14.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(289.357)}- Love you.
+Dialogue: 0.0:00:55.62.0:00:57.14.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(286.395)\i1}- I love you.{\i0}
+Dialogue: 0.0:01:01.36.0:01:03.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(190.354)}We have a homicide
+Dialogue: 0.0:01:01.36.0:01:03.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(225.395)}by drowning possibly.
+Dialogue: 0.0:01:12.60.0:01:15.26.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(213.357)}Just brought in
+Dialogue: 0.0:01:12.60.0:01:15.26.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(170.394)}a female Caucasian. mid 20s.
+Dialogue: 0.0:01:24.11.0:01:26.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(101.395)}Good morning. my assembled prodigies.
+Dialogue: 0.0:01:26.65.0:01:30.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(162.357)}All you former class presidents
+Dialogue: 0.0:01:26.65.0:01:30.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(240.394)}and valedictorians.
+Dialogue: 0.0:01:30.25.0:01:34.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(205.357)}all you type-A go-getters
+Dialogue: 0.0:01:30.25.0:01:34.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(172.392)}and relentless overachievers.
+Dialogue: 0.0:01:34.16.0:01:37.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(131.357)}If you're here for Abnormal Behavior
+Dialogue: 0.0:01:34.16.0:01:37.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(208.395)}or Intro to Psychopaths.
+Dialogue: 0.0:01:37.83.0:01:38.99.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.395)}you've come to the right spot.
+Dialogue: 0.0:01:39.13.0:01:42.83.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(153.357)}If not. now would be a good time
+Dialogue: 0.0:01:39.13.0:01:42.83.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(191.395)}to escape. Any questions?
+Dialogue: 0.0:01:44.67.0:01:46.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(200.395)}Yes? What's your name?
+Dialogue: 0.0:01:46.27.0:01:48.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(298.354)}- Phoebe.
+Dialogue: 0.0:01:46.27.0:01:48.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(269.394)}- OK. Phoebe.
+Dialogue: 0.0:01:48.14.0:01:51.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(139.357)}Asking if there were any questions
+Dialogue: 0.0:01:48.14.0:01:51.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(149.395)}was kind of a rhetorical question.
+Dialogue: 0.0:01:51.14.0:01:53.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(196.357)}because I haven't actually
+Dialogue: 0.0:01:51.14.0:01:53.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(168.395)}taught you anything yet today.
+Dialogue: 0.0:01:53.78.0:01:55.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(163.357)}so there shouldn't be any need
+Dialogue: 0.0:01:53.78.0:01:55.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(259.395)}to ask anything.
+Dialogue: 0.0:01:56.08.0:01:58.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(314.357)}- Sorry.
+Dialogue: 0.0:01:56.08.0:01:58.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(329.392)}- No.
+Dialogue: 0.0:01:58.48.0:02:01.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(219.357)}Psychopaths make up
+Dialogue: 0.0:01:58.48.0:02:01.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(169.395)}one percent of the population.
+Dialogue: 0.0:02:01.92.0:02:06.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(134.354)}which means there are two of them
+Dialogue: 0.0:02:01.92.0:02:06.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(188.395)}in this classroom right now.
+Dialogue: 0.0:02:06.49.0:02:08.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(165.395)}maybe sitting right next to you.
+Dialogue: 0.0:02:09.73.0:02:12.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(145.395)}In a university of 16.000 students.
+Dialogue: 0.0:02:12.16.0:02:15.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(113.395)}that means there are 160 psychopaths
+Dialogue: 0.0:02:16.06.0:02:19.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(113.395)}roaming the campus at any given time.
+Dialogue: 0.0:02:20.77.0:02:23.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(192.357)}- Enjoy your walk to lunch.
+Dialogue: 0.0:02:31.45.0:02:33.28.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(248.354)}I've studied killers
+Dialogue: 0.0:02:31.45.0:02:33.28.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(201.395)}who've amputated limbs.
+Dialogue: 0.0:02:33.42.0:02:37.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(245.357)}removed eyeballs.
+Dialogue: 0.0:02:33.42.0:02:37.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(117.395)}even an entire lung once. but a heart?
+Dialogue: 0.0:02:37.32.0:02:38.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(114.395)}What kind of person removes a heart?
+Dialogue: 0.0:02:39.05.0:02:40.82.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(134.392)}Someone without one of their own?
+Dialogue: 0.0:02:40.96.0:02:44.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(107.357)}Killer whales prey on great white sharks
+Dialogue: 0.0:02:40.96.0:02:44.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(156.395)}off of South Africa. and. get this.
+Dialogue: 0.0:02:45.06.0:02:48.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(115.354)}the sharks have their livers and hearts
+Dialogue: 0.0:02:45.06.0:02:48.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(213.395)}removed by the whales
+Dialogue: 0.0:02:48.16.0:02:49.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(167.395)}with almost surgical precision.
+Dialogue: 0.0:02:49.90.0:02:53.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(114.357)}Whereas human predatory techniques
+Dialogue: 0.0:02:49.90.0:02:53.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(148.395)}don't develop because of hunger.
+Dialogue: 0.0:02:53.57.0:02:56.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(210.354)}So the killer is an orca?
+Dialogue: 0.0:02:53.57.0:02:56.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(124.395)}Is that the takeaway from your story?
+Dialogue: 0.0:02:56.64.0:02:58.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(113.392)}The other ambulances are clear.
+Dialogue: 0.0:02:58.81.0:03:02.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(120.357)}Jane Doe isn't only missing her heart.
+Dialogue: 0.0:02:58.81.0:03:02.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(187.395)}No wallet. no phone. no ID.
+Dialogue: 0.0:03:03.05.0:03:05.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(145.395)}Why would anyone steal a heart?
+Dialogue: 0.0:03:05.65.0:03:08.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(128.357)}Black-market organ ring?
+Dialogue: 0.0:03:05.65.0:03:08.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(115.395)}- People may pay for hearts in the US.
+Dialogue: 0.0:03:09.05.0:03:10.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(126.395)}They tend to go overseas to get 'em.
+Dialogue: 0.0:03:10.82.0:03:14.88.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(189.357)}Last night was 80 degrees.
+Dialogue: 0.0:03:10.82.0:03:14.88.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(170.395)}Hardly leather-jacket weather.
+Dialogue: 0.0:03:15.02.0:03:18.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(161.357)}Maybe it was new and she was
+Dialogue: 0.0:03:15.02.0:03:18.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(116.395)}showing it off. or maybe it wasn't hers.
+Dialogue: 0.0:03:19.09.0:03:22.72.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(217.357)}The jacket isn't cheap.
+Dialogue: 0.0:03:19.09.0:03:22.72.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(118.395)}but her jeans and shoes look low rent.
+Dialogue: 0.0:03:25.90.0:03:28.93.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(361.87)}Oh. that's a Gemma Kadin.
+Dialogue: 0.0:03:25.90.0:03:28.93.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.126)}A designer downtown.
+Dialogue: 0.0:03:34.68.0:03:36.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(229.357)}- That is a great suit.
+Dialogue: 0.0:03:34.68.0:03:36.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(280.395)}- Thank you.
+Dialogue: 0.0:03:36.51.0:03:39.97.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(243.356)}- Tom Ford. 2016?
+Dialogue: 0.0:03:36.51.0:03:39.97.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(211.394)}- Marshalls. last month.
+Dialogue: 0.0:03:40.12.0:03:41.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(230.392)}Detective Needham.
+Dialogue: 0.0:03:41.55.0:03:45.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(123.354)}I need the name of the customer who
+Dialogue: 0.0:03:41.55.0:03:45.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(104.395)}purchased a number three in this jacket.
+Dialogue: 0.0:03:45.45.0:03:47.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(143.395)}Yes. of course. I'll get that for you.
+Dialogue: 0.0:03:48.12.0:03:50.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(144.395)}We are literally the fashion police.
+Dialogue: 0.0:03:51.16.0:03:54.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(176.357)}So the jacket was purchased
+Dialogue: 0.0:03:51.16.0:03:54.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(181.395)}by Frank Fallon on April 6th.
+Dialogue: 0.0:03:55.10.0:03:57.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(125.395)}I delivered it to his daughter. Maggie.
+Dialogue: 0.0:04:02.57.0:04:05.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(188.357)}I have to warn you.
+Dialogue: 0.0:04:02.57.0:04:05.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(220.395)}this picture is graphic.
+Dialogue: 0.0:04:05.41.0:04:07.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(264.395)}Is this Maggie?
+Dialogue: 0.0:04:09.68.0:04:11.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(266.394)}Yes. that's her.
+Dialogue: 0.0:04:11.38.0:04:15.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(131.354)}Mr. Fallon? I'm Detective Needham.
+Dialogue: 0.0:04:11.38.0:04:15.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(215.395)}This is Dylan Reinhart.
+Dialogue: 0.0:04:16.05.0:04:17.54.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(150.395)}Your office told us you'd be here.
+Dialogue: 0.0:04:17.69.0:04:20.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(188.357)}Yeah. I eat here every day.
+Dialogue: 0.0:04:17.69.0:04:20.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(207.394)}Here. sit down. Join me.
+Dialogue: 0.0:04:20.46.0:04:24.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(173.354)}Onishi! Two more Onishi rolls
+Dialogue: 0.0:04:20.46.0:04:24.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(235.395)}for my friends here.
+Dialogue: 0.0:04:24.29.0:04:26.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(151.395)}Best sushi chef in New York City.
+Dialogue: 0.0:04:28.56.0:04:30.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(205.356)}Um. is there somewhere
+Dialogue: 0.0:04:28.56.0:04:30.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(205.395)}we could talk in private?
+Dialogue: 0.0:04:30.90.0:04:34.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(203.354)}There's been an incident
+Dialogue: 0.0:04:30.90.0:04:34.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(148.395)}regarding your daughter. Maggie.
+Dialogue: 0.0:04:39.27.0:04:43.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(146.357)}I was supposed to see her Friday.
+Dialogue: 0.0:04:39.27.0:04:43.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(156.395)}We eat lunch here every Friday.
+Dialogue: 0.0:04:45.75.0:04:49.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(147.357)}Mr. Fallon. we're gonna need you
+Dialogue: 0.0:04:45.75.0:04:49.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(270.395)}to identify her.
+Dialogue: 0.0:04:49.48.0:04:52.65.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(127.394)}You mean to look at her? No. I can't.
+Dialogue: 0.0:04:53.86.0:04:56.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(307.392)}OK. OK.
+Dialogue: 0.0:04:56.66.0:04:59.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(250.357)}How about we go
+Dialogue: 0.0:04:56.66.0:04:59.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(180.395)}by Maggie's apartment first?
+Dialogue: 0.0:05:02.23.0:05:03.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(327.392)}Dad?
+Dialogue: 0.0:05:03.47.0:05:06.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(198.395)}Maggie. Maggie. Maggie!
+Dialogue: 0.0:05:06.27.0:05:07.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(193.395)}What are you doing here?
+Dialogue: 0.0:05:07.54.0:05:09.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(237.354)}You took the words
+Dialogue: 0.0:05:07.54.0:05:09.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(222.395)}right out of my mouth.
+Dialogue: 0.0:05:22.42.0:05:24.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(97.395)}Her name's Amy. Amy Jenkins.
+Dialogue: 0.0:05:24.82.0:05:26.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(207.395)}How do you know Amy?
+Dialogue: 0.0:05:26.82.0:05:30.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(123.357)}We met online after she saw my post
+Dialogue: 0.0:05:26.82.0:05:30.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(251.395)}on Stay B and C.
+Dialogue: 0.0:05:30.53.0:05:32.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(184.357)}She was flying in from Ohio
+Dialogue: 0.0:05:30.53.0:05:32.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(277.394)}for the week.
+Dialogue: 0.0:05:32.19.0:05:34.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(244.354)}wanted to rent out
+Dialogue: 0.0:05:32.19.0:05:34.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(201.395)}my spare bedroom. but...
+Dialogue: 0.0:05:35.53.0:05:37.16.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(161.395)}Why is she wearing my jacket?
+Dialogue: 0.0:05:37.30.0:05:39.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(221.395)}She obviously stole it.
+Dialogue: 0.0:05:39.20.0:05:41.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(173.357)}Did Amy mention any friends.
+Dialogue: 0.0:05:39.20.0:05:41.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(180.395)}family she was here to see?
+Dialogue: 0.0:05:42.04.0:05:43.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(146.395)}She said she didn't know anyone.
+Dialogue: 0.0:05:43.54.0:05:46.10.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(97.395)}How about any places she wanted to go?
+Dialogue: 0.0:05:46.24.0:05:49.21.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(357.88)}She came in late. I gave her a key.
+Dialogue: 0.0:05:46.24.0:05:49.21.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(358.126)}and I never saw her again.
+Dialogue: 0.0:05:49.34.0:05:52.01.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.88)}I can't believe you're still
+Dialogue: 0.0:05:49.34.0:05:52.01.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.126)}renting your room to strangers.
+Dialogue: 0.0:05:52.15.0:05:54.67.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(358.88)}I'm paying it forward.
+Dialogue: 0.0:05:52.15.0:05:54.67.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.123)}I have so much.
+Dialogue: 0.0:05:54.82.0:05:57.18.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.88)}Thanks to my father.
+Dialogue: 0.0:05:54.82.0:05:57.18.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.126)}He'd do anything for me.
+Dialogue: 0.0:05:57.32.0:05:59.29.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.85)}She rents a room
+Dialogue: 0.0:05:57.32.0:05:59.29.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.123)}on one of these websites
+Dialogue: 0.0:05:59.42.0:06:02.91.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.88)}but ends up giving the money back
+Dialogue: 0.0:05:59.42.0:06:02.91.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(358.123)}to the kids in need.
+Dialogue: 0.0:06:03.06.0:06:05.05.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.85)}I can't believe she's dead.
+Dialogue: 0.0:06:05.19.0:06:07.89.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(361.88)}I'll need to see Amy's
+Dialogue: 0.0:06:05.19.0:06:07.89.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(358.126)}Stay B and C profile. any of her things.
+Dialogue: 0.0:06:08.03.0:06:10.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(209.354)}as well as all the emails
+Dialogue: 0.0:06:08.03.0:06:10.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(173.395)}exchanged between you two.
+Dialogue: 0.0:06:11.50.0:06:12.90.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.85)}Psst!
+Dialogue: 0.0:06:14.77.0:06:16.76.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.85)}- Excuse me.
+Dialogue: 0.0:06:14.77.0:06:16.76.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(358.123)}- Yeah.
+Dialogue: 0.0:06:18.01.0:06:21.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(191.357)}Something isn't adding up.
+Dialogue: 0.0:06:18.01.0:06:21.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(151.395)}This murder is way too personal.
+Dialogue: 0.0:06:21.34.0:06:23.21.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(358.88)}If Amy didn't know anybody
+Dialogue: 0.0:06:21.34.0:06:23.21.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.126)}in New York City.
+Dialogue: 0.0:06:23.35.0:06:25.54.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.88)}why would a stranger
+Dialogue: 0.0:06:23.35.0:06:25.54.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.123)}wanna cut out her heart?
+Dialogue: 0.0:06:25.68.0:06:28.88.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(361.88)}They do look similar. which explains
+Dialogue: 0.0:06:25.68.0:06:28.88.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(358.126)}why the shop girl made a bad ID.
+Dialogue: 0.0:06:29.02.0:06:30.65.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.85)}And the cross-race effect.
+Dialogue: 0.0:06:30.79.0:06:33.81.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.88)}People of one race often misidentify
+Dialogue: 0.0:06:30.79.0:06:33.81.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.126)}people of other races.
+Dialogue: 0.0:06:33.96.0:06:36.82.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.85)}The chances of a mistaken ID
+Dialogue: 0.0:06:33.96.0:06:36.82.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(358.126)}go up about 50%.
+Dialogue: 0.0:06:36.96.0:06:39.79.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(357.88)}So maybe they were after Maggie
+Dialogue: 0.0:06:36.96.0:06:39.79.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.126)}and got Amy instead.
+Dialogue: 0.0:06:39.93.0:06:42.52.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.88)}They look alike. she was wearing
+Dialogue: 0.0:06:39.93.0:06:42.52.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.126)}her jacket. staying in her place.
+Dialogue: 0.0:06:42.66.0:06:45.93.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(361.88)}The question is.
+Dialogue: 0.0:06:42.66.0:06:45.93.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(358.126)}why would someone want Maggie dead?
+Dialogue: 0.0:06:50.31.0:06:53.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(209.357)}- Found it. Here you go.
+Dialogue: 0.0:06:50.31.0:06:53.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(249.392)}Thanks.
+Dialogue: 0.0:06:54.81.0:06:57.84.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(358.88)}Somebody's been showing you
+Dialogue: 0.0:06:54.81.0:06:57.84.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.123)}some unwanted attention.
+Dialogue: 0.0:06:58.88.0:07:01.51.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(362.88)}I'm guessing inside that cellophane
+Dialogue: 0.0:06:58.88.0:07:01.51.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.123)}there are some flowers.
+Dialogue: 0.0:07:01.65.0:07:05.88.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.88)}And judging by the faint whiff
+Dialogue: 0.0:07:01.65.0:07:05.88.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.125)}of rhodinal and sour milk.
+Dialogue: 0.0:07:06.02.0:07:09.46.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.88)}I'm gonna guess
+Dialogue: 0.0:07:06.02.0:07:09.46.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.126)}roses and baby's-breath.
+Dialogue: 0.0:07:10.53.0:07:11.86.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(358.88)}Thank you.
+Dialogue: 0.0:07:12.66.0:07:14.63.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.88)}No one throws away fresh flowers.
+Dialogue: 0.0:07:14.76.0:07:18.43.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.88)}unless they didn't want them
+Dialogue: 0.0:07:14.76.0:07:18.43.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.126)}in the first place.
+Dialogue: 0.0:07:18.57.0:07:21.26.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.88)}You recently installed two new locks
+Dialogue: 0.0:07:18.57.0:07:21.26.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.126)}on your front door.
+Dialogue: 0.0:07:21.40.0:07:23.60.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.88)}or your painters did a superb job
+Dialogue: 0.0:07:23.74.0:07:26.83.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(161.357)}everywhere except for the area
+Dialogue: 0.0:07:23.74.0:07:26.83.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(252.395)}round your locks.
+Dialogue: 0.0:07:26.98.0:07:28.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(173.357)}The shades on your windows
+Dialogue: 0.0:07:26.98.0:07:28.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(267.395)}are bottom up.
+Dialogue: 0.0:07:28.94.0:07:31.85.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(142.357)}suggesting you don't want anyone
+Dialogue: 0.0:07:28.94.0:07:31.85.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(146.395)}on the street seeing into your loft.
+Dialogue: 0.0:07:31.98.0:07:35.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(151.395)}Maggie... do you have a stalker?
+Dialogue: 0.0:07:36.92.0:07:40.22.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.88)}What? Why didn't you tell me?
+Dialogue: 0.0:07:36.92.0:07:40.22.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.123)}I would have handled it.
+Dialogue: 0.0:07:40.36.0:07:43.38.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.88)}That's why I didn't tell you.
+Dialogue: 0.0:07:40.36.0:07:43.38.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(357.126)}I knew you'd go crazy.
+Dialogue: 0.0:07:43.53.0:07:46.39.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(358.88)}- Do you know your stalker?
+Dialogue: 0.0:07:43.53.0:07:46.39.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(358.123)}- I've never seen him.
+Dialogue: 0.0:07:46.53.0:07:48.36.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(358.88)}Does he send you anything
+Dialogue: 0.0:07:46.53.0:07:48.36.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.123)}other than flowers?
+Dialogue: 0.0:07:48.50.0:07:50.40.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.88)}He sends photos.
+Dialogue: 0.0:07:50.53.0:07:53.16.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(362.88)}I complained to the local precinct
+Dialogue: 0.0:07:50.53.0:07:53.16.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.126)}last week and gave them the pictures.
+Dialogue: 0.0:07:53.30.0:07:54.67.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(251.392)}Pictures of what?
+Dialogue: 0.0:07:54.80.0:07:56.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(337.392)}Me.
+Dialogue: 0.0:07:58.51.0:08:00.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(169.395)}Was it my heart he was after?
+Dialogue: 0.0:08:01.78.0:08:03.90.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.88)}Did you notice how the dad.
+Dialogue: 0.0:08:01.78.0:08:03.90.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.125)}who looks like a shark.
+Dialogue: 0.0:08:04.05.0:08:06.11.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.88)}didn't react when two cops showed up
+Dialogue: 0.0:08:04.05.0:08:06.11.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.123)}to talk to him?
+Dialogue: 0.0:08:06.25.0:08:09.62.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.88)}- You're not a cop.
+Dialogue: 0.0:08:06.25.0:08:09.62.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.126)}- Hey. I'm cop-ish.
+Dialogue: 0.0:08:09.75.0:08:11.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(187.392)}I'll check if he has a record.
+Dialogue: 0.0:08:11.49.0:08:13.85.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(358.88)}I never would have thought
+Dialogue: 0.0:08:11.49.0:08:13.85.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.126)}that guy would be such a loving father
+Dialogue: 0.0:08:13.99.0:08:15.51.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.88)}after getting a look at his pinky ring.
+Dialogue: 0.0:08:15.66.0:08:17.75.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.88)}I guess you can't judge a man
+Dialogue: 0.0:08:15.66.0:08:17.75.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.126)}by his pinky ring.
+Dialogue: 0.0:08:17.89.0:08:20.09.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.88)}Yes. you can.
+Dialogue: 0.0:08:17.89.0:08:20.09.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.126)}It's a guy with a pinky ring.
+Dialogue: 0.0:08:20.23.0:08:23.82.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.88)}Can we stop talking about pinky rings
+Dialogue: 0.0:08:20.23.0:08:23.82.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.126)}and go and find our stalker?
+Dialogue: 0.0:08:23.97.0:08:25.19.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(292.392)}Follow me.
+Dialogue: 0.0:08:36.04.0:08:38.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(243.395)}Wow. Nice Harley.
+Dialogue: 0.0:08:38.18.0:08:39.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(227.392)}It's Detective Fucci's.
+Dialogue: 0.0:08:39.21.0:08:42.08.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(361.85)}He loves it more than his children.
+Dialogue: 0.0:08:39.21.0:08:42.08.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.123)}Much more.
+Dialogue: 0.0:08:42.22.0:08:44.41.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.88)}The precinct where Maggie
+Dialogue: 0.0:08:42.22.0:08:44.41.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.126)}filed her stalker report
+Dialogue: 0.0:08:44.55.0:08:45.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(193.395)}is gonna email the photos.
+Dialogue: 0.0:08:45.85.0:08:48.59.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.88)}Don't tell anyone
+Dialogue: 0.0:08:45.85.0:08:48.59.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(358.126)}to follow you ever again.
+Dialogue: 0.0:08:48.72.0:08:50.25.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.88)}I'm surprised you weren't pulled over.
+Dialogue: 0.0:08:50.39.0:08:53.26.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(358.88)}As your boss. all I can say is.
+Dialogue: 0.0:08:50.39.0:08:53.26.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.126)}get used to it.
+Dialogue: 0.0:08:53.40.0:08:57.36.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(361.85)}Boss? You should know
+Dialogue: 0.0:08:53.40.0:08:57.36.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(357.126)}I have a thing with authority.
+Dialogue: 0.0:08:57.50.0:08:59.26.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(132.395)}Then I'm ordering you to get over it.
+Dialogue: 0.0:09:05.04.0:09:07.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(235.356)}Lieutenant Gooden.
+Dialogue: 0.0:09:05.04.0:09:07.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(211.395)}um. just out of curiosity.
+Dialogue: 0.0:09:07.84.0:09:10.94.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.88)}when do I get one of those permits
+Dialogue: 0.0:09:07.84.0:09:10.94.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.126)}that allows me to park wherever I want?
+Dialogue: 0.0:09:11.08.0:09:14.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(277.357)}- He's joking.
+Dialogue: 0.0:09:11.08.0:09:14.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(139.395)}- No. no. I'm not. I'd really like one.
+Dialogue: 0.0:09:15.62.0:09:19.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(154.357)}Oh. and we got Maggie's photos
+Dialogue: 0.0:09:15.62.0:09:19.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(155.395)}from the 21st. the local precinct.
+Dialogue: 0.0:09:19.62.0:09:21.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(185.392)}I think we found our stalker.
+Dialogue: 0.0:09:22.26.0:09:24.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(274.357)}They're taken
+Dialogue: 0.0:09:22.26.0:09:24.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(189.395)}over a period of six weeks.
+Dialogue: 0.0:09:24.66.0:09:26.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(131.395)}but all from the same vantage point.
+Dialogue: 0.0:09:26.29.0:09:28.23.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(179.395)}He's gotta live or work there.
+Dialogue: 0.0:09:28.36.0:09:31.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(153.357)}And you're sure there's only one
+Dialogue: 0.0:09:28.36.0:09:31.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(134.392)}Caldo Freddo coffee in Manhattan?
+Dialogue: 0.0:09:31.27.0:09:33.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(188.357)}Yeah. it's where Andy buys
+Dialogue: 0.0:09:31.27.0:09:33.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(274.392)}all our coffee.
+Dialogue: 0.0:09:33.60.0:09:37.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(287.357)}My bike. I...
+Dialogue: 0.0:09:33.60.0:09:37.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(211.395)}I... I parked it just there.
+Dialogue: 0.0:09:38.21.0:09:39.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(286.392)}How did it...
+Dialogue: 0.0:09:39.54.0:09:41.74.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(295.394)}Oh. idiots.
+Dialogue: 0.0:09:42.21.0:09:45.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(179.357)}- Oh. I see. I'm being hazed.
+Dialogue: 0.0:09:42.21.0:09:45.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(265.392)}- I'll talk to 'em.
+Dialogue: 0.0:09:45.18.0:09:48.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(157.357)}No. don't. It's a necessary ritual.
+Dialogue: 0.0:09:45.18.0:09:48.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(175.395)}If they see that it bothers me.
+Dialogue: 0.0:09:48.25.0:09:50.22.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(206.357)}it'll only encourage them
+Dialogue: 0.0:09:48.25.0:09:50.22.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(210.395)}to do something worse.
+Dialogue: 0.0:09:50.35.0:09:52.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(286.357)}Don't worry.
+Dialogue: 0.0:09:50.35.0:09:52.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(114.395)}they'll do something worse regardless.
+Dialogue: 0.0:09:53.09.0:09:55.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(101.395)}Climb in. We're going to the same place.
+Dialogue: 0.0:10:01.03.0:10:02.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(244.357)}- Are you serious?
+Dialogue: 0.0:10:01.03.0:10:02.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(320.395)}- Very.
+Dialogue: 0.0:10:03.77.0:10:05.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(162.395)}OK. you got to consult the dad.
+Dialogue: 0.0:10:05.47.0:10:07.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(267.357)}- I get this guy.
+Dialogue: 0.0:10:05.47.0:10:07.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(149.395)}- Rookie. it's not a barter system.
+Dialogue: 0.0:10:07.70.0:10:09.67.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(226.357)}No. it's a partnership.
+Dialogue: 0.0:10:07.70.0:10:09.67.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(193.395)}and partners compromise.
+Dialogue: 0.0:10:09.80.0:10:11.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(150.395)}as my husband keeps telling me.
+Dialogue: 0.0:10:11.17.0:10:13.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(113.395)}Excuse me. Do you know this woman?
+Dialogue: 0.0:10:13.71.0:10:15.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(339.392)}No.
+Dialogue: 0.0:10:16.28.0:10:19.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(154.356)}If we find the stalker. I'll bait him.
+Dialogue: 0.0:10:16.28.0:10:19.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(118.395)}See if he gets angry. how it escalates.
+Dialogue: 0.0:10:20.12.0:10:21.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(222.354)}See if he has it in him
+Dialogue: 0.0:10:20.12.0:10:21.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(186.392)}to cut out someone's heart.
+Dialogue: 0.0:10:22.12.0:10:23.14.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(196.392)}I know what "bait" means.
+Dialogue: 0.0:10:23.28.0:10:26.22.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(183.357)}- Do you know this woman?
+Dialogue: 0.0:10:23.28.0:10:26.22.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(250.395)}No. sorry.
+Dialogue: 0.0:10:35.96.0:10:38.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(179.357)}- Same angle as the photos.
+Dialogue: 0.0:10:35.96.0:10:38.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(176.392)}- Hi. I'm Detective Needham.
+Dialogue: 0.0:10:38.43.0:10:40.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(206.357)}I need to speak with you
+Dialogue: 0.0:10:38.43.0:10:40.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(244.392)}about this woman.
+Dialogue: 0.0:10:43.77.0:10:45.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(303.395)}I got this.
+Dialogue: 0.0:10:45.17.0:10:46.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(318.392)}NYPD!
+Dialogue: 0.0:10:47.74.0:10:49.97.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(136.395)}OK. OK. Just... Just give me a sec.
+Dialogue: 0.0:10:50.11.0:10:52.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(115.395)}Not a good idea to run from the police.
+Dialogue: 0.0:10:52.15.0:10:54.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(248.357)}My therapist says
+Dialogue: 0.0:10:52.15.0:10:54.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(172.395)}I have impulse control issues.
+Dialogue: 0.0:10:54.38.0:10:57.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(149.357)}And you admit that to the police?
+Dialogue: 0.0:10:54.38.0:10:57.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(247.392)}Nice flower stand.
+Dialogue: 0.0:10:57.19.0:10:59.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(164.357)}Is that where you got the roses
+Dialogue: 0.0:10:57.19.0:10:59.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(245.395)}you sent Maggie?
+Dialogue: 0.0:10:59.25.0:11:02.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(125.357)}- Yeah. but please don't tell my boss.
+Dialogue: 0.0:10:59.25.0:11:02.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(173.395)}- So you admit you stalk her?
+Dialogue: 0.0:11:02.82.0:11:04.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(315.354)}- Yeah.
+Dialogue: 0.0:11:02.82.0:11:04.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(166.395)}- You're really not good at this.
+Dialogue: 0.0:11:04.89.0:11:07.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(195.357)}Did you know that Maggie
+Dialogue: 0.0:11:04.89.0:11:07.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(141.395)}threw out the roses you gave her?
+Dialogue: 0.0:11:07.20.0:11:08.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(137.395)}And that she has a new boyfriend?
+Dialogue: 0.0:11:08.53.0:11:11.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(139.357)}I guess it was just a matter of time.
+Dialogue: 0.0:11:08.53.0:11:11.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(219.395)}her being so beautiful.
+Dialogue: 0.0:11:12.73.0:11:14.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(277.354)}- Who's she?
+Dialogue: 0.0:11:12.73.0:11:14.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(132.395)}- Maybe you thought it was Maggie.
+Dialogue: 0.0:11:15.07.0:11:17.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(291.356)}No. no. no.
+Dialogue: 0.0:11:15.07.0:11:17.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(111.395)}That woman looks nothing like Maggie.
+Dialogue: 0.0:11:17.77.0:11:20.83.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(244.394)}See... Oh. Oh. oh.
+Dialogue: 0.0:11:20.98.0:11:23.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(186.395)}I must have cut myself. Oh.
+Dialogue: 0.0:11:23.18.0:11:24.74.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(216.395)}I might... I might vomit.
+Dialogue: 0.0:11:24.88.0:11:28.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(276.357)}- You can go.
+Dialogue: 0.0:11:24.88.0:11:28.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(264.395)}- No. you can't.
+Dialogue: 0.0:11:30.32.0:11:33.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(125.395)}I'm confused. Um. can I go or do I...?
+Dialogue: 0.0:11:33.82.0:11:35.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(217.357)}I just forwarded myself
+Dialogue: 0.0:11:33.82.0:11:35.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(254.395)}your contact info
+Dialogue: 0.0:11:35.52.0:11:38.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(148.357)}and deleted Maggie's information
+Dialogue: 0.0:11:35.52.0:11:38.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(234.395)}and all your photos.
+Dialogue: 0.0:11:38.23.0:11:42.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(108.357)}The stalking ends now. or I'll make sure
+Dialogue: 0.0:11:38.23.0:11:42.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(112.395)}you're never able to hold a knife again.
+Dialogue: 0.0:11:42.53.0:11:44.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(230.392)}let alone cut flowers.
+Dialogue: 0.0:11:45.37.0:11:47.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(140.357)}Oh. you're giving me your number.
+Dialogue: 0.0:11:45.37.0:11:47.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(287.392)}That's cool.
+Dialogue: 0.0:11:47.44.0:11:49.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(266.354)}It's the number
+Dialogue: 0.0:11:47.44.0:11:49.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(207.395)}of a police psychologist.
+Dialogue: 0.0:11:49.57.0:11:52.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(151.357)}If you don't call him by tomorrow.
+Dialogue: 0.0:11:49.57.0:11:52.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(290.392)}I'll be back.
+Dialogue: 0.0:11:52.41.0:11:54.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(254.395)}Now you can go.
+Dialogue: 0.0:11:57.41.0:11:58.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(146.395)}Thanks for letting me handle that.
+Dialogue: 0.0:11:58.95.0:12:00.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(204.354)}Handle? You were about
+Dialogue: 0.0:11:58.95.0:12:00.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(250.395)}to just let him go.
+Dialogue: 0.0:12:00.88.0:12:02.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(226.354)}He was about to faint
+Dialogue: 0.0:12:00.88.0:12:02.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(228.395)}over a drop of blood.
+Dialogue: 0.0:12:02.62.0:12:04.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(244.357)}There was no way
+Dialogue: 0.0:12:02.62.0:12:04.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(123.392)}he could have cut out a human heart.
+Dialogue: 0.0:12:04.75.0:12:07.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(155.357)}- I know. I just like to make sure.
+Dialogue: 0.0:12:04.75.0:12:07.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(315.395)}- Why?
+Dialogue: 0.0:12:07.76.0:12:11.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(180.357)}Because he... I'm your boss.
+Dialogue: 0.0:12:07.76.0:12:11.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(127.395)}I don't need to explain myself to you.
+Dialogue: 0.0:12:11.69.0:12:14.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(280.357)}Fair enough.
+Dialogue: 0.0:12:11.69.0:12:14.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(114.395)}One question. boss. Do we get to eat?
+Dialogue: 0.0:12:15.03.0:12:17.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(200.357)}Sure. right after we catch
+Dialogue: 0.0:12:15.03.0:12:17.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(128.392)}whoever cut out that woman's heart.
+Dialogue: 0.0:12:18.57.0:12:19.97.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(225.395)}Actually. I'm starving.
+Dialogue: 0.0:12:22.00.0:12:23.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(162.395)}Lizzie. you want anything else?
+Dialogue: 0.0:12:23.87.0:12:26.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(128.395)}No. thank you. Andy. It was so good.
+Dialogue: 0.0:12:27.04.0:12:28.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(267.395)}I love your bar.
+Dialogue: 0.0:12:29.71.0:12:31.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(114.357)}Actually. if you could tell your husband
+Dialogue: 0.0:12:29.71.0:12:31.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(240.395)}to pick up his pace
+Dialogue: 0.0:12:32.08.0:12:34.74.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(225.354)}before I stick this fork
+Dialogue: 0.0:12:32.08.0:12:34.74.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(212.395)}in the back of my hand.
+Dialogue: 0.0:12:34.88.0:12:37.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(146.357)}It takes approximately 20 minutes
+Dialogue: 0.0:12:34.88.0:12:37.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(239.395)}from starting to eat
+Dialogue: 0.0:12:37.69.0:12:39.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(283.354)}for the brain
+Dialogue: 0.0:12:37.69.0:12:39.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(190.395)}to send signals of fullness.
+Dialogue: 0.0:12:39.89.0:12:42.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(191.354)}We should chew each bite
+Dialogue: 0.0:12:39.89.0:12:42.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(267.395)}until it liquefies
+Dialogue: 0.0:12:42.22.0:12:45.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(139.395)}or loses texture before swallowing.
+Dialogue: 0.0:12:46.49.0:12:48.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(181.356)}- Yes. he's like this at home.
+Dialogue: 0.0:12:46.49.0:12:48.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(275.395)}- I'm so sorry.
+Dialogue: 0.0:12:49.06.0:12:51.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(270.357)}I'm telling you.
+Dialogue: 0.0:12:49.06.0:12:51.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(207.395)}if you can handle Dylan.
+Dialogue: 0.0:12:51.13.0:12:53.26.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(154.395)}there is no killer you can't catch.
+Dialogue: 0.0:12:59.34.0:13:00.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(210.395)}What. is the ME ready?
+Dialogue: 0.0:13:01.01.0:13:03.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(282.354)}I don't know.
+Dialogue: 0.0:13:01.01.0:13:03.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(130.395)}I just don't feel like waiting anymore.
+Dialogue: 0.0:13:05.71.0:13:07.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(329.392)}Ooh.
+Dialogue: 0.0:13:09.58.0:13:11.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(278.395)}Bye. I guess.
+Dialogue: 0.0:13:11.49.0:13:12.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(333.395)}Bye.
+Dialogue: 0.0:13:19.03.0:13:20.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(319.395)}Doug?
+Dialogue: 0.0:13:20.80.0:13:22.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(323.395)}Doug!
+Dialogue: 0.0:13:24.63.0:13:27.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(115.395)}I'm trying to overcome negative minds.
+Dialogue: 0.0:13:27.20.0:13:29.26.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(216.357)}- Can you come back?
+Dialogue: 0.0:13:27.20.0:13:29.26.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(305.394)}- Uh. no.
+Dialogue: 0.0:13:31.04.0:13:34.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(95.357)}The vic showed no signs of strangulation.
+Dialogue: 0.0:13:31.04.0:13:34.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(222.394)}no defensive wounds.
+Dialogue: 0.0:13:34.48.0:13:35.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(232.395)}no signs of struggle.
+Dialogue: 0.0:13:35.98.0:13:39.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(137.357)}I found no injection marks. which is
+Dialogue: 0.0:13:35.98.0:13:39.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(134.392)}consistent with the initial tox screen
+Dialogue: 0.0:13:39.58.0:13:41.14.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(172.357)}that said there were no drugs
+Dialogue: 0.0:13:39.58.0:13:41.14.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(273.395)}in the system.
+Dialogue: 0.0:13:41.28.0:13:43.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(211.395)}So why was she killed?
+Dialogue: 0.0:13:43.55.0:13:46.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(176.354)}The motive for most murders
+Dialogue: 0.0:13:43.55.0:13:46.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(178.395)}is either greed. love or pride.
+Dialogue: 0.0:13:46.55.0:13:48.99.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(228.357)}Do you really believe
+Dialogue: 0.0:13:46.55.0:13:48.99.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(156.395)}the enormity of human behavior
+Dialogue: 0.0:13:49.12.0:13:51.09.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(179.395)}can fit into three categories?
+Dialogue: 0.0:13:51.23.0:13:53.19.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(98.395)}Ha! Maybe you should try meditation too.
+Dialogue: 0.0:13:53.33.0:13:55.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(149.354)}It increases the cortical thickness
+Dialogue: 0.0:13:53.33.0:13:55.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(230.395)}of the hippocampus.
+Dialogue: 0.0:13:55.83.0:13:56.85.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(208.395)}which governs learning.
+Dialogue: 0.0:13:57.00.0:13:59.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(118.354)}and it decreases the brain cell volume
+Dialogue: 0.0:13:57.00.0:13:59.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(256.395)}in the amygdala.
+Dialogue: 0.0:13:59.80.0:14:02.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(110.395)}which governs fear. anxiety and stress.
+Dialogue: 0.0:14:02.64.0:14:05.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(264.354)}which can lead
+Dialogue: 0.0:14:02.64.0:14:05.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(183.395)}to overly simplistic theories.
+Dialogue: 0.0:14:05.54.0:14:06.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(285.392)}OK.
+Dialogue: 0.0:14:06.51.0:14:08.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(220.357)}Did you have any luck
+Dialogue: 0.0:14:06.51.0:14:08.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(194.395)}on the fingerprint in AFIS?
+Dialogue: 0.0:14:08.58.0:14:09.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(288.392)}No.
+Dialogue: 0.0:14:12.55.0:14:14.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(182.357)}Distract him.
+Dialogue: 0.0:14:12.55.0:14:14.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(310.392)}- What?
+Dialogue: 0.0:14:15.98.0:14:17.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(182.357)}Distract him.
+Dialogue: 0.0:14:15.98.0:14:17.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(315.395)}- Why?
+Dialogue: 0.0:14:18.05.0:14:20.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(329.354)}- No.
+Dialogue: 0.0:14:18.05.0:14:20.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(318.392)}- Do it.
+Dialogue: 0.0:14:24.76.0:14:27.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(194.395)}So. you meditate?
+Dialogue: 0.0:14:27.50.0:14:29.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(109.395)}When I'm not being interrupted.
+Dialogue: 0.0:14:29.43.0:14:30.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(142.395)}I. um... I thought about meditating.
+Dialogue: 0.0:14:30.87.0:14:34.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(266.357)}I hear it's great
+Dialogue: 0.0:14:30.87.0:14:34.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(142.395)}for building internal. um. energies.
+Dialogue: 0.0:14:35.00.0:14:37.97.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(101.357)}Did you always wanna be an ME. Doug?
+Dialogue: 0.0:14:35.00.0:14:37.97.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(221.395)}I'm curious about you.
+Dialogue: 0.0:14:38.11.0:14:40.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(200.357)}When did it occur to you.
+Dialogue: 0.0:14:38.11.0:14:40.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(148.395)}"I wanna cut open dead people"?
+Dialogue: 0.0:14:41.01.0:14:45.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(169.356)}Was it. like. an ah-ha moment
+Dialogue: 0.0:14:41.01.0:14:45.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(217.392)}or a childhood dream?
+Dialogue: 0.0:14:47.45.0:14:50.21.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(146.357)}- Well. you know. um. it's a long...
+Dialogue: 0.0:14:47.45.0:14:50.21.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(264.395)}- Nice chatting.
+Dialogue: 0.0:14:51.12.0:14:52.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(234.395)}Bye. Doug.
+Dialogue: 0.0:14:52.69.0:14:54.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.392)}Childhood dream.
+Dialogue: 0.0:14:55.99.0:14:58.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(154.357)}- Don't ever do that to me again.
+Dialogue: 0.0:14:55.99.0:14:58.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(232.395)}- Doug's not so bad.
+Dialogue: 0.0:14:58.76.0:15:00.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(213.354)}You don't need to steal
+Dialogue: 0.0:14:58.76.0:15:00.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(212.395)}a dead woman's prints.
+Dialogue: 0.0:15:00.73.0:15:03.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(207.354)}- You could have asked.
+Dialogue: 0.0:15:00.73.0:15:03.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(116.395)}- That wouldn't be nearly so much fun.
+Dialogue: 0.0:15:03.20.0:15:04.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(145.395)}Anyway. I didn't steal. I borrowed.
+Dialogue: 0.0:15:05.10.0:15:06.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(271.392)}Oh. You stole.
+Dialogue: 0.0:15:06.47.0:15:09.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(169.356)}Look. we have a dead woman
+Dialogue: 0.0:15:06.47.0:15:09.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(122.395)}no one knows. No drugs. no struggle.
+Dialogue: 0.0:15:09.94.0:15:12.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(135.357)}Finding out who she is may help us
+Dialogue: 0.0:15:09.94.0:15:12.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(116.395)}figure out who else saw her that night.
+Dialogue: 0.0:15:12.97.0:15:14.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(124.395)}I need fingerprints with no paper trail.
+Dialogue: 0.0:15:14.91.0:15:16.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(338.392)}Ah.
+Dialogue: 0.0:15:16.31.0:15:19.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(179.357)}You think your super special
+Dialogue: 0.0:15:16.31.0:15:19.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(170.392)}secret friend will find a match.
+Dialogue: 0.0:15:19.71.0:15:21.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(271.392)}Is he CIA too?
+Dialogue: 0.0:15:21.25.0:15:25.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(168.357)}My super special secret friend
+Dialogue: 0.0:15:21.25.0:15:25.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(105.392)}can find out much more than the NYPD.
+Dialogue: 0.0:15:28.42.0:15:31.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(243.357)}You playing tennis
+Dialogue: 0.0:15:28.42.0:15:31.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(185.395)}with a really small racquet?
+Dialogue: 0.0:15:31.19.0:15:32.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(198.395)}Shocking how you forgot.
+Dialogue: 0.0:15:32.33.0:15:34.99.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(191.357)}considering I thrashed you
+Dialogue: 0.0:15:32.33.0:15:34.99.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(132.395)}on the squash court so many times.
+Dialogue: 0.0:15:35.13.0:15:37.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(115.395)}You wish. There's a fingerprint on this.
+Dialogue: 0.0:15:37.47.0:15:39.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(187.357)}Belongs to a young woman
+Dialogue: 0.0:15:37.47.0:15:39.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(192.392)}who had her heart cut out.
+Dialogue: 0.0:15:39.90.0:15:41.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(258.357)}I need your help
+Dialogue: 0.0:15:39.90.0:15:41.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(205.392)}to find out who she was.
+Dialogue: 0.0:15:41.84.0:15:44.97.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(274.357)}A shot glass?
+Dialogue: 0.0:15:41.84.0:15:44.97.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(178.395)}Rushing a fraternity. are we?
+Dialogue: 0.0:15:45.11.0:15:47.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(199.357)}Her name's Amy Jenkins.
+Dialogue: 0.0:15:45.11.0:15:47.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(195.392)}if that is indeed her name.
+Dialogue: 0.0:15:47.94.0:15:50.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(208.357)}She's not in the system.
+Dialogue: 0.0:15:47.94.0:15:50.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(121.394)}no birth certificate. no school records.
+Dialogue: 0.0:15:50.75.0:15:52.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(167.395)}We can't even alert her family.
+Dialogue: 0.0:15:52.48.0:15:56.28.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(267.356)}OK. Detective.
+Dialogue: 0.0:15:52.48.0:15:56.28.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(173.392)}Or is it Consultant Detective?
+Dialogue: 0.0:15:56.42.0:15:58.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(138.395)}Do you get a badge? Free donuts?
+Dialogue: 0.0:15:58.92.0:16:01.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(131.357)}Can I press the buttons to make the
+Dialogue: 0.0:15:58.92.0:16:01.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(121.395)}lights on the car go round and round?
+Dialogue: 0.0:16:01.49.0:16:03.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(241.357)}- Are you through?
+Dialogue: 0.0:16:01.49.0:16:03.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(236.395)}- Clearly you aren't.
+Dialogue: 0.0:16:05.46.0:16:08.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(209.357)}It's only a matter of time
+Dialogue: 0.0:16:05.46.0:16:08.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(140.395)}before you're back in the acronym.
+Dialogue: 0.0:16:08.86.0:16:10.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(116.394)}We did have fun back then. didn't we?
+Dialogue: 0.0:16:11.27.0:16:13.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(138.357)}- Or you could come work with me.
+Dialogue: 0.0:16:11.27.0:16:13.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(329.392)}- Oh!
+Dialogue: 0.0:16:13.20.0:16:17.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(177.357)}The wayfaring. enigmatic life
+Dialogue: 0.0:16:13.20.0:16:17.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(169.395)}of the independent contractor.
+Dialogue: 0.0:16:17.57.0:16:20.10.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(230.394)}Unallied. self-reliant.
+Dialogue: 0.0:16:20.24.0:16:22.23.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(203.395)}It's really quite liberating.
+Dialogue: 0.0:16:22.44.0:16:24.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(264.357)}I'm quite happy
+Dialogue: 0.0:16:22.44.0:16:24.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(205.395)}with my life the way it is.
+Dialogue: 0.0:16:25.55.0:16:29.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(179.357)}As a former Agency analyst.
+Dialogue: 0.0:16:25.55.0:16:29.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(105.395)}writer. teacher. and now cop consultant.
+Dialogue: 0.0:16:29.48.0:16:30.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(227.357)}Just as you dreamed
+Dialogue: 0.0:16:29.48.0:16:30.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(224.395)}when you were a kid.
+Dialogue: 0.0:16:31.12.0:16:32.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(249.392)}I was never a kid.
+Dialogue: 0.0:16:35.19.0:16:38.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(173.357)}I'll use the print to reconstruct
+Dialogue: 0.0:16:35.19.0:16:38.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(178.395)}the victim's actual fingerprint
+Dialogue: 0.0:16:38.73.0:16:40.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(117.395)}and hack into her cellphone provider's
+Dialogue: 0.0:16:40.39.0:16:42.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(264.354)}biometric cloud
+Dialogue: 0.0:16:40.39.0:16:42.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(147.395)}of cryptographic hash signatures.
+Dialogue: 0.0:16:43.03.0:16:45.83.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(153.357)}With a dactylogram match. I can
+Dialogue: 0.0:16:43.03.0:16:45.83.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(123.395)}data-dump the contents of her phone
+Dialogue: 0.0:16:45.97.0:16:47.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(182.395)}onto any computer desktop.
+Dialogue: 0.0:16:48.50.0:16:49.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(317.395)}Totally.
+Dialogue: 0.0:17:11.33.0:17:14.49.Dialogue3.Unknown.0000.0000.0000..{\an5\pos(360.88)\i1}Two blondes. same jacket.{\i0}
+Dialogue: 0.0:17:15.36.0:17:17.20.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(254.392)\i1}Almost identical.{\i0}
+Dialogue: 0.0:17:17.33.0:17:18.92.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(183.395)\i1}Did they kill the wrong one?{\i0}
+Dialogue: 0.0:17:20.37.0:17:21.39.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(265.395)\i1}Why the heart?{\i0}
+Dialogue: 0.0:17:22.24.0:17:23.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(327.392)}Dad?
+Dialogue: 0.0:17:26.24.0:17:30.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(283.357)}Look at you.
+Dialogue: 0.0:17:26.24.0:17:30.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(103.395)}At the piano. immersed in a police case.
+Dialogue: 0.0:17:30.78.0:17:34.72.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(120.354)}I remember when this room was used
+Dialogue: 0.0:17:30.78.0:17:34.72.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(172.395)}for grading papers. or writing.
+Dialogue: 0.0:17:34.85.0:17:36.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(239.357)}Speaking of which.
+Dialogue: 0.0:17:34.85.0:17:36.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(210.395)}how is that book going?
+Dialogue: 0.0:17:36.68.0:17:38.74.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(196.395)}Mmm. It's not going at all.
+Dialogue: 0.0:17:38.89.0:17:40.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(172.354)}You've been in here for hours
+Dialogue: 0.0:17:38.89.0:17:40.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(270.395)}playing music.
+Dialogue: 0.0:17:41.09.0:17:43.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(125.395)}You skipped dinner. I know that look.
+Dialogue: 0.0:17:43.82.0:17:46.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(135.357)}You get consumed by these things.
+Dialogue: 0.0:17:43.82.0:17:46.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(241.395)}You get obsessed.
+Dialogue: 0.0:17:46.16.0:17:48.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(168.357)}- And then you can't turn it off.
+Dialogue: 0.0:17:46.16.0:17:48.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(316.395)}- Andy.
+Dialogue: 0.0:17:49.53.0:17:53.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(98.357)}A poor woman had her heart yanked out.
+Dialogue: 0.0:17:49.53.0:17:53.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(139.392)}and whoever did it is still out there.
+Dialogue: 0.0:17:54.20.0:17:58.83.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(135.357)}Yes. it's irresistible and consuming.
+Dialogue: 0.0:17:54.20.0:17:58.83.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(125.392)}but that doesn't mean I'm consumed.
+Dialogue: 0.0:18:00.37.0:18:04.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(193.357)}When I figure out the why.
+Dialogue: 0.0:18:00.37.0:18:04.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(195.392)}I can understand the who.
+Dialogue: 0.0:18:04.75.0:18:08.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(164.357)}I'm sorry somebody died. I am.
+Dialogue: 0.0:18:04.75.0:18:08.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(230.395)}but I care about you.
+Dialogue: 0.0:18:08.62.0:18:12.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(243.357)}You may eat slow.
+Dialogue: 0.0:18:08.62.0:18:12.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(133.395)}but you make big life decisions fast.
+Dialogue: 0.0:18:14.46.0:18:17.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(217.357)}Before I gave notice at
+Dialogue: 0.0:18:14.46.0:18:17.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(116.395)}my soul-crushing. white-shoe law firm.
+Dialogue: 0.0:18:17.59.0:18:19.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(137.395)}we discussed it endlessly together.
+Dialogue: 0.0:18:20.13.0:18:22.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(254.357)}You took this job
+Dialogue: 0.0:18:20.13.0:18:22.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(135.395)}on top of the two you already have.
+Dialogue: 0.0:18:22.63.0:18:24.19.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(140.395)}You've barely said a word about it.
+Dialogue: 0.0:18:24.33.0:18:25.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(271.354)}And I'm afraid
+Dialogue: 0.0:18:24.33.0:18:25.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(200.395)}the less you talk about it.
+Dialogue: 0.0:18:26.07.0:18:28.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(128.395)}the harder it's gonna be to turn it off.
+Dialogue: 0.0:18:30.77.0:18:33.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(215.356)}- OK. let's talk about it.
+Dialogue: 0.0:18:30.77.0:18:33.00.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(315.392)}- Now?
+Dialogue: 0.0:18:33.14.0:18:34.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(315.354)}- Yeah.
+Dialogue: 0.0:18:33.14.0:18:34.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(233.394)}- No. no. no. no. no.
+Dialogue: 0.0:18:34.91.0:18:37.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.357)}Not when you're in the middle
+Dialogue: 0.0:18:34.91.0:18:37.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(177.395)}of one of your crime-fighting.
+Dialogue: 0.0:18:37.24.0:18:38.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(150.394)}beautiful-mind. meditative states.
+Dialogue: 0.0:18:38.81.0:18:41.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(222.357)}No. you're elsewhere.
+Dialogue: 0.0:18:38.81.0:18:41.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(188.392)}We'll... We'll talk tomorrow.
+Dialogue: 0.0:19:10.18.0:19:13.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(106.395)}Four graduate degrees and a doctorate.
+Dialogue: 0.0:19:13.28.0:19:14.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(98.395)}How long have you been standing there?
+Dialogue: 0.0:19:14.98.0:19:16.14.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(273.395)}Long enough.
+Dialogue: 0.0:19:16.28.0:19:18.72.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(150.357)}- It shouldn't be this complicated.
+Dialogue: 0.0:19:16.28.0:19:18.72.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(310.392)}- It isn't.
+Dialogue: 0.0:19:18.85.0:19:20.88.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(196.392)}And it doesn't need to be.
+Dialogue: 0.0:19:21.02.0:19:24.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(229.357)}Oh. we're not talking
+Dialogue: 0.0:19:21.02.0:19:24.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(217.395)}about coffee anymore.
+Dialogue: 0.0:19:24.73.0:19:26.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(195.357)}I get that you're not a cop.
+Dialogue: 0.0:19:24.73.0:19:26.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(258.395)}or even cop-ish.
+Dialogue: 0.0:19:26.79.0:19:30.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(135.357)}but there is a way that we do things
+Dialogue: 0.0:19:26.79.0:19:30.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(120.395)}around here. a way I like to do things.
+Dialogue: 0.0:19:30.87.0:19:33.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(163.357)}- And you need to respect that.
+Dialogue: 0.0:19:30.87.0:19:33.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(244.395)}- I do respect that.
+Dialogue: 0.0:19:33.17.0:19:35.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(299.354)}- Mm-hm.
+Dialogue: 0.0:19:33.17.0:19:35.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(175.395)}- I don't have to agree with it.
+Dialogue: 0.0:19:35.54.0:19:37.16.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(109.395)}OK. you can have your authority issues
+Dialogue: 0.0:19:37.30.0:19:39.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(204.357)}and your mommy issues
+Dialogue: 0.0:19:37.30.0:19:39.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(214.395)}and your social issues.
+Dialogue: 0.0:19:39.51.0:19:43.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(166.356)}but when it comes to the work.
+Dialogue: 0.0:19:39.51.0:19:43.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(113.395)}the only issue that matters is the case.
+Dialogue: 0.0:19:43.51.0:19:47.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(227.394)}Yes. the case. Got it.
+Dialogue: 0.0:19:48.05.0:19:50.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(132.395)}I've been doing just fine on my own.
+Dialogue: 0.0:19:51.22.0:19:52.28.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(295.392)}So have I.
+Dialogue: 0.0:19:52.42.0:19:54.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(234.354)}The coffee machine
+Dialogue: 0.0:19:52.42.0:19:54.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(197.395)}would suggest otherwise.
+Dialogue: 0.0:19:55.26.0:19:56.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(338.392)}Oh.
+Dialogue: 0.0:20:02.36.0:20:04.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(299.357)}Hey. Doc.
+Dialogue: 0.0:20:02.36.0:20:04.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(135.395)}How was the ride home yesterday?
+Dialogue: 0.0:20:04.60.0:20:06.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(280.357)}- Hey? Hey?
+Dialogue: 0.0:20:07.07.0:20:08.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(200.395)}So what are we missing?
+Dialogue: 0.0:20:08.20.0:20:10.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(182.357)}Oh. just a motive. a suspect
+Dialogue: 0.0:20:08.20.0:20:10.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(209.392)}and the ID of the victim.
+Dialogue: 0.0:20:10.94.0:20:13.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(134.395)}- Other than that. we're kicking ass.
+Dialogue: 0.0:20:13.84.0:20:16.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(189.357)}Maggie's dad checked out.
+Dialogue: 0.0:20:13.84.0:20:16.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(230.395)}His business is legit.
+Dialogue: 0.0:20:16.24.0:20:20.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(123.357)}Mr. Pinky Ring? Not seeing a motive.
+Dialogue: 0.0:20:16.24.0:20:20.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(144.395)}Though he does look like a shark.
+Dialogue: 0.0:20:20.28.0:20:22.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(176.357)}When you said those whales
+Dialogue: 0.0:20:20.28.0:20:22.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.395)}were devouring those sharks.
+Dialogue: 0.0:20:22.62.0:20:24.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(209.357)}you said something like
+Dialogue: 0.0:20:22.62.0:20:24.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(238.395)}it's surgically exact.
+Dialogue: 0.0:20:24.49.0:20:25.65.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(195.395)}Almost surgical precision.
+Dialogue: 0.0:20:25.79.0:20:28.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(154.357)}Her rib cage is crushed. but look
+Dialogue: 0.0:20:25.79.0:20:28.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(120.395)}at the cuts through the major vessels.
+Dialogue: 0.0:20:29.12.0:20:32.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(196.356)}The aorta. the vena cava.
+Dialogue: 0.0:20:29.12.0:20:32.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(139.395)}They're precise. surgically precise.
+Dialogue: 0.0:20:32.59.0:20:34.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(131.395)}The killer knew his way with a knife.
+Dialogue: 0.0:20:34.46.0:20:36.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(190.392)}Like a butcher or a doctor?
+Dialogue: 0.0:20:36.63.0:20:39.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(175.357)}But. what. he was in a hurry?
+Dialogue: 0.0:20:36.63.0:20:39.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(133.395)}Or did he just care about the heart?
+Dialogue: 0.0:20:39.93.0:20:42.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(261.357)}And if so. why?
+Dialogue: 0.0:20:39.93.0:20:42.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(121.395)}Why would someone cut out a heart?
+Dialogue: 0.0:20:42.77.0:20:44.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(214.357)}- You keep asking that.
+Dialogue: 0.0:20:46.84.0:20:48.28.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(276.354)}- Excuse me.
+Dialogue: 0.0:20:46.84.0:20:48.28.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(299.392)}- Mm-hm.
+Dialogue: 0.0:20:48.41.0:20:50.71.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(247.354)\i1}I tracked{\i0}
+Dialogue: 0.0:20:48.41.0:20:50.71.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(211.395)\i1}the victim's fingerprints.{\i0}
+Dialogue: 0.0:20:50.85.0:20:55.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(230.354)}Your vic's real name
+Dialogue: 0.0:20:50.85.0:20:55.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(139.392)}is Beth Lennon from North Dakota.
+Dialogue: 0.0:20:55.15.0:20:57.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(237.357)}A small-town grifter
+Dialogue: 0.0:20:55.15.0:20:57.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(206.394)}with 27 online identities.
+Dialogue: 0.0:20:57.79.0:21:01.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(149.357)}multiple Stay B and C complaints
+Dialogue: 0.0:20:57.79.0:21:01.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(203.395)}and tons of college debt.
+Dialogue: 0.0:21:03.52.0:21:06.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(180.356)}That's a text with a web link.
+Dialogue: 0.0:21:03.52.0:21:06.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(213.395)}log-in ID and password
+Dialogue: 0.0:21:06.49.0:21:07.99.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(123.395)}which you can use to access a portal
+Dialogue: 0.0:21:08.13.0:21:10.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(212.357)}containing the contents
+Dialogue: 0.0:21:08.13.0:21:10.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(217.395)}of your victim's phone.
+Dialogue: 0.0:21:11.03.0:21:13.26.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(229.357)\i1}You've got two hours{\i0}
+Dialogue: 0.0:21:11.03.0:21:13.26.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(184.395)\i1}before the domain corrupts.{\i0}
+Dialogue: 0.0:21:13.40.0:21:14.89.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(221.395)\i1}And one more thing...{\i0}
+Dialogue: 0.0:21:15.04.0:21:16.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(240.392)}Just hold on a sec.
+Dialogue: 0.0:21:27.55.0:21:30.14.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(183.357)}- Thanks for this. I owe you.
+Dialogue: 0.0:21:27.55.0:21:30.14.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(238.395)\i1}- I'm keeping a tab.{\i0}
+Dialogue: 0.0:21:30.28.0:21:31.38.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(267.395)\i1}Before you go.{\i0}
+Dialogue: 0.0:21:31.52.0:21:34.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(182.354)}I found some information on
+Dialogue: 0.0:21:31.52.0:21:34.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(116.395)}another matter that might interest you.
+Dialogue: 0.0:21:34.66.0:21:36.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(284.354)}- What is it?
+Dialogue: 0.0:21:34.66.0:21:36.35.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(237.395)\i1}- Not on the phone.{\i0}
+Dialogue: 0.0:21:36.49.0:21:39.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(211.357)}You're not dragging me
+Dialogue: 0.0:21:36.49.0:21:39.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(233.395)}into any spy games.
+Dialogue: 0.0:21:39.16.0:21:40.72.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(165.392)}Meet me at Soho House in 30.
+Dialogue: 0.0:21:48.27.0:21:51.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(199.357)}That free parking permit?
+Dialogue: 0.0:21:48.27.0:21:51.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(223.395)}Never gonna happen.
+Dialogue: 0.0:21:51.31.0:21:52.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(290.395)}I was just...
+Dialogue: 0.0:22:11.36.0:22:13.22.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(101.395)}How long before you think he calls AAA?
+Dialogue: 0.0:22:20.63.0:22:23.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(150.395)}- What does he think he's doing?
+Dialogue: 0.0:22:27.84.0:22:29.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(324.392)}Wow.
+Dialogue: 0.0:22:32.01.0:22:33.57.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(144.357)\i1}What couldn't you tell me{\i0}
+Dialogue: 0.0:22:32.01.0:22:33.57.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(256.395)\i1}over the phone?{\i0}
+Dialogue: 0.0:22:34.01.0:22:36.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(245.357)}I did some looking
+Dialogue: 0.0:22:34.01.0:22:36.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(183.395)}into your new work situation
+Dialogue: 0.0:22:36.58.0:22:39.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(244.357)}with this particular
+Dialogue: 0.0:22:36.58.0:22:39.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(212.395)}NYPD homicide squad.
+Dialogue: 0.0:22:39.22.0:22:40.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(244.395)}Of course you did.
+Dialogue: 0.0:22:40.39.0:22:45.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(256.354)}I found evidence
+Dialogue: 0.0:22:40.39.0:22:45.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(141.395)}of an open CIA-FBI-MI6 task force
+Dialogue: 0.0:22:45.69.0:22:49.22.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(123.357)}that's been investigating a smuggling
+Dialogue: 0.0:22:45.69.0:22:49.22.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(132.395)}operation that uses New York ports.
+Dialogue: 0.0:22:49.36.0:22:52.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(227.357)}They were zeroing in
+Dialogue: 0.0:22:49.36.0:22:52.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(172.392)}on a Detective Charles Pavlik
+Dialogue: 0.0:22:53.40.0:22:56.60.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(172.357)}when he was suddenly killed.
+Dialogue: 0.0:22:53.40.0:22:56.60.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(180.395)}ostensibly in the line of duty.
+Dialogue: 0.0:22:57.57.0:23:00.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(298.354)}- Charlie?
+Dialogue: 0.0:22:57.57.0:23:00.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(217.392)}- You've heard of him?
+Dialogue: 0.0:23:00.41.0:23:02.14.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(310.392)}Uh-huh.
+Dialogue: 0.0:23:02.28.0:23:03.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(169.395)}I don't know all the details yet.
+Dialogue: 0.0:23:03.94.0:23:06.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(276.354)}but I do know
+Dialogue: 0.0:23:03.94.0:23:06.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(181.395)}the investigation is ongoing.
+Dialogue: 0.0:23:06.55.0:23:08.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(194.354)}which leads me to believe
+Dialogue: 0.0:23:06.55.0:23:08.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(177.392)}there are others on the team
+Dialogue: 0.0:23:08.75.0:23:10.88.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(156.395)}who may also be compromised.
+Dialogue: 0.0:23:11.02.0:23:12.54.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(147.395)}maybe Charlie's previous partner.
+Dialogue: 0.0:23:12.69.0:23:16.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(161.357)}And his fiancée. who you know
+Dialogue: 0.0:23:12.69.0:23:16.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(152.394)}is Detective Elizabeth Needham.
+Dialogue: 0.0:23:16.52.0:23:19.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(228.396)}my current... partner.
+Dialogue: 0.0:23:22.40.0:23:25.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(124.357)}Who is certainly not dirty. Why would
+Dialogue: 0.0:23:22.40.0:23:25.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(109.395)}you even try to raise doubts about her?
+Dialogue: 0.0:23:28.14.0:23:29.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(297.395)}I gotta go.
+Dialogue: 0.0:23:31.44.0:23:33.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(137.357)}- Do you want me to keep digging?
+Dialogue: 0.0:23:31.44.0:23:33.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(329.392)}- No.
+Dialogue: 0.0:23:33.71.0:23:36.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(179.357)}Even if Charlie were corrupt.
+Dialogue: 0.0:23:33.71.0:23:36.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(245.392)}Lizzie didn't know.
+Dialogue: 0.0:23:36.48.0:23:38.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(132.357)}You're worried about protecting her.
+Dialogue: 0.0:23:36.48.0:23:38.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(257.395)}Protect yourself.
+Dialogue: 0.0:23:38.85.0:23:41.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(189.357)}I have a pretty good record
+Dialogue: 0.0:23:38.85.0:23:41.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(163.395)}about judging human behavior.
+Dialogue: 0.0:23:41.32.0:23:45.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(134.357)}I may not know Lizzie well. but trust
+Dialogue: 0.0:23:41.32.0:23:45.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(149.394)}can be instinctive. and I trust her.
+Dialogue: 0.0:23:46.62.0:23:47.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(262.395)}She is not dirty.
+Dialogue: 0.0:23:52.76.0:23:56.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(268.357)}Well. our guys
+Dialogue: 0.0:23:52.76.0:23:56.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(169.395)}really pulled this together fast.
+Dialogue: 0.0:23:56.46.0:23:59.23.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(204.354)}Look at all of our victim's
+Dialogue: 0.0:23:56.46.0:23:59.23.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(250.395)}dating app traffic.
+Dialogue: 0.0:23:59.37.0:24:01.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(275.357)}- Popular girl.
+Dialogue: 0.0:23:59.37.0:24:01.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(229.392)}- Should we do this?
+Dialogue: 0.0:24:03.20.0:24:05.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(197.392)}If we must. Lock the door.
+Dialogue: 0.0:24:08.64.0:24:10.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(190.392)}How's the new consultant?
+Dialogue: 0.0:24:10.64.0:24:13.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(177.357)}Given the fact that every cop
+Dialogue: 0.0:24:10.64.0:24:13.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(156.395)}I've partnered with since Charlie
+Dialogue: 0.0:24:13.58.0:24:15.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(229.395)}has driven me crazy.
+Dialogue: 0.0:24:15.18.0:24:17.67.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(147.357)}I thought Dylan would be different
+Dialogue: 0.0:24:15.18.0:24:17.67.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(229.395)}since he's not a cop.
+Dialogue: 0.0:24:17.82.0:24:20.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(227.357)}- Thigh or abdomen?
+Dialogue: 0.0:24:17.82.0:24:20.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(286.392)}- Abdomen.
+Dialogue: 0.0:24:20.62.0:24:24.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(132.357)}Well. just say the word and I will tell
+Dialogue: 0.0:24:20.62.0:24:24.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(110.395)}the mayor that Dylan's not working out.
+Dialogue: 0.0:24:24.76.0:24:27.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(147.395)}No. it's... he's fine. Maybe it's me.
+Dialogue: 0.0:24:27.49.0:24:30.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(154.357)}- It's really a pretty small needle.
+Dialogue: 0.0:24:27.49.0:24:30.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(189.395)}- Don't even say that word.
+Dialogue: 0.0:24:33.17.0:24:35.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(124.357)}I think you and David being proactive
+Dialogue: 0.0:24:33.17.0:24:35.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(307.392)}is smart.
+Dialogue: 0.0:24:35.44.0:24:39.97.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(194.357)}Fertility issues will do that.
+Dialogue: 0.0:24:35.44.0:24:39.97.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(211.395)}You can open the door.
+Dialogue: 0.0:24:41.21.0:24:46.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(148.356)}OK. our victim's most recent date
+Dialogue: 0.0:24:41.21.0:24:46.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(201.392)}was set with a Richard P
+Dialogue: 0.0:24:46.25.0:24:48.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(158.395)}on the night she was murdered.
+Dialogue: 0.0:24:48.22.0:24:50.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(158.357)}Yeah. I wish it were that simple.
+Dialogue: 0.0:24:48.22.0:24:50.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(145.395)}She had half a dozen dating apps
+Dialogue: 0.0:24:51.05.0:24:53.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(206.354)}and made six dates with
+Dialogue: 0.0:24:51.05.0:24:53.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(129.395)}six different guys on the same night.
+Dialogue: 0.0:24:53.55.0:24:56.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(168.357)}Well. then you better get busy
+Dialogue: 0.0:24:53.55.0:24:56.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(180.395)}writing six warrant requests.
+Dialogue: 0.0:24:56.92.0:24:58.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(204.357)}That could take all night.
+Dialogue: 0.0:24:56.92.0:24:58.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(184.392)}We need to narrow it down.
+Dialogue: 0.0:24:59.06.0:25:01.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(212.356)}Like. butchers. doctors.
+Dialogue: 0.0:24:59.06.0:25:01.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(210.395)}anyone with knife skills.
+Dialogue: 0.0:25:05.23.0:25:08.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(121.394)}Dr. Damian. Adventurous. successful.
+Dialogue: 0.0:25:08.87.0:25:10.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(211.357)}- Loves healing people.
+Dialogue: 0.0:25:08.87.0:25:10.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(285.392)}- Of course.
+Dialogue: 0.0:25:11.01.0:25:15.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(136.357)}Looking for a spontaneous woman.
+Dialogue: 0.0:25:11.01.0:25:15.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(269.395)}ideally blonde.
+Dialogue: 0.0:25:15.54.0:25:18.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(207.357)}Harris. get me a warrant
+Dialogue: 0.0:25:15.54.0:25:18.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(261.392)}for Date N Chill
+Dialogue: 0.0:25:18.58.0:25:20.28.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(209.357)}so I can find the identity
+Dialogue: 0.0:25:18.58.0:25:20.28.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(275.392)}of this doctor.
+Dialogue: 0.0:25:20.41.0:25:24.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(315.357)}- Copy.
+Dialogue: 0.0:25:20.41.0:25:24.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(173.395)}- I don't wanna wait that long.
+Dialogue: 0.0:25:25.05.0:25:26.88.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(199.354)}- You have a better idea?
+Dialogue: 0.0:25:25.05.0:25:26.88.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(315.392)}- Yeah.
+Dialogue: 0.0:25:27.02.0:25:29.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(180.357)}I'm gonna do the same thing
+Dialogue: 0.0:25:27.02.0:25:29.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(272.392)}our victim did.
+Dialogue: 0.0:25:29.66.0:25:32.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(182.357)}Make a date with a stranger
+Dialogue: 0.0:25:29.66.0:25:32.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(186.395)}who could rip out my heart.
+Dialogue: 0.0:25:38.37.0:25:39.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(100.395)}Could you please not touch that?
+Dialogue: 0.0:25:41.34.0:25:43.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(190.357)}What a happy coincidence
+Dialogue: 0.0:25:41.34.0:25:43.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(133.395)}you made Lizzie come to my place.
+Dialogue: 0.0:25:43.94.0:25:46.70.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(155.357)\i1}New York Magazine{\i0} just voted it
+Dialogue: 0.0:25:43.94.0:25:46.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(128.395)}best bar for luring crazed murderers.
+Dialogue: 0.0:25:46.84.0:25:48.60.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(161.395)}Uh. possible crazed murderers.
+Dialogue: 0.0:25:48.74.0:25:50.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(134.395)}You know. I ought to call the police.
+Dialogue: 0.0:25:50.91.0:25:52.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(263.395)}I am the police.
+Dialogue: 0.0:25:52.38.0:25:54.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(114.395)}Could you just put that down?
+Dialogue: 0.0:25:54.78.0:25:56.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(281.354)}- But it's fun.
+Dialogue: 0.0:25:54.78.0:25:56.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(133.395)}- Why don't you just arrest the guy?
+Dialogue: 0.0:25:56.95.0:25:58.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(130.395)}Well. Lizzie's trying to draw him out.
+Dialogue: 0.0:25:58.59.0:26:01.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(143.357)}trying to get him to admit to things
+Dialogue: 0.0:25:58.59.0:26:01.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(115.395)}he may not if he knew she were a cop.
+Dialogue: 0.0:26:01.82.0:26:04.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(111.395)}And I'm here... making sure she's safe.
+Dialogue: 0.0:26:08.60.0:26:11.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(182.354)}I think our doc is a no-show.
+Dialogue: 0.0:26:08.60.0:26:11.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(197.395)}Maybe he got suspicious.
+Dialogue: 0.0:26:11.73.0:26:13.72.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(329.392)}- Oh.
+Dialogue: 0.0:26:14.77.0:26:16.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(279.392)}Scratch that.
+Dialogue: 0.0:26:18.24.0:26:19.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(324.357)}- Hey.
+Dialogue: 0.0:26:18.24.0:26:19.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(324.395)}- Hey.
+Dialogue: 0.0:26:19.91.0:26:22.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(272.357)}Sorry I'm late.
+Dialogue: 0.0:26:19.91.0:26:22.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(193.392)}I would have been on time
+Dialogue: 0.0:26:22.64.0:26:25.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(118.357)}if you hadn't switched locations on me
+Dialogue: 0.0:26:22.64.0:26:25.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.392)}at the last minute.
+Dialogue: 0.0:26:25.25.0:26:28.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(99.357)}You're here now.
+Dialogue: 0.0:26:25.25.0:26:28.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(101.395)}Get comfortable and take a deep breath.
+Dialogue: 0.0:26:30.45.0:26:32.28.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(109.395)}Wow. You're prettier than your pictures.
+Dialogue: 0.0:26:32.42.0:26:33.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(279.354)}- That's rare.
+Dialogue: 0.0:26:32.42.0:26:33.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(275.394)}- Yes. I know.
+Dialogue: 0.0:26:34.09.0:26:38.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(158.357)}I mean. not that I'm prettier. but.
+Dialogue: 0.0:26:34.09.0:26:38.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(90.395)}you know. how people lie and exaggerate.
+Dialogue: 0.0:26:38.16.0:26:40.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(196.357)}- Really. what's the point?
+Dialogue: 0.0:26:38.16.0:26:40.39.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(302.395)}- Exactly.
+Dialogue: 0.0:26:40.53.0:26:42.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(196.395)}Can I get a gin and tonic?
+Dialogue: 0.0:26:43.36.0:26:44.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(277.395)}Uh. top shelf.
+Dialogue: 0.0:26:44.93.0:26:46.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(208.395)}You got gorgeous eyes.
+Dialogue: 0.0:26:46.63.0:26:48.83.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(213.357)}Are you really Serbian.
+Dialogue: 0.0:26:46.63.0:26:48.83.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(179.395)}trying to get your work visa?
+Dialogue: 0.0:26:55.54.0:26:57.60.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(233.357)}- What did you say?
+Dialogue: 0.0:26:55.54.0:26:57.60.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(155.394)}- I said. "Of course I'm Serbian."
+Dialogue: 0.0:26:57.74.0:27:00.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(261.356)}And then. um...
+Dialogue: 0.0:26:57.74.0:27:00.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(163.395)}I asked if you're really a doctor.
+Dialogue: 0.0:27:00.85.0:27:03.65.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(320.354)}- I am.
+Dialogue: 0.0:27:00.85.0:27:03.65.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(203.395)}- What is your specialty?
+Dialogue: 0.0:27:04.35.0:27:08.19.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(264.357)}Dermatologist?
+Dialogue: 0.0:27:04.35.0:27:08.19.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(182.395)}Um. pediatrician? Surgeon?
+Dialogue: 0.0:27:08.32.0:27:09.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(139.395)}Why. are surgeons your specialty?
+Dialogue: 0.0:27:11.53.0:27:14.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(108.395)}I became a doctor to heal those in pain.
+Dialogue: 0.0:27:14.56.0:27:19.19.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(129.357)}And I can tell. just from your energy.
+Dialogue: 0.0:27:14.56.0:27:19.19.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(168.395)}you're in a lot of pain yourself.
+Dialogue: 0.0:27:19.33.0:27:20.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(236.392)}You're not a doctor.
+Dialogue: 0.0:27:21.07.0:27:25.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(137.357)}I happen to be the most in-demand
+Dialogue: 0.0:27:21.07.0:27:25.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(157.395)}kinesiologist in all of Manhattan.
+Dialogue: 0.0:27:25.14.0:27:26.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(209.394)}Like I said. not a doctor.
+Dialogue: 0.0:27:26.51.0:27:28.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(106.357)}Just 'cause I didn't go to medical school
+Dialogue: 0.0:27:26.51.0:27:28.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(168.392)}doesn't mean I'm not a doctor.
+Dialogue: 0.0:27:28.84.0:27:30.97.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.395)}That is exactly what it means.
+Dialogue: 0.0:27:33.51.0:27:35.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(264.356)}What. that's it?
+Dialogue: 0.0:27:33.51.0:27:35.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(189.395)}You're done talking to me?
+Dialogue: 0.0:27:36.48.0:27:38.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(220.392)}I haven't even started.
+Dialogue: 0.0:27:38.62.0:27:40.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(279.354)}- Is that her?
+Dialogue: 0.0:27:38.62.0:27:40.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(315.392)}- Yeah.
+Dialogue: 0.0:27:41.22.0:27:45.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(140.356)}We ate. but I swear I didn't kill her.
+Dialogue: 0.0:27:41.22.0:27:45.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(142.395)}I didn't even say good night to her.
+Dialogue: 0.0:27:45.59.0:27:46.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(280.395)}Why is that?
+Dialogue: 0.0:27:46.89.0:27:49.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(115.395)}She split before the check even came.
+Dialogue: 0.0:27:49.83.0:27:52.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(166.357)}She was only pretending to be
+Dialogue: 0.0:27:49.83.0:27:52.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(138.395)}interested in me to get a free meal.
+Dialogue: 0.0:27:53.03.0:27:54.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.357)}Once I figured out
+Dialogue: 0.0:27:53.03.0:27:54.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(145.395)}what she was up to. I chased her.
+Dialogue: 0.0:27:55.07.0:27:57.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(166.395)}but I decided what's the point?
+Dialogue: 0.0:27:57.50.0:28:00.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(155.357)}Thought that was the worst date
+Dialogue: 0.0:27:57.50.0:28:00.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(180.395)}of my entire life until tonight.
+Dialogue: 0.0:28:00.77.0:28:02.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(123.395)}You chased her? Did you talk to her?
+Dialogue: 0.0:28:02.44.0:28:05.31.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(177.357)}No. I was. like. a block away.
+Dialogue: 0.0:28:02.44.0:28:05.31.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(290.395)}I let her go.
+Dialogue: 0.0:28:06.15.0:28:08.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(201.357)}- What was I gonna say?
+Dialogue: 0.0:28:06.15.0:28:08.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(211.395)}- Where'd you see her?
+Dialogue: 0.0:28:08.25.0:28:11.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(194.354)}- It was on Hudson Street.
+Dialogue: 0.0:28:08.25.0:28:11.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(206.395)}- Going which direction?
+Dialogue: 0.0:28:11.65.0:28:14.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(176.354)}- South. But then she turned.
+Dialogue: 0.0:28:11.65.0:28:14.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(312.392)}- Onto?
+Dialogue: 0.0:28:14.25.0:28:15.72.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(195.395)}It was a right onto Morton.
+Dialogue: 0.0:28:17.26.0:28:18.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(154.394)}I'll have the unis cast a wide net.
+Dialogue: 0.0:28:18.89.0:28:22.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(144.357)}see to it that all the CCTV footage
+Dialogue: 0.0:28:18.89.0:28:22.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(119.395)}along the route Beth took is collected.
+Dialogue: 0.0:28:22.83.0:28:24.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(210.395)}How long will that take?
+Dialogue: 0.0:28:24.26.0:28:26.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(204.357)}Hopefully we'll have it all
+Dialogue: 0.0:28:24.26.0:28:26.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(262.395)}by the morning.
+Dialogue: 0.0:28:42.08.0:28:43.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(205.357)}So I went to your house.
+Dialogue: 0.0:28:42.08.0:28:43.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(247.394)}no one answered.
+Dialogue: 0.0:28:44.12.0:28:47.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(235.357)}it's almost midnight.
+Dialogue: 0.0:28:44.12.0:28:47.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(104.395)}and I thought. "Where would Lizzie be?"
+Dialogue: 0.0:28:47.75.0:28:49.48.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(309.392)\i1}Et voilà.{\i0}
+Dialogue: 0.0:28:49.62.0:28:51.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(182.354)}- You should be a detective.
+Dialogue: 0.0:28:51.56.0:28:54.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(202.395)}I'm trying. If you'd let me.
+Dialogue: 0.0:28:56.10.0:29:01.16.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(127.395)}I've been told I can be... challenging.
+Dialogue: 0.0:29:02.20.0:29:04.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(159.395)}But I know you like a challenge.
+Dialogue: 0.0:29:06.24.0:29:07.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(114.395)}That's something we have in common.
+Dialogue: 0.0:29:09.34.0:29:11.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(101.395)}That's one thing we do have in common.
+Dialogue: 0.0:29:11.14.0:29:13.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(115.395)}I've been told I can be challenging too.
+Dialogue: 0.0:29:13.55.0:29:15.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(164.357)}Is that why you isolate yourself
+Dialogue: 0.0:29:13.55.0:29:15.38.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(262.392)}from the team?
+Dialogue: 0.0:29:15.52.0:29:17.61.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(227.395)}I don't isolate myself.
+Dialogue: 0.0:29:17.75.0:29:20.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(227.395)}OK. OK. Maybe I do.
+Dialogue: 0.0:29:21.49.0:29:24.22.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(202.357)}That's why no one wants
+Dialogue: 0.0:29:21.49.0:29:24.22.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(240.395)}to partner with me.
+Dialogue: 0.0:29:24.36.0:29:26.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(239.392)}I don't blame them.
+Dialogue: 0.0:29:26.79.0:29:28.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(222.354)}- Ever since Charlie...
+Dialogue: 0.0:29:26.79.0:29:28.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(216.395)}- They care about you.
+Dialogue: 0.0:29:30.53.0:29:32.29.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(135.395)}Your detective skills are failing you.
+Dialogue: 0.0:29:34.17.0:29:36.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(272.392)}Give me time.
+Dialogue: 0.0:29:37.14.0:29:38.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(283.395)}I'll get there.
+Dialogue: 0.0:29:39.51.0:29:42.87.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(207.395)}I know you will. So will I.
+Dialogue: 0.0:29:49.75.0:29:51.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(223.392)}Detective Needham...
+Dialogue: 0.0:29:53.35.0:29:58.19.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(155.357)}...will you... show me how to use
+Dialogue: 0.0:29:53.35.0:29:58.19.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(230.392)}the coffee machine?
+Dialogue: 0.0:30:07.33.0:30:09.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(192.357)}Oh. yes. that's why I came
+Dialogue: 0.0:30:07.33.0:30:09.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(223.395)}all the way over here.
+Dialogue: 0.0:30:09.30.0:30:11.83.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(120.395)}to have a conversation with your feet.
+Dialogue: 0.0:30:11.97.0:30:13.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(167.395)}Morning. Joan. Let yourself in.
+Dialogue: 0.0:30:15.71.0:30:18.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(195.357)}Listen. everybody is crazy
+Dialogue: 0.0:30:15.71.0:30:18.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(249.392)}for the new book.
+Dialogue: 0.0:30:18.71.0:30:20.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(178.395)}Now you just have to write it.
+Dialogue: 0.0:30:20.71.0:30:23.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(122.357)}And don't pretend like you don't have
+Dialogue: 0.0:30:20.71.0:30:23.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(131.395)}time 'cause you work for the NYPD.
+Dialogue: 0.0:30:23.98.0:30:25.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(223.357)}- That's not gonna fly.
+Dialogue: 0.0:30:23.98.0:30:25.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(317.392)}- Sure.
+Dialogue: 0.0:30:25.62.0:30:27.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(245.357)}Having less time's
+Dialogue: 0.0:30:25.62.0:30:27.35.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(172.395)}gonna make it easier to write.
+Dialogue: 0.0:30:27.49.0:30:29.12.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(121.395)}Oh. you know what? I should tell you.
+Dialogue: 0.0:30:29.26.0:30:33.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(110.354)}Johnson and Kimball also wanna make
+Dialogue: 0.0:30:29.26.0:30:33.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(213.392)}a audiobook of {\i1}Freaks.{\i0}
+Dialogue: 0.0:30:33.46.0:30:36.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(163.357)}Now. they gave me a whole list
+Dialogue: 0.0:30:33.46.0:30:36.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(173.395)}of. you know. famous people.
+Dialogue: 0.0:30:36.16.0:30:39.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(121.392)}but I like Dame Judi Dench and Ice-T.
+Dialogue: 0.0:30:39.80.0:30:43.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(251.354)}I have no interest
+Dialogue: 0.0:30:39.80.0:30:43.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(191.395)}in recording an audiobook.
+Dialogue: 0.0:30:43.47.0:30:45.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(138.395)}I'm already wearing too many hats.
+Dialogue: 0.0:30:45.54.0:30:48.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(205.357)}That's why I asked them
+Dialogue: 0.0:30:45.54.0:30:48.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(141.395)}to give you a six-month extension.
+Dialogue: 0.0:30:48.91.0:30:49.74.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(227.395)}They agreed to that?
+Dialogue: 0.0:30:49.88.0:30:51.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(190.357)}That's how much they love
+Dialogue: 0.0:30:49.88.0:30:51.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(250.395)}the new premise.
+Dialogue: 0.0:30:51.85.0:30:53.34.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(232.395)}What new premise?
+Dialogue: 0.0:30:53.48.0:30:58.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(252.357)}Hot ex-CIA agent
+Dialogue: 0.0:30:53.48.0:30:58.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(123.395)}gets in with the NYPD to solve crime.
+Dialogue: 0.0:30:58.55.0:31:02.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(166.357)}It's gonna be much better than
+Dialogue: 0.0:30:58.55.0:31:02.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(119.395)}the boring old book you're not writing.
+Dialogue: 0.0:31:02.19.0:31:06.85.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(144.357)}I don't want to revisit my CIA past.
+Dialogue: 0.0:31:02.19.0:31:06.85.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(235.395)}That's why I retired.
+Dialogue: 0.0:31:09.26.0:31:10.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.392)}Get on the couch.
+Dialogue: 0.0:31:11.06.0:31:13.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.392)}Get on the couch.
+Dialogue: 0.0:31:20.71.0:31:22.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(248.395)}What's going on?
+Dialogue: 0.0:31:22.34.0:31:24.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(308.395)}Nothing.
+Dialogue: 0.0:31:25.31.0:31:27.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(290.395)}Everything.
+Dialogue: 0.0:31:27.38.0:31:29.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(199.357)}I just feel I'm being pulled
+Dialogue: 0.0:31:27.38.0:31:29.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(165.395)}in so many different directions.
+Dialogue: 0.0:31:29.85.0:31:34.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(219.357)}like teaching... writing.
+Dialogue: 0.0:31:29.85.0:31:34.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(266.395)}chasing killers.
+Dialogue: 0.0:31:35.49.0:31:37.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(184.357)}- Everything OK with Andy?
+Dialogue: 0.0:31:35.49.0:31:37.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(213.395)}- Oh. quite the reverse.
+Dialogue: 0.0:31:38.09.0:31:40.53.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(148.357)}- He couldn't be more supportive.
+Dialogue: 0.0:31:38.09.0:31:40.53.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(203.395)}- Right. well. that's good.
+Dialogue: 0.0:31:40.66.0:31:41.59.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(308.392)}Mm-hm.
+Dialogue: 0.0:31:41.73.0:31:44.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(153.356)}Well. how about this... this case.
+Dialogue: 0.0:31:41.73.0:31:44.49.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(160.395)}the one with the missing heart?
+Dialogue: 0.0:31:46.63.0:31:48.60.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(190.395)}Imagine the type of person
+Dialogue: 0.0:31:48.74.0:31:52.83.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(200.354)}who would have the idea
+Dialogue: 0.0:31:48.74.0:31:52.83.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(152.395)}to cut out another person's heart
+Dialogue: 0.0:31:52.97.0:31:55.44.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(239.395)}and prepare for it...
+Dialogue: 0.0:31:56.01.0:31:57.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(187.395)}...and follow through with it.
+Dialogue: 0.0:31:57.61.0:32:00.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(179.395)}Oh. my. You're enjoying this.
+Dialogue: 0.0:32:00.98.0:32:04.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(198.357)}- Relishing every second.
+Dialogue: 0.0:32:00.98.0:32:04.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(234.395)}- Oh. my goodness.
+Dialogue: 0.0:32:04.28.0:32:07.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(261.354)}Welcome back.
+Dialogue: 0.0:32:04.28.0:32:07.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(182.395)}The old Dylan has returned.
+Dialogue: 0.0:32:09.06.0:32:11.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(190.357)}Yeah. but he's scaring me.
+Dialogue: 0.0:32:09.06.0:32:11.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(233.395)}What if I can't stop?
+Dialogue: 0.0:32:18.87.0:32:20.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(301.395)}Gotta go.
+Dialogue: 0.0:32:23.80.0:32:25.97.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.88)}Doesn't look like a boyfriend.
+Dialogue: 0.0:32:23.80.0:32:25.97.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(361.123)}- Watch.
+Dialogue: 0.0:32:26.11.0:32:28.87.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.88)}See him squeeze her head?
+Dialogue: 0.0:32:26.11.0:32:28.87.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.126)}A pressure point?
+Dialogue: 0.0:32:29.01.0:32:32.38.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.88)}Look at her hand. It's shaking.
+Dialogue: 0.0:32:29.01.0:32:32.38.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.126)}And the jerking of her arms.
+Dialogue: 0.0:32:32.51.0:32:35.54.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(358.88)}And then her body goes limp.
+Dialogue: 0.0:32:32.51.0:32:35.54.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.126)}What could cause that to happen?
+Dialogue: 0.0:32:35.68.0:32:39.85.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(96.357)}A seizure followed by paralysis? He must
+Dialogue: 0.0:32:35.68.0:32:39.85.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(126.395)}have injected her with a neurotoxin...
+Dialogue: 0.0:32:41.25.0:32:44.05.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.88)}It wasn't a pressure point.
+Dialogue: 0.0:32:41.25.0:32:44.05.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.123)}He stuck a needle in her hair.
+Dialogue: 0.0:32:44.19.0:32:46.49.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.88)}Which is why the ME
+Dialogue: 0.0:32:44.19.0:32:46.49.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(361.126)}didn't see the injection mark.
+Dialogue: 0.0:32:46.63.0:32:49.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(266.357)}I'm calling him.
+Dialogue: 0.0:32:46.63.0:32:49.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(116.392)}have him run an advanced tox screen.
+Dialogue: 0.0:32:49.16.0:32:51.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(134.395)}Maybe it wasn't a mistaken identity.
+Dialogue: 0.0:32:51.30.0:32:54.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.357)}Beth was a grifter.
+Dialogue: 0.0:32:51.30.0:32:54.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(168.395)}Maybe it was meant to be her.
+Dialogue: 0.0:32:54.70.0:32:57.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(172.354)}It's hard to tell from that video
+Dialogue: 0.0:32:54.70.0:32:57.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(227.392)}if he knew her or not.
+Dialogue: 0.0:32:57.17.0:33:00.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(149.357)}If he didn't. we can rule out pride.
+Dialogue: 0.0:32:57.17.0:33:00.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(195.395)}which leaves greed and...
+Dialogue: 0.0:33:00.54.0:33:03.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(153.357)}Oh. come on. if you keep stating
+Dialogue: 0.0:33:00.54.0:33:03.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(194.395)}that "three motive" theory.
+Dialogue: 0.0:33:03.78.0:33:05.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(157.395)}we can rule out intelligence too.
+Dialogue: 0.0:33:06.65.0:33:07.81.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(217.395)}What are we missing?
+Dialogue: 0.0:33:09.48.0:33:11.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(294.395)}Hey. guys.
+Dialogue: 0.0:33:11.22.0:33:12.31.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(329.392)}Ooh.
+Dialogue: 0.0:33:12.45.0:33:14.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(217.395)}Pete. what happened?
+Dialogue: 0.0:33:14.15.0:33:18.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(250.357)}This colossal guy
+Dialogue: 0.0:33:14.15.0:33:18.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(145.395)}just shows up to my flower stand.
+Dialogue: 0.0:33:18.16.0:33:21.60.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(251.357)}and he just starts
+Dialogue: 0.0:33:18.16.0:33:21.60.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(208.395)}punching and punching.
+Dialogue: 0.0:33:21.73.0:33:23.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(167.354)}He said that if I ever even look
+Dialogue: 0.0:33:21.73.0:33:23.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(254.395)}at Maggie again.
+Dialogue: 0.0:33:23.70.0:33:25.22.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(175.395)}it'll be the last thing I ever do.
+Dialogue: 0.0:33:25.37.0:33:27.16.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(196.357)}Never thought I'd feel bad
+Dialogue: 0.0:33:25.37.0:33:27.16.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(281.392)}for a stalker.
+Dialogue: 0.0:33:27.30.0:33:30.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.357)}Was the guy who hit you 50s.
+Dialogue: 0.0:33:27.30.0:33:30.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(192.395)}thin. wearing a pinky ring?
+Dialogue: 0.0:33:30.34.0:33:34.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(149.357)}No. no. he was young and ripped
+Dialogue: 0.0:33:30.34.0:33:34.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(146.395)}and... wearing my face on his fist.
+Dialogue: 0.0:33:35.21.0:33:36.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(167.357)}- Do you wanna go to the ER?
+Dialogue: 0.0:33:35.21.0:33:36.94.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(288.395)}- With you?
+Dialogue: 0.0:33:37.88.0:33:40.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(202.357)}Anthony. can you please
+Dialogue: 0.0:33:37.88.0:33:40.71.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(139.395)}get Pete's story and a description?
+Dialogue: 0.0:33:40.85.0:33:42.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(317.354)}- Sure.
+Dialogue: 0.0:33:40.85.0:33:42.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(166.395)}- Detective Fucci will help you.
+Dialogue: 0.0:33:46.55.0:33:50.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(158.357)}Frank might have had someone
+Dialogue: 0.0:33:46.55.0:33:50.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(144.394)}follow us. and we led him to Pete.
+Dialogue: 0.0:33:50.19.0:33:53.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(111.357)}Yeah. when your own child's in danger.
+Dialogue: 0.0:33:50.19.0:33:53.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(243.395)}you'd do anything.
+Dialogue: 0.0:33:58.30.0:33:59.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(233.395)}She's my only child.
+Dialogue: 0.0:33:59.57.0:34:01.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(210.357)}Why didn't you tell me?
+Dialogue: 0.0:33:59.57.0:34:01.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(210.392)}I would have handled it.
+Dialogue: 0.0:34:01.54.0:34:03.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(229.357)}Thanks to my father.
+Dialogue: 0.0:34:01.54.0:34:03.40.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(204.395)}He'd do anything for me.
+Dialogue: 0.0:34:03.54.0:34:05.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(192.395)}That's why I didn't tell you.
+Dialogue: 0.0:34:05.91.0:34:08.17.Dialogue3.Unknown.0000.0000.0000..{\an4\pos(146.395)\i1}There's nothing stronger.{\i0}
+Dialogue: 0.0:34:08.31.0:34:11.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(189.357)}Your "three motive" theory.
+Dialogue: 0.0:34:08.31.0:34:11.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(190.395)}I know what we're missing.
+Dialogue: 0.0:34:13.05.0:34:14.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(326.392)}Love.
+Dialogue: 0.0:34:15.25.0:34:17.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(228.395)}The love of a parent.
+Dialogue: 0.0:34:21.72.0:34:24.16.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(156.395)}OK. so why the dad?
+Dialogue: 0.0:34:24.29.0:34:25.99.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(317.354)}- Love.
+Dialogue: 0.0:34:24.29.0:34:25.99.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(312.392)}- Love?
+Dialogue: 0.0:34:26.13.0:34:28.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(145.357)}The love of a parent for their child
+Dialogue: 0.0:34:26.13.0:34:28.89.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(147.395)}is the most powerful love there is.
+Dialogue: 0.0:34:29.03.0:34:30.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(174.357)}And the best way to get back
+Dialogue: 0.0:34:29.03.0:34:30.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(239.395)}at a guy like Frank.
+Dialogue: 0.0:34:30.93.0:34:32.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(164.357)}who's devoted to his daughter.
+Dialogue: 0.0:34:30.93.0:34:32.90.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(254.395)}is to go after her.
+Dialogue: 0.0:34:33.03.0:34:34.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(149.395)}Somebody wanted Maggie dead.
+Dialogue: 0.0:34:34.50.0:34:36.53.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(214.357)}and you don't get to be
+Dialogue: 0.0:34:34.50.0:34:36.53.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(199.392)}as successful as Frank is
+Dialogue: 0.0:34:36.67.0:34:40.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(154.357)}- without making a few enemies.
+Dialogue: 0.0:34:36.67.0:34:40.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(208.395)}- So revenge? That's it?
+Dialogue: 0.0:34:41.71.0:34:43.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(336.392)}OK.
+Dialogue: 0.0:34:43.64.0:34:46.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(151.357)}I was reviewing the bank records
+Dialogue: 0.0:34:43.64.0:34:46.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(107.395)}of Denizen Solutions. Frank's company.
+Dialogue: 0.0:34:46.61.0:34:48.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(200.357)}which is supposed to sell
+Dialogue: 0.0:34:46.61.0:34:48.84.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(173.395)}medical supplies to hospitals.
+Dialogue: 0.0:34:48.98.0:34:51.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(206.354)}but a lot of these checks
+Dialogue: 0.0:34:48.98.0:34:51.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(156.392)}are made out to Denizen Cares.
+Dialogue: 0.0:34:51.55.0:34:54.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(215.357)}- Sounds like a charity.
+Dialogue: 0.0:34:51.55.0:34:54.42.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(249.394)}- Yeah. or a front.
+Dialogue: 0.0:34:54.55.0:34:56.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(257.392)}And look at this.
+Dialogue: 0.0:34:56.19.0:34:59.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(188.357)}All the payments are made
+Dialogue: 0.0:34:56.19.0:34:59.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(214.395)}using personal checks.
+Dialogue: 0.0:34:59.26.0:35:04.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(122.357)}And they're not small amounts either.
+Dialogue: 0.0:34:59.26.0:35:04.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(147.394)}$225.000. $350.000... $400.000?
+Dialogue: 0.0:35:06.50.0:35:10.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(139.357)}Could our medical supplies maven
+Dialogue: 0.0:35:06.50.0:35:10.13.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(189.395)}be a money launderer too?
+Dialogue: 0.0:35:10.27.0:35:12.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(315.356)}If he is.
+Dialogue: 0.0:35:10.27.0:35:12.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(166.395)}he's not very adept at hiding it.
+Dialogue: 0.0:35:12.31.0:35:13.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(204.395)}Or maybe he's a bookie.
+Dialogue: 0.0:35:13.64.0:35:16.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(173.354)}But then the checks would be
+Dialogue: 0.0:35:13.64.0:35:16.01.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(150.392)}clustered around the same dates
+Dialogue: 0.0:35:16.14.0:35:17.54.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(156.395)}when there are games or fights.
+Dialogue: 0.0:35:17.68.0:35:19.15.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(130.395)}These checks are spread over time.
+Dialogue: 0.0:35:21.31.0:35:24.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(151.357)}- What? I had a gambling phase.
+Dialogue: 0.0:35:21.31.0:35:24.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(186.395)}- Thank you. guys. Thanks.
+Dialogue: 0.0:35:25.12.0:35:28.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(130.354)}- None of these names look familiar.
+Dialogue: 0.0:35:25.12.0:35:28.45.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(190.395)}- Well. just try any of them.
+Dialogue: 0.0:35:28.59.0:35:30.02.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(264.392)}Charles Shore.
+Dialogue: 0.0:35:31.49.0:35:34.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(114.354)}Fundraiser was held for Charles Shore
+Dialogue: 0.0:35:31.49.0:35:34.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(174.395)}because he needed a kidney.
+Dialogue: 0.0:35:34.69.0:35:37.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(257.392)}Alison Dorfman.
+Dialogue: 0.0:35:38.06.0:35:40.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(179.395)}She got a cornea transplant.
+Dialogue: 0.0:35:40.63.0:35:42.73.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(111.392)}Wait. Here's a check from Haru Onishi.
+Dialogue: 0.0:35:42.87.0:35:45.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(166.356)}Isn't he the chef. Onishi Sushi.
+Dialogue: 0.0:35:42.87.0:35:45.93.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(240.392)}where Frank eats?
+Dialogue: 0.0:35:46.07.0:35:50.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(116.357)}Why would a sushi chef pay $250.000
+Dialogue: 0.0:35:46.07.0:35:50.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(154.395)}to a medical supplies company?
+Dialogue: 0.0:35:50.18.0:35:51.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(194.395)}Try the transplant registry.
+Dialogue: 0.0:35:55.65.0:35:59.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(249.357)}Yep. Riku Onishi.
+Dialogue: 0.0:35:55.65.0:35:59.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(120.395)}She's gotta be related to Haru Onishi.
+Dialogue: 0.0:35:59.89.0:36:03.02.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.88)}So all the names of the people
+Dialogue: 0.0:35:59.89.0:36:03.02.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.126)}who made payments to Denizen Cares
+Dialogue: 0.0:36:03.16.0:36:05.15.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(361.88)}are also on the transplant list.
+Dialogue: 0.0:36:07.19.0:36:09.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(122.395)}Frank is a black-market organ broker.
+Dialogue: 0.0:36:09.20.0:36:11.19.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(194.357)}and Onishi bought a heart
+Dialogue: 0.0:36:09.20.0:36:11.19.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(256.395)}for his daughter.
+Dialogue: 0.0:36:12.43.0:36:15.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(132.357)}Onishi's daughter died a month ago
+Dialogue: 0.0:36:12.43.0:36:15.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(180.395)}of congestive heart disease.
+Dialogue: 0.0:36:15.57.0:36:19.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(166.357)}- She never got the transplant.
+Dialogue: 0.0:36:15.57.0:36:19.06.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(139.395)}- But Onishi paid Frank 250 grand.
+Dialogue: 0.0:36:19.21.0:36:23.94.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(359.85)}And Frank returned that 250 on the same
+Dialogue: 0.0:36:19.21.0:36:23.94.Dialogue2.Unknown.0000.0000.0000..{\an5\pos(360.126)}day he got 350 from a Derek Wilson.
+Dialogue: 0.0:36:24.08.0:36:25.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(233.354)}Frank sold the heart
+Dialogue: 0.0:36:24.08.0:36:25.77.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(226.395)}to the highest bidder.
+Dialogue: 0.0:36:25.91.0:36:27.74.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(186.357)}And Onishi's daughter died
+Dialogue: 0.0:36:25.91.0:36:27.74.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(261.395)}waiting for one.
+Dialogue: 0.0:36:27.88.0:36:30.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(118.357)}Sushi knives are built for precise cuts.
+Dialogue: 0.0:36:27.88.0:36:30.78.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(209.395)}Onishi wanted revenge.
+Dialogue: 0.0:36:30.92.0:36:33.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(198.357)}And to get back at Frank.
+Dialogue: 0.0:36:30.92.0:36:33.11.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(165.395)}Onishi went after his daughter.
+Dialogue: 0.0:36:33.25.0:36:35.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(185.357)}But he got Beth by mistake.
+Dialogue: 0.0:36:33.25.0:36:35.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(221.392)}The cross-race effect.
+Dialogue: 0.0:36:35.39.0:36:37.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(135.357)}But why would Frank go back there
+Dialogue: 0.0:36:35.39.0:36:37.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(184.392)}after what he did to Onishi?
+Dialogue: 0.0:36:38.06.0:36:40.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(155.356)}Frank saw Onishi as commerce.
+Dialogue: 0.0:36:38.06.0:36:40.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(277.396)}not a person.
+Dialogue: 0.0:36:41.70.0:36:44.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(149.357)}He got a better offer. gave Onishi
+Dialogue: 0.0:36:41.70.0:36:44.32.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(168.395)}back his money. that was that.
+Dialogue: 0.0:36:44.46.0:36:47.26.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(121.357)}Why should business stop him eating
+Dialogue: 0.0:36:44.46.0:36:47.26.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(230.395)}in his favorite place?
+Dialogue: 0.0:36:47.40.0:36:50.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(180.395)}It's Friday. almost lunchtime.
+Dialogue: 0.0:36:50.17.0:36:53.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(215.357)}If Maggie joins her dad
+Dialogue: 0.0:36:50.17.0:36:53.20.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(142.392)}and Onishi sees he didn't kill her...
+Dialogue: 0.0:36:53.34.0:36:55.33.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(191.395)}He may try now. Come on.
+Dialogue: 0.0:36:57.08.0:36:59.07.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(182.395)}Hey! Is your daughter here?
+Dialogue: 0.0:36:59.61.0:37:01.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(166.357)}- She's in the bathroom. Why?
+Dialogue: 0.0:36:59.61.0:37:01.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(250.395)}- Stay right there.
+Dialogue: 0.0:37:02.05.0:37:05.54.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(128.395)}Hey! Hey! Where's your boss? Huh?
+Dialogue: 0.0:37:07.79.0:37:10.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(217.354)}- Detective Needham?
+Dialogue: 0.0:37:07.79.0:37:10.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(164.392)}- Go back in and lock the door.
+Dialogue: 0.0:37:17.90.0:37:18.92.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(270.395)}Who are you?
+Dialogue: 0.0:37:19.87.0:37:22.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(183.357)}My name is Dylan Reinhart.
+Dialogue: 0.0:37:19.87.0:37:22.43.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(241.392)}I'm with the NYPD.
+Dialogue: 0.0:37:24.54.0:37:26.56.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(234.395)}I'm not going to run.
+Dialogue: 0.0:37:31.81.0:37:34.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(231.357)}I gave up everything
+Dialogue: 0.0:37:31.81.0:37:34.58.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(226.395)}to save my daughter.
+Dialogue: 0.0:37:35.55.0:37:37.64.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(291.392)}I failed her.
+Dialogue: 0.0:37:39.02.0:37:40.99.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(246.357)}- He's confessing.
+Dialogue: 0.0:37:39.02.0:37:40.99.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(144.392)}- He can do so while under arrest.
+Dialogue: 0.0:37:41.12.0:37:44.25.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(190.392)}It's a deathbed confession.
+Dialogue: 0.0:37:44.39.0:37:46.48.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(120.395)}Is that blowfish you ingested?
+Dialogue: 0.0:37:49.40.0:37:51.83.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(206.357)}That's what you injected
+Dialogue: 0.0:37:49.40.0:37:51.83.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(238.395)}into the girl. isn't it?
+Dialogue: 0.0:37:51.97.0:37:53.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(332.392)}Yes.
+Dialogue: 0.0:37:53.93.0:37:58.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(139.357)}I didn't know it wasn't his daughter.
+Dialogue: 0.0:37:53.93.0:37:58.70.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(171.392)}or I never would have done it.
+Dialogue: 0.0:37:59.47.0:38:04.31.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(133.357)}I can't tell you what it means to lose
+Dialogue: 0.0:37:59.47.0:38:04.31.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(116.395)}the person you love most in the world.
+Dialogue: 0.0:38:05.65.0:38:08.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(189.357)}- I'm calling an ambulance.
+Dialogue: 0.0:38:05.65.0:38:08.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(244.395)}- There's no point.
+Dialogue: 0.0:38:08.41.0:38:10.41.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(217.395)}I'm calling just in case.
+Dialogue: 0.0:38:16.19.0:38:21.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(210.357)}Frank Fallon gave hope
+Dialogue: 0.0:38:16.19.0:38:21.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(216.395)}to my daughter. to me.
+Dialogue: 0.0:38:23.46.0:38:25.66.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(166.395)}Riku should be alive right now.
+Dialogue: 0.0:38:26.93.0:38:30.50.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(112.395)}Every day he comes in. smiling. joking.
+Dialogue: 0.0:38:30.64.0:38:33.51.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(118.395)}eats my food like nothing's happened.
+Dialogue: 0.0:38:33.64.0:38:38.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(197.357)}I wanted him to be in pain
+Dialogue: 0.0:38:33.64.0:38:38.08.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(197.395)}the way I've been in pain.
+Dialogue: 0.0:38:40.51.0:38:43.04.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(113.395)}But when his daughter came in today...
+Dialogue: 0.0:38:43.78.0:38:46.05.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(128.395)}You knew you'd killed the wrong girl.
+Dialogue: 0.0:38:47.32.0:38:51.28.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(188.394)}After Riku died. that father.
+Dialogue: 0.0:38:51.42.0:38:54.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(153.395)}his face haunted me in my mind.
+Dialogue: 0.0:38:58.13.0:38:59.53.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(238.392)}What have I done?
+Dialogue: 0.0:39:10.08.0:39:13.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(266.354)}- I'm slammed.
+Dialogue: 0.0:39:10.08.0:39:13.27.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(202.395)}- OK. I'll make this quick.
+Dialogue: 0.0:39:13.41.0:39:14.68.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(158.395)}I didn't tell you what I was doing
+Dialogue: 0.0:39:14.81.0:39:18.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(178.354)}because the excitement I felt
+Dialogue: 0.0:39:14.81.0:39:18.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(179.395)}chasing killers. it scared me.
+Dialogue: 0.0:39:19.69.0:39:22.75.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(153.394)}I do need to do this kind of work.
+Dialogue: 0.0:39:22.89.0:39:24.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(175.357)}but I'm gonna need your help
+Dialogue: 0.0:39:22.89.0:39:24.95.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(284.392)}to turn it off.
+Dialogue: 0.0:39:26.53.0:39:29.22.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(201.357)}- I can't do it without you.
+Dialogue: 0.0:39:26.53.0:39:29.22.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(197.395)}- Uh. but you know what?
+Dialogue: 0.0:39:29.36.0:39:31.30.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(150.395)}I'm gonna need your help. Dylan.
+Dialogue: 0.0:39:31.43.0:39:34.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(133.357)}trusting that sometimes I may know
+Dialogue: 0.0:39:31.43.0:39:34.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(165.395)}more about behavior than you.
+Dialogue: 0.0:39:34.50.0:39:35.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(216.395)}At least your behavior.
+Dialogue: 0.0:39:35.77.0:39:39.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(128.357)}'Cause. you know. smart as you are.
+Dialogue: 0.0:39:35.77.0:39:39.86.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(133.395)}sometimes you can be really dumb.
+Dialogue: 0.0:39:40.57.0:39:42.91.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(147.392)}Fine. I think "dumb" is a bit much.
+Dialogue: 0.0:39:44.48.0:39:48.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(164.357)}Thanks. OK. I see you're busy.
+Dialogue: 0.0:39:44.48.0:39:48.57.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(139.395)}Just go do what makes you happy.
+Dialogue: 0.0:39:48.72.0:39:52.31.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(201.354)}Go make New York safe.
+Dialogue: 0.0:39:48.72.0:39:52.31.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(223.395)}And. um... thank you.
+Dialogue: 0.0:39:53.85.0:39:58.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(222.357)}Oh. uh. almost forgot.
+Dialogue: 0.0:39:53.85.0:39:58.55.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(174.395)}Saw this on the way in today.
+Dialogue: 0.0:40:09.34.0:40:10.17.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(304.392)}Mm-hm?
+Dialogue: 0.0:40:10.30.0:40:14.67.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(210.357)}I will try not to make fun
+Dialogue: 0.0:40:10.30.0:40:14.67.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(168.395)}of your overly simplistic ideas.
+Dialogue: 0.0:40:15.34.0:40:18.97.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(126.357)}And I'll try not to keep reminding you
+Dialogue: 0.0:40:15.34.0:40:18.97.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(120.395)}that I'm your boss. Even though I am.
+Dialogue: 0.0:40:19.11.0:40:24.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(122.357)}And for the record. Onishi was willing
+Dialogue: 0.0:40:19.11.0:40:24.24.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(132.395)}to buy a black-market heart. Greed.
+Dialogue: 0.0:40:24.38.0:40:27.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(224.357)}He went after Maggie
+Dialogue: 0.0:40:24.38.0:40:27.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(209.395)}to avenge Frank. Pride.
+Dialogue: 0.0:40:27.75.0:40:29.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(261.354)}And he did it all
+Dialogue: 0.0:40:27.75.0:40:29.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(161.395)}because he loved his daughter.
+Dialogue: 0.0:40:29.82.0:40:33.69.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(137.395)}Greed. pride and love. The trifecta.
+Dialogue: 0.0:40:38.60.0:40:40.16.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(243.392)}Ah. Another collar.
+Dialogue: 0.0:40:40.30.0:40:43.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(127.357)}You're making us look bad.
+Dialogue: 0.0:40:40.30.0:40:43.03.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(138.395)}- You don't need our help with that.
+Dialogue: 0.0:40:43.17.0:40:45.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(149.357)}Well. we're gonna go to Dis Con.
+Dialogue: 0.0:40:43.17.0:40:45.80.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(199.394)}Wanna come. celebrate?
+Dialogue: 0.0:40:45.94.0:40:48.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(126.356)}Come on. Lizzie. It'll be fun.
+Dialogue: 0.0:40:45.94.0:40:48.37.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(293.392)}- Dis Con?
+Dialogue: 0.0:40:48.51.0:40:51.88.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(174.357)}Short for Disorderly Conduct.
+Dialogue: 0.0:40:48.51.0:40:51.88.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(240.395)}A cop bar. I'll pass.
+Dialogue: 0.0:40:52.01.0:40:54.54.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(223.395)}Big surprise. Let's go.
+Dialogue: 0.0:40:56.12.0:40:58.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(170.357)}I'm starting to think the hazing
+Dialogue: 0.0:40:56.12.0:40:58.98.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(122.395)}was less about giving me a hard time
+Dialogue: 0.0:40:59.12.0:41:01.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(112.395)}and more about trying to cheer you up.
+Dialogue: 0.0:41:01.65.0:41:03.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(184.357)}Maybe they wanna see you
+Dialogue: 0.0:41:01.65.0:41:03.52.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(237.395)}like you used to be.
+Dialogue: 0.0:41:03.66.0:41:05.28.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(199.395)}I've always been like this.
+Dialogue: 0.0:41:05.43.0:41:07.72.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(211.357)}I know you well enough
+Dialogue: 0.0:41:05.43.0:41:07.72.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(214.392)}to know that's not true.
+Dialogue: 0.0:41:07.86.0:41:09.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(244.357)}You should go out
+Dialogue: 0.0:41:07.86.0:41:09.76.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(203.395)}for a drink with the guys.
+Dialogue: 0.0:41:09.90.0:41:11.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(258.357)}- I'll go with you.
+Dialogue: 0.0:41:09.90.0:41:11.96.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(220.395)}- Maybe another time.
+Dialogue: 0.0:41:12.10.0:41:14.36.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(143.395)}Right now I just need to stay here.
+Dialogue: 0.0:41:14.50.0:41:16.83.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(207.392)}Here? On the sidewalk?
+Dialogue: 0.0:41:16.97.0:41:18.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(315.354)}- Yeah.
+Dialogue: 0.0:41:16.97.0:41:18.63.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(315.395)}- Why?
+Dialogue: 0.0:41:19.91.0:41:23.14.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(256.394)}Three. two. one.
+Dialogue: 0.0:41:23.91.0:41:26.18.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(111.395)}What the hell did you do to my Harley?
+Dialogue: 0.0:41:32.15.0:41:33.62.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(268.392)}Lizzie.
+Dialogue: 0.0:41:37.59.0:41:39.46.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(154.395)}You can take my bike if you like.
+Dialogue: 0.0:41:39.59.0:41:41.79.Dialogue2.Unknown.0000.0000.0000..{\an4\pos(190.394)}Yeah. we'll walk to the bar.
