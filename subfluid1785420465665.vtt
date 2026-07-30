@@ -1,0 +1,420 @@
+WEBVTT
+
+﻿[Script Info]
+Title: [Erai-raws] English (US)
+
+ScriptType: v4.00+
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name.Fontname.Fontsize.PrimaryColour.SecondaryColour.OutlineColour.BackColour.Bold.Italic.Underline.Strikeout.ScaleX.ScaleY.Spacing.Angle.BorderStyle.Outline.Shadow.Alignment.MarginL.MarginR.MarginV.Encoding
+Style: Default.Arial.20.&H00FFFFFF.&H000000FF.&H00000000.&H00000000.0.0.0.0.100.100.0.0.1.2.2.2.0010.0010.0010.1
+Style: Main.Trebuchet MS.24.&H00FFFFFF.&H000000FF.&H00000000.&H00000000.0.0.0.0.100.100.0.0.1.2.1.2.0010.0010.0018.1
+Style: Italics.Trebuchet MS.24.&H00FFFFFF.&H000000FF.&H00000000.&H00000000.0.-1.0.0.100.100.0.0.1.2.1.2.0010.0010.0018.1
+Style: Flashback.Trebuchet MS.24.&H00FFFFFF.&H000000FF.&H00500000.&H00500000.0.0.0.0.100.100.0.0.1.2.1.2.0010.0010.0018.1
+Style: Flashback_Italics.Trebuchet MS.24.&H00FFFFFF.&H000000FF.&H00500000.&H00500000.0.-1.0.0.100.100.0.0.1.2.1.2.0010.0010.0018.1
+Style: Narration.Trebuchet MS.24.&H00FFFFFF.&H000000FF.&H00000050.&H00000050.0.-1.0.0.100.100.0.0.1.2.1.2.0010.0010.0018.1
+Style: Show_Title.Times New Roman.60.&H000F0063.&H000000FF.&H002F1595.&H00000000.-1.0.0.0.100.150.0.0.1.2.0.8.0010.0010.0018.1
+Style: Eyecatch_Title.Times New Roman.60.&H00070300.&H000000FF.&H009CE4E2.&H00000000.-1.0.0.0.100.150.0.0.1.2.0.8.0010.0010.0018.1
+Style: Ep_Title.Times New Roman.24.&H28FFFFFF.&H000000FF.&H00000000.&H3C000000.-1.0.0.0.100.100.0.0.1.0.0.3.0010.0028.0050.1
+Style: Ep_Title_Shadow.Times New Roman.24.&HFEFFFFFF.&H000000FF.&H00000000.&H3C000000.-1.0.0.0.100.100.0.0.1.0.1.3.0010.0028.0050.1
+Style: Next_Ep_Title.Times New Roman.24.&H0AFFFFFF.&H000000FF.&H00000000.&H3C000000.-1.0.0.0.100.100.0.0.1.0.0.2.0010.0010.0060.1
+Style: sign_4777_40_Miyashiro_Prefec.Times New Roman.20.&H00716763.&H000000FF.&H0020180B.&H00000000.0.0.0.0.100.100.0.0.1.2.0.8.0087.0087.0018.1
+Style: sign_6477_66_Sea_Angel.Comic Sans MS.12.&H00848CD2.&H000000FF.&H00F9FDFC.&H00000000.-1.0.0.0.100.100.0.0.1.3.0.5.0493.0093.0000.1
+Style: sign_6477_67_A_type_of_plankt.Comic Sans MS.9.&H00585955.&H000000FF.&H00F4F5E2.&H00000000.-1.0.0.0.100.100.0.0.1.3.0.5.0539.0021.0000.1
+Style: sign_6948_80_Mysterious_Event.Times New Roman.24.&H002D4431.&H000000FF.&H0066995C.&H00000000.-1.0.0.0.100.100.0.0.3.2.0.5.0152.0273.0000.1
+Style: sign_7411_88_B_i_n_g.Arial.24.&H00151815.&H000000FF.&H00DEE0E2.&H00000000.-1.0.0.0.100.100.0.346.1.4.0.5.0328.0292.0000.1
+Style: sign_7581_92_35_Year_Old_Form.Arial.20.&H00C1C7CF.&H000000FF.&H004F555D.&H00000000.-1.0.0.0.80.100.0.0.1.2.0.2.0014.0014.0018.1
+Style: sign_7608_94_Former_Employee_.Times New Roman.14.&H00464C54.&H000000FF.&H00B9C1C4.&H00000000.-1.0.0.0.100.100.0.0.1.2.0.6.0404.0030.0000.1
+Style: sign_7836_100_Laid_Off_From_Wo.Times New Roman.24.&H002B3C3C.&H000000FF.&H00FAFFFE.&H00000000.-1.0.0.0.100.100.0.0.1.2.0.8.0137.0137.0018.1
+Style: sign_8270_111_Hard_Ticks.Comic Sans MS.24.&H004735AD.&H000000FF.&H00ECECEC.&H00000000.-1.0.0.0.100.100.0.0.1.3.0.5.0040.0484.0000.1
+Style: sign_8270_112_A_large__parasit.Comic Sans MS.16.&H0042444D.&H000000FF.&H00DDDEE9.&H00838488.-1.0.0.0.100.100.0.0.1.3.2.4.0327.0152.0000.1
+Style: sign_8270_115_Hmm_.Comic Sans MS.16.&H00656565.&H000000FF.&H00DDDEE9.&H00838488.-1.0.0.0.100.100.0.0.1.0.0.8.0101.0497.0148.1
+Style: sign_8270_116_They_leap_onto_t.Comic Sans MS.12.&H005F5F5F.&H000000FF.&H00E9E9E9.&H00838488.-1.0.0.0.100.100.0.0.1.2.0.4.0157.0359.0000.1
+Style: sign_9617_151_Track_and_Field_.Times New Roman.24.&H00000000.&H000000FF.&H00DCE4E0.&H00DCE4E0.-1.0.0.0.100.100.0.0.1.0.0.8.0000.0405.0010.1
+Style: sign_11038_173__Japan_s_Nationa.Trebuchet MS.30.&H00F1F2F3.&H000000FF.&H00686767.&H00000000.0.0.0.0.100.100.0.0.1.1.0.2.0184.0170.0140.1
+Style: sign_16448_266_Matsumoto.Times New Roman.24.&H008C9896.&H000000FF.&H00E0EBEC.&H00000000.0.0.0.0.100.100.0.0.1.2.0.5.0518.0000.0000.1
+Style: sign_18893_302_4th_grade_Girl_C.Trebuchet MS.12.&H00FFFFFF.&H000000FF.&H00000000.&H00000000.-1.0.0.0.100.100.0.337.5.1.0.0.4.0236.0089.0000.1
+Style: sign_23361_367_Occult_Phenomeno.Trebuchet MS.14.&H001C1C1C.&H000000FF.&H00817211.&H00000000.-1.0.0.0.100.100.0.52.52.1.3.0.8.0130.0367.0246.1
+Style: sign_32727_342_Juju_Stroll.Times New Roman.30.&H00000101.&H000000FF.&H00E7EFF0.&H00000000.-1.0.0.0.100.100.0.0.1.2.0.8.0242.0242.0010.1
+Style: sign_21053_254_Divergent_Fist.Times New Roman.30.&H00FFFFFF.&H000000FF.&H00000000.&H00000000.-1.0.0.0.100.100.0.0.1.2.0.8.0217.0217.0018.1
+Style: sign_25674_318_Toilet_bound_Han.Times New Roman.16.&H004A5C65.&H000000FF.&H00000000.&H00000000.0.0.0.0.100.100.0.0.1.0.0.2.0290.0164.0168.1
+
+[Events]
+Format: Layer. Start. End. Style. Name. MarginL. MarginR. MarginV. Effect. Text
+Dialogue: 0.0:00:06.22.0:00:09.24.Flashback.Tsubasa.0000.0000.0000..He was totally ogling my breasts!
+Dialogue: 0.0:00:12.67.0:00:16.54.Flashback.Nishimura.0000.0000.0000..She does have a huge rack. \Nso they bounce when she runs.
+Dialogue: 0.0:00:16.54.0:00:19.33.Flashback.Honda.0000.0000.0000..I get why you'd do it. Yoshino-chan.
+Dialogue: 0.0:00:20.22.0:00:22.96.Flashback_Italics.Junpei.0000.0000.0000..If there was a button that \Nwould make everyone I hate die.
+Dialogue: 0.0:00:23.36.0:00:24.81.Flashback_Italics.Junpei.0000.0000.0000..I probably wouldn't push it.
+Dialogue: 0.0:00:25.02.0:00:26.45.Flashback.Tsubasa.0000.0000.0000..{\an8}Gross!
+Dialogue: 0.0:00:26.05.0:00:31.27.Flashback_Italics.Junpei.0000.0000.0000..But if there was a button that would \Nmake everyone who hated me die.
+Dialogue: 0.0:00:26.45.0:00:28.49.Flashback.Sayama.0000.0000.0000..{\an8}Shut up. you guys.
+Dialogue: 0.0:00:35.68.0:00:37.26.Flashback_Italics.Junpei.0000.0000.0000..I'd push it without hesitation.
+Dialogue: 0.0:00:38.01.0:00:42.89.Main.MoviePoster.0000.0000.0000..{\fad(1.1599)\pos(325.25)\an8\bord0\shad0\c&H2D1534&\b1\blur.5}Human Earthworm 3
+Dialogue: 0.0:00:38.01.0:00:42.89.Main.MoviePoster.0000.0000.0000..{\fad(1.1599)\pos(325.315)\fs14\bord0\shad0\c&H474B47&}Creating Humans
+Dialogue: 0.0:00:39.99.0:00:41.24.Main.Junpei.0000.0000.0000..Excuse me.
+Dialogue: 0.0:00:42.76.0:00:44.27.Main.Junpei.0000.0000.0000..Excuse me.
+Dialogue: 0.0:00:46.24.0:00:47.28.Main.Junpei.0000.0000.0000..Excuse me!
+Dialogue: 0.0:00:49.66.0:00:52.55.Main.Junpei.0000.0000.0000..One adult for {\i1}Human Earthworm 3{\i0}.
+Dialogue: 0.0:00:53.04.0:00:54.90.Main.WorkerA.0000.0000.0000..That'll be 1.800 yen.
+Dialogue: 0.0:00:54.90.0:00:56.65.Main.Junpei.0000.0000.0000..Yeah. here.
+Dialogue: 0.0:01:01.57.0:01:03.56.Main.WorkerA.0000.0000.0000..The show will be starting soon.
+Dialogue: 0.0:01:05.35.0:01:11.05.Italics.Mad Doctor.0000.0000.0000..{\an8}I served as a doctor for many years. \Nworking to save lives.
+Dialogue: 0.0:01:09.65.0:01:13.68.Main.Sayama.0000.0000.0000..And it turned out he had 50.000 on him! \NA middle school brat!
+Dialogue: 0.0:01:11.05.0:01:15.81.Main.Mad Doctor.0000.0000.0000..{\an8}As I was saving countless lives. I found \Nmyself arriving at a particular question.
+Dialogue: 0.0:01:13.68.0:01:14.89.Main.Nishimura.0000.0000.0000..{\an8}For real?
+Dialogue: 0.0:01:14.03.0:01:15.41.Italics.Junpei.0000.0000.0000..This sucks.
+Dialogue: 0.0:01:14.89.0:01:15.81.Main.Honda.0000.0000.0000..{\an8}That's awesome.
+Dialogue: 0.0:01:17.05.0:01:21.39.Italics.Mad Doctor.0000.0000.0000..{\an8}Where does a person's life—\Ntheir very soul—actually reside?
+Dialogue: 0.0:01:17.28.0:01:19.47.Main.Nishimura.0000.0000.0000..{\an8}So? What'd you do next?
+Dialogue: 0.0:01:17.77.0:01:20.79.Italics.Junpei.0000.0000.0000..High schoolers shouldn't \Nskip school to watch movies.
+Dialogue: 0.0:01:19.47.0:01:21.22.Main.Sayama.0000.0000.0000..{\an8}I took it all.
+Dialogue: 0.0:01:21.22.0:01:23.03.Main.Nishimura.0000.0000.0000..{\an8}Man. so mean!
+Dialogue: 0.0:01:21.32.0:01:23.03.Italics.Junpei.0000.0000.0000..Not that I can talk.
+Dialogue: 0.0:01:23.36.0:01:25.76.Italics.Mad Doctor.0000.0000.0000..{\an8}That's when I realized it!
+Dialogue: 0.0:01:26.37.0:01:29.55.Italics.Junpei.0000.0000.0000..This seriously sucks.
+Dialogue: 0.0:01:27.52.0:01:30.21.Italics.Mad Doctor.0000.0000.0000..{\an8}The shape of one's soul creates the body!
+Dialogue: 0.0:01:29.55.0:01:31.99.Main.Honda.0000.0000.0000..{\an8}Then today's your treat!
+Dialogue: 0.0:01:30.21.0:01:32.83.Italics.Junpei.0000.0000.0000..I can't hear the movie at all.
+Dialogue: 0.0:01:31.99.0:01:33.71.Main.Sayama.0000.0000.0000..{\an8}Screw that.
+Dialogue: 0.0:01:32.47.0:01:35.20.Italics.Mad Doctor.0000.0000.0000..{\an8}So I began conducting research on the soul.
+Dialogue: 0.0:01:33.71.0:01:36.09.Main.Sayama.0000.0000.0000..{\an8}We're splitting it even. obviously!
+Dialogue: 0.0:01:33.79.0:01:37.67.Italics.Junpei.0000.0000.0000..There are always people like that. \Neven if they vary to some degree.
+Dialogue: 0.0:01:35.20.0:01:37.67.Italics.Mad Doctor.0000.0000.0000..{\an8}All alone. in this lab deep in the mountains...
+Dialogue: 0.0:01:38.42.0:01:39.70.Flashback.Sayama.0000.0000.0000..So. were you looking?
+Dialogue: 0.0:01:40.19.0:01:41.66.Flashback.Junpei.0000.0000.0000..I wasn't.
+Dialogue: 0.0:01:41.66.0:01:45.43.Flashback.Sayama.0000.0000.0000..Then are you saying Tsubasa's lying to us?
+Dialogue: 0.0:01:45.43.0:01:47.51.Flashback.Tsubasa.0000.0000.0000..He was definitely looking at them!
+Dialogue: 0.0:01:48.50.0:01:49.89.Flashback.Nishimura.0000.0000.0000..You're nuts. man!
+Dialogue: 0.0:01:49.89.0:01:51.85.Flashback.Honda.0000.0000.0000..Oh. there's a half-off coupon.
+Dialogue: 0.0:01:51.85.0:01:52.98.Flashback.Nishimura.0000.0000.0000..Huh? To where?
+Dialogue: 0.0:01:52.98.0:01:56.04.Flashback.Tsubasa.0000.0000.0000..Hey! Teach him a lesson first!
+Dialogue: 0.0:01:56.04.0:01:56.97.Flashback_Italics.Junpei.0000.0000.0000..Shit.
+Dialogue: 0.0:01:56.97.0:02:01.47.Flashback_Italics.Junpei.0000.0000.0000..That woman's just using me to see \Nwhere she stands. and she's enjoying it!
+Dialogue: 0.0:02:01.93.0:02:03.92.Flashback.Sayama.0000.0000.0000..You {\i1}were{\i0} looking. then.
+Dialogue: 0.0:02:05.59.0:02:06.99.Flashback_Italics.Junpei.0000.0000.0000..Damn it.
+Dialogue: 0.0:02:07.33.0:02:08.29.Flashback_Italics.Junpei.0000.0000.0000..I'll tell her!
+Dialogue: 0.0:02:08.29.0:02:09.21.Flashback_Italics.Junpei.0000.0000.0000..I'll tell her!
+Dialogue: 0.0:02:09.21.0:02:10.40.Flashback_Italics.Junpei.0000.0000.0000..I'll tell her!
+Dialogue: 0.0:02:10.40.0:02:11.46.Flashback_Italics.Junpei.0000.0000.0000..I'll tell her!
+Dialogue: 0.0:02:12.87.0:02:16.67.Flashback.Junpei.0000.0000.0000..You're not as cute as you \Nthink you are. Tsubasa-san.
+Dialogue: 0.0:02:18.16.0:02:20.38.Flashback.Junpei.0000.0000.0000..These three know that. too.
+Dialogue: 0.0:02:20.72.0:02:23.24.Flashback.Junpei.0000.0000.0000..The only reason they're fawning over you is
+Dialogue: 0.0:02:24.12.0:02:26.31.Flashback.Junpei.0000.0000.0000..because they think you'll let them bang you.
+Dialogue: 0.0:02:28.12.0:02:31.95.Italics.Mad Doctor.0000.0000.0000..{\an8}Now to create the perfect human being!
+Dialogue: 0.0:02:30.48.0:02:31.64.Main.Sayama.0000.0000.0000..No way.
+Dialogue: 0.0:02:31.86.0:02:33.64.Main.Sayama.0000.0000.0000..She won't let us bang her at all.
+Dialogue: 0.0:02:33.64.0:02:34.97.Main.Sayama.0000.0000.0000..She's no good anymore.
+Dialogue: 0.0:02:34.97.0:02:35.96.Italics.Junpei.0000.0000.0000..Stop talking.
+Dialogue: 0.0:02:36.03.0:02:38.47.Italics.Victim.0000.0000.0000..{\an8}S-Stop it!
+Dialogue: 0.0:02:39.37.0:02:40.35.Italics.Victim.0000.0000.0000..{\an8}No!
+Dialogue: 0.0:02:40.95.0:02:42.24.Main.Sayama.0000.0000.0000..It's Tsubasa.
+Dialogue: 0.0:02:42.24.0:02:44.24.Italics.Junpei.0000.0000.0000..Turn off your phone!
+Dialogue: 0.0:02:43.35.0:02:44.24.Main.Sayama.0000.0000.0000..Hello?
+Dialogue: 0.0:02:44.24.0:02:45.61.Main.Sayama.0000.0000.0000..What's up?
+Dialogue: 0.0:02:55.14.0:02:57.26.Main.Sayama.0000.0000.0000..Right now? I'm free.
+Dialogue: 0.0:02:57.26.0:02:58.57.Main.Mahito.0000.0000.0000..You three...
+Dialogue: 0.0:02:58.57.0:03:00.29.Main.Sayama.0000.0000.0000..Well...
+Dialogue: 0.0:02:59.66.0:03:01.28.Main.Mahito.0000.0000.0000..need to mind your manners.
+Dialogue: 0.0:03:05.49.0:03:07.47.Italics.Mad Doctor.0000.0000.0000..{\an8}There's no need to worry.
+Dialogue: 0.0:03:07.47.0:03:09.48.Italics.Mad Doctor.0000.0000.0000..{\an8}Everything went well.
+Dialogue: 0.0:03:09.48.0:03:12.76.Italics.Mad Doctor.0000.0000.0000..{\an8}It's all for the creation of \Nthe perfect human being...
+Dialogue: 0.0:03:13.71.0:03:16.21.Main.MoviePoster.0000.0000.0000..{\pos(325.25)\an8\bord0\shad0\c&H2D1534&\b1\blur.5}Human Earthworm 3
+Dialogue: 0.0:03:13.71.0:03:16.21.Main.MoviePoster.0000.0000.0000..{\pos(325.315)\fs14\bord0\shad0\c&H474B47&}Creating Humans
+Dialogue: 0.0:03:21.92.0:03:22.69.Main.Junpei.0000.0000.0000..Wha...
+Dialogue: 0.0:03:23.37.0:03:24.42.Main.Junpei.0000.0000.0000..What is this?
+Dialogue: 0.0:03:32.62.0:03:34.87.Italics.Junpei.0000.0000.0000..That person just now...
+Dialogue: 0.0:03:34.87.0:03:38.07.Italics.Junpei.0000.0000.0000..No. a person couldn't do this.
+Dialogue: 0.0:03:40.32.0:03:42.92.Italics.Junpei.0000.0000.0000..And if they could. would they really
+Dialogue: 0.0:03:43.20.0:03:44.43.Italics.Junpei.0000.0000.0000..be human?
+Dialogue: 0.0:03:48.70.0:03:53.17.Ep_Title.Screen.0000.0000.0000..{\fad(1500.1)\fs26}Monday. 10:10 AM
+Dialogue: 0.0:03:50.32.0:03:52.86.Main.Mahito.0000.0000.0000..{\an8}What if I am the one who did it?
+Dialogue: 0.0:03:53.16.0:03:54.00.Main.Mahito.0000.0000.0000..Will you condemn me?
+Dialogue: 0.0:03:56.29.0:03:59.92.Main.Mahito.0000.0000.0000..Were those three special to you?
+Dialogue: 0.0:04:02.73.0:04:04.45.Flashback.Sayama.0000.0000.0000..Don't worry.
+Dialogue: 0.0:04:04.45.0:04:05.83.Flashback.Sayama.0000.0000.0000..He can eat it.
+Dialogue: 0.0:04:06.13.0:04:07.45.Flashback.Nishimura.0000.0000.0000..Harsh. man!
+Dialogue: 0.0:04:07.45.0:04:10.68.Flashback.Tsubasa.0000.0000.0000..Poor guy! He's crying now!
+Dialogue: 0.0:04:29.15.0:04:30.20.Main.Junpei.0000.0000.0000..Can I...
+Dialogue: 0.0:04:31.73.0:04:34.65.Main.Junpei.0000.0000.0000..do that. too?
+Dialogue: 0.0:04:46.05.0:04:53.01.Show_Title..0000.0000.0000..{\blur1\fad(1191.431)\t(1192.1316.1 \c&H0700D7&\3c&H6659E4&)\t(1317.1941.1 \c&H172918&\3c&H8CCECB&)\t(6197.6529.1 \c&H0F0063&\3c&H222781&)}JUJUTSU KAISEN
+Dialogue: 0.0:06:06.42.0:06:09.01.Main.Mob.0000.0000.0000..{\an8}Please stay back!
+Dialogue: 0.0:06:06.42.0:06:13.43.Ep_Title_Shadow.Screen.0000.0000.0000..{\fad(529.562)\fs20\pos(612.310)}Episode 9:  Small Fry and Reverse Retribution
+Dialogue: 0.0:06:06.42.0:06:13.43.Ep_Title.Screen.0000.0000.0000..{\fad(529.562)\fs20\pos(612.310)}Episode 9:  Small Fry and Reverse Retribution
+Dialogue: 0.0:06:10.11.0:06:13.30.Main.Cop.0000.0000.0000..{\an8}It seems like the victims \Nwere high school students.
+Dialogue: 0.0:06:17.81.0:06:22.86.Ep_Title.Screen.0000.0000.0000..{\fad(1360.1)\fs26}Monday 10:30 AM
+Dialogue: 0.0:06:21.05.0:06:22.88.Main.Junior Detective.0000.0000.0000..{\an8}Who were those guys?!
+Dialogue: 0.0:06:22.88.0:06:26.04.Main.Junior Detective.0000.0000.0000..Why were they on the scene before forensics?!
+Dialogue: 0.0:06:26.04.0:06:28.36.Main.Junior Detective.0000.0000.0000..One of them was just a kid. too!
+Dialogue: 0.0:06:28.56.0:06:30.95.Main.Senior Detective.0000.0000.0000..I don't know the details. either.
+Dialogue: 0.0:06:30.95.0:06:33.83.Main.Senior Detective.0000.0000.0000..But you saw those stiffs. didn't you?
+Dialogue: 0.0:06:36.06.0:06:38.49.Main.Senior Detective.0000.0000.0000..That's not something a person could do.
+Dialogue: 0.0:06:42.27.0:06:44.22.Main.Senior Detective.0000.0000.0000..Just pretend you never saw it...
+Dialogue: 0.0:06:44.64.0:06:47.42.Main.Senior Detective.0000.0000.0000..If you want to reach retirement\Nin this line of work. that is.
+Dialogue: 0.0:06:49.86.0:06:51.11.Main.Nanami.0000.0000.0000..Can you see it?
+Dialogue: 0.0:06:51.11.0:06:53.27.Main.Nanami.0000.0000.0000..This is the residual taint of cursed energy.
+Dialogue: 0.0:06:54.69.0:06:56.36.Main.Yuuji.0000.0000.0000..No. I can't see anything.
+Dialogue: 0.0:06:55.73.0:06:57.92.Main.Nanami.0000.0000.0000..That's because you're not trying to see it.
+Dialogue: 0.0:06:57.92.0:07:02.11.Main.Nanami.0000.0000.0000..We typically see curses as \Nif it's perfectly natural to.
+Dialogue: 0.0:07:02.40.0:07:05.14.Main.Nanami.0000.0000.0000..When a cursed technique is used.\Nit leaves traces behind.
+Dialogue: 0.0:07:05.14.0:07:06.46.Main.Nanami.0000.0000.0000..That's what residuals are.
+Dialogue: 0.0:07:06.83.0:07:09.92.Main.Nanami.0000.0000.0000..But residuals are much \Nfainter than cursed spirits.
+Dialogue: 0.0:07:09.92.0:07:12.44.Main.Nanami.0000.0000.0000..So focus your vision and look closely.
+Dialogue: 0.0:07:16.12.0:07:17.12.Main.Yuuji.0000.0000.0000..Oh!
+Dialogue: 0.0:07:17.42.0:07:18.61.Main.Yuuji.0000.0000.0000..I can see them!
+Dialogue: 0.0:07:18.61.0:07:19.89.Main.Nanami.0000.0000.0000..Of course you can.
+Dialogue: 0.0:07:19.89.0:07:23.16.Main.Nanami.0000.0000.0000..A proper sorcerer can sense them \Nbefore seeing them.
+Dialogue: 0.0:07:26.66.0:07:29.87.Main.Yuuji.0000.0000.0000..Couldn't you give me a little \Nmore praise or something?
+Dialogue: 0.0:07:29.87.0:07:32.03.Main.Nanami.0000.0000.0000..I don't praise or disparage anyone.
+Dialogue: 0.0:07:32.03.0:07:34.72.Main.Nanami.0000.0000.0000..I adhere to facts and judge on that basis.
+Dialogue: 0.0:07:34.72.0:07:36.37.Main.Nanami.0000.0000.0000..That's who I am.
+Dialogue: 0.0:07:36.37.0:07:40.34.Main.Nanami.0000.0000.0000..There was a time when I mistakenly \Nbelieved society operated the same way.
+Dialogue: 0.0:07:40.60.0:07:42.19.Main.Nanami.0000.0000.0000..but enough about that.
+Dialogue: 0.0:07:43.12.0:07:44.22.Main.Yuuji.0000.0000.0000..Let's follow them.
+Dialogue: 0.0:07:44.22.0:07:46.08.Main.Yuuji.0000.0000.0000..Yeah! Let's go all-out!
+Dialogue: 0.0:07:46.08.0:07:48.96.Main.Nanami.0000.0000.0000..No. where moderate effort \Nwill suffice. use moderate effort.
+Dialogue: 0.0:07:49.96.0:07:50.89.Main.Nanami.0000.0000.0000..Let's go.
+Dialogue: 0.0:07:52.01.0:07:54.71.Italics.Yuuji.0000.0000.0000..We're just not clicking.
+Dialogue: 0.0:07:54.95.0:07:56.64.Italics.Yuuji.0000.0000.0000..I'm not getting anything from him.
+Dialogue: 0.0:07:57.71.0:07:59.92.Flashback.Gojou.0000.0000.0000..I won't be able to lead you this time.
+Dialogue: 0.0:08:00.61.0:08:04.33.Flashback.Gojou.0000.0000.0000..But don't worry. I've called \Nin a friend you can trust.
+Dialogue: 0.0:08:06.22.0:08:09.48.Flashback.Gojou.0000.0000.0000..This is Nanami Kento. \Nthe ex-salaryman jujutsu sorcerer!
+Dialogue: 0.0:08:09.48.0:08:11.51.Flashback.Nanami.0000.0000.0000..Please don't call me that.
+Dialogue: 0.0:08:11.84.0:08:14.15.Flashback.Gojou.0000.0000.0000..Plenty of jujutsu sorcerers are oddballs.
+Dialogue: 0.0:08:14.15.0:08:17.82.Flashback.Gojou.0000.0000.0000..but since he worked for a company. \Nhe's got a good head on his shoulders.
+Dialogue: 0.0:08:17.82.0:08:19.82.Flashback.Gojou.0000.0000.0000..He's a first-grade sorcerer. too.
+Dialogue: 0.0:08:19.82.0:08:23.02.Flashback.Nanami.0000.0000.0000..I'm sure no one would want to \Nhear {\i1}you{\i0} saying that about them.
+Dialogue: 0.0:08:23.02.0:08:26.46.Flashback_Italics.Yuuji.0000.0000.0000..A lot of these people wear sunglasses \Nand stuff to hide their eyes.
+Dialogue: 0.0:08:26.97.0:08:31.28.Flashback.Yuuji.0000.0000.0000..Ex-salaryman? Why didn't you become \Na jujutsu sorcerer from the start?
+Dialogue: 0.0:08:31.70.0:08:33.60.Flashback.Nanami.0000.0000.0000..We should greet each other first.
+Dialogue: 0.0:08:33.60.0:08:35.70.Flashback.Nanami.0000.0000.0000..Nice to meet you. Itadori-kun.
+Dialogue: 0.0:08:35.70.0:08:38.14.Flashback.Yuuji.0000.0000.0000..Oh. yes. nice to meet you. too.
+Dialogue: 0.0:08:38.14.0:08:41.12.Flashback.Nanami.0000.0000.0000..I studied at Jujutsu Tech. \Nand one thing I learned...
+Dialogue: 0.0:08:41.60.0:08:43.96.Flashback.Nanami.0000.0000.0000..is that jujutsu sorcerers are shit!
+Dialogue: 0.0:08:43.96.0:08:44.73.Flashback..0000.0000.0000..Huh?
+Dialogue: 0.0:08:45.65.0:08:49.06.Flashback.Nanami.0000.0000.0000..Then I worked at your typical company. \Nand one thing I learned
+Dialogue: 0.0:08:49.56.0:08:51.68.Flashback.Nanami.0000.0000.0000..is that work is shit!
+Dialogue: 0.0:08:51.68.0:08:52.86.Flashback.Yuuji.0000.0000.0000..Really?!
+Dialogue: 0.0:08:52.86.0:08:56.24.Flashback.Nanami.0000.0000.0000..If both are equally shit. \NI'll take the one I'm more suited to.
+Dialogue: 0.0:08:56.24.0:08:58.84.Flashback.Nanami.0000.0000.0000..That's the only reason I came back.
+Dialogue: 0.0:08:58.84.0:09:00.17.Flashback.Yuuji.0000.0000.0000..That's dark.
+Dialogue: 0.0:09:00.17.0:09:01.20.Flashback.Gojou.0000.0000.0000..Right?
+Dialogue: 0.0:09:01.49.0:09:06.74.Flashback.Nanami.0000.0000.0000..Itadori-kun. please don't believe \NI'm of the same mindset as Gojou-san.
+Dialogue: 0.0:09:06.74.0:09:09.99.Flashback.Nanami.0000.0000.0000..I do trust and have faith in him.
+Dialogue: 0.0:09:12.60.0:09:14.51.Flashback.Nanami.0000.0000.0000..but I do not respect him!
+Dialogue: 0.0:09:14.51.0:09:15.40.Flashback.Gojou.0000.0000.0000..Huh?!
+Dialogue: 0.0:09:15.79.0:09:17.79.Flashback.Nanami.0000.0000.0000..I hate the way the higher-ups do things.
+Dialogue: 0.0:09:17.79.0:09:20.00.Flashback.Nanami.0000.0000.0000..but I believe in rules and regulations.
+Dialogue: 0.0:09:20.50.0:09:22.48.Flashback.Nanami.0000.0000.0000..This conversation is dragging on.
+Dialogue: 0.0:09:22.48.0:09:26.85.Flashback.Nanami.0000.0000.0000..In short. I don't recognize \Nyou as a sorcerer. either.
+Dialogue: 0.0:09:26.85.0:09:29.38.Flashback.Nanami.0000.0000.0000..Even if you do carry the \Nbomb we know as Sukuna.
+Dialogue: 0.0:09:29.38.0:09:33.73.Flashback.Nanami.0000.0000.0000..please make an effort to \Nprove that {\i1}you{\i0} are useful.
+Dialogue: 0.0:09:36.96.0:09:42.05.Flashback.Yuuji.0000.0000.0000..Lately. I've been forced to realize \Nhow weak and useless I am.
+Dialogue: 0.0:09:44.45.0:09:46.24.Flashback.Yuuji.0000.0000.0000..But I'll become strong.
+Dialogue: 0.0:09:46.77.0:09:49.98.Flashback.Yuuji.0000.0000.0000..I have to be strong. or I won't \Nbe able to choose how I die.
+Dialogue: 0.0:09:52.32.0:09:55.29.Flashback.Yuuji.0000.0000.0000..I'll make you recognize me. \Neven without that advice.
+Dialogue: 0.0:09:55.29.0:09:57.06.Flashback.Yuuji.0000.0000.0000..Just give me a bit more time.
+Dialogue: 0.0:09:59.61.0:10:02.38.Flashback.Nanami.0000.0000.0000..Say that to the higher-ups. not me.
+Dialogue: 0.0:10:02.38.0:10:03.37.Flashback.Yuuji.0000.0000.0000..Oh. right.
+Dialogue: 0.0:10:03.50.0:10:05.50.Flashback.Nanami.0000.0000.0000..Frankly. I don't care!
+Dialogue: 0.0:10:05.50.0:10:06.83.Flashback.Yuuji.0000.0000.0000..Okay. I get it!
+Dialogue: 0.0:10:09.45.0:10:12.72.Main.Yuuji.0000.0000.0000..There wasn't anything on the \Nsurveillance cameras. right?
+Dialogue: 0.0:10:13.05.0:10:16.84.Main.Nanami.0000.0000.0000..Right. There was only one young \Nman aside from the victims.
+Dialogue: 0.0:10:16.84.0:10:18.84.Main.Yuuji.0000.0000.0000..Then a cursed spirit was behind it?
+Dialogue: 0.0:10:19.53.0:10:21.63.Main.Nanami.0000.0000.0000..Well. most likely.
+Dialogue: 0.0:10:23.73.0:10:26.89.Main.Nanami.0000.0000.0000..There's a small chance the \Nyoung man could have done it.
+Dialogue: 0.0:10:26.89.0:10:29.52.Main.Nanami.0000.0000.0000..but identifying him is the police's—
+Dialogue: 0.0:10:32.81.0:10:37.12.Main.CurseA.0000.0000.0000..Lu. lu. lu. lunchbox!
+Dialogue: 0.0:10:37.85.0:10:38.53.Main.Nanami.0000.0000.0000..Stop.
+Dialogue: 0.0:10:38.88.0:10:41.14.Main.Nanami.0000.0000.0000..I'll take care of this one.
+Dialogue: 0.0:10:41.14.0:10:43.25.Main.Nanami.0000.0000.0000..You handle the one over there.
+Dialogue: 0.0:10:45.41.0:10:49.39.Main.CurseB.0000.0000.0000..Good detergent!
+Dialogue: 0.0:10:49.39.0:10:52.08.Main.Nanami.0000.0000.0000..If you decide you can't beat it. please call me.
+Dialogue: 0.0:10:52.08.0:10:54.90.Main.Yuuji.0000.0000.0000..Aren't you taking me a bit too lightly here?
+Dialogue: 0.0:10:54.90.0:10:57.54.Main.Nanami.0000.0000.0000..It's not a matter of underestimating you or not.
+Dialogue: 0.0:10:57.80.0:11:00.56.Main.Nanami.0000.0000.0000..I am an adult. and you are a child.
+Dialogue: 0.0:11:01.43.0:11:05.61.Main.Nanami.0000.0000.0000..I have a duty to prioritize \Nyour life over my own.
+Dialogue: 0.0:11:03.22.0:11:05.61.Main.CurseA.0000.0000.0000..{\an8}Lu. lu. lu...
+Dialogue: 0.0:11:06.12.0:11:09.39.Main.Yuuji.0000.0000.0000..I'd rather you underestimate me \Nthan treat me like a kid.
+Dialogue: 0.0:11:09.83.0:11:12.54.Main.Nanami.0000.0000.0000..You've faced several life-or-death situations.
+Dialogue: 0.0:11:12.54.0:11:15.30.Main.Nanami.0000.0000.0000..But that does not make you an adult.
+Dialogue: 0.0:11:15.84.0:11:18.41.Main.Nanami.0000.0000.0000..Finding more fallen-out hairs on your pillow.
+Dialogue: 0.0:11:18.66.0:11:22.84.Main.Nanami.0000.0000.0000..watching your favorite stuffed bread \Ndisappear from the convenience store...
+Dialogue: 0.0:11:22.84.0:11:26.68.Main.Nanami.0000.0000.0000..The accumulation of those little despairs
+Dialogue: 0.0:11:26.68.0:11:29.38.Main.Nanami.0000.0000.0000..is what makes a person an adult.
+Dialogue: 0.0:11:32.21.0:11:35.00.Eyecatch_Title..0000.0000.0000..{\blur1\fad(864.1)}JUJUTSU KAISEN
+Dialogue: 0.0:11:37.67.0:11:40.01.Eyecatch_Title..0000.0000.0000..{\blur1\fad(864.1)}JUJUTSU KAISEN
+Dialogue: 0.0:11:41.88.0:11:46.10.Ep_Title.Screen.0000.0000.0000..{\fs26\fad(1500.1)}Monday. 11:15 AM
+Dialogue: 0.0:11:48.54.0:11:53.94.Main.Nanami.0000.0000.0000..My cursed technique allows me to forcibly \Ncreate a weak point on any opponent.
+Dialogue: 0.0:11:54.39.0:11:55.82.Main.Nanami.0000.0000.0000..Seven to three.
+Dialogue: 0.0:11:56.35.0:11:58.42.Main.Nanami.0000.0000.0000..Striking the point at that ratio
+Dialogue: 0.0:11:58.42.0:12:02.96.Main.Nanami.0000.0000.0000..when you draw a line along the\Ntarget's length causes a critical hit.
+Dialogue: 0.0:12:03.37.0:12:08.64.Main.Nanami.0000.0000.0000..That allows me to deal a fair amount of \Ndamage to those ranked higher than me.
+Dialogue: 0.0:12:09.64.0:12:13.85.Main.Nanami.0000.0000.0000..and if their cursed energy is weak. \NI can cut them in two. even with a blunt blade.
+Dialogue: 0.0:12:15.76.0:12:17.44.Main.Nanami.0000.0000.0000..Are you listening. Itadori-kun?
+Dialogue: 0.0:12:17.44.0:12:19.31.Main.Yuuji.0000.0000.0000..Huh?! You were talking to me?!
+Dialogue: 0.0:12:21.33.0:12:22.67.Italics.ElectricVoice.0000.0000.0000..Home run!
+Dialogue: 0.0:12:25.37.0:12:26.85.Main.Yuuji.0000.0000.0000..Ow...
+Dialogue: 0.0:12:26.85.0:12:29.67.Main.Yuuji.0000.0000.0000..Is it okay to reveal something like that?
+Dialogue: 0.0:12:29.96.0:12:33.53.Main.Nanami.0000.0000.0000..It's no problem to reveal that \Ntechnique to that opponent.
+Dialogue: 0.0:12:33.53.0:12:37.44.Main.Nanami.0000.0000.0000..{\an8}Also. all the better if \Nrevealing it misleads them.
+Dialogue: 0.0:12:35.28.0:12:39.67.Italics.Yuuji.0000.0000.0000..I want to focus on the curse. \Nbut it feels like I should be listening.
+Dialogue: 0.0:12:40.26.0:12:41.87.Main.Nanami.0000.0000.0000..There is merit to it.
+Dialogue: 0.0:12:41.87.0:12:46.63.Main.Nanami.0000.0000.0000.."Revealing one's hand" is a pact that increases \Nthe effectiveness of one's technique.
+Dialogue: 0.0:12:46.90.0:12:48.38.Main.Nanami.0000.0000.0000..Like so.
+Dialogue: 0.0:13:14.74.0:13:16.83.Main.Nanami.0000.0000.0000..That's all from me.
+Dialogue: 0.0:13:17.85.0:13:19.18.Main.Yuuji.0000.0000.0000..Wow.
+Dialogue: 0.0:13:19.74.0:13:23.01.Main.Yuuji.0000.0000.0000..Not only is the blade he used all wrapped up.
+Dialogue: 0.0:13:23.01.0:13:26.13.Main.Yuuji.0000.0000.0000..but he used the back of it to \Nslice right through that thing.
+Dialogue: 0.0:13:27.54.0:13:29.06.Main.Nanami.0000.0000.0000..Itadori-kun. behind you.
+Dialogue: 0.0:13:29.82.0:13:30.63.Main.Yuuji.0000.0000.0000..Huh?
+Dialogue: 0.0:13:35.77.0:13:37.95.Main.Nanami.0000.0000.0000..I don't like you looking away.
+Dialogue: 0.0:13:37.95.0:13:40.12.Main.Yuuji.0000.0000.0000..Who's the one distracting me here?!
+Dialogue: 0.0:13:41.02.0:13:44.51.Main.CurseB.0000.0000.0000..Detergent!
+Dialogue: 0.0:13:55.48.0:13:58.54.Flashback.Gojou.0000.0000.0000..Your cursed energy comes \Nup a little slow. huh?
+Dialogue: 0.0:13:58.90.0:14:00.19.Flashback.Yuuji.0000.0000.0000..Ow...
+Dialogue: 0.0:14:00.19.0:14:01.53.Flashback.Yuuji.0000.0000.0000..Slow?
+Dialogue: 0.0:14:01.81.0:14:05.16.Flashback.Gojou.0000.0000.0000..Your cursed energy can't keep up \Nwith your explosive power.
+Dialogue: 0.0:14:05.50.0:14:09.77.Flashback.Gojou.0000.0000.0000..You're still not good at amassing \Ncursed energy. so it tends to lag behind.
+Dialogue: 0.0:14:09.77.0:14:13.30.Flashback.Gojou.0000.0000.0000..But that actually creates an \Nirregular flow of cursed energy.
+Dialogue: 0.0:14:14.06.0:14:18.15.Flashback.Gojou.0000.0000.0000..The moment after your fist strikes. \Nyour cursed energy slams in.
+Dialogue: 0.0:14:18.15.0:14:22.17.Flashback.Gojou.0000.0000.0000..In other words. you're creating \Ntwo impacts with every strike.
+Dialogue: 0.0:14:38.06.0:14:39.75.sign_21053_254_Divergent_Fist.Gojou&Screen.0000.0000.0000..{\fad(1026.1)}Divergent Fist
+Dialogue: 0.0:14:38.14.0:14:39.75.Flashback.Gojou&Screen.0000.0000.0000..Divergent Fist!
+Dialogue: 0.0:14:40.67.0:14:42.36.Flashback.Yuuji.0000.0000.0000..That's so cool!
+Dialogue: 0.0:14:42.84.0:14:45.31.Flashback.Gojou.0000.0000.0000..It's not something many can do on purpose.
+Dialogue: 0.0:14:45.81.0:14:47.83.Flashback.Gojou.0000.0000.0000..This'll be a great weapon for you.
+Dialogue: 0.0:14:50.56.0:14:53.66.Italics.Nanami.0000.0000.0000..His raw strength is superhuman?
+Dialogue: 0.0:14:53.66.0:14:55.85.Italics.Nanami.0000.0000.0000..The initial blow has little cursed energy.
+Dialogue: 0.0:14:55.85.0:14:59.68.Italics.Nanami.0000.0000.0000..but it reaches 120% of \Nan average sorcerer's power.
+Dialogue: 0.0:15:00.13.0:15:03.21.Italics.Nanami.0000.0000.0000..Then the real blow of cursed energy flows in.
+Dialogue: 0.0:15:03.63.0:15:06.72.Italics.Nanami.0000.0000.0000..It must be unimaginably unpleasant \Nfor those struck by it.
+Dialogue: 0.0:15:07.71.0:15:09.15.Italics.Nanami.0000.0000.0000..He has room to grow. too.
+Dialogue: 0.0:15:09.54.0:15:14.89.Italics.Nanami.0000.0000.0000..If he can learn to imbue 100% of his \Ncursed energy into 100% of his martial arts...
+Dialogue: 0.0:15:15.60.0:15:18.34.Italics.Nanami.0000.0000.0000..Now I see why that man brought him to me.
+Dialogue: 0.0:15:19.50.0:15:21.10.Main.CurseA.0000.0000.0000..L-Lu...
+Dialogue: 0.0:15:21.10.0:15:22.98.Main.Nanami.0000.0000.0000..Oh. pardon me. I'll end you now.
+Dialogue: 0.0:15:27.46.0:15:30.40.Main.Nanami.0000.0000.0000..Itadori-kun! Don't finish it off yet!
+Dialogue: 0.0:15:32.23.0:15:33.57.Main.Nanami.0000.0000.0000..Have a look a this.
+Dialogue: 0.0:15:35.19.0:15:37.44.Main.Nanami.0000.0000.0000..I took a photo of my opponent.
+Dialogue: 0.0:15:37.44.0:15:40.39.Main.Yuuji.0000.0000.0000..Huh? I thought cursed spirits \Ndidn't show up in photos.
+Dialogue: 0.0:15:41.25.0:15:43.21.Main.Nanami.0000.0000.0000..Please listen calmly.
+Dialogue: 0.0:15:44.63.0:15:47.14.Main.Nanami.0000.0000.0000..What we've been fighting...
+Dialogue: 0.0:15:49.44.0:15:50.72.Main.Ieiri.0000.0000.0000..They're human.
+Dialogue: 0.0:15:51.02.0:15:54.02.Main.Ieiri.0000.0000.0000..No. I guess I should call them former humans.
+Dialogue: 0.0:15:54.39.0:15:56.47.Main.Ieiri.0000.0000.0000..They're the same as the three from the theater.
+Dialogue: 0.0:15:56.98.0:16:00.08.Italics.Ieiri.0000.0000.0000..The structure of their bodies was \Nforcibly altered by a cursed technique.
+Dialogue: 0.0:16:00.40.0:16:03.05.Main.Nanami.0000.0000.0000..If that was all. I would \Nhave noticed at the start.
+Dialogue: 0.0:16:03.05.0:16:08.00.Main.Nanami.0000.0000.0000..The two we fought were full of \Ncursed energy. like cursed spirits.
+Dialogue: 0.0:16:08.00.0:16:12.01.Italics.Ieiri.0000.0000.0000..You'll have to ask the culprit about \Ntheir cursed technique to explain that.
+Dialogue: 0.0:16:12.47.0:16:15.76.Main.Ieiri.0000.0000.0000..Though there is evidence that their \Nbrain stems were tampered with.
+Dialogue: 0.0:16:15.76.0:16:19.85.Main.Ieiri.0000.0000.0000..most likely to create a state of confusion \Nand impaired consciousness.
+Dialogue: 0.0:16:19.85.0:16:21.53.Italics.Ieiri.0000.0000.0000..If they can tamper with the brain.
+Dialogue: 0.0:16:21.53.0:16:25.33.Italics.Ieiri.0000.0000.0000..it might be possible for them to modify \Nsomeone to be able to use cursed energy.
+Dialogue: 0.0:16:25.77.0:16:29.65.Italics.Ieiri.0000.0000.0000..The relationship between the brain \Nand cursed energy is still a black box to us.
+Dialogue: 0.0:16:30.39.0:16:32.93.Italics.Ieiri.0000.0000.0000..Oh. right. is Itadori listening?
+Dialogue: 0.0:16:32.93.0:16:34.36.Main.Yuuji.0000.0000.0000..Oh. yeah.
+Dialogue: 0.0:16:35.57.0:16:41.02.Main.Ieiri.0000.0000.0000..To sum it up. these guys died of shock \Nfrom having their bodies modified.
+Dialogue: 0.0:16:41.55.0:16:43.25.Main.Ieiri.0000.0000.0000..You didn't kill them.
+Dialogue: 0.0:16:43.51.0:16:45.82.Italics.Ieiri.0000.0000.0000..So don't get the wrong idea about that.
+Dialogue: 0.0:16:46.56.0:16:47.41.Main.Yuuji.0000.0000.0000..Right.
+Dialogue: 0.0:16:48.23.0:16:48.73.Main.Phone.0000.0000.0000..{\fad(1.223)\an5\frx30\fry2\fs16\b1\c&HD9D6D5&\bord0\shad0\fax-.2\frz160.5\pos(285.667.205.333)}Ieiri Shouko
+Dialogue: 0.0:16:48.52.0:16:49.23.Main.Phone.0000.0000.0000..{\fad(196.1)\an5\frx30\fry2\fs16\c&H504943&\3c&HF4F5EC&\shad0\pos(293.198)\fax-.2\frz160.4}Ieiri Shouko
+Dialogue: 0.0:16:51.27.0:16:55.68.Main.Yuuji.0000.0000.0000..Either way. the deaths of these two \Nweigh on me just as heavily.
+Dialogue: 0.0:16:56.72.0:16:58.42.Main.Yuuji.0000.0000.0000..That said. this thing...
+Dialogue: 0.0:16:59.63.0:17:01.53.Main.Yuuji.0000.0000.0000..has disgusting taste.
+Dialogue: 0.0:17:03.38.0:17:07.04.Italics.Nanami.0000.0000.0000..This boy can get sincerely \Nangry on another's behalf.
+Dialogue: 0.0:17:08.21.0:17:12.41.Main.Nanami.0000.0000.0000..Those residuals were a bluff. \Nlikely meant to lure us in.
+Dialogue: 0.0:17:12.99.0:17:14.71.Main.Nanami.0000.0000.0000..Our foe is quite skilled.
+Dialogue: 0.0:17:15.16.0:17:17.74.Main.Nanami.0000.0000.0000..It looks like this will take \Nmore than moderate effort.
+Dialogue: 0.0:17:18.50.0:17:19.88.Main.Nanami.0000.0000.0000..So let's go all-out.
+Dialogue: 0.0:17:22.57.0:17:23.34.Main.Yuuji.0000.0000.0000..Yeah!
+Dialogue: 0.0:17:25.53.0:17:29.77.Main.Mahito.0000.0000.0000..{\an8}There are cursed spirits known as \Nspecial-grade potential apparitions.
+Dialogue: 0.0:17:26.56.0:17:30.52.Ep_Title.Screen.0000.0000.0000..{\fs26\fad(1500.1)}Monday. 11:00 AM
+Dialogue: 0.0:17:31.06.0:17:34.57.Main.Mahito.0000.0000.0000..Cursed spirits are a collection of the \Ncursed energy emitted by humans.
+Dialogue: 0.0:17:35.16.0:17:36.87.Main.Mahito.0000.0000.0000..Whether it actually exists or not.
+Dialogue: 0.0:17:36.87.0:17:42.64.Main.Mahito.0000.0000.0000..a shared image of fear makes it easy \Nfor a powerful curse to manifest.
+Dialogue: 0.0:17:39.62.0:17:43.31.Main.Book.0000.0000.0000..{\an5\blur4\fnTimes New Roman\b1\fs18\c&H141520&\bord2\shad0\frz10.75\move(205.184.205.228)\3c&H719EB1&}Complete Guide to\NJapanese Apparitions
+Dialogue: 0.0:17:43.31.0:17:46.02.Main.Junpei.0000.0000.0000..A shared image of fear?
+Dialogue: 0.0:17:46.82.0:17:49.56.Main.Junpei.0000.0000.0000..You mean like famous monsters \Nand ghost stories?
+Dialogue: 0.0:17:49.81.0:17:50.79.Main.Mahito.0000.0000.0000..Yup.
+Dialogue: 0.0:17:50.79.0:17:54.80.sign_25674_318_Toilet_bound_Han.BookBottom.0000.0000.0000..{\frz355\frx2\fry4\yshad-2\xshad2\move(383.192.383.392)\4c&HA2ABB5&\t(\c&H323B44&\4c&H737C83&)}Toilet-bound Hanako-san
+Dialogue: 0.0:17:50.79.0:17:54.80.sign_25674_318_Toilet_bound_Han.Bookright.0000.0000.0000..{\c&H272B3A&\frz7.528\move(586.152.586.352)\4c&H737A86&\yshad-2\xshad2}Giant Skeleton
+Dialogue: 0.0:17:50.79.0:17:54.80.sign_25674_318_Toilet_bound_Han.Book top.0000.0000.0000..{\move(140.-90.140.110)\yshad-2\xshad2\c&H3C4B52&\4c&H9BA1AB&\frz1.339}Nine-tailed Fox
+Dialogue: 0.0:17:51.05.0:17:54.48.Main.Mahito.0000.0000.0000..Like Toilet-bound Hanako-san. \Nthe nine-tailed fox. and so on.
+Dialogue: 0.0:17:55.09.0:17:58.62.Main.Mahito.0000.0000.0000..Jujutsu sorcerers have registered them \Nas special-grade potential apparitions
+Dialogue: 0.0:17:58.62.0:17:59.96.Main.Mahito.0000.0000.0000..and keep an eye out for them.
+Dialogue: 0.0:18:00.75.0:18:04.94.Main.Mahito.0000.0000.0000..The fact that they often categorize \Npowerful. unidentified curses
+Dialogue: 0.0:18:04.94.0:18:09.86.Main.Mahito.0000.0000.0000..as potential apparitions makes it feel \Nlike that's all they're focused on.
+Dialogue: 0.0:18:10.62.0:18:15.20.Main.Mahito.0000.0000.0000..But people constantly fear more \Nthan just those fairy tales. right?
+Dialogue: 0.0:18:16.39.0:18:17.79.Main.Junpei.0000.0000.0000..Like natural disasters?
+Dialogue: 0.0:18:19.76.0:18:22.71.Main.Mahito.0000.0000.0000..I love how stress-free talking to you is.
+Dialogue: 0.0:18:23.87.0:18:25.53.Main.Junpei.0000.0000.0000..No. I'm not...
+Dialogue: 0.0:18:33.52.0:18:34.80.Main.Mahito.0000.0000.0000..People...
+Dialogue: 0.0:18:36.82.0:18:41.34.Main.Mahito.0000.0000.0000..have always feared the earth. \Nthe forests. and the oceans.
+Dialogue: 0.0:18:42.51.0:18:46.56.Main.Mahito.0000.0000.0000..Because the cursed energy directed \Ntoward those is far too big.
+Dialogue: 0.0:18:47.12.0:18:52.06.Main.Mahito.0000.0000.0000..they gained wisdom before they took shape \Nand remained in hiding up until now.
+Dialogue: 0.0:18:53.39.0:18:56.02.Main.Mahito.0000.0000.0000..I'm proud to call them all friends.
+Dialogue: 0.0:18:58.38.0:19:01.96.Main.Junpei.0000.0000.0000..What kind of curse are you. Mahito-san?
+Dialogue: 0.0:19:04.63.0:19:05.60.Main.Mahito.0000.0000.0000..A human one.
+Dialogue: 0.0:19:07.13.0:19:13.78.Main.Mahito.0000.0000.0000..I'm a curse that was born from the hatred and \Nfear people hold in their gut toward others.
+Dialogue: 0.0:19:16.34.0:19:21.59.Main.Sign.0000.0000.0000..{\an6\fnTimes New Roman\fs18\b1\c&H061716&\3c&H91B4B6&\shad0\pos(610.180)}Tokyo Municipal\NShuuei High School\NDetached Office
+Dialogue: 0.0:19:17.87.0:19:20.76.Main.Nanami.0000.0000.0000..{\an8}I've organized the reports from our windows
+Dialogue: 0.0:19:18.05.0:19:21.59.Ep_Title.Screen.0000.0000.0000..{\fad(1500.1)}Monday 6:25 PM
+Dialogue: 0.0:19:20.76.0:19:23.66.Main.Nanami.0000.0000.0000..{\an8}on recent residuals. unnatural deaths. \Nand disappearances.
+Dialogue: 0.0:19:24.47.0:19:27.70.Main.Nanami.0000.0000.0000..This should help us narrow down \Nthe culprit's hideout to some extent.
+Dialogue: 0.0:19:27.70.0:19:29.63.Main.Yuuji.0000.0000.0000..Aw yeah! Are we storming in?!
+Dialogue: 0.0:19:29.63.0:19:32.12.Main.Nanami.0000.0000.0000..No. it's still only to some extent.
+Dialogue: 0.0:19:32.12.0:19:36.60.Main.Nanami.0000.0000.0000..While I continue investigating this matter. \NI'd like you to handle a different task.
+Dialogue: 0.0:19:37.77.0:19:40.88.Main.Nanami.0000.0000.0000..This is the boy who was at \Nthe theater. Yoshino Junpei.
+Dialogue: 0.0:19:41.33.0:19:44.98.Main.Nanami.0000.0000.0000..Apparently. he goes to the same \Nhigh school as the victims.
+Dialogue: 0.0:19:46.32.0:19:49.50.Main.Nanami.0000.0000.0000..Based on the surveillance footage \Nand how he carried himself.
+Dialogue: 0.0:19:49.50.0:19:53.43.Main.Nanami.0000.0000.0000..I believed it was unlikely \Nhe could be a curse user.
+Dialogue: 0.0:19:54.21.0:19:58.31.Main.Nanami.0000.0000.0000..However. if he's related to the \Nvictims. that changes things.
+Dialogue: 0.0:19:58.31.0:19:59.77.Main.Yuuji.0000.0000.0000..Curse user?
+Dialogue: 0.0:19:59.77.0:20:02.39.Main.Nanami.0000.0000.0000..An evil jujutsu sorcerer.
+Dialogue: 0.0:20:02.71.0:20:08.01.Main.Nanami.0000.0000.0000..I've entrusted the process to Ijichi-kun. so I'd \Nlike you two to investigate Yoshino Junpei.
+Dialogue: 0.0:20:08.60.0:20:09.59.Main.Yuuji.0000.0000.0000..Sure!
+Dialogue: 0.0:20:09.59.0:20:13.58.Main.Yuuji.0000.0000.0000..Speaking of which. I don't know \Nany assistants other than you.
+Dialogue: 0.0:20:13.58.0:20:19.04.Main.Ijichi.0000.0000.0000..Well. I'm the only one who knows \Nyou're still alive. so by necessity...
+Dialogue: 0.0:20:19.73.0:20:21.04.Main.Yuuji.0000.0000.0000..Makes sense.
+Dialogue: 0.0:20:21.37.0:20:23.23.Main.Yuuji.0000.0000.0000..Let's go!
+Dialogue: 0.0:20:28.40.0:20:32.91.Main.Ijichi.0000.0000.0000..You already know the location of the culprit. \Ndon't you? And not just "to some extent."
+Dialogue: 0.0:20:33.75.0:20:34.72.Main.Nanami.0000.0000.0000..Of course.
+Dialogue: 0.0:20:34.73.0:20:39.45.Main.Nanami.0000.0000.0000..If the culprit had wanted. he could have \Nleft the scene without leaving any residuals.
+Dialogue: 0.0:20:40.16.0:20:42.84.Main.Nanami.0000.0000.0000..We're being lured in once again.
+Dialogue: 0.0:20:44.39.0:20:48.24.Main.Nanami.0000.0000.0000..Weighing the risk of storming in alone \Nagainst the risk of taking Itadori-kun with me.
+Dialogue: 0.0:20:48.24.0:20:50.30.Main.Nanami.0000.0000.0000..I simply chose the former.
+Dialogue: 0.0:20:50.70.0:20:52.82.Main.Nanami.0000.0000.0000..He's still a child. after all.
+Dialogue: 0.0:20:53.84.0:20:55.74.Main.Yuuji.0000.0000.0000..Nanami-sensei!
+Dialogue: 0.0:20:56.29.0:20:57.58.Main.Ijichi.0000.0000.0000..Itadori-kun?
+Dialogue: 0.0:20:57.58.0:20:58.82.Main.Yuuji.0000.0000.0000..I forgot to say something.
+Dialogue: 0.0:20:59.44.0:21:00.86.Main.Yuuji.0000.0000.0000..Be careful. okay?
+Dialogue: 0.0:21:02.64.0:21:03.83.Main.Nanami.0000.0000.0000..Itadori-kun...
+Dialogue: 0.0:21:04.58.0:21:07.68.Main.Nanami.0000.0000.0000..I'm not a teacher. so please \Ndon't call me "Sensei."
+Dialogue: 0.0:21:07.68.0:21:08.48.Main.Yuuji.0000.0000.0000..Nanamin. then!
+Dialogue: 0.0:21:08.48.0:21:09.65.Main.Nanami.0000.0000.0000..I will slap you.
+Dialogue: 0.0:21:14.13.0:21:15.37.Main.Ijichi.0000.0000.0000..There he is.
+Dialogue: 0.0:21:15.83.0:21:17.52.Main.Yuuji.0000.0000.0000..Huh? Casual clothes?
+Dialogue: 0.0:21:17.52.0:21:20.96.Main.Ijichi.0000.0000.0000..It looks like he hasn't \Nattended school for some time.
+Dialogue: 0.0:21:22.09.0:21:24.09.Main.Sign.0000.0000.0000..{\an8\fs16\b1\pos(448.26)\fay.07\frx2\fry8\c&HCA897A&\3c&HD1C4BF&\shad0}For Pedestrians\Nand Bicycles Only
+Dialogue: 0.0:21:25.28.0:21:27.71.Main.Ijichi.0000.0000.0000..We'll get out of the car here.
+Dialogue: 0.0:21:29.56.0:21:30.51.Main.Ijichi.0000.0000.0000..Let's go.
+Dialogue: 0.0:23:15.03.0:23:17.58.sign_32727_342_Juju_Stroll.Screen&Two.0000.0000.0000..Juju Stroll
+Dialogue: 0.0:23:18.01.0:23:20.10.Main.Gojou.0000.0000.0000..Nanami! Let's go out together!
+Dialogue: 0.0:23:20.10.0:23:21.55.Main.Nanami.0000.0000.0000..No. thank you.
+Dialogue: 0.0:23:22.05.0:23:24.94.Main.Gojou.0000.0000.0000..No. s-seriously. I have something \Nimportant to talk to you about.
+Dialogue: 0.0:23:24.94.0:23:26.03.Main.Nanami.0000.0000.0000..Oh. how awful.
+Dialogue: 0.0:23:26.03.0:23:27.35.Main.Gojou.0000.0000.0000..I haven't said anything yet!
+Dialogue: 0.0:23:29.34.0:23:30.26.Main.Sign.0000.0000.0000..{\fad(1.435)\an8\fnArial\b1\c&H6B5C90&\3c&H999DA3&\shad0\pos(526.15)}Satoru{\fs12}♥
+Dialogue: 0.0:23:31.80.0:23:32.30.Main.Sign.0000.0000.0000..{\fad(485.1)\an8\fnArial\b1\c&H6B5C90&\3c&H999DA3&\shad0\pos(197.15)}Satoru{\fs12}♥
+Dialogue: 0.0:23:38.60.0:23:40.10.Main.Envelope.0000.0000.0000..{\fad(526.1)\fs12\bord0\shad0\c&H9E9E9B&\frz343.8\pos(399.102)\frx10\fry354}To Nanami
+Dialogue: 0.0:23:40.35.0:23:41.60.Main.Letter.0000.0000.0000..{\fs26\bord0\shad0\c&H9E9E9B&\frz343.8\frx10\fry354\b1\pos(269.233.333)}Penis
+Dialogue: 0.0:23:41.60.0:23:42.10.Main.Letter.0000.0000.0000..{\fs38\bord0\shad0\c&H888272&\frx10\fry354\b1\pos(227.311)\frz339.1}Penis
+Dialogue: 0.0:23:51.57.0:23:55.03.Next_Ep_Title.Screen.0000.0000.0000..{\fad(1152.1)}Episode 10:\NIdle Transfiguration
